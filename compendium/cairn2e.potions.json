@@ -1,0 +1,77 @@
+{
+ "label": "Tränke",
+ "entries": {
+  "Aspect of Nature": {
+   "name": "Aspekt der Natur",
+   "description": "<p>Mit einem Teil eines Tieres gebraut — einer Feder, einem Zahn, einem Streifen Fell. Bis der Wächter sagt, dass es verfliegt, hast du eine Gabe dieses Tieres: Adleraugen, Hundenase, Katzengleichgewicht, Maulwurfssinn für die Erde. Was dieses Tier am besten kann, gelingt ohne Rettungswurf.</p>"
+  },
+  "Astral Sight": {
+   "name": "Astralsicht",
+   "description": "<p>Bis der Wächter sagt, dass es verfliegt, siehst du, was dem Leben innerhalb von 4,5 m (15 ft) verborgen ist: Geister, Phantome, Unsichtbares, wirkende Magie. Was du siehst, sieht dich ebenfalls — und weiß, dass du es kannst.</p>"
+  },
+  "Bane Oil": {
+   "name": "Bannöl",
+   "description": "<p>Mit dem Knochen einer Art von Kreatur gebraut — Wolf, Ghul, Troll. Bestreiche eine Waffe damit: Bis der Wächter sagt, dass es verfliegt, sind ihre Angriffe gegen diese Art <em>verstärkt</em>. Kreaturen dieser Art riechen es aus der Ferne.</p>"
+  },
+  "Borrowed Vigor": {
+   "name": "Geliehene Kraft",
+   "description": "<p>Entferne eine Erschöpfung aus deinem Inventar. Wenn der Wächter sagt, dass die Kraft aufgebraucht ist, füge zwei hinzu.</p>"
+  },
+  "Discerning Fire": {
+   "name": "Wählerisches Feuer",
+   "description": "<p>Zerbrich die Phiole und benenne eine Sache, die brennt: Holz, Seil, Stoff, Papier, Leder, Haar oder Knochen. Eine blasse, rauchlose Flamme breitet sich durch alles dieser Art innerhalb von 3 m (10 ft) aus und verzehrt es, lässt alles andere unberührt. Fleisch zu verbrennen verbietet sie sich, und sie erlischt, wenn nichts ihrer Art mehr da ist.</p>"
+  },
+  "Dragon's Roar": {
+   "name": "Drachenbrüllen",
+   "description": "<p>Trink es und halte den Mund. Wenn du ihn das nächste Mal aufmachst, brüllst du wie ein Drache. Jeder Gegner, der es hört, würfelt Moral: WIL oder Flucht. Danach ist deine Stimme ein aschtrocknes Flüstern, bis der Wächter sagt, dass sie zurückkehrt.</p>"
+  },
+  "Heartstopper": {
+   "name": "Herzstillstand",
+   "description": "<p>Bis der Wächter sagt, dass es verfliegt, schlägt dein Herz zu schwach, um es zu finden: kein Puls, kein Atem, der einen Spiegel beschlägt, kühle Haut. Wer dich untersucht, hält dich für tot.</p>"
+  },
+  "Honeytongue": {
+   "name": "Honigzunge",
+   "description": "<p>Bis der Wächter sagt, dass es verfliegt, würfle, wann immer der Wächter die Reaktion eines NSC auf dich würfelt, zweimal und behalte das Ergebnis, das dir lieber ist. Bienen, Hunde und kleine Vögel folgen dir und lassen sich nicht fortschicken.</p>"
+  },
+  "Ironheart Tonic": {
+   "name": "Eisenherz-Tonikum",
+   "description": "<p>Trink es in <em>Panik</em>, und die Panik bricht sofort ab, ohne Rettungswurf. Bis der Wächter sagt, dass es verfliegt, kannst du nicht in <em>Panik</em> geraten. Wenn es verfliegt, kommt die zurückgehaltene Angst auf einmal: Du bist <em>erschöpft</em>, bis du rastest.</p>"
+  },
+  "Last Stand Cordial": {
+   "name": "Letztes Gefecht",
+   "description": "<p>Trink es — oder lass es dir eingießen —, nachdem du kritischen Schaden erlitten hast. Du stehst auf und handelst, als wärst du unversehrt, bis der Wächter sagt, dass es verfliegt. Dann fällst du wieder, und bist du nicht stabilisiert, stirbst du wie üblich innerhalb der Stunde.</p>"
+  },
+  "Lethe Water": {
+   "name": "Lethe-Wasser",
+   "description": "<p>Jemandem in ein Getränk gemischt, lässt es die Trinkerin die Stunde davor vergessen. Die Lücke fällt ihr nicht auf.</p>"
+  },
+  "Liquid Luck": {
+   "name": "Flüssiges Glück",
+   "description": "<p>Einmal, bevor der Wächter sagt, dass das Glück aufgebraucht ist, darfst du einen Rettungswurf wiederholen, den du gerade gewürfelt hast. Das neue Ergebnis gilt.</p>"
+  },
+  "New Potential": {
+   "name": "Neues Potenzial",
+   "description": "<p>Tausche die Werte zweier Attribute, Höchstwert und aktueller Wert zusammen. Die Änderung ist dauerhaft. Körper und Geist wehren sich: Würfle einen WIL-Rettungswurf mit deinem neuen WIL. Bei einem Fehlschlag bist du <em>erschöpft</em>, bis du ein paar Stunden rastest.</p>"
+  },
+  "Owl-Eye Drops": {
+   "name": "Eulenaugen-Tropfen",
+   "description": "<p>Zwei Tropfen in jedes Auge. Bis der Wächter sagt, dass es verfliegt, siehst du in der Dunkelheit wie in der Dämmerung, und Dunkelheit allein kann dich nicht in <em>Panik</em> versetzen. Helles Licht — eine nahe Fackel, offene Sonne — blendet dich: Deine Angriffe sind <em>beeinträchtigt</em>.</p>"
+  },
+  "Phoenix Draught": {
+   "name": "Phönix-Trank",
+   "description": "<p>Trink es und brenne von innen, ohne eine Spur. Jedes verlorene Attribut kehrt sofort auf seinen Höchstwert zurück: die Woche Rast, die eine Heilerin verlangen würde, in einer einzigen fiebrigen Stunde. Bis du danach eine ganze Nacht geschlafen hast, bist du <em>erschöpft</em>.</p>"
+  },
+  "Stoneform": {
+   "name": "Steingestalt",
+   "description": "<p>Du wirst zu einem schlichten grauen Stein von etwa 0,9 m (3 ft). Du kannst hören und fühlen, aber dich nicht bewegen oder sprechen, und Schaden am Stein trifft dich. Der Wächter sagt, wann du in deine Gestalt zurückkehrst. Früher darfst du es mit einem WIL-Rettungswurf versuchen; bei einem Fehlschlag bleibst du, wie du bist.</p>"
+  },
+  "Water Deflector": {
+   "name": "Wasserwender",
+   "description": "<p>Trink es oder gieß es über einen Gegenstand. Bis der Wächter sagt, dass es verfliegt, will Wasser ihn nicht berühren: Regen weicht aus, Flüsse biegen ab, Matsch gleitet ab. Wer es trinkt, kann nicht schwimmen — er sinkt und kann so lange trocken am Grund gehen, wie der Atem reicht.</p>"
+  }
+ },
+ "folders": {
+  "Common (50gp)": "Gewöhnlich (50 GM)",
+  "Greater (100gp)": "Groß (100 GM)"
+ }
+}

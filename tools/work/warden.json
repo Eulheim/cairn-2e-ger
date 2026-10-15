@@ -1,0 +1,3628 @@
+{
+  "Dungeon Event": {
+    "name": "Dungeon Event",
+    "description": "<p>The Warden rolls on this table when the party spends more than one dungeon cycle in a single room or location, moves quickly or haphazardly through a room, moves into a new area, level, or zone, or creates a loud disturbance.</p>",
+    "results": {
+      "1-1": {
+        "name": "Encounter",
+        "description": "<p>Roll on an encounter table. Possibly <strong>hostile</strong>. (See Reactions.)</p>"
+      },
+      "2-2": {
+        "name": "Sign",
+        "description": "<p>A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.</p>"
+      },
+      "3-3": {
+        "name": "Environment",
+        "description": "<p>Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.</p>"
+      },
+      "4-4": {
+        "name": "Loss",
+        "description": "<p>Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on.</p>"
+      },
+      "5-5": {
+        "name": "Exhaustion",
+        "description": "<p>The party must rest (triggering another roll on this table), add a <strong>Fatigue</strong>, or consume a ration.</p>"
+      },
+      "6-6": {
+        "name": "Quiet",
+        "description": "<p>The party is left alone (and safe) for the time being.</p>"
+      }
+    }
+  },
+  "Faction Advantage Count": {
+    "name": "Faction Advantage Count",
+    "description": "<p>Roll the number of Advantages a faction has, then roll Faction Advantage that many times (reroll repeats).</p>",
+    "results": {
+      "1-1": {
+        "description": "1"
+      },
+      "2-2": {
+        "description": "1"
+      },
+      "3-3": {
+        "description": "1"
+      },
+      "4-4": {
+        "description": "1"
+      },
+      "5-5": {
+        "description": "1"
+      },
+      "6-6": {
+        "description": "1"
+      },
+      "7-7": {
+        "description": "1"
+      },
+      "8-8": {
+        "description": "2"
+      },
+      "9-9": {
+        "description": "2"
+      },
+      "10-10": {
+        "description": "2"
+      },
+      "11-11": {
+        "description": "2"
+      },
+      "12-12": {
+        "description": "2"
+      },
+      "13-13": {
+        "description": "3"
+      },
+      "14-14": {
+        "description": "3"
+      },
+      "15-15": {
+        "description": "3"
+      },
+      "16-16": {
+        "description": "3"
+      },
+      "17-17": {
+        "description": "3"
+      },
+      "18-18": {
+        "description": "4"
+      },
+      "19-19": {
+        "description": "4"
+      },
+      "20-20": {
+        "description": "4"
+      }
+    }
+  },
+  "Faction Advantage": {
+    "name": "Faction Advantage",
+    "description": "<p>Roll the Advantage column of the Faction Advantages table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Alliances"
+      },
+      "2-2": {
+        "description": "Anonymity"
+      },
+      "3-3": {
+        "description": "Apparatus"
+      },
+      "4-4": {
+        "description": "Beliefs"
+      },
+      "5-5": {
+        "description": "Charisma"
+      },
+      "6-6": {
+        "description": "Conviction"
+      },
+      "7-7": {
+        "description": "Fealty"
+      },
+      "8-8": {
+        "description": "Force"
+      },
+      "9-9": {
+        "description": "Information"
+      },
+      "10-10": {
+        "description": "Lineage"
+      },
+      "11-11": {
+        "description": "Magic"
+      },
+      "12-12": {
+        "description": "Members"
+      },
+      "13-13": {
+        "description": "Popularity"
+      },
+      "14-14": {
+        "description": "Position"
+      },
+      "15-15": {
+        "description": "Renown"
+      },
+      "16-16": {
+        "description": "Resources"
+      },
+      "17-17": {
+        "description": "Ruthlessness"
+      },
+      "18-18": {
+        "description": "Specialization"
+      },
+      "19-19": {
+        "description": "Subterfuge"
+      },
+      "20-20": {
+        "description": "Wealth"
+      }
+    }
+  },
+  "Faction Agenda": {
+    "name": "Faction Agenda",
+    "description": "<p>Roll the Agenda column of the Faction Agendas table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Ascend to a Higher Plane"
+      },
+      "2-2": {
+        "description": "Collect Artifacts"
+      },
+      "3-3": {
+        "description": "Cultivate a Rare Resource"
+      },
+      "4-4": {
+        "description": "Defend Something"
+      },
+      "5-5": {
+        "description": "Destroy Something"
+      },
+      "6-6": {
+        "description": "Dominate Others"
+      },
+      "7-7": {
+        "description": "Enrich Themselves"
+      },
+      "8-8": {
+        "description": "Establish a Colony"
+      },
+      "9-9": {
+        "description": "Establish a New Order"
+      },
+      "10-10": {
+        "description": "Explore Uncharted Lands"
+      },
+      "11-11": {
+        "description": "Forge an Alliance"
+      },
+      "12-12": {
+        "description": "Infiltrate Another Faction"
+      },
+      "13-13": {
+        "description": "Preserve the Status Quo"
+      },
+      "14-14": {
+        "description": "Protect a Secret"
+      },
+      "15-15": {
+        "description": "Purge the Land"
+      },
+      "16-16": {
+        "description": "Reveal a Secret"
+      },
+      "17-17": {
+        "description": "Revenge"
+      },
+      "18-18": {
+        "description": "Revive a Former Power"
+      },
+      "19-19": {
+        "description": "Seek New Leadership"
+      },
+      "20-20": {
+        "description": "Spread a Belief"
+      }
+    }
+  },
+  "Faction Agent": {
+    "name": "Faction Agent",
+    "description": "<p>Roll the Agent column of the Faction Types table — a faction's representative.</p>",
+    "results": {
+      "1-1": {
+        "description": "Academic"
+      },
+      "2-2": {
+        "description": "Assassin"
+      },
+      "3-3": {
+        "description": "Blacksmith"
+      },
+      "4-4": {
+        "description": "Farmer"
+      },
+      "5-5": {
+        "description": "General"
+      },
+      "6-6": {
+        "description": "Gravedigger"
+      },
+      "7-7": {
+        "description": "Guard"
+      },
+      "8-8": {
+        "description": "Healer"
+      },
+      "9-9": {
+        "description": "Jailer"
+      },
+      "10-10": {
+        "description": "Laborer"
+      },
+      "11-11": {
+        "description": "Lord"
+      },
+      "12-12": {
+        "description": "Merchant"
+      },
+      "13-13": {
+        "description": "Monk"
+      },
+      "14-14": {
+        "description": "Mystic"
+      },
+      "15-15": {
+        "description": "Outlander"
+      },
+      "16-16": {
+        "description": "Peddler"
+      },
+      "17-17": {
+        "description": "Politician"
+      },
+      "18-18": {
+        "description": "Spy"
+      },
+      "19-19": {
+        "description": "Thief"
+      },
+      "20-20": {
+        "description": "Thug"
+      }
+    }
+  },
+  "Faction Name Formula": {
+    "name": "Faction Name Formula",
+    "description": "<p>Roll the Faction Names Formula table of the Naming Procedures; [Group] is a roll on Group Type.</p>",
+    "results": {
+      "1-1": {
+        "description": "(The) [Noun] [Group]"
+      },
+      "2-2": {
+        "description": "(The) [Adjective] [Group]"
+      },
+      "3-3": {
+        "description": "[Group] of (the) [Noun]"
+      },
+      "4-4": {
+        "description": "[Adjective] [Group] of (the) [Noun]"
+      },
+      "5-5": {
+        "description": "(The) [Noun] [Adjective] [Group]"
+      },
+      "6-6": {
+        "description": "[Group] of (the) [Adjective] [Noun]"
+      }
+    }
+  },
+  "Faction Obstacle": {
+    "name": "Faction Obstacle",
+    "description": "<p>Roll the Obstacle column of the Faction Agendas table.</p>",
+    "results": {
+      "1-1": {
+        "description": "A geographic barrier or impassable terrain."
+      },
+      "2-2": {
+        "description": "A key piece of information must first be discovered."
+      },
+      "3-3": {
+        "description": "A particular object or Relic is required."
+      },
+      "4-4": {
+        "description": "A powerful figure or foe must be eliminated."
+      },
+      "5-5": {
+        "description": "A rare but necessary resource must first be acquired."
+      },
+      "6-6": {
+        "description": "A serious debt forces the faction to make dire choices."
+      },
+      "7-7": {
+        "description": "A well-known prophecy predicts imminent failure."
+      },
+      "8-8": {
+        "description": "An alliance with an enemy must first be brokered."
+      },
+      "9-9": {
+        "description": "An internal schism threatens to tear the faction apart."
+      },
+      "10-10": {
+        "description": "Another faction has the same goal."
+      },
+      "11-11": {
+        "description": "Another faction stands in opposition."
+      },
+      "12-12": {
+        "description": "Commoners stand openly in opposition."
+      },
+      "13-13": {
+        "description": "Considerable capital is required."
+      },
+      "14-14": {
+        "description": "Contravenes an established code, with a heavy penalty."
+      },
+      "15-15": {
+        "description": "Hindered by cultural taboos."
+      },
+      "16-16": {
+        "description": "Many must die, either as a necessity or consequence."
+      },
+      "17-17": {
+        "description": "Must be carried out at a rare or exact moment."
+      },
+      "18-18": {
+        "description": "Must be carried out in absolute secrecy."
+      },
+      "19-19": {
+        "description": "Requires a specialist of an uncommon sort."
+      },
+      "20-20": {
+        "description": "The outcome would lead to unavoidable war."
+      }
+    }
+  },
+  "Faction Trait 1": {
+    "name": "Faction Trait 1",
+    "description": "<p>Roll the Trait 1 column of the Faction Traits table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Cautious"
+      },
+      "2-2": {
+        "description": "Connected"
+      },
+      "3-3": {
+        "description": "Decadent"
+      },
+      "4-4": {
+        "description": "Disciplined"
+      },
+      "5-5": {
+        "description": "Discreet"
+      },
+      "6-6": {
+        "description": "Dogmatic"
+      },
+      "7-7": {
+        "description": "Enigmatic"
+      },
+      "8-8": {
+        "description": "Fierce"
+      },
+      "9-9": {
+        "description": "Incorruptible"
+      },
+      "10-10": {
+        "description": "Intellectual"
+      },
+      "11-11": {
+        "description": "Judicious"
+      },
+      "12-12": {
+        "description": "Keen"
+      },
+      "13-13": {
+        "description": "Loyal"
+      },
+      "14-14": {
+        "description": "Meticulous"
+      },
+      "15-15": {
+        "description": "Popular"
+      },
+      "16-16": {
+        "description": "Pragmatic"
+      },
+      "17-17": {
+        "description": "Resourceful"
+      },
+      "18-18": {
+        "description": "Secretive"
+      },
+      "19-19": {
+        "description": "Shrewd"
+      },
+      "20-20": {
+        "description": "Tenacious"
+      }
+    }
+  },
+  "Faction Trait 2": {
+    "name": "Faction Trait 2",
+    "description": "<p>Roll the Trait 2 column of the Faction Traits table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Adaptable"
+      },
+      "2-2": {
+        "description": "Bankrupt"
+      },
+      "3-3": {
+        "description": "Brutal"
+      },
+      "4-4": {
+        "description": "Collaborative"
+      },
+      "5-5": {
+        "description": "Corrupt"
+      },
+      "6-6": {
+        "description": "Craven"
+      },
+      "7-7": {
+        "description": "Cruel"
+      },
+      "8-8": {
+        "description": "Cunning"
+      },
+      "9-9": {
+        "description": "Cynical"
+      },
+      "10-10": {
+        "description": "Deceptive"
+      },
+      "11-11": {
+        "description": "Generous"
+      },
+      "12-12": {
+        "description": "Incompetent"
+      },
+      "13-13": {
+        "description": "Manipulative"
+      },
+      "14-14": {
+        "description": "Mercurial"
+      },
+      "15-15": {
+        "description": "Repressed"
+      },
+      "16-16": {
+        "description": "Ruthless"
+      },
+      "17-17": {
+        "description": "Selfish"
+      },
+      "18-18": {
+        "description": "Stealthy"
+      },
+      "19-19": {
+        "description": "Threatened"
+      },
+      "20-20": {
+        "description": "Xenophobic"
+      }
+    }
+  },
+  "Faction Type": {
+    "name": "Faction Type",
+    "description": "<p>Roll the Type column of the Faction Types table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Artisans"
+      },
+      "2-2": {
+        "description": "Commoners"
+      },
+      "3-3": {
+        "description": "Criminals"
+      },
+      "4-4": {
+        "description": "Cultists"
+      },
+      "5-5": {
+        "description": "Exiles"
+      },
+      "6-6": {
+        "description": "Explorers"
+      },
+      "7-7": {
+        "description": "Industrialists"
+      },
+      "8-8": {
+        "description": "Merchants"
+      },
+      "9-9": {
+        "description": "Military"
+      },
+      "10-10": {
+        "description": "Nobles"
+      },
+      "11-11": {
+        "description": "Nomads"
+      },
+      "12-12": {
+        "description": "Pilgrims"
+      },
+      "13-13": {
+        "description": "Protectors"
+      },
+      "14-14": {
+        "description": "Religious"
+      },
+      "15-15": {
+        "description": "Revolutionaries"
+      },
+      "16-16": {
+        "description": "Rulers"
+      },
+      "17-17": {
+        "description": "Scholars"
+      },
+      "18-18": {
+        "description": "Settlers"
+      },
+      "19-19": {
+        "description": "Spies"
+      },
+      "20-20": {
+        "description": "Tribe"
+      }
+    }
+  },
+  "Forest Adjective": {
+    "name": "Forest Adjective",
+    "description": "<p>Roll the Adjectives column of the Forest Names table of the Naming Procedures.</p>",
+    "results": {
+      "1-1": {
+        "description": "Abandoned"
+      },
+      "2-2": {
+        "description": "Ancient"
+      },
+      "3-3": {
+        "description": "Beckoning"
+      },
+      "4-4": {
+        "description": "Blooming"
+      },
+      "5-5": {
+        "description": "Bountiful"
+      },
+      "6-6": {
+        "description": "Celestial"
+      },
+      "7-7": {
+        "description": "Charmed"
+      },
+      "8-8": {
+        "description": "Crystal"
+      },
+      "9-9": {
+        "description": "Dappled"
+      },
+      "10-10": {
+        "description": "Dense"
+      },
+      "11-11": {
+        "description": "Desolate"
+      },
+      "12-12": {
+        "description": "Distant"
+      },
+      "13-13": {
+        "description": "Echoing"
+      },
+      "14-14": {
+        "description": "Eerie"
+      },
+      "15-15": {
+        "description": "Emerald"
+      },
+      "16-16": {
+        "description": "Enchanted"
+      },
+      "17-17": {
+        "description": "Enigmatic"
+      },
+      "18-18": {
+        "description": "Ephemeral"
+      },
+      "19-19": {
+        "description": "Eternal"
+      },
+      "20-20": {
+        "description": "Ethereal"
+      },
+      "21-21": {
+        "description": "Exotic"
+      },
+      "22-22": {
+        "description": "Fabled"
+      },
+      "23-23": {
+        "description": "Flourishing"
+      },
+      "24-24": {
+        "description": "Forgotten"
+      },
+      "25-25": {
+        "description": "Forsaken"
+      },
+      "26-26": {
+        "description": "Fragrant"
+      },
+      "27-27": {
+        "description": "Frosty"
+      },
+      "28-28": {
+        "description": "Gentle"
+      },
+      "29-29": {
+        "description": "Glistening"
+      },
+      "30-30": {
+        "description": "Gloomy"
+      },
+      "31-31": {
+        "description": "Gnarled"
+      },
+      "32-32": {
+        "description": "Golden"
+      },
+      "33-33": {
+        "description": "Grassy"
+      },
+      "34-34": {
+        "description": "Harmonious"
+      },
+      "35-35": {
+        "description": "Haunted"
+      },
+      "36-36": {
+        "description": "Hidden"
+      },
+      "37-37": {
+        "description": "Hushed"
+      },
+      "38-38": {
+        "description": "Illuminated"
+      },
+      "39-39": {
+        "description": "Jagged"
+      },
+      "40-40": {
+        "description": "Lavish"
+      },
+      "41-41": {
+        "description": "Leafy"
+      },
+      "42-42": {
+        "description": "Lonely"
+      },
+      "43-43": {
+        "description": "Looming"
+      },
+      "44-44": {
+        "description": "Lost"
+      },
+      "45-45": {
+        "description": "Luminescent"
+      },
+      "46-46": {
+        "description": "Luminous"
+      },
+      "47-47": {
+        "description": "Lush"
+      },
+      "48-48": {
+        "description": "Majestic"
+      },
+      "49-49": {
+        "description": "Melancholy"
+      },
+      "50-50": {
+        "description": "Menacing"
+      },
+      "51-51": {
+        "description": "Misty"
+      },
+      "52-52": {
+        "description": "Moonlit"
+      },
+      "53-53": {
+        "description": "Mossy"
+      },
+      "54-54": {
+        "description": "Murmuring"
+      },
+      "55-55": {
+        "description": "Mysterious"
+      },
+      "56-56": {
+        "description": "Mystic"
+      },
+      "57-57": {
+        "description": "Opulent"
+      },
+      "58-58": {
+        "description": "Overgrown"
+      },
+      "59-59": {
+        "description": "Precarious"
+      },
+      "60-60": {
+        "description": "Primeval"
+      },
+      "61-61": {
+        "description": "Pristine"
+      },
+      "62-62": {
+        "description": "Quaint"
+      },
+      "63-63": {
+        "description": "Radiant"
+      },
+      "64-64": {
+        "description": "Roaring"
+      },
+      "65-65": {
+        "description": "Rugged"
+      },
+      "66-66": {
+        "description": "Rustling"
+      },
+      "67-67": {
+        "description": "Sacred"
+      },
+      "68-68": {
+        "description": "Secluded"
+      },
+      "69-69": {
+        "description": "Serene"
+      },
+      "70-70": {
+        "description": "Serpentine"
+      },
+      "71-71": {
+        "description": "Shadowy"
+      },
+      "72-72": {
+        "description": "Shimmering"
+      },
+      "73-73": {
+        "description": "Shrouded"
+      },
+      "74-74": {
+        "description": "Silent"
+      },
+      "75-75": {
+        "description": "Smoky"
+      },
+      "76-76": {
+        "description": "Somber"
+      },
+      "77-77": {
+        "description": "Spectral"
+      },
+      "78-78": {
+        "description": "Splendid"
+      },
+      "79-79": {
+        "description": "Stark"
+      },
+      "80-80": {
+        "description": "Sturdy"
+      },
+      "81-81": {
+        "description": "Sunlit"
+      },
+      "82-82": {
+        "description": "Sunny"
+      },
+      "83-83": {
+        "description": "Swirling"
+      },
+      "84-84": {
+        "description": "Tangled"
+      },
+      "85-85": {
+        "description": "Timeless"
+      },
+      "86-86": {
+        "description": "Towering"
+      },
+      "87-87": {
+        "description": "Tranquil"
+      },
+      "88-88": {
+        "description": "Trickling"
+      },
+      "89-89": {
+        "description": "Twilight"
+      },
+      "90-90": {
+        "description": "Twisted"
+      },
+      "91-91": {
+        "description": "Unseen"
+      },
+      "92-92": {
+        "description": "Unyielding"
+      },
+      "93-93": {
+        "description": "Veiled"
+      },
+      "94-94": {
+        "description": "Verdant"
+      },
+      "95-95": {
+        "description": "Vibrant"
+      },
+      "96-96": {
+        "description": "Weathered"
+      },
+      "97-97": {
+        "description": "Weeping"
+      },
+      "98-98": {
+        "description": "Whispering"
+      },
+      "99-99": {
+        "description": "Wild"
+      },
+      "100-100": {
+        "description": "Winding"
+      }
+    }
+  },
+  "Forest Noun": {
+    "name": "Forest Noun",
+    "description": "<p>Roll the Nouns column of the Forest Names table of the Naming Procedures.</p>",
+    "results": {
+      "1-1": {
+        "description": "Arbors"
+      },
+      "2-2": {
+        "description": "Arch"
+      },
+      "3-3": {
+        "description": "Blossoms"
+      },
+      "4-4": {
+        "description": "Bogs"
+      },
+      "5-5": {
+        "description": "Boughs"
+      },
+      "6-6": {
+        "description": "Brake"
+      },
+      "7-7": {
+        "description": "Brambles"
+      },
+      "8-8": {
+        "description": "Branches"
+      },
+      "9-9": {
+        "description": "Briar"
+      },
+      "10-10": {
+        "description": "Bridge"
+      },
+      "11-11": {
+        "description": "Brook"
+      },
+      "12-12": {
+        "description": "Brush"
+      },
+      "13-13": {
+        "description": "Camp"
+      },
+      "14-14": {
+        "description": "Canopy"
+      },
+      "15-15": {
+        "description": "Cascade"
+      },
+      "16-16": {
+        "description": "Cave"
+      },
+      "17-17": {
+        "description": "Cavern"
+      },
+      "18-18": {
+        "description": "Chase"
+      },
+      "19-19": {
+        "description": "Clearing"
+      },
+      "20-20": {
+        "description": "Clump"
+      },
+      "21-21": {
+        "description": "Coppice"
+      },
+      "22-22": {
+        "description": "Copse"
+      },
+      "23-23": {
+        "description": "Crags"
+      },
+      "24-24": {
+        "description": "Creek"
+      },
+      "25-25": {
+        "description": "Dale"
+      },
+      "26-26": {
+        "description": "Dell"
+      },
+      "27-27": {
+        "description": "Dew"
+      },
+      "28-28": {
+        "description": "Fell"
+      },
+      "29-29": {
+        "description": "Fen"
+      },
+      "30-30": {
+        "description": "Ferns"
+      },
+      "31-31": {
+        "description": "Foliage"
+      },
+      "32-32": {
+        "description": "Forest"
+      },
+      "33-33": {
+        "description": "Fungi"
+      },
+      "34-34": {
+        "description": "Gill"
+      },
+      "35-35": {
+        "description": "Glade"
+      },
+      "36-36": {
+        "description": "Glen"
+      },
+      "37-37": {
+        "description": "Gorge"
+      },
+      "38-38": {
+        "description": "Granite"
+      },
+      "39-39": {
+        "description": "Green"
+      },
+      "40-40": {
+        "description": "Grotto"
+      },
+      "41-41": {
+        "description": "Grove"
+      },
+      "42-42": {
+        "description": "Growth"
+      },
+      "43-43": {
+        "description": "Heath"
+      },
+      "44-44": {
+        "description": "Henge"
+      },
+      "45-45": {
+        "description": "Hollow"
+      },
+      "46-46": {
+        "description": "Horizon"
+      },
+      "47-47": {
+        "description": "Knar"
+      },
+      "48-48": {
+        "description": "Knoll"
+      },
+      "49-49": {
+        "description": "Leaves"
+      },
+      "50-50": {
+        "description": "Light"
+      },
+      "51-51": {
+        "description": "Loam"
+      },
+      "52-52": {
+        "description": "Loom"
+      },
+      "53-53": {
+        "description": "Marsh"
+      },
+      "54-54": {
+        "description": "Meadow"
+      },
+      "55-55": {
+        "description": "Mire"
+      },
+      "56-56": {
+        "description": "Morass"
+      },
+      "57-57": {
+        "description": "Oak"
+      },
+      "58-58": {
+        "description": "Oasis"
+      },
+      "59-59": {
+        "description": "Orchard"
+      },
+      "60-60": {
+        "description": "Pass"
+      },
+      "61-61": {
+        "description": "Passages"
+      },
+      "62-62": {
+        "description": "Path"
+      },
+      "63-63": {
+        "description": "Pathway"
+      },
+      "64-64": {
+        "description": "Pine"
+      },
+      "65-65": {
+        "description": "Roots"
+      },
+      "66-66": {
+        "description": "Sanctuary"
+      },
+      "67-67": {
+        "description": "Shade"
+      },
+      "68-68": {
+        "description": "Shadows"
+      },
+      "69-69": {
+        "description": "Shelter"
+      },
+      "70-70": {
+        "description": "Shrub"
+      },
+      "71-71": {
+        "description": "Slope"
+      },
+      "72-72": {
+        "description": "Spring"
+      },
+      "73-73": {
+        "description": "Stirs"
+      },
+      "74-74": {
+        "description": "Stones"
+      },
+      "75-75": {
+        "description": "Stream"
+      },
+      "76-76": {
+        "description": "Stump"
+      },
+      "77-77": {
+        "description": "Swale"
+      },
+      "78-78": {
+        "description": "Sward"
+      },
+      "79-79": {
+        "description": "Sway"
+      },
+      "80-80": {
+        "description": "Tangle"
+      },
+      "81-81": {
+        "description": "Thicket"
+      },
+      "82-82": {
+        "description": "Thistles"
+      },
+      "83-83": {
+        "description": "Timber"
+      },
+      "84-84": {
+        "description": "Timberland"
+      },
+      "85-85": {
+        "description": "Tower"
+      },
+      "86-86": {
+        "description": "Trails"
+      },
+      "87-87": {
+        "description": "Trees"
+      },
+      "88-88": {
+        "description": "Trunks"
+      },
+      "89-89": {
+        "description": "Underbrush"
+      },
+      "90-90": {
+        "description": "Undergrowth"
+      },
+      "91-91": {
+        "description": "Understory"
+      },
+      "92-92": {
+        "description": "Vines"
+      },
+      "93-93": {
+        "description": "Waterway"
+      },
+      "94-94": {
+        "description": "Weald"
+      },
+      "95-95": {
+        "description": "Wildwood"
+      },
+      "96-96": {
+        "description": "Woodland"
+      },
+      "97-97": {
+        "description": "Woodlot"
+      },
+      "98-98": {
+        "description": "Woods"
+      },
+      "99-99": {
+        "description": "Yonder"
+      },
+      "100-100": {
+        "description": "Zephyr"
+      }
+    }
+  },
+  "Group Type": {
+    "name": "Group Type",
+    "description": "<p>Roll the Group Types table of the Naming Procedures.</p>",
+    "results": {
+      "1-1": {
+        "description": "Assembly"
+      },
+      "2-2": {
+        "description": "Brotherhood"
+      },
+      "3-3": {
+        "description": "Circle"
+      },
+      "4-4": {
+        "description": "Clan"
+      },
+      "5-5": {
+        "description": "Coalition"
+      },
+      "6-6": {
+        "description": "Collective"
+      },
+      "7-7": {
+        "description": "Covenant"
+      },
+      "8-8": {
+        "description": "Enclave"
+      },
+      "9-9": {
+        "description": "Fellowship"
+      },
+      "10-10": {
+        "description": "Guild"
+      },
+      "11-11": {
+        "description": "Horde"
+      },
+      "12-12": {
+        "description": "League"
+      },
+      "13-13": {
+        "description": "Legion"
+      },
+      "14-14": {
+        "description": "Market"
+      },
+      "15-15": {
+        "description": "Ministry"
+      },
+      "16-16": {
+        "description": "Movement"
+      },
+      "17-17": {
+        "description": "Network"
+      },
+      "18-18": {
+        "description": "Order"
+      },
+      "19-19": {
+        "description": "Pact"
+      },
+      "20-20": {
+        "description": "Syndicate"
+      }
+    }
+  },
+  "Monster Ability Target": {
+    "name": "Monster Ability Target",
+    "description": "<p>Roll the Target column of the Monster Abilities table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Body"
+      },
+      "2-2": {
+        "description": "Dreams"
+      },
+      "3-3": {
+        "description": "Element"
+      },
+      "4-4": {
+        "description": "Emotions"
+      },
+      "5-5": {
+        "description": "Energy"
+      },
+      "6-6": {
+        "description": "Health"
+      },
+      "7-7": {
+        "description": "Hearing"
+      },
+      "8-8": {
+        "description": "Illusions"
+      },
+      "9-9": {
+        "description": "Light"
+      },
+      "10-10": {
+        "description": "Memory"
+      },
+      "11-11": {
+        "description": "Metal"
+      },
+      "12-12": {
+        "description": "Plants"
+      },
+      "13-13": {
+        "description": "Spirit"
+      },
+      "14-14": {
+        "description": "Stone"
+      },
+      "15-15": {
+        "description": "Surroundings"
+      },
+      "16-16": {
+        "description": "Time"
+      },
+      "17-17": {
+        "description": "Vision"
+      },
+      "18-18": {
+        "description": "Water"
+      },
+      "19-19": {
+        "description": "Weather"
+      },
+      "20-20": {
+        "description": "Weakens"
+      }
+    }
+  },
+  "Monster Ability": {
+    "name": "Monster Ability",
+    "description": "<p>Roll the Ability column of the Monster Abilities table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Absorbs"
+      },
+      "2-2": {
+        "description": "Amplifies"
+      },
+      "3-3": {
+        "description": "Attracts"
+      },
+      "4-4": {
+        "description": "Binds"
+      },
+      "5-5": {
+        "description": "Camouflages"
+      },
+      "6-6": {
+        "description": "Conjures"
+      },
+      "7-7": {
+        "description": "Controls"
+      },
+      "8-8": {
+        "description": "Disables"
+      },
+      "9-9": {
+        "description": "Duplicates"
+      },
+      "10-10": {
+        "description": "Grows"
+      },
+      "11-11": {
+        "description": "Manipulates"
+      },
+      "12-12": {
+        "description": "Reflects"
+      },
+      "13-13": {
+        "description": "Regenerates"
+      },
+      "14-14": {
+        "description": "Resists"
+      },
+      "15-15": {
+        "description": "Reverses"
+      },
+      "16-16": {
+        "description": "Shapes"
+      },
+      "17-17": {
+        "description": "Shrinks"
+      },
+      "18-18": {
+        "description": "Transforms"
+      },
+      "19-19": {
+        "description": "Traps"
+      },
+      "20-20": {
+        "description": "Zaps"
+      }
+    }
+  },
+  "Monster Attack": {
+    "name": "Monster Attack",
+    "description": "<p>Roll the Type column of the Monster Attacks table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Bites"
+      },
+      "2-2": {
+        "description": "Blunts"
+      },
+      "3-3": {
+        "description": "Burns"
+      },
+      "4-4": {
+        "description": "Freezes"
+      },
+      "5-5": {
+        "description": "Gases"
+      },
+      "6-6": {
+        "description": "Kicks"
+      },
+      "7-7": {
+        "description": "Punches"
+      },
+      "8-8": {
+        "description": "Shoots"
+      },
+      "9-9": {
+        "description": "Slams"
+      },
+      "10-10": {
+        "description": "Slashes"
+      },
+      "11-11": {
+        "description": "Slices"
+      },
+      "12-12": {
+        "description": "Smashes"
+      },
+      "13-13": {
+        "description": "Sprays"
+      },
+      "14-14": {
+        "description": "Squeezes"
+      },
+      "15-15": {
+        "description": "Stabs"
+      },
+      "16-16": {
+        "description": "Stings"
+      },
+      "17-17": {
+        "description": "Throws"
+      },
+      "18-18": {
+        "description": "Touches"
+      },
+      "19-19": {
+        "description": "Whips"
+      },
+      "20-20": {
+        "description": "Zaps"
+      }
+    }
+  },
+  "Monster Category": {
+    "name": "Monster Category",
+    "description": "<p>Roll a monster Group, then pick or roll one of the listed 2e bestiary monsters.</p>",
+    "results": {
+      "1-1": {
+        "name": "Avian",
+        "description": "<p>Phoenix, Roc, Wyvern</p>"
+      },
+      "2-2": {
+        "name": "Beast",
+        "description": "<p>Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, Wolf</p>"
+      },
+      "3-3": {
+        "name": "Behemoth",
+        "description": "<p>Green Dragon, Purple Worm</p>"
+      },
+      "4-4": {
+        "name": "Construct",
+        "description": "<p>Bone Construct, Cobblehounds, Gargoyle</p>"
+      },
+      "5-5": {
+        "name": "Demon",
+        "description": "<p>Hellhound, Nightmare</p>"
+      },
+      "6-6": {
+        "name": "Extraplanar",
+        "description": "<p>Eye of Terror, Mind Lasher</p>"
+      },
+      "7-7": {
+        "name": "Fey",
+        "description": "<p>Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag, Will-o-Wisp</p>"
+      },
+      "8-8": {
+        "name": "Giant",
+        "description": "<p>Ettin, Sky Giant, Storm Giant, Titan</p>"
+      },
+      "9-9": {
+        "name": "Goblinoid",
+        "description": "<p>Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll</p>"
+      },
+      "10-10": {
+        "name": "Humanoid",
+        "description": "<p>Acolyte, Bandit, Gnoll, Hooded Men, Triton</p>"
+      },
+      "11-11": {
+        "name": "Hybrid",
+        "description": "<p>Centaur, Manticore, Minotaur, Owlbear</p>"
+      },
+      "12-12": {
+        "name": "Incorporeal",
+        "description": "<p>Invisible Stalker, Shadow</p>"
+      },
+      "13-13": {
+        "name": "Insectoid",
+        "description": "<p>Aranea, Burrowing Horror, Cave Locust, Giant Scorpion</p>"
+      },
+      "14-14": {
+        "name": "Lizard",
+        "description": "<p>Basilisk, Hydra, Kobold, Naga, Reptilian</p>"
+      },
+      "15-15": {
+        "name": "Magical",
+        "description": "<p>Blink Dog, Warp Panther, Water Elemental</p>"
+      },
+      "16-16": {
+        "name": "Mythical",
+        "description": "<p>Banshee, Griffon, Harpy, Hydra, Lamia, Unicorn</p>"
+      },
+      "17-17": {
+        "name": "Plant",
+        "description": "<p>Creeping Vines, Root Witch, Shambling Mound, Treant</p>"
+      },
+      "18-18": {
+        "name": "Shape Shifter",
+        "description": "<p>Swine Thing, Werewolf</p>"
+      },
+      "19-19": {
+        "name": "Undead",
+        "description": "<p>Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie</p>"
+      },
+      "20-20": {
+        "name": "Unusual",
+        "description": "<p>Gelatinous Ooze, Mimic, Rust Monster, Warrior Snail</p>"
+      }
+    }
+  },
+  "Monster Critical Damage": {
+    "name": "Monster Critical Damage",
+    "description": "<p>Roll the Critical Damage column of the Monster Attacks table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Asphyxiates"
+      },
+      "2-2": {
+        "description": "Bleeds"
+      },
+      "3-3": {
+        "description": "Blinds"
+      },
+      "4-4": {
+        "description": "Breaks"
+      },
+      "5-5": {
+        "description": "Crushes"
+      },
+      "6-6": {
+        "description": "Decays"
+      },
+      "7-7": {
+        "description": "Dissolves"
+      },
+      "8-8": {
+        "description": "Ensnares"
+      },
+      "9-9": {
+        "description": "Explodes"
+      },
+      "10-10": {
+        "description": "Grapples"
+      },
+      "11-11": {
+        "description": "Incapacitates"
+      },
+      "12-12": {
+        "description": "Lacerates"
+      },
+      "13-13": {
+        "description": "Liquefies"
+      },
+      "14-14": {
+        "description": "Paralyzes"
+      },
+      "15-15": {
+        "description": "Petrifies"
+      },
+      "16-16": {
+        "description": "Poisons"
+      },
+      "17-17": {
+        "description": "Punctures"
+      },
+      "18-18": {
+        "description": "Severs"
+      },
+      "19-19": {
+        "description": "Tramples"
+      },
+      "20-20": {
+        "description": "Weakens"
+      }
+    }
+  },
+  "Monster Feature": {
+    "name": "Monster Feature",
+    "description": "<p>Roll the Feature column of the Monster Appearance table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Antennae"
+      },
+      "2-2": {
+        "description": "Beak"
+      },
+      "3-3": {
+        "description": "Carapace"
+      },
+      "4-4": {
+        "description": "Claws"
+      },
+      "5-5": {
+        "description": "Fangs"
+      },
+      "6-6": {
+        "description": "Feathers"
+      },
+      "7-7": {
+        "description": "Fur"
+      },
+      "8-8": {
+        "description": "Gilled"
+      },
+      "9-9": {
+        "description": "Horns"
+      },
+      "10-10": {
+        "description": "Markings"
+      },
+      "11-11": {
+        "description": "Scales"
+      },
+      "12-12": {
+        "description": "Shell"
+      },
+      "13-13": {
+        "description": "Snout"
+      },
+      "14-14": {
+        "description": "Tail"
+      },
+      "15-15": {
+        "description": "Talons"
+      },
+      "16-16": {
+        "description": "Tentacles"
+      },
+      "17-17": {
+        "description": "Trunk"
+      },
+      "18-18": {
+        "description": "Tusks"
+      },
+      "19-19": {
+        "description": "Voice"
+      },
+      "20-20": {
+        "description": "Wings"
+      }
+    }
+  },
+  "Monster Physique": {
+    "name": "Monster Physique",
+    "description": "<p>Roll the Physique column of the Monster Appearance table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Albino"
+      },
+      "2-2": {
+        "description": "Black"
+      },
+      "3-3": {
+        "description": "Crystalline"
+      },
+      "4-4": {
+        "description": "Emaciated"
+      },
+      "5-5": {
+        "description": "Eyeless"
+      },
+      "6-6": {
+        "description": "Feathered"
+      },
+      "7-7": {
+        "description": "Gelatinous"
+      },
+      "8-8": {
+        "description": "Glowing"
+      },
+      "9-9": {
+        "description": "Hardened"
+      },
+      "10-10": {
+        "description": "Headless"
+      },
+      "11-11": {
+        "description": "Horned"
+      },
+      "12-12": {
+        "description": "Hunched"
+      },
+      "13-13": {
+        "description": "Iridescent"
+      },
+      "14-14": {
+        "description": "Polyocular"
+      },
+      "15-15": {
+        "description": "Scaled"
+      },
+      "16-16": {
+        "description": "Segmented"
+      },
+      "17-17": {
+        "description": "Skeletal"
+      },
+      "18-18": {
+        "description": "Slimy"
+      },
+      "19-19": {
+        "description": "Translucent"
+      },
+      "20-20": {
+        "description": "Twisted"
+      }
+    }
+  },
+  "Monster Quirk": {
+    "name": "Monster Quirk",
+    "description": "<p>Roll the Quirks column of the Monster Traits table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Alters Its Size at Will"
+      },
+      "2-2": {
+        "description": "Changes Color at Will"
+      },
+      "3-3": {
+        "description": "Collects Rare Flowers"
+      },
+      "4-4": {
+        "description": "Collects Trophies"
+      },
+      "5-5": {
+        "description": "Does Not Die of Old Age"
+      },
+      "6-6": {
+        "description": "Draws Symbols"
+      },
+      "7-7": {
+        "description": "Fascinated by Fire"
+      },
+      "8-8": {
+        "description": "Hoards Books"
+      },
+      "9-9": {
+        "description": "Loves a Specific Color"
+      },
+      "10-10": {
+        "description": "Reborn Each Day"
+      },
+      "11-11": {
+        "description": "Loves Shiny Objects"
+      },
+      "12-12": {
+        "description": "Mimics Voices"
+      },
+      "13-13": {
+        "description": "Moves in a Straight Line"
+      },
+      "14-14": {
+        "description": "Narrates Everything"
+      },
+      "15-15": {
+        "description": "Obsessively Cleans"
+      },
+      "16-16": {
+        "description": "Plants Grow in Its Wake"
+      },
+      "17-17": {
+        "description": "Sleeps Upside Down"
+      },
+      "18-18": {
+        "description": "Speaks in Rhymes"
+      },
+      "19-19": {
+        "description": "Sweats Rare Minerals"
+      },
+      "20-20": {
+        "description": "Reproduces Asexually"
+      }
+    }
+  },
+  "Monster Weakness": {
+    "name": "Monster Weakness",
+    "description": "<p>Roll the Weakness column of the Monster Traits table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Alcohol"
+      },
+      "2-2": {
+        "description": "Cold"
+      },
+      "3-3": {
+        "description": "Conversation"
+      },
+      "4-4": {
+        "description": "Flattery"
+      },
+      "5-5": {
+        "description": "Games"
+      },
+      "6-6": {
+        "description": "Gifts"
+      },
+      "7-7": {
+        "description": "Iron"
+      },
+      "8-8": {
+        "description": "Loud Noises"
+      },
+      "9-9": {
+        "description": "Mirrors"
+      },
+      "10-10": {
+        "description": "Bright Colors"
+      },
+      "11-11": {
+        "description": "Moonlight"
+      },
+      "12-12": {
+        "description": "Music"
+      },
+      "13-13": {
+        "description": "Prepared Meals"
+      },
+      "14-14": {
+        "description": "Puzzles"
+      },
+      "15-15": {
+        "description": "Religious Icons"
+      },
+      "16-16": {
+        "description": "Salt"
+      },
+      "17-17": {
+        "description": "Silver"
+      },
+      "18-18": {
+        "description": "Sunlight"
+      },
+      "19-19": {
+        "description": "True Name"
+      },
+      "20-20": {
+        "description": "Weak Spot"
+      }
+    }
+  },
+  "Name Adjective": {
+    "name": "Name Adjective",
+    "description": "<p>Roll the Adjectives table of the Naming Procedures.</p>",
+    "results": {
+      "1-1": {
+        "description": "Aging"
+      },
+      "2-2": {
+        "description": "Amber"
+      },
+      "3-3": {
+        "description": "Ancient"
+      },
+      "4-4": {
+        "description": "Angry"
+      },
+      "5-5": {
+        "description": "Ashen"
+      },
+      "6-6": {
+        "description": "Bare"
+      },
+      "7-7": {
+        "description": "Battered"
+      },
+      "8-8": {
+        "description": "Bitter"
+      },
+      "9-9": {
+        "description": "Blackened"
+      },
+      "10-10": {
+        "description": "Blazing"
+      },
+      "11-11": {
+        "description": "Bleak"
+      },
+      "12-12": {
+        "description": "Blighted"
+      },
+      "13-13": {
+        "description": "Blistered"
+      },
+      "14-14": {
+        "description": "Blistering"
+      },
+      "15-15": {
+        "description": "Blustery"
+      },
+      "16-16": {
+        "description": "Brisk"
+      },
+      "17-17": {
+        "description": "Bright"
+      },
+      "18-18": {
+        "description": "Broad"
+      },
+      "19-19": {
+        "description": "Calm"
+      },
+      "20-20": {
+        "description": "Celestial"
+      },
+      "21-21": {
+        "description": "Choking"
+      },
+      "22-22": {
+        "description": "Cold"
+      },
+      "23-23": {
+        "description": "Colorful"
+      },
+      "24-24": {
+        "description": "Copper"
+      },
+      "25-25": {
+        "description": "Cracked"
+      },
+      "26-26": {
+        "description": "Crimson"
+      },
+      "27-27": {
+        "description": "Crumbling"
+      },
+      "28-28": {
+        "description": "Curled"
+      },
+      "29-29": {
+        "description": "Curling"
+      },
+      "30-30": {
+        "description": "Curved"
+      },
+      "31-31": {
+        "description": "Curvy"
+      },
+      "32-32": {
+        "description": "Dampened"
+      },
+      "33-33": {
+        "description": "Dark"
+      },
+      "34-34": {
+        "description": "Dazzling"
+      },
+      "35-35": {
+        "description": "Dead"
+      },
+      "36-36": {
+        "description": "Deathly"
+      },
+      "37-37": {
+        "description": "Diamond"
+      },
+      "38-38": {
+        "description": "Dismal"
+      },
+      "39-39": {
+        "description": "Dreary"
+      },
+      "40-40": {
+        "description": "Empty"
+      },
+      "41-41": {
+        "description": "Endless"
+      },
+      "42-42": {
+        "description": "Fierce"
+      },
+      "43-43": {
+        "description": "Flaming"
+      },
+      "44-44": {
+        "description": "Flashing"
+      },
+      "45-45": {
+        "description": "Foggy"
+      },
+      "46-46": {
+        "description": "Forbidden"
+      },
+      "47-47": {
+        "description": "Forgotten"
+      },
+      "48-48": {
+        "description": "Fragile"
+      },
+      "49-49": {
+        "description": "Frayed"
+      },
+      "50-50": {
+        "description": "Frozen"
+      },
+      "51-51": {
+        "description": "Furious"
+      },
+      "52-52": {
+        "description": "Gaping"
+      },
+      "53-53": {
+        "description": "Gleaming"
+      },
+      "54-54": {
+        "description": "Glow"
+      },
+      "55-55": {
+        "description": "Granite"
+      },
+      "56-56": {
+        "description": "Grim"
+      },
+      "57-57": {
+        "description": "Grizzled"
+      },
+      "58-58": {
+        "description": "Hazy"
+      },
+      "59-59": {
+        "description": "Heated"
+      },
+      "60-60": {
+        "description": "Hellish"
+      },
+      "61-61": {
+        "description": "Hideous"
+      },
+      "62-62": {
+        "description": "Jagged"
+      },
+      "63-63": {
+        "description": "Lone"
+      },
+      "64-64": {
+        "description": "Lonely"
+      },
+      "65-65": {
+        "description": "Luminous"
+      },
+      "66-66": {
+        "description": "Lurching"
+      },
+      "67-67": {
+        "description": "Lustrous"
+      },
+      "68-68": {
+        "description": "Miserable"
+      },
+      "69-69": {
+        "description": "Misty"
+      },
+      "70-70": {
+        "description": "Mournful"
+      },
+      "71-71": {
+        "description": "Muddy"
+      },
+      "72-72": {
+        "description": "Narrow"
+      },
+      "73-73": {
+        "description": "Ominous"
+      },
+      "74-74": {
+        "description": "Overgrown"
+      },
+      "75-75": {
+        "description": "Patched"
+      },
+      "76-76": {
+        "description": "Peeling"
+      },
+      "77-77": {
+        "description": "Plunging"
+      },
+      "78-78": {
+        "description": "Ragged"
+      },
+      "79-79": {
+        "description": "Rotting"
+      },
+      "80-80": {
+        "description": "Salty"
+      },
+      "81-81": {
+        "description": "Savage"
+      },
+      "82-82": {
+        "description": "Shifting"
+      },
+      "83-83": {
+        "description": "Shimmering"
+      },
+      "84-84": {
+        "description": "Shining"
+      },
+      "85-85": {
+        "description": "Shivering"
+      },
+      "86-86": {
+        "description": "Shrouded"
+      },
+      "87-87": {
+        "description": "Singed"
+      },
+      "88-88": {
+        "description": "Sinking"
+      },
+      "89-89": {
+        "description": "Slaughter"
+      },
+      "90-90": {
+        "description": "Smoky"
+      },
+      "91-91": {
+        "description": "Soggy"
+      },
+      "92-92": {
+        "description": "Sour"
+      },
+      "93-93": {
+        "description": "Sputtering"
+      },
+      "94-94": {
+        "description": "Stained"
+      },
+      "95-95": {
+        "description": "Starved"
+      },
+      "96-96": {
+        "description": "Stinking"
+      },
+      "97-97": {
+        "description": "Stuffed"
+      },
+      "98-98": {
+        "description": "Sunken"
+      },
+      "99-99": {
+        "description": "Thin"
+      },
+      "100-100": {
+        "description": "Withered"
+      }
+    }
+  },
+  "Name Formula": {
+    "name": "Name Formula",
+    "description": "<p>Roll the Names Formula table of the Naming Procedures for a point of interest; [POI] is the kind of place.</p>",
+    "results": {
+      "1-1": {
+        "description": "(The) [Noun] [POI]"
+      },
+      "2-2": {
+        "description": "(The) [Adjective] [POI]"
+      },
+      "3-3": {
+        "description": "[POI] of (the) [Noun]"
+      },
+      "4-4": {
+        "description": "[Adjective] [POI] of (the) [Noun]"
+      },
+      "5-5": {
+        "description": "(The) [Noun] [Adjective] [POI]"
+      },
+      "6-6": {
+        "description": "[POI] of (the) [Adjective] [Noun]"
+      }
+    }
+  },
+  "Name Noun": {
+    "name": "Name Noun",
+    "description": "<p>Roll the Nouns table of the Naming Procedures.</p>",
+    "results": {
+      "1-1": {
+        "description": "Abyss"
+      },
+      "2-2": {
+        "description": "Alliance"
+      },
+      "3-3": {
+        "description": "Amber"
+      },
+      "4-4": {
+        "description": "Ambition"
+      },
+      "5-5": {
+        "description": "Apple"
+      },
+      "6-6": {
+        "description": "Aurora"
+      },
+      "7-7": {
+        "description": "Bastion"
+      },
+      "8-8": {
+        "description": "Black"
+      },
+      "9-9": {
+        "description": "Blight"
+      },
+      "10-10": {
+        "description": "Blue"
+      },
+      "11-11": {
+        "description": "Bone"
+      },
+      "12-12": {
+        "description": "Bright"
+      },
+      "13-13": {
+        "description": "Chasm"
+      },
+      "14-14": {
+        "description": "Chip"
+      },
+      "15-15": {
+        "description": "Copper"
+      },
+      "16-16": {
+        "description": "Country"
+      },
+      "17-17": {
+        "description": "Crack"
+      },
+      "18-18": {
+        "description": "Crimson"
+      },
+      "19-19": {
+        "description": "Curl"
+      },
+      "20-20": {
+        "description": "Darkness"
+      },
+      "21-21": {
+        "description": "Dawn"
+      },
+      "22-22": {
+        "description": "Dead"
+      },
+      "23-23": {
+        "description": "Death"
+      },
+      "24-24": {
+        "description": "Decay"
+      },
+      "25-25": {
+        "description": "Dent"
+      },
+      "26-26": {
+        "description": "Desolation"
+      },
+      "27-27": {
+        "description": "Despair"
+      },
+      "28-28": {
+        "description": "Devil"
+      },
+      "29-29": {
+        "description": "Dirt"
+      },
+      "30-30": {
+        "description": "Doom"
+      },
+      "31-31": {
+        "description": "Doorway"
+      },
+      "32-32": {
+        "description": "Echo"
+      },
+      "33-33": {
+        "description": "Ember"
+      },
+      "34-34": {
+        "description": "Fate"
+      },
+      "35-35": {
+        "description": "Fear"
+      },
+      "36-36": {
+        "description": "Fire"
+      },
+      "37-37": {
+        "description": "Flame"
+      },
+      "38-38": {
+        "description": "Folly"
+      },
+      "39-39": {
+        "description": "Fray"
+      },
+      "40-40": {
+        "description": "Frost"
+      },
+      "41-41": {
+        "description": "Fury"
+      },
+      "42-42": {
+        "description": "Ghost"
+      },
+      "43-43": {
+        "description": "Giant"
+      },
+      "44-44": {
+        "description": "Glimmer"
+      },
+      "45-45": {
+        "description": "God"
+      },
+      "46-46": {
+        "description": "Gold"
+      },
+      "47-47": {
+        "description": "Green"
+      },
+      "48-48": {
+        "description": "Harmony"
+      },
+      "49-49": {
+        "description": "Harvest"
+      },
+      "50-50": {
+        "description": "Haunt"
+      },
+      "51-51": {
+        "description": "Haven"
+      },
+      "52-52": {
+        "description": "Horror"
+      },
+      "53-53": {
+        "description": "Iron"
+      },
+      "54-54": {
+        "description": "Island"
+      },
+      "55-55": {
+        "description": "Jade"
+      },
+      "56-56": {
+        "description": "King"
+      },
+      "57-57": {
+        "description": "Lavender"
+      },
+      "58-58": {
+        "description": "Life"
+      },
+      "59-59": {
+        "description": "Light"
+      },
+      "60-60": {
+        "description": "Marble"
+      },
+      "61-61": {
+        "description": "Mist"
+      },
+      "62-62": {
+        "description": "Mold"
+      },
+      "63-63": {
+        "description": "Moon"
+      },
+      "64-64": {
+        "description": "Mud"
+      },
+      "65-65": {
+        "description": "Nightmare"
+      },
+      "66-66": {
+        "description": "Patch"
+      },
+      "67-67": {
+        "description": "Peril"
+      },
+      "68-68": {
+        "description": "Purple"
+      },
+      "69-69": {
+        "description": "Radiance"
+      },
+      "70-70": {
+        "description": "Rag"
+      },
+      "71-71": {
+        "description": "Rain"
+      },
+      "72-72": {
+        "description": "Rainbow"
+      },
+      "73-73": {
+        "description": "Red"
+      },
+      "74-74": {
+        "description": "Refuge"
+      },
+      "75-75": {
+        "description": "Regret"
+      },
+      "76-76": {
+        "description": "Rot"
+      },
+      "77-77": {
+        "description": "Ruin"
+      },
+      "78-78": {
+        "description": "Shadow"
+      },
+      "79-79": {
+        "description": "Silver"
+      },
+      "80-80": {
+        "description": "Skull"
+      },
+      "81-81": {
+        "description": "Sky"
+      },
+      "82-82": {
+        "description": "Smoke"
+      },
+      "83-83": {
+        "description": "Snake"
+      },
+      "84-84": {
+        "description": "Sorrow"
+      },
+      "85-85": {
+        "description": "Spark"
+      },
+      "86-86": {
+        "description": "Stone"
+      },
+      "87-87": {
+        "description": "Storm"
+      },
+      "88-88": {
+        "description": "Sun"
+      },
+      "89-89": {
+        "description": "Tempest"
+      },
+      "90-90": {
+        "description": "Terror"
+      },
+      "91-91": {
+        "description": "Thorn"
+      },
+      "92-92": {
+        "description": "Thunder"
+      },
+      "93-93": {
+        "description": "Toxic"
+      },
+      "94-94": {
+        "description": "Tranquil"
+      },
+      "95-95": {
+        "description": "Troll"
+      },
+      "96-96": {
+        "description": "Valor"
+      },
+      "97-97": {
+        "description": "Violet"
+      },
+      "98-98": {
+        "description": "War"
+      },
+      "99-99": {
+        "description": "Whisper"
+      },
+      "100-100": {
+        "description": "Zephyr"
+      }
+    }
+  },
+  "NPC Background": {
+    "name": "NPC Background",
+    "description": "<p>Roll the NPC's Background. Their starting gear is resolved by the generator, not this table.</p>",
+    "results": {
+      "1-1": {
+        "description": "Academic"
+      },
+      "2-2": {
+        "description": "Assassin"
+      },
+      "3-3": {
+        "description": "Blacksmith"
+      },
+      "4-4": {
+        "description": "Farmer"
+      },
+      "5-5": {
+        "description": "General"
+      },
+      "6-6": {
+        "description": "Gravedigger"
+      },
+      "7-7": {
+        "description": "Guard"
+      },
+      "8-8": {
+        "description": "Healer"
+      },
+      "9-9": {
+        "description": "Jailer"
+      },
+      "10-10": {
+        "description": "Laborer"
+      },
+      "11-11": {
+        "description": "Lord"
+      },
+      "12-12": {
+        "description": "Merchant"
+      },
+      "13-13": {
+        "description": "Monk"
+      },
+      "14-14": {
+        "description": "Mystic"
+      },
+      "15-15": {
+        "description": "Outlander"
+      },
+      "16-16": {
+        "description": "Peddler"
+      },
+      "17-17": {
+        "description": "Politician"
+      },
+      "18-18": {
+        "description": "Spy"
+      },
+      "19-19": {
+        "description": "Thief"
+      },
+      "20-20": {
+        "description": "Thug"
+      }
+    }
+  },
+  "NPC Goal": {
+    "name": "NPC Goal",
+    "description": "<p>Roll what an NPC is trying to achieve.</p>",
+    "results": {
+      "1-1": {
+        "description": "Ascension"
+      },
+      "2-2": {
+        "description": "Cleansing"
+      },
+      "3-3": {
+        "description": "Conservation"
+      },
+      "4-4": {
+        "description": "Defense"
+      },
+      "5-5": {
+        "description": "Domination"
+      },
+      "6-6": {
+        "description": "Enrichment"
+      },
+      "7-7": {
+        "description": "Expansion"
+      },
+      "8-8": {
+        "description": "Freedom"
+      },
+      "9-9": {
+        "description": "Healing"
+      },
+      "10-10": {
+        "description": "Integration"
+      },
+      "11-11": {
+        "description": "Justice"
+      },
+      "12-12": {
+        "description": "Peace"
+      },
+      "13-13": {
+        "description": "Power"
+      },
+      "14-14": {
+        "description": "Preservation"
+      },
+      "15-15": {
+        "description": "Purification"
+      },
+      "16-16": {
+        "description": "Redemption"
+      },
+      "17-17": {
+        "description": "Revenge"
+      },
+      "18-18": {
+        "description": "Survival"
+      },
+      "19-19": {
+        "description": "Unity"
+      },
+      "20-20": {
+        "description": "Wealth"
+      }
+    }
+  },
+  "NPC Name": {
+    "name": "NPC Name",
+    "description": "<p>Roll a Name for an NPC. The three source lists are merged here into one d60.</p>",
+    "results": {
+      "1-1": {
+        "description": "Alaric"
+      },
+      "2-2": {
+        "description": "Carver"
+      },
+      "3-3": {
+        "description": "Cleaver"
+      },
+      "4-4": {
+        "description": "Darnel"
+      },
+      "5-5": {
+        "description": "Eoin"
+      },
+      "6-6": {
+        "description": "Evander"
+      },
+      "7-7": {
+        "description": "Glyph"
+      },
+      "8-8": {
+        "description": "Hemlock"
+      },
+      "9-9": {
+        "description": "Herald"
+      },
+      "10-10": {
+        "description": "Lisbeth"
+      },
+      "11-11": {
+        "description": "Lucian"
+      },
+      "12-12": {
+        "description": "Luna"
+      },
+      "13-13": {
+        "description": "Lysander"
+      },
+      "14-14": {
+        "description": "Marius"
+      },
+      "15-15": {
+        "description": "Mend"
+      },
+      "16-16": {
+        "description": "Milo"
+      },
+      "17-17": {
+        "description": "Neria"
+      },
+      "18-18": {
+        "description": "Pan"
+      },
+      "19-19": {
+        "description": "Quill"
+      },
+      "20-20": {
+        "description": "Seraphine"
+      },
+      "21-21": {
+        "description": "Ainsley"
+      },
+      "22-22": {
+        "description": "Azura"
+      },
+      "23-23": {
+        "description": "Brave"
+      },
+      "24-24": {
+        "description": "Callan"
+      },
+      "25-25": {
+        "description": "Cedric"
+      },
+      "26-26": {
+        "description": "Crow"
+      },
+      "27-27": {
+        "description": "Finch"
+      },
+      "28-28": {
+        "description": "Gunnar"
+      },
+      "29-29": {
+        "description": "Harper"
+      },
+      "30-30": {
+        "description": "Liora"
+      },
+      "31-31": {
+        "description": "Lira"
+      },
+      "32-32": {
+        "description": "Lorelai"
+      },
+      "33-33": {
+        "description": "Lysandra"
+      },
+      "34-34": {
+        "description": "Marcellus"
+      },
+      "35-35": {
+        "description": "Shade"
+      },
+      "36-36": {
+        "description": "Shroud"
+      },
+      "37-37": {
+        "description": "Spade"
+      },
+      "38-38": {
+        "description": "Spike"
+      },
+      "39-39": {
+        "description": "Tanner"
+      },
+      "40-40": {
+        "description": "Thyme"
+      },
+      "41-41": {
+        "description": "Alder"
+      },
+      "42-42": {
+        "description": "Alistair"
+      },
+      "43-43": {
+        "description": "Caius"
+      },
+      "44-44": {
+        "description": "Dain"
+      },
+      "45-45": {
+        "description": "Dax"
+      },
+      "46-46": {
+        "description": "Dorian"
+      },
+      "47-47": {
+        "description": "Godric"
+      },
+      "48-48": {
+        "description": "Harkin"
+      },
+      "49-49": {
+        "description": "Hildred"
+      },
+      "50-50": {
+        "description": "Kael"
+      },
+      "51-51": {
+        "description": "Kavi"
+      },
+      "52-52": {
+        "description": "Mariner"
+      },
+      "53-53": {
+        "description": "Nazira"
+      },
+      "54-54": {
+        "description": "Onyx"
+      },
+      "55-55": {
+        "description": "Rolan"
+      },
+      "56-56": {
+        "description": "Rush"
+      },
+      "57-57": {
+        "description": "Sky"
+      },
+      "58-58": {
+        "description": "Storm"
+      },
+      "59-59": {
+        "description": "Taros"
+      },
+      "60-60": {
+        "description": "Thaddeus"
+      }
+    }
+  },
+  "NPC Quirk": {
+    "name": "NPC Quirk",
+    "description": "<p>Roll a physical or behavioural Quirk for an NPC.</p>",
+    "results": {
+      "1-1": {
+        "description": "Alert"
+      },
+      "2-2": {
+        "description": "Bald"
+      },
+      "3-3": {
+        "description": "Bright Eyes"
+      },
+      "4-4": {
+        "description": "Broad Face"
+      },
+      "5-5": {
+        "description": "Crooked Teeth"
+      },
+      "6-6": {
+        "description": "Gaunt"
+      },
+      "7-7": {
+        "description": "Good Posture"
+      },
+      "8-8": {
+        "description": "Grimy"
+      },
+      "9-9": {
+        "description": "Harsh Voice"
+      },
+      "10-10": {
+        "description": "Heavy Brow"
+      },
+      "11-11": {
+        "description": "Limps"
+      },
+      "12-12": {
+        "description": "Missing Ear"
+      },
+      "13-13": {
+        "description": "Muscular"
+      },
+      "14-14": {
+        "description": "Notable Hair"
+      },
+      "15-15": {
+        "description": "Pleasant Voice"
+      },
+      "16-16": {
+        "description": "Squints"
+      },
+      "17-17": {
+        "description": "Strong"
+      },
+      "18-18": {
+        "description": "Thick Eyebrows"
+      },
+      "19-19": {
+        "description": "Tired"
+      },
+      "20-20": {
+        "description": "Young"
+      }
+    }
+  },
+  "NPC Vice": {
+    "name": "NPC Vice",
+    "description": "<p>Roll an NPC's defining Vice.</p>",
+    "results": {
+      "1-1": {
+        "description": "Aloof"
+      },
+      "2-2": {
+        "description": "Corrupt"
+      },
+      "3-3": {
+        "description": "Craven"
+      },
+      "4-4": {
+        "description": "Cruel"
+      },
+      "5-5": {
+        "description": "Cynical"
+      },
+      "6-6": {
+        "description": "Deceptive"
+      },
+      "7-7": {
+        "description": "Greedy"
+      },
+      "8-8": {
+        "description": "Impulsive"
+      },
+      "9-9": {
+        "description": "Incompetent"
+      },
+      "10-10": {
+        "description": "Inflexible"
+      },
+      "11-11": {
+        "description": "Manipulative"
+      },
+      "12-12": {
+        "description": "Mercurial"
+      },
+      "13-13": {
+        "description": "Naive"
+      },
+      "14-14": {
+        "description": "Pedantic"
+      },
+      "15-15": {
+        "description": "Ruthless"
+      },
+      "16-16": {
+        "description": "Sarcastic"
+      },
+      "17-17": {
+        "description": "Selfish"
+      },
+      "18-18": {
+        "description": "Stubborn"
+      },
+      "19-19": {
+        "description": "Vain"
+      },
+      "20-20": {
+        "description": "Xenophobic"
+      }
+    }
+  },
+  "NPC Virtue": {
+    "name": "NPC Virtue",
+    "description": "<p>Roll an NPC's defining Virtue.</p>",
+    "results": {
+      "1-1": {
+        "description": "Cautious"
+      },
+      "2-2": {
+        "description": "Compassionate"
+      },
+      "3-3": {
+        "description": "Connected"
+      },
+      "4-4": {
+        "description": "Courageous"
+      },
+      "5-5": {
+        "description": "Disciplined"
+      },
+      "6-6": {
+        "description": "Discreet"
+      },
+      "7-7": {
+        "description": "Honest"
+      },
+      "8-8": {
+        "description": "Intelligent"
+      },
+      "9-9": {
+        "description": "Judicious"
+      },
+      "10-10": {
+        "description": "Loyal"
+      },
+      "11-11": {
+        "description": "Methodical"
+      },
+      "12-12": {
+        "description": "Meticulous"
+      },
+      "13-13": {
+        "description": "Polite"
+      },
+      "14-14": {
+        "description": "Popular"
+      },
+      "15-15": {
+        "description": "Pragmatic"
+      },
+      "16-16": {
+        "description": "Resourceful"
+      },
+      "17-17": {
+        "description": "Suave"
+      },
+      "18-18": {
+        "description": "Shrewd"
+      },
+      "19-19": {
+        "description": "Tenacious"
+      },
+      "20-20": {
+        "description": "Witty"
+      }
+    }
+  },
+  "Ruler Name Formula": {
+    "name": "Ruler Name Formula",
+    "description": "<p>Roll the Ruler Names Formula table of the Naming Procedures; [Rulers] is a roll on Ruler Type.</p>",
+    "results": {
+      "1-1": {
+        "description": "(The) [Noun] [Rulers]"
+      },
+      "2-2": {
+        "description": "(The) [Adjective] [Rulers]"
+      },
+      "3-3": {
+        "description": "[Rulers] of (the) [Noun]"
+      },
+      "4-4": {
+        "description": "[Adjective] [Rulers] of (the) [Noun]"
+      },
+      "5-5": {
+        "description": "(The) [Noun] [Adjective] [Rulers]"
+      },
+      "6-6": {
+        "description": "[Rulers] of (the) [Adjective] [Noun]"
+      }
+    }
+  },
+  "Ruler Type": {
+    "name": "Ruler Type",
+    "description": "<p>Roll the Ruler Types table of the Naming Procedures.</p>",
+    "results": {
+      "1-1": {
+        "description": "Alliance"
+      },
+      "2-2": {
+        "description": "Barony"
+      },
+      "3-3": {
+        "description": "Commonwealth"
+      },
+      "4-4": {
+        "description": "Confederation"
+      },
+      "5-5": {
+        "description": "Dominion"
+      },
+      "6-6": {
+        "description": "Ecclesiarchy"
+      },
+      "7-7": {
+        "description": "Empire"
+      },
+      "8-8": {
+        "description": "Federacy"
+      },
+      "9-9": {
+        "description": "Fiefdom"
+      },
+      "10-10": {
+        "description": "Grand Duchy"
+      },
+      "11-11": {
+        "description": "Hegemony"
+      },
+      "12-12": {
+        "description": "Kingdom"
+      },
+      "13-13": {
+        "description": "Monarchy"
+      },
+      "14-14": {
+        "description": "Principality"
+      },
+      "15-15": {
+        "description": "Protectorate"
+      },
+      "16-16": {
+        "description": "Realm"
+      },
+      "17-17": {
+        "description": "Regency"
+      },
+      "18-18": {
+        "description": "Republic"
+      },
+      "19-19": {
+        "description": "State"
+      },
+      "20-20": {
+        "description": "Union"
+      }
+    }
+  },
+  "Terrain Synonym": {
+    "name": "Terrain Synonym",
+    "description": "<p>The Terrain Synonyms table of the Naming Procedures, one result per synonym. It has no die of its own: the name generator picks among the synonyms of the chosen terrain.</p>",
+    "results": {
+      "1-1": {
+        "description": "Seaside"
+      },
+      "2-2": {
+        "description": "Shore"
+      },
+      "3-3": {
+        "description": "Coast"
+      },
+      "4-4": {
+        "description": "Seaboard"
+      },
+      "5-5": {
+        "description": "Foreshore"
+      },
+      "6-6": {
+        "description": "Marina"
+      },
+      "7-7": {
+        "description": "Marsh"
+      },
+      "8-8": {
+        "description": "Morass"
+      },
+      "9-9": {
+        "description": "Quad"
+      },
+      "10-10": {
+        "description": "Slough"
+      },
+      "11-11": {
+        "description": "Fens"
+      },
+      "12-12": {
+        "description": "Ravine"
+      },
+      "13-13": {
+        "description": "Chasm"
+      },
+      "14-14": {
+        "description": "Abyss"
+      },
+      "15-15": {
+        "description": "Gulf"
+      },
+      "16-16": {
+        "description": "Gulch"
+      },
+      "17-17": {
+        "description": "Grotto"
+      },
+      "18-18": {
+        "description": "Cavity"
+      },
+      "19-19": {
+        "description": "Tunnels"
+      },
+      "20-20": {
+        "description": "Dugout"
+      },
+      "21-21": {
+        "description": "Cave"
+      },
+      "22-22": {
+        "description": "Precipice"
+      },
+      "23-23": {
+        "description": "Face"
+      },
+      "24-24": {
+        "description": "Crag"
+      },
+      "25-25": {
+        "description": "Bluff"
+      },
+      "26-26": {
+        "description": "Ridge"
+      },
+      "27-27": {
+        "description": "Escarpment"
+      },
+      "28-28": {
+        "description": "Steep"
+      },
+      "29-29": {
+        "description": "Dunes"
+      },
+      "30-30": {
+        "description": "Sands"
+      },
+      "31-31": {
+        "description": "Vasts"
+      },
+      "32-32": {
+        "description": "Wastes"
+      },
+      "33-33": {
+        "description": "Blight"
+      },
+      "34-34": {
+        "description": "Erg"
+      },
+      "35-35": {
+        "description": "Tillage"
+      },
+      "36-36": {
+        "description": "Holding"
+      },
+      "37-37": {
+        "description": "Acreage"
+      },
+      "38-38": {
+        "description": "Steading"
+      },
+      "39-39": {
+        "description": "Grange"
+      },
+      "40-40": {
+        "description": "Plantation"
+      },
+      "41-41": {
+        "description": "Bush"
+      },
+      "42-42": {
+        "description": "Woods"
+      },
+      "43-43": {
+        "description": "Woodland"
+      },
+      "44-44": {
+        "description": "Weald"
+      },
+      "45-45": {
+        "description": "Grove"
+      },
+      "46-46": {
+        "description": "Copse"
+      },
+      "47-47": {
+        "description": "Pasture"
+      },
+      "48-48": {
+        "description": "Fields"
+      },
+      "49-49": {
+        "description": "Savanna"
+      },
+      "50-50": {
+        "description": "Greenery"
+      },
+      "51-51": {
+        "description": "Hillock"
+      },
+      "52-52": {
+        "description": "Mound"
+      },
+      "53-53": {
+        "description": "Mount"
+      },
+      "54-54": {
+        "description": "Knoll"
+      },
+      "55-55": {
+        "description": "Hummock"
+      },
+      "56-56": {
+        "description": "Slope"
+      },
+      "57-57": {
+        "description": "Dip"
+      },
+      "58-58": {
+        "description": "Hole"
+      },
+      "59-59": {
+        "description": "Pit"
+      },
+      "60-60": {
+        "description": "Cavity"
+      },
+      "61-61": {
+        "description": "Crater"
+      },
+      "62-62": {
+        "description": "Trough"
+      },
+      "63-63": {
+        "description": "Holes"
+      },
+      "64-64": {
+        "description": "Pond"
+      },
+      "65-65": {
+        "description": "Pool"
+      },
+      "66-66": {
+        "description": "Tarn"
+      },
+      "67-67": {
+        "description": "Lagoon"
+      },
+      "68-68": {
+        "description": "Loch"
+      },
+      "69-69": {
+        "description": "Bayou"
+      },
+      "70-70": {
+        "description": "Peaks"
+      },
+      "71-71": {
+        "description": "Ridge"
+      },
+      "72-72": {
+        "description": "Range"
+      },
+      "73-73": {
+        "description": "Summit"
+      },
+      "74-74": {
+        "description": "Pinnacle"
+      },
+      "75-75": {
+        "description": "Butte"
+      },
+      "76-76": {
+        "description": "Spring"
+      },
+      "77-77": {
+        "description": "Well"
+      },
+      "78-78": {
+        "description": "Fountain"
+      },
+      "79-79": {
+        "description": "Haven"
+      },
+      "80-80": {
+        "description": "Watering Hole"
+      },
+      "81-81": {
+        "description": "Refuge"
+      },
+      "82-82": {
+        "description": "Heath"
+      },
+      "83-83": {
+        "description": "Meadow"
+      },
+      "84-84": {
+        "description": "Veldt"
+      },
+      "85-85": {
+        "description": "Flats"
+      },
+      "86-86": {
+        "description": "Lowlands"
+      },
+      "87-87": {
+        "description": "Sward"
+      },
+      "88-88": {
+        "description": "Uplands"
+      },
+      "89-89": {
+        "description": "Mesa"
+      },
+      "90-90": {
+        "description": "Highlands"
+      },
+      "91-91": {
+        "description": "Downs"
+      },
+      "92-92": {
+        "description": "Reach"
+      },
+      "93-93": {
+        "description": "Waterway"
+      },
+      "94-94": {
+        "description": "Stream"
+      },
+      "95-95": {
+        "description": "Brook"
+      },
+      "96-96": {
+        "description": "Runnel"
+      },
+      "97-97": {
+        "description": "Creek"
+      },
+      "98-98": {
+        "description": "Channel"
+      },
+      "99-99": {
+        "description": "Moors"
+      },
+      "100-100": {
+        "description": "Wetlands"
+      },
+      "101-101": {
+        "description": "Chaparral"
+      },
+      "102-102": {
+        "description": "Boscage"
+      },
+      "103-103": {
+        "description": "Covert"
+      },
+      "104-104": {
+        "description": "Coppice"
+      },
+      "105-105": {
+        "description": "Fells"
+      },
+      "106-106": {
+        "description": "Expanse"
+      },
+      "107-107": {
+        "description": "Boreal"
+      },
+      "108-108": {
+        "description": "Ley"
+      },
+      "109-109": {
+        "description": "Dale"
+      },
+      "110-110": {
+        "description": "Vale"
+      },
+      "111-111": {
+        "description": "Basin"
+      },
+      "112-112": {
+        "description": "Gorge"
+      },
+      "113-113": {
+        "description": "Gap"
+      },
+      "114-114": {
+        "description": "Glen"
+      }
+    }
+  },
+  "Vald Weather (Dead)": {
+    "name": "Vald Weather (Dead)",
+    "description": "<p>Roll the Dead column of the Weather in Vald table for a day of the Dead season. It describes the day; the weather a journey travels in is the Journey's own roll.</p>",
+    "results": {
+      "1-1": {
+        "description": "Cold and clear"
+      },
+      "2-2": {
+        "description": "Frosty mornings"
+      },
+      "3-3": {
+        "description": "Overcast skies"
+      },
+      "4-4": {
+        "description": "Light snow"
+      },
+      "5-5": {
+        "description": "Snow showers"
+      },
+      "6-6": {
+        "description": "Freezing rain"
+      }
+    }
+  },
+  "Vald Weather (Dry)": {
+    "name": "Vald Weather (Dry)",
+    "description": "<p>Roll the Dry column of the Weather in Vald table for a day of the Dry season. It describes the day; the weather a journey travels in is the Journey's own roll.</p>",
+    "results": {
+      "1-1": {
+        "description": "Hot and sunny"
+      },
+      "2-2": {
+        "description": "Warm and sunny"
+      },
+      "3-3": {
+        "description": "Warm and breezy"
+      },
+      "4-4": {
+        "description": "Hot and humid"
+      },
+      "5-5": {
+        "description": "Occasional heatwave"
+      },
+      "6-6": {
+        "description": "Dry and windy"
+      }
+    }
+  },
+  "Vald Weather (Harvest)": {
+    "name": "Vald Weather (Harvest)",
+    "description": "<p>Roll the Harvest column of the Weather in Vald table for a day of the Harvest season. It describes the day; the weather a journey travels in is the Journey's own roll.</p>",
+    "results": {
+      "1-1": {
+        "description": "Mild and sunny"
+      },
+      "2-2": {
+        "description": "Cool and clear"
+      },
+      "3-3": {
+        "description": "Warm and sunny"
+      },
+      "4-4": {
+        "description": "Warm and breezy"
+      },
+      "5-5": {
+        "description": "Light rain"
+      },
+      "6-6": {
+        "description": "Heavy rain"
+      }
+    }
+  },
+  "Vald Weather (Wet)": {
+    "name": "Vald Weather (Wet)",
+    "description": "<p>Roll the Wet column of the Weather in Vald table for a day of the Wet season. It describes the day; the weather a journey travels in is the Journey's own roll.</p>",
+    "results": {
+      "1-1": {
+        "description": "Light rain"
+      },
+      "2-2": {
+        "description": "Overcast"
+      },
+      "3-3": {
+        "description": "Breezy"
+      },
+      "4-4": {
+        "description": "Heavy rain"
+      },
+      "5-5": {
+        "description": "Thunderstorms"
+      },
+      "6-6": {
+        "description": "Occasional showers"
+      }
+    }
+  },
+  "Wilderness Encounter": {
+    "name": "Wilderness Encounter",
+    "description": "<p>A generic table of common wild creatures. Each result links a 2e bestiary Actor; the description leads with how many appear.</p>",
+    "results": {
+      "yTBCoCH66fz1gu8k": {
+        "description": "<p>1d6 Wolves</p>"
+      },
+      "Q2aQ8ViEEhAMOkD5": {
+        "description": "<p>1d6 Bandits</p>"
+      },
+      "WbcwaRh6uYi6z8MA": {
+        "description": "<p>1d6 Goblins</p>"
+      },
+      "aoFzG2WoSFxgyiAm": {
+        "description": "<p>1d4 Blood Elk</p>"
+      },
+      "jo4PEg991b997h8A": {
+        "description": "<p>1d4 Vipers</p>"
+      },
+      "A3W0fHKZSTQ8Fzvm": {
+        "description": "<p>1d3 Harpies</p>"
+      },
+      "Fw3WBZzXgHMzaRaC": {
+        "description": "<p>1d3 Bugbears</p>"
+      },
+      "Onir1WODihbgnbAd": {
+        "description": "<p>1 swarm of Killer Bees</p>"
+      },
+      "r7WmoY1pXk5j0gj8": {
+        "description": "<p>1 Night Cat</p>"
+      },
+      "tooOo1i4DuD6DMAx": {
+        "description": "<p>1 Grizzly Bear</p>"
+      }
+    }
+  },
+  "Wilderness Event": {
+    "name": "Wilderness Event",
+    "description": "<p>The Warden rolls once on this table after each Wilderness Action (twice at night).</p>",
+    "results": {
+      "1-1": {
+        "name": "Encounter",
+        "description": "<p>Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC reactions if applicable.</p>"
+      },
+      "2-2": {
+        "name": "Sign",
+        "description": "<p>The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.</p>"
+      },
+      "3-3": {
+        "name": "Environment",
+        "description": "<p>A shift in weather or terrain.</p>"
+      },
+      "4-4": {
+        "name": "Loss",
+        "description": "<p>The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.</p>"
+      },
+      "5-5": {
+        "name": "Exhaustion",
+        "description": "<p>The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional <strong>Wilderness Action</strong>) or adding <strong>Fatigue</strong> to the PC's inventory to represent their difficulties.</p>"
+      },
+      "6-6": {
+        "name": "Discovery",
+        "description": "<p>The party finds food, treasure, or other useful resources. The <strong>Warden</strong> can instead choose to reveal the primary feature of the area.</p>"
+      }
+    }
+  }
+}

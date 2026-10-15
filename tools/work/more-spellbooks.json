@@ -1,0 +1,642 @@
+{
+  "_folders": {
+    "Common (300gp)": "Common (300gp)",
+    "Greater (600gp)": "Greater (600gp)"
+  },
+  "Adaptive Skin": {
+    "name": "Adaptive Skin",
+    "description": "<p>Target can exist comfortably in hot or cold environments.</p>"
+  },
+  "Animal Call": {
+    "name": "Animal Call",
+    "description": "<p>Summons a mundane beast. It holds no loyalty towards you or your allies.</p>"
+  },
+  "Anti-Magic Globe": {
+    "name": "Anti-Magic Globe",
+    "description": "<p>A thin shell of magical protection surrounds a small area around the caster. For every additional minute the globe is active they take one additional Fatigue.</p>"
+  },
+  "Arachnid's Finesse": {
+    "name": "Arachnid's Finesse",
+    "description": "<p>Target can walk on walls and ceilings.</p>"
+  },
+  "Arcane Arrow": {
+    "name": "Arcane Arrow",
+    "description": "<p>Green energy bursts from your fingers, dealing 1d6 damage and ignoring mundane armor.</p>"
+  },
+  "Arcane Confinement": {
+    "name": "Arcane Confinement",
+    "description": "<p>Target is bound by magical rope, able only to speak but nothing more.</p>"
+  },
+  "Arcane Epistle": {
+    "name": "Arcane Epistle",
+    "description": "<p>You write a letter that only its intended reader can understand.</p>"
+  },
+  "Arcane Fireworks": {
+    "name": "Arcane Fireworks",
+    "description": "<p>Target flame becomes a great conflagration of heat, light and sound.</p>"
+  },
+  "Arcane Stain": {
+    "name": "Arcane Stain",
+    "description": "<p>Inscribes an invisible rune you can feel. Suffer 1d4 WIL loss if removed.</p>"
+  },
+  "Architect's Eye": {
+    "name": "Architect's Eye",
+    "description": "<p>Any hidden doors within 18 m (60 ft) light up as if on fire.</p>"
+  },
+  "Architect's Perfection": {
+    "name": "Architect's Perfection",
+    "description": "<p>Create a holographic wall, floor, or ceiling that looks absolutely real.</p>"
+  },
+  "Astral Step": {
+    "name": "Astral Step",
+    "description": "<p>You and anyone touching you instantly transport to a known location you have been to before.</p>"
+  },
+  "Banishment": {
+    "name": "Banishment",
+    "description": "<p>WIL save or creature to returns to native plane.</p>"
+  },
+  "Become Unseen": {
+    "name": "Become Unseen",
+    "description": "<p>Target becomes invisible for 1 hour, and are still able use abilities and attack without detection. Afterwards they become incapacitated (deprived)</p>"
+  },
+  "Beguilement": {
+    "name": "Beguilement",
+    "description": "<p>Target humanoid must make a WIL save or is controlled telepathically.</p>"
+  },
+  "Bewildering Fog": {
+    "name": "Bewildering Fog",
+    "description": "<p>A hazy fog surrounds you in a radius of 6 m (20 ft). Attacks within the mist are impaired.</p>"
+  },
+  "Blazing Defense": {
+    "name": "Blazing Defense",
+    "description": "<p>You manifest a shield of flame (+1 Armor, 1d6 damage). Fire cannot hurt you.</p>"
+  },
+  "Blessing": {
+    "name": "Blessing",
+    "description": "<p>Target’s attacks are enhanced and non-Blast attacks are impaired against them until they next take damage.</p>"
+  },
+  "Bolster": {
+    "name": "Bolster",
+    "description": "<p>A person you can see is emboldened by your words for a few minutes: their attacks are enhanced and they cannot become deprived.</p>"
+  },
+  "Bound": {
+    "name": "Bound",
+    "description": "<p>Target can make a single jump to any place they can see.</p>"
+  },
+  "Boundless Message": {
+    "name": "Boundless Message",
+    "description": "<p>Delivers a single sentence to any one creature instantaneously, no matter the distance.</p>"
+  },
+  "Breath Soup": {
+    "name": "Breath Soup",
+    "description": "<p>Blocks vision and slows movement.</p>"
+  },
+  "Burning Missile": {
+    "name": "Burning Missile",
+    "description": "<p>You fire an acid missile that does 1d6 damage to a target for every round it is not washed off.</p>"
+  },
+  "Burnishing Bubble": {
+    "name": "Burnishing Bubble",
+    "description": "<p>Target is enclosed by an impenetrable sphere that rolls along the ground, unless they pass a DEX save.</p>"
+  },
+  "Calcify": {
+    "name": "Calcify",
+    "description": "<p>Target object turns to stone at the caster's touch. Living targets save vs STR.</p>"
+  },
+  "Catsense": {
+    "name": "Catsense",
+    "description": "<p>Target has heightened senses for the next hour, especially at night.</p>"
+  },
+  "Chilling Graze": {
+    "name": "Chilling Graze",
+    "description": "<p>Target loses 1d4+1 STR and is deprived.</p>"
+  },
+  "Cinder Flesh": {
+    "name": "Cinder Flesh",
+    "description": "<p>Energy beams burn enemies (1d10 blast damage) in a straight line.</p>"
+  },
+  "Circle of Arcane Protection": {
+    "name": "Circle of Arcane Protection",
+    "description": "<p>Magical or godly beings cannot enter a 3 m (10 ft) circle.</p>"
+  },
+  "Cleanse": {
+    "name": "Cleanse",
+    "description": "<p>Rotten or poisoned food becomes edible.</p>"
+  },
+  "Cold Spray": {
+    "name": "Cold Spray",
+    "description": "<p>A spray of cold air does d6 damage 6 m (20 ft) in one direction.</p>"
+  },
+  "Conceal Object": {
+    "name": "Conceal Object",
+    "description": "<p>Masks an object against divination or scrying.</p>"
+  },
+  "Conquer Gravity": {
+    "name": "Conquer Gravity",
+    "description": "<p>Target moves up or down according to your whims.</p>"
+  },
+  "Cosmic Fingertips": {
+    "name": "Cosmic Fingertips",
+    "description": "<p>Your hands sculpt stone, rock or minerals into any form you please.</p>"
+  },
+  "Coup de Grâce": {
+    "name": "Coup de Grâce",
+    "description": "<p>An ally's next attack ignores armor and takes damage directly from their target's STR.</p>"
+  },
+  "Craft from Clay": {
+    "name": "Craft from Clay",
+    "description": "<p>Any natural, earthen target is transformed (rock to mud, lava to rock, etc).</p>"
+  },
+  "Create Unlife": {
+    "name": "Create Unlife",
+    "description": "<p>Creates 1d4 undead skeletons and zombies from corpses. WIL save every hour to control them.</p>"
+  },
+  "Cure-All": {
+    "name": "Cure-All",
+    "description": "<p>A single illness or disease dissipates at your touch.</p>"
+  },
+  "Curse of the Sightless": {
+    "name": "Curse of the Sightless",
+    "description": "<p>Anyone within eyesight must make a WIL save or be blinded.</p>"
+  },
+  "Curse Unlife": {
+    "name": "Curse Unlife",
+    "description": "<p>Deals 1d4+2 STR loss to one undead, ignoring armor and resistances.</p>"
+  },
+  "Cute Ink": {
+    "name": "Cute Ink",
+    "description": "<p>A single page in a book can be altered to hide its true content.</p>"
+  },
+  "Darksight": {
+    "name": "Darksight",
+    "description": "<p>Target can see 18 m (60 ft) in total darkness.</p>"
+  },
+  "Death's Breath": {
+    "name": "Death's Breath",
+    "description": "<p>You summon a poisonous cloud (d6 STR loss) you can control.</p>"
+  },
+  "Devil's Comedian": {
+    "name": "Devil's Comedian",
+    "description": "<p>WIL save or target laughs uncontrollably, unable to take any action.</p>"
+  },
+  "Disaster Fluid": {
+    "name": "Disaster Fluid",
+    "description": "<p>Anything in a 3 m (10 ft) square becomes slippery; DEX save to avoid slipping.</p>"
+  },
+  "Doppelganger": {
+    "name": "Doppelganger",
+    "description": "<p>You spawn 1d6 decoy duplicates of someone you touch. Decoys are dispelled with a touch.</p>"
+  },
+  "Doubleskin": {
+    "name": "Doubleskin",
+    "description": "<p>Target humanoid doubles in size.</p>"
+  },
+  "Dreampoison": {
+    "name": "Dreampoison",
+    "description": "<p>Target is deprived after suffering a night of bad dreams.</p>"
+  },
+  "Dreamtalker": {
+    "name": "Dreamtalker",
+    "description": "<p>Sends a message to anyone currently asleep.</p>"
+  },
+  "Earsplit": {
+    "name": "Earsplit",
+    "description": "<p>Anyone within earshot is deafened.</p>"
+  },
+  "Easy Descent": {
+    "name": "Easy Descent",
+    "description": "<p>Objects or creatures nearby fall very slowly.</p>"
+  },
+  "Edifice": {
+    "name": "Edifice",
+    "description": "<p>You summon a stone wall up to 6 m (20 ft) wide that you can control.</p>"
+  },
+  "Ensorcelled": {
+    "name": "Ensorcelled",
+    "description": "<p>Creatures are enraptured for a few minutes unless they pass a WIL save.</p>"
+  },
+  "Envision": {
+    "name": "Envision",
+    "description": "<p>Spies on a target you have met, even across vast distances. On a WIL save, they can feel your presence.</p>"
+  },
+  "Epidemic": {
+    "name": "Epidemic",
+    "description": "<p>Infects target with disease, which spreads until the source of magic is destroyed.</p>"
+  },
+  "Extraplanar Convocation": {
+    "name": "Extraplanar Convocation",
+    "description": "<p>Summons any extraplanar being onto your plane. It holds no loyalty towards you or your allies.</p>"
+  },
+  "Extraplanar Request": {
+    "name": "Extraplanar Request",
+    "description": "<p>Ask a single question of a random extraplanar entity.</p>"
+  },
+  "Fiery Missile": {
+    "name": "Fiery Missile",
+    "description": "<p>A bow you touch can fire flaming arrows (1d10 damage) for one minute.</p>"
+  },
+  "Find Virulence": {
+    "name": "Find Virulence",
+    "description": "<p>Detects poison in any creature or object within 9 m (30 ft).</p>"
+  },
+  "Flicker": {
+    "name": "Flicker",
+    "description": "<p>Target randomly vanishes and reappears once at will.</p>"
+  },
+  "Fog of Nausea": {
+    "name": "Fog of Nausea",
+    "description": "<p>A cloud of nauseating vapors pours out from the Spellbook's pages. Anyone nearby makes a STR save or vomit uncontrollably.</p>"
+  },
+  "Foolishness": {
+    "name": "Foolishness",
+    "description": "<p>A target you touch becomes vulnerable to wild mood swings, sweeping conclusions and silly behavior. They also lose 1d6 WIL for 24 hours (down to a minimum of 1).</p>"
+  },
+  "Fortify": {
+    "name": "Fortify",
+    "description": "<p>Damage from heat, ice, acid or electricity are impaired against a target for the next hour.</p>"
+  },
+  "Frozen Corpse": {
+    "name": "Frozen Corpse",
+    "description": "<p>A corpse you touch is preserved.</p>"
+  },
+  "Gift of Flight": {
+    "name": "Gift of Flight",
+    "description": "<p>Target can fly for a short while.</p>"
+  },
+  "Gorgon's Gaze": {
+    "name": "Gorgon's Gaze",
+    "description": "<p>Target is transformed into a statue on a failed WIL save. A success reverses the spell; holder must pass a WIL save or the book is destroyed.</p>"
+  },
+  "Great Ball of Fire": {
+    "name": "Great Ball of Fire",
+    "description": "<p>You fire a ball of flame (1d10 damage) up to 6 m (20 ft) away.</p>"
+  },
+  "Hand of the Protector": {
+    "name": "Hand of the Protector",
+    "description": "<p>A giant, floating hand blocks all damage from a single opponent until you are safe from danger.</p>"
+  },
+  "Healing Grace": {
+    "name": "Healing Grace",
+    "description": "<p>A target heals 1d6 STR, and you become deprived until you take the time to mediate, pray or sleep.</p>"
+  },
+  "Heatless Torch": {
+    "name": "Heatless Torch",
+    "description": "<p>Turns any object into a permanent, heatless torch.</p>"
+  },
+  "Hedgemagick": {
+    "name": "Hedgemagick",
+    "description": "<p>You perform a minor magical trick (create flame, wind, light or sound).</p>"
+  },
+  "Hovering Protection": {
+    "name": "Hovering Protection",
+    "description": "<p>A hovering, transparent disk materializes around an ally granting 1 Armor.</p>"
+  },
+  "Ice Ray": {
+    "name": "Ice Ray",
+    "description": "<p>Ice and snow flow from your fingerprints, dealing 1d8 damage (blast) in a straight line.</p>"
+  },
+  "Icy Tempest": {
+    "name": "Icy Tempest",
+    "description": "<p>Hail deals 1d10 damage in a 6 m (20 ft) radius.</p>"
+  },
+  "Ill Fate": {
+    "name": "Ill Fate",
+    "description": "<p>Target automatically fails next their next save.</p>"
+  },
+  "Illusory Landscape": {
+    "name": "Illusory Landscape",
+    "description": "<p>You can make one type of terrain appear like another.</p>"
+  },
+  "Incorporeal Shrug": {
+    "name": "Incorporeal Shrug",
+    "description": "<p>Ignore any one attack.</p>"
+  },
+  "Induce Despair": {
+    "name": "Induce Despair",
+    "description": "<p>Target must pass a WIL save or its attacks are impaired.</p>"
+  },
+  "Insubstantiate": {
+    "name": "Insubstantiate",
+    "description": "<p>Target becomes insubstantial and can float.</p>"
+  },
+  "Kraken's Curse": {
+    "name": "Kraken's Curse",
+    "description": "<p>Tentacles grapple all within 6 m (20 ft), STR save to break free.</p>"
+  },
+  "Latch": {
+    "name": "Latch",
+    "description": "<p>An unlocked box, cabinet or door opens or closes at your command.</p>"
+  },
+  "Lichsense": {
+    "name": "Lichsense",
+    "description": "<p>You feel any undead within 18 m (60 ft). WIL save to avoid detection by intelligent undead.</p>"
+  },
+  "Light Show": {
+    "name": "Light Show",
+    "description": "<p>You control a dazzling display of light and color.</p>"
+  },
+  "Lightning Strike": {
+    "name": "Lightning Strike",
+    "description": "<p>Electricity flings from your fingertips doing 1d10 damage (blast) in a line.</p>"
+  },
+  "Magic Seal": {
+    "name": "Magic Seal",
+    "description": "<p>Magically locks a door, portal or chest.</p>"
+  },
+  "Major Genesis": {
+    "name": "Major Genesis",
+    "description": "<p>Creates an object of nonliving stone or metal no greater than 5 cubic foot in size.</p>"
+  },
+  "Maker": {
+    "name": "Maker",
+    "description": "<p>Transforms raw materials into finished items.</p>"
+  },
+  "Manic Fury": {
+    "name": "Manic Fury",
+    "description": "<p>A target's attacks are enhanced. They must make a WIL save after a successful killing or lose control, attacking anyone in sight.</p>"
+  },
+  "Master Undead": {
+    "name": "Master Undead",
+    "description": "<p>Undead creatures obey your command. Intelligent undead make a WIL save.</p>"
+  },
+  "Mental Tripwire": {
+    "name": "Mental Tripwire",
+    "description": "<p>Intruders set off an alarm audible only to you.</p>"
+  },
+  "Minor Genesis": {
+    "name": "Minor Genesis",
+    "description": "<p>Creates an object of nonliving matter no greater than one cubic foot in size.</p>"
+  },
+  "Molasses Veins": {
+    "name": "Molasses Veins",
+    "description": "<p>A single target moves at half speed.</p>"
+  },
+  "Murky Bubble": {
+    "name": "Murky Bubble",
+    "description": "<p>You create a bubble supernatural shadow within a 6 m (20 ft) radius.</p>"
+  },
+  "Obfuscate": {
+    "name": "Obfuscate",
+    "description": "<p>Target cannot be observed either through divination or scrying.</p>"
+  },
+  "Opaque Cover": {
+    "name": "Opaque Cover",
+    "description": "<p>Details about your person become obscured and unmemorable.</p>"
+  },
+  "Orb of Ignus": {
+    "name": "Orb of Ignus",
+    "description": "<p>You control a floating ball of fire (1d8 damage) for a short while.</p>"
+  },
+  "Orb of Immortality": {
+    "name": "Orb of Immortality",
+    "description": "<p>Mundane attacks cannot harm anyone within a 3 m (10 ft) radius, or vice-versa.</p>"
+  },
+  "Otherworldly Pet": {
+    "name": "Otherworldly Pet",
+    "description": "<p>Summons an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty towards you or your allies.</p>"
+  },
+  "Paincurrent": {
+    "name": "Paincurrent",
+    "description": "<p>An arc of electricity passes from your fingertips to a target you touch. They take 1d8 damage (1d10 if wearing metal armor).</p>"
+  },
+  "Perfect Illusion": {
+    "name": "Perfect Illusion",
+    "description": "<p>Creates an image with sound, smell and thermal effects, activated according to a trigger you choose. Touching the image or making a successful WIL save will reveal the illusion.</p>"
+  },
+  "Perfect Preservation": {
+    "name": "Perfect Preservation",
+    "description": "<p>A weapon you touch becomes immune to wear, mundane damage or elemental effects. The spell wears off after a day.</p>"
+  },
+  "Phantom Hound": {
+    "name": "Phantom Hound",
+    "description": "<p>A ghostly canine (4 HP, bite (1d4)) obeys your commands for up to one hour.</p>"
+  },
+  "Phase Anchor": {
+    "name": "Phase Anchor",
+    "description": "<p>Binds an extraplanar creature to your will until it performs a task specific task, after which they must pass a WIL save to escape (good luck).</p>"
+  },
+  "Phase Sneak": {
+    "name": "Phase Sneak",
+    "description": "<p>Anyone within a 3 m (10 ft) radius is rendered invisible.</p>"
+  },
+  "Phase Touch": {
+    "name": "Phase Touch",
+    "description": "<p>A disembodied, floating hand obeys your whims but is immaterial. The next Spellbook, ability or item that relies on touch now works from a distance.</p>"
+  },
+  "Philosopher's Mind": {
+    "name": "Philosopher's Mind",
+    "description": "<p>Target is immune to spiritual or psychic attacks, as well as any attempts at mental or spiritual manipulation or persuasion.</p>"
+  },
+  "Planar Anchor": {
+    "name": "Planar Anchor",
+    "description": "<p>Bars extradimensional movement.</p>"
+  },
+  "Plant Scourge": {
+    "name": "Plant Scourge",
+    "description": "<p>Plants within eyesight wither and die.</p>"
+  },
+  "Pocket Sun": {
+    "name": "Pocket Sun",
+    "description": "<p>You create a halo of bright light in a 18 m (60 ft) radius.</p>"
+  },
+  "Prisma Shard": {
+    "name": "Prisma Shard",
+    "description": "<p>An array of hypnotic lights fascinate nearby creatures, unless they pass a WIL save.</p>"
+  },
+  "Profane Reveal": {
+    "name": "Profane Reveal",
+    "description": "<p>Target an empty space to reveal invisible objects or creatures.</p>"
+  },
+  "Purge Text": {
+    "name": "Purge Text",
+    "description": "<p>Mundane or magical writing vanishes at your touch.</p>"
+  },
+  "Ravenless Message": {
+    "name": "Ravenless Message",
+    "description": "<p>You send a short message 1.6 km that anyone along its path can hear.</p>"
+  },
+  "Reject Unlife": {
+    "name": "Reject Unlife",
+    "description": "<p>Nearby undead are immobilized for 30 seconds or until you take another action.</p>"
+  },
+  "Remembered Voice": {
+    "name": "Remembered Voice",
+    "description": "<p>A spot you mark becomes the trigger for a supernatural recording of your voice, delivering a short message of your choice.</p>"
+  },
+  "Reverie": {
+    "name": "Reverie",
+    "description": "<p>Targets become dazed for a moment, as if lost in daydream.</p>"
+  },
+  "Rigor Touch": {
+    "name": "Rigor Touch",
+    "description": "<p>Target must DEX save or is paralyzed.</p>"
+  },
+  "Runic Harm": {
+    "name": "Runic Harm",
+    "description": "<p>A rune you draw causes great pain to the reader, who must WIL save or scream until they pass out (1d4 WIL loss). A successful save destroys the rune.</p>"
+  },
+  "Runic Slumber": {
+    "name": "Runic Slumber",
+    "description": "<p>A rune you draw puts the reader into a magical sleep that lasts 1d6 hours.</p>"
+  },
+  "Safe Haven": {
+    "name": "Safe Haven",
+    "description": "<p>You summon a floating, invisible refuge for 8 hours. It fits up to 8 people comfortably.</p>"
+  },
+  "Scry Creature": {
+    "name": "Scry Creature",
+    "description": "<p>Indicates the precise location of a familiar creature.</p>"
+  },
+  "Scrying Ward": {
+    "name": "Scrying Ward",
+    "description": "<p>For 24 hours you become aware of any magical eavesdropping.</p>"
+  },
+  "Sculpt Water": {
+    "name": "Sculpt Water",
+    "description": "<p>Raise, lower or part nearby water.</p>"
+  },
+  "Secret Attaché": {
+    "name": "Secret Attaché",
+    "description": "<p>You summon an invisible creature of great power that obeys your every command. Reading from other Spellbooks dispels the creature.</p>"
+  },
+  "Signal": {
+    "name": "Signal",
+    "description": "<p>Sends up a flare that can be seen for some distance.</p>"
+  },
+  "Sinister Polymorph": {
+    "name": "Sinister Polymorph",
+    "description": "<p>WIL save or target is transformed into a harmless animal.</p>"
+  },
+  "Sky Raft": {
+    "name": "Sky Raft",
+    "description": "<p>You summon a 0.9 m (3 ft) wide floating disk that holds up to 50 kg.</p>"
+  },
+  "Sonic Shattering": {
+    "name": "Sonic Shattering",
+    "description": "<p>A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor.</p>"
+  },
+  "Soul Annex": {
+    "name": "Soul Annex",
+    "description": "<p>Target's spirit is caged within their body and replaced with the caster's. If the body is slain the original soul departs, but the caster must pass a WIL save to return to their body.</p>"
+  },
+  "Steer's Strength": {
+    "name": "Steer's Strength",
+    "description": "<p>Target's strength triples; unarmed attacks are enhanced.</p>"
+  },
+  "Stone Hide": {
+    "name": "Stone Hide",
+    "description": "<p>Target gains armor 3 but running and swimming are impossible.</p>"
+  },
+  "Strength Tap": {
+    "name": "Strength Tap",
+    "description": "<p>A target you touch loses 1d6 STR, which is transferred to you (up to your max STR).</p>"
+  },
+  "Stumbling Steps": {
+    "name": "Stumbling Steps",
+    "description": "<p>A target you touch becomes deprived and loses 1 STR.</p>"
+  },
+  "Stupefaction": {
+    "name": "Stupefaction",
+    "description": "<p>Target temporarily loses sense of place and time. WIL save to overcome.</p>"
+  },
+  "Summon Elemental": {
+    "name": "Summon Elemental",
+    "description": "<p>A being of fire, wire, earth, or wind manifests from available matter to perform a single task for the caster. It follows this command against its will.</p>"
+  },
+  "Sway Will": {
+    "name": "Sway Will",
+    "description": "<p>A target is compelled to follow a stated course of action, without understanding why.</p>"
+  },
+  "Temporary Reprieve": {
+    "name": "Temporary Reprieve",
+    "description": "<p>Target regains any lost STR, but loses it again after a few minutes.</p>"
+  },
+  "Terrify": {
+    "name": "Terrify",
+    "description": "<p>Targets within eyesight must pass a WIL save or flee.</p>"
+  },
+  "Terrifying Illusion": {
+    "name": "Terrifying Illusion",
+    "description": "<p>A target is hunted by a terrible creature only they can see. Its attacks do 1d10 damage; on Critical Damage they must pass a WIL save or become catatonic.</p>"
+  },
+  "Thief's Bane": {
+    "name": "Thief's Bane",
+    "description": "<p>An object appears trapped, even to an experienced thief.</p>"
+  },
+  "Tongue of the Blue Serpent": {
+    "name": "Tongue of the Blue Serpent",
+    "description": "<p>Rust-colored, serpentine letters materialize on a surface you choose. Anyone reading these words becomes immobilized unless they succeed a WIL save.</p>"
+  },
+  "Torrential Moat": {
+    "name": "Torrential Moat",
+    "description": "<p>You summon a powerful wind that deflects arrows, smaller creatures, and noxious gases.</p>"
+  },
+  "Toxic Blast": {
+    "name": "Toxic Blast",
+    "description": "<p>A small orb of acid deals 1d6 blast damage to a target.</p>"
+  },
+  "Transform Aura": {
+    "name": "Transform Aura",
+    "description": "<p>Target's aura is made non-magical or vice-versa.</p>"
+  },
+  "True Name": {
+    "name": "True Name",
+    "description": "<p>Determines the properties of a magical item you touch.</p>"
+  },
+  "Trueshift": {
+    "name": "Trueshift",
+    "description": "<p>A willing target takes on a new form (keeping only their WIL), but must pass a WIL save to shift out.</p>"
+  },
+  "Twilight Steed": {
+    "name": "Twilight Steed",
+    "description": "<p>Summons an arcane steed that never tires, but dissipates within daylight.</p>"
+  },
+  "Ultimate Sacrifice": {
+    "name": "Ultimate Sacrifice",
+    "description": "<p>The book's holder transfer's their life force into a corpse, reviving both body and soul.</p>"
+  },
+  "Uncurse": {
+    "name": "Uncurse",
+    "description": "<p>A person or object you touch is freed from a curse or nefarious spell.</p>"
+  },
+  "Undefinable Target": {
+    "name": "Undefinable Target",
+    "description": "<p>An ally becomes immune to mundane ranged attacks for one round.</p>"
+  },
+  "Undeniable Courage": {
+    "name": "Undeniable Courage",
+    "description": "<p>Target passes next WIL save and their attacks are enhanced.</p>"
+  },
+  "Unflappable Endurance": {
+    "name": "Unflappable Endurance",
+    "description": "<p>Target does not take Fatigue from non-magical activities or become deprived until their next rest.</p>"
+  },
+  "Vermin Plague": {
+    "name": "Vermin Plague",
+    "description": "<p>Summons a swarm of bats, rats, spiders or similar creatures of your choice. They are harmless but distracting and hold no loyalty towards you or your allies.</p>"
+  },
+  "Warrior's Edge": {
+    "name": "Warrior's Edge",
+    "description": "<p>Target weapon is enhanced, and victim automatically fails a critical damage save.</p>"
+  },
+  "Windborn": {
+    "name": "Windborn",
+    "description": "<p>You direct a powerful wind in a straight line, strong enough to blow over small boulders.</p>"
+  },
+  "Winter's Woe": {
+    "name": "Winter's Woe",
+    "description": "<p>An icy storm assails multiple targets, obscuring visibility and making the ground icy and treacherous.</p>"
+  },
+  "Wizard's Grasp": {
+    "name": "Wizard's Grasp",
+    "description": "<p>You control a phantasmal hand that can lift up to 2.5 kg.</p>"
+  },
+  "Wizard's Haven": {
+    "name": "Wizard's Haven",
+    "description": "<p>A small, walled-in area cannot be scryed.</p>"
+  },
+  "Word of Pain": {
+    "name": "Word of Pain",
+    "description": "<p>A single phrase from your lips does 1d10 blast damage. Affected targets are also deafened.</p>"
+  }
+}

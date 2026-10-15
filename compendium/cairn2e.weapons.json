@@ -1,0 +1,65 @@
+{
+  "label": "Waffen",
+  "entries": {
+    "Axe": {
+      "name": "Axt",
+      "description": "<p>Axt (W8 Schaden)</p>"
+    },
+    "Bow": {
+      "name": "Bogen",
+      "description": "<p>Bogen (W6 Schaden, <em>sperrig</em>)</p>"
+    },
+    "Crossbow": {
+      "name": "Armbrust",
+      "description": "<p>Armbrust (W8 Schaden, <em>sperrig</em>)</p>"
+    },
+    "Cudgel": {
+      "name": "Knüppel",
+      "description": "<p>Knüppel (W6 Schaden)</p>"
+    },
+    "Dagger": {
+      "name": "Dolch",
+      "description": "<p>Dolch (W6 Schaden)</p>"
+    },
+    "Flail": {
+      "name": "Flegel",
+      "description": "<p>Flegel (W8 Schaden)</p>"
+    },
+    "Halberd": {
+      "name": "Hellebarde",
+      "description": "<p>Hellebarde (W10 Schaden, <em>sperrig</em>)</p>"
+    },
+    "Long Sword": {
+      "name": "Langschwert",
+      "description": "<p>Langschwert (W10 Schaden, <em>sperrig</em>)</p>"
+    },
+    "Mace": {
+      "name": "Streitkolben",
+      "description": "<p>Streitkolben (W8 Schaden)</p>"
+    },
+    "Sickle": {
+      "name": "Sichel",
+      "description": "<p>Sichel (W6 Schaden)</p>"
+    },
+    "Sling": {
+      "name": "Schleuder",
+      "description": "<p>Schleuder (W6 Schaden)</p>"
+    },
+    "Spear": {
+      "name": "Speer",
+      "description": "<p>Speer (W8 Schaden)</p>"
+    },
+    "Staff": {
+      "name": "Stab",
+      "description": "<p>Stab (W6 Schaden)</p>"
+    },
+    "Sword": {
+      "name": "Schwert",
+      "description": "<p>Schwert (W8 Schaden)</p>"
+    },
+    "War Hammer": {
+      "name": "Kriegshammer",
+      "description": "<p>Kriegshammer (W10 Schaden, <em>sperrig</em>)</p>"
+    }
+  }
+}

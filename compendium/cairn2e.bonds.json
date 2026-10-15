@@ -1,0 +1,75 @@
+{
+ "label": "Bänder",
+ "entries": {
+  "Bonds": {
+   "name": "Bänder",
+   "description": "<p>Würfle auf dieser Tabelle bei der Charaktererschaffung, nach den Merkmalen.</p>",
+   "results": {
+    "1-1": {
+     "description": "<p>Du hast einen <strong>Edelstein</strong> (500 GM, kalt und spröde) von einem längst toten Verwandten geerbt. Er kam mit einer Warnung: Verprasse dein neu gewonnenes Glück, und eine längst vergessen geglaubte Schuld wird eingefordert.</p>"
+    },
+    "2-2": {
+     "description": "<p>Eine entfernte Cousine hat dir ein kleines Erbe hinterlassen. Nimm <strong>20 GM</strong> und einen <strong>Seltsenen Kompass</strong> (<em>Kleinzeug</em>), der immer auf etwas tief im Wald zeigt.</p>"
+    },
+    "3-3": {
+     "description": "<p>Du trägst ein <strong>Porträt</strong> in einem Medaillon (<em>Kleinzeug</em>) von einer vergangenen Liebe, die vor langem im Wald verschwand. Irgendwie weißt du, dass sie noch lebt.</p>"
+    },
+    "4-4": {
+     "description": "<p>Du hast ein <strong>Winziges Kristallprisma</strong> (<em>Kleinzeug</em>) im Erdreich gefunden. Gegen das Licht gehalten, zeigt es Visionen eines unbekannten Ortes tief im Wald. Manchmal spürst du eine Gegenwart, die zurückblickt.</p>"
+    },
+    "5-5": {
+     "description": "<p>Du hast einmal eine Najade aus einem erstickten Bach befreit. Zum Dank gab sie dir etwas <strong>Silbermoos</strong> (Kleinzeug). Schlucke es in der Nähe von Wasser, und die Kreatur wird einmal kommen, um ihre Schuld zu begleichen.</p>"
+    },
+    "6-6": {
+     "description": "<p>Du hast ein altes <strong>Tagebuch</strong> geerbt, in Baumrinde gebunden. Jeden Abend füllen sich seine Seiten mit den Ereignissen des Tages, derb aus Sicht des Tagebuchs geschrieben. Die Schrift ist grob, aber genau.</p>"
+    },
+    "7-7": {
+     "description": "<p>Du hütest ein lange schlummerndes Familiengeheimnis. Nimm eine Hälfte eines <strong>Alten Schlüssels</strong> (<em>Kleinzeug</em>). Man sagt, mit seiner Zwillingshälfte vereint, öffnet er ein <strong>Tor</strong> durch jede Tür.</p>"
+    },
+    "8-8": {
+     "description": "<p>Du hast einen <strong>Brief</strong> (<em>Kleinzeug</em>) erhalten, der unwiderlegbar beweist, dass dein wahres Elternhaus das Feen-Adel ist. Die Notiz nennt auch Datum und Ort, wo du den Verfasser triffst, tief im Wald.</p>"
+    },
+    "9-9": {
+     "description": "<p>Du schuldest einem Adligen eine große Schuld und trägst seinen <strong>Siegelring</strong> (<em>Kleinzeug</em>), der als Beweis seines Schutzes wie deiner Verpflichtung dient.</p>"
+    },
+    "10-10": {
+     "description": "<p>Du hast einen <strong>Ungezähmten Geist</strong> verschluckt, der in deinem Inneren tobt und verlangt, heimgebracht zu werden, tief in den Wald. Er belegt einen Platz, nimmt aber jeden Tag eine <strong>Erschöpfung</strong> auf. Er will dich am Leben (vorerst).</p>"
+    },
+    "11-11": {
+     "description": "<p>Ein fahrender Erzähler spann dir einst Geschichten von großem Schatz tief im Wald. Du hielst es für Schwärmerei, bis er dir eine <strong>Aufgerollte Karte</strong> (<em>Kleinzeug</em>) mit einem X gab.</p>"
+    },
+    "12-12": {
+     "description": "<p>Auf deinen Reisen trafst du einen sterbenden Jäger, der dich bat, eine Nachricht an seine Liebsten zu überbringen. Nimm einen <strong>Brief</strong> (<em>Kleinzeug</em>), mit Baumsaft versiegelt. Er ist nur an den <strong>Winterfürsten</strong> adressiert.</p>"
+    },
+    "13-13": {
+     "description": "<p>Du fandest ein verwundetes Tier im Wald, entschied dich aber, es zu ignorieren. Jetzt siehst du es überall, aber nur, wenn du allein bist. Es sieht traurig aus, aber nicht wütend. Du kannst nicht in <em>Panik</em> geraten, wenn du allein handelst.</p>"
+    },
+    "14-14": {
+     "description": "<p>Du hast einem Kindheitsfreund versprochen, ihm ein seltenes Geschenk mitzubringen, etwas Einmaliges auf der Welt. Nimm ein <strong>Armband</strong> (<em>Kleinzeug</em>) aus Zwirn und Wildblumen geflochten.</p>"
+    },
+    "15-15": {
+     "description": "<p>Du hast eine Kreatur des Waldes erzürnt, und sie hat dich mit einem <strong>Steinernen Herz</strong> verflucht. Mit jedem Monat wird der Stein um einen Platz schwerer. Bis deine Schuld getilgt ist, kannst du nicht wirklich sterben.</p>"
+    },
+    "16-16": {
+     "description": "<p>Du hast eine <strong>Pfeife</strong> (<em>Kleinzeug</em>) aus dem Ast eines <strong>Eichenherrn</strong> geschnitzt. Deine Tat blieb nicht unbemerkt. Die Pfeife scheint dich einfach nicht loszulassen.</p>"
+    },
+    "17-17": {
+     "description": "<p>Die <strong>Morgenbrigade</strong> erwies deiner Familie einen Dienst und gab euch eine getrocknete <strong>Blutrote Blume</strong> (<em>Kleinzeug</em>) als Beweis. Wird die Blume weiß, heißt das: eine Gegenleistung wird fällig.</p>"
+    },
+    "18-18": {
+     "description": "<p>Ein Unterhalter besuchte einst dein Zuhause und erfüllte es mit Geschichte und Lied. Eines Tages ging er ohne ein Wort und ließ nur eine <strong>Miniatur-Laute</strong> zurück. Innen klappert etwas.</p>"
+    },
+    "19-19": {
+     "description": "<p>Eine weiße Krähe erschien dir im Traum, mit einem Zweig im Schnabel. Am Morgen wachtest du mit dem <strong>Zweig</strong> (<em>Kleinzeug</em>) in der Hand auf. Du glaubst, er bringt dir Glück. Er riecht schwach nach Schwefel.</p>"
+    },
+    "20-20": {
+     "description": "<p>Einer deiner Vorfahren hat eine <strong>Mooshexe</strong> beleidigt, die ihr Blut verfluchte. Dein Antlitz lässt Spiegel zerspringen. Dir ist aufgefallen, dass die Scherben manchmal Illusionen enthüllen.</p>"
+    },
+    "j5nEv07SaCOrZ3F2": {
+     "name": "Gold",
+     "description": ""
+    }
+   }
+  }
+ }
+}

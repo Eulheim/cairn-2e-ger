@@ -1,0 +1,285 @@
+{
+ "label": "Charaktermerkmale",
+ "entries": {
+  "Clothing": {
+   "name": "Kleidung",
+   "results": {
+    "1-1": {
+     "description": "Antik"
+    },
+    "2-2": {
+     "description": "Blutig"
+    },
+    "3-3": {
+     "description": "Elegant"
+    },
+    "4-4": {
+     "description": "Schmutzig"
+    },
+    "5-5": {
+     "description": "Ausländisch"
+    },
+    "6-6": {
+     "description": "Zerfranst"
+    },
+    "7-7": {
+     "description": "Zerknittert"
+    },
+    "8-8": {
+     "description": "Livree"
+    },
+    "9-9": {
+     "description": "Ranzig"
+    },
+    "10-10": {
+     "description": "Besudelt"
+    }
+   }
+  },
+  "Face": {
+   "name": "Gesicht",
+   "results": {
+    "1-1": {
+     "description": "Knochig"
+    },
+    "2-2": {
+     "description": "Gebrochen"
+    },
+    "3-3": {
+     "description": "Gemeißelt"
+    },
+    "4-4": {
+     "description": "Verlängert"
+    },
+    "5-5": {
+     "description": "Blass"
+    },
+    "6-6": {
+     "description": "Perfekt"
+    },
+    "7-7": {
+     "description": "Kokett"
+    },
+    "8-8": {
+     "description": "Scharf"
+    },
+    "9-9": {
+     "description": "Kantig"
+    },
+    "10-10": {
+     "description": "Eingesunken"
+    }
+   }
+  },
+  "Hair": {
+   "name": "Haare",
+   "results": {
+    "1-1": {
+     "description": "Glatze"
+    },
+    "2-2": {
+     "description": "Geflochten"
+    },
+    "3-3": {
+     "description": "Lockig"
+    },
+    "4-4": {
+     "description": "Ungepflegt"
+    },
+    "5-5": {
+     "description": "Kraus"
+    },
+    "6-6": {
+     "description": "Lang"
+    },
+    "7-7": {
+     "description": "Üppig"
+    },
+    "8-8": {
+     "description": "Fettig"
+    },
+    "9-9": {
+     "description": "Wellig"
+    },
+    "10-10": {
+     "description": "Spärlich"
+    }
+   }
+  },
+  "Physique": {
+   "name": "Körperbau",
+   "results": {
+    "1-1": {
+     "description": "Sportlich"
+    },
+    "2-2": {
+     "description": "Kräftig"
+    },
+    "3-3": {
+     "description": "Schlaff"
+    },
+    "4-4": {
+     "description": "Schlaksig"
+    },
+    "5-5": {
+     "description": "Wetterhand"
+    },
+    "6-6": {
+     "description": "Mager"
+    },
+    "7-7": {
+     "description": "Klein"
+    },
+    "8-8": {
+     "description": "Statuesk"
+    },
+    "9-9": {
+     "description": "Stämmig"
+    },
+    "10-10": {
+     "description": "Turmhoch"
+    }
+   }
+  },
+  "Skin": {
+   "name": "Haut",
+   "results": {
+    "1-1": {
+     "description": "Muttermal"
+    },
+    "2-2": {
+     "description": "Gezeichnet"
+    },
+    "3-3": {
+     "description": "Fettig"
+    },
+    "4-4": {
+     "description": "Rosig"
+    },
+    "5-5": {
+     "description": "Vernarbt"
+    },
+    "6-6": {
+     "description": "Weich"
+    },
+    "7-7": {
+     "description": "Gebräunt"
+    },
+    "8-8": {
+     "description": "Tätowiert"
+    },
+    "9-9": {
+     "description": "Wettergegerbt"
+    },
+    "10-10": {
+     "description": "Schwimmhäutig"
+    }
+   }
+  },
+  "Speech": {
+   "name": "Sprechweise",
+   "results": {
+    "1-1": {
+     "description": "Schroff"
+    },
+    "2-2": {
+     "description": "Dröhnend"
+    },
+    "3-3": {
+     "description": "Rätselhaft"
+    },
+    "4-4": {
+     "description": "Monoton"
+    },
+    "5-5": {
+     "description": "Förmlich"
+    },
+    "6-6": {
+     "description": "Raue"
+    },
+    "7-7": {
+     "description": "Präzise"
+    },
+    "8-8": {
+     "description": "Piepsig"
+    },
+    "9-9": {
+     "description": "Stotternd"
+    },
+    "10-10": {
+     "description": "Flüsternd"
+    }
+   }
+  },
+  "Vice": {
+   "name": "Laster",
+   "results": {
+    "1-1": {
+     "description": "Aggressiv"
+    },
+    "2-2": {
+     "description": "Verbittert"
+    },
+    "3-3": {
+     "description": "Feige"
+    },
+    "4-4": {
+     "description": "Falsch"
+    },
+    "5-5": {
+     "description": "Gierig"
+    },
+    "6-6": {
+     "description": "Faul"
+    },
+    "7-7": {
+     "description": "Nervös"
+    },
+    "8-8": {
+     "description": "Grobb"
+    },
+    "9-9": {
+     "description": "Eitel"
+    },
+    "10-10": {
+     "description": "Rachsüchtig"
+    }
+   }
+  },
+  "Virtue": {
+   "name": "Tugend",
+   "results": {
+    "1-1": {
+     "description": "Ehrgeizig"
+    },
+    "2-2": {
+     "description": "Vorsichtig"
+    },
+    "3-3": {
+     "description": "Mutig"
+    },
+    "4-4": {
+     "description": "Diszipliniert"
+    },
+    "5-5": {
+     "description": "Gesellig"
+    },
+    "6-6": {
+     "description": "Ehrenhaft"
+    },
+    "7-7": {
+     "description": "Bescheiden"
+    },
+    "8-8": {
+     "description": "Barmherzig"
+    },
+    "9-9": {
+     "description": "Gelassen"
+    },
+    "10-10": {
+     "description": "Tolerant"
+    }
+   }
+  }
+ }
+}

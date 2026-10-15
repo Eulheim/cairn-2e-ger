@@ -1,0 +1,82 @@
+{
+  "Aurifex": {
+    "name": "Aurifex",
+    "description": "<blockquote><p>You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs.</p></blockquote>"
+  },
+  "Barber-Surgeon": {
+    "name": "Barber-Surgeon",
+    "description": "<blockquote><p>You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.</p></blockquote>"
+  },
+  "Beast Handler": {
+    "name": "Beast Handler",
+    "description": "<blockquote><p>You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.</p></blockquote>"
+  },
+  "Bonekeeper": {
+    "name": "Bonekeeper",
+    "description": "<blockquote><p>You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well.</p></blockquote>"
+  },
+  "Cutpurse": {
+    "name": "Cutpurse",
+    "description": "<blockquote><p>You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard.</p></blockquote>"
+  },
+  "Fieldwarden": {
+    "name": "Fieldwarden",
+    "description": "<blockquote><p>Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the <strong>Bonds</strong> table.</p></blockquote>"
+  },
+  "Fletchwind": {
+    "name": "Fletchwind",
+    "description": "<blockquote><p>You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring naught but a warning, singing the silent promise of a quick death.</p></blockquote>"
+  },
+  "Foundling": {
+    "name": "Foundling",
+    "description": "<blockquote><p>An odd birthmark, a strange smell: somehow, the touch of <em>elsewhere</em> still lingers. Wherever you are, you have trouble fitting in. Roll on the <strong>Omens</strong> table (even if you're not the youngest player), but keep the results private for now.</p></blockquote>"
+  },
+  "Fungal Forager": {
+    "name": "Fungal Forager",
+    "description": "<blockquote><p>You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.</p></blockquote>"
+  },
+  "Greenwise": {
+    "name": "Greenwise",
+    "description": "<blockquote><p>You delve deep into the <strong>Wood</strong>, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.</p></blockquote>"
+  },
+  "Half Witch": {
+    "name": "Half Witch",
+    "description": "<blockquote><p>Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.</p></blockquote>"
+  },
+  "Hexenbane": {
+    "name": "Hexenbane",
+    "description": "<blockquote><p>You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.</p></blockquote>"
+  },
+  "Jongleur": {
+    "name": "Jongleur",
+    "description": "<blockquote><p>What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside?</p></blockquote>"
+  },
+  "Kettlewright": {
+    "name": "Kettlewright",
+    "description": "<blockquote><p>You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal.</p></blockquote>"
+  },
+  "Marchguard": {
+    "name": "Marchguard",
+    "description": "<blockquote><p>Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.</p></blockquote>"
+  },
+  "Mountebank": {
+    "name": "Mountebank",
+    "description": "<blockquote><p>Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly.</p></blockquote>"
+  },
+  "Outrider": {
+    "name": "Outrider",
+    "description": "<blockquote><p>Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.</p></blockquote>"
+  },
+  "Prowler": {
+    "name": "Prowler",
+    "description": "<blockquote><p>You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it.</p></blockquote>"
+  },
+  "Rill Runner": {
+    "name": "Rill Runner",
+    "description": "<blockquote><p>You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.</p></blockquote>"
+  },
+  "Scrivener": {
+    "name": "Scrivener",
+    "description": "<blockquote><p>You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.</p></blockquote>"
+  }
+}
