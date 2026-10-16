@@ -1,5 +1,13 @@
 # Changelog
 
+## Unveröffentlicht
+- Alle Kompendien vollständig übersetzt: Bestiarium, Hintergründe,
+  Hintergrund-Tabellen, Startausrüstung, Relikte, Weitere Ausrüstung,
+  Weitere Zauberbücher/Schriften, Gefolgsleute, Vald-Kalender,
+  Spieler-Handbuch, Wärter-Handbuch (40 Tabellen).
+- Neue UI-Schlüssel des Reise-Trackers übersetzt.
+- `check` läuft fehlerfrei gegen System 0.1.6.
+
 ## 0.1.0
 
 - Erste Version: komplette deutsche Oberfläche (1354 Schlüssel).

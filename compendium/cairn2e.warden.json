@@ -1,0 +1,3631 @@
+{
+  "label": "warden",
+  "entries": {
+    "Dungeon Event": {
+      "name": "Verlies-Ereignis",
+      "description": "<p>Die Wärterin würfelt auf dieser Tabelle, wenn die Gruppe mehr als einen Verlies-Zyklus an einem Ort oder einer Stelle verbringt, sich schnell oder wahllos durch einen Raum bewegt, einen neuen Bereich, eine Ebene oder Zone betritt oder einen lauten Aufruhr verursacht.</p>",
+      "results": {
+        "1-1": {
+          "name": "Begegnung",
+          "description": "<p>Würfle auf einer Begegnungstabelle. Möglicherweise <strong>feindselig</strong>. (Siehe Reaktionen.)</p>"
+        },
+        "2-2": {
+          "name": "Spur",
+          "description": "<p>Ein Hinweis, Fährte, Spur, verlassene Höhle, Geruch, Opfer usw. wird entdeckt.</p>"
+        },
+        "3-3": {
+          "name": "Umgebung",
+          "description": "<p>Die Umgebung verändert sich oder eskaliert. Wasser steigt, Decken stürzen ein, ein Ritual nähert sich seinem Höhepunkt usw.</p>"
+        },
+        "4-4": {
+          "name": "Verlust",
+          "description": "<p>Fackeln werden ausgeblasen, ein aktiver Zauber verpufft usw. Die Gruppe muss den Effekt erst auflösen, bevor sie weiterzieht.</p>"
+        },
+        "5-5": {
+          "name": "Erschöpfung",
+          "description": "<p>Die Gruppe muss rasten (was einen weiteren Wurf auf dieser Tabelle auslöst), eine <strong>Erschöpfung</strong> nehmen oder eine Ration verzehren.</p>"
+        },
+        "6-6": {
+          "name": "Stille",
+          "description": "<p>Die Gruppe wird (vorerst) in Ruhe gelassen und ist sicher.</p>"
+        }
+      }
+    },
+    "Faction Advantage Count": {
+      "name": "Anzahl Fraktionsvorteile",
+      "description": "<p>Würfle die Anzahl der Vorteile einer Fraktion, dann so oft auf Fraktionsvorteil (Wiederholungen neu würfeln).</p>",
+      "results": {
+        "1-1": {
+          "description": "1"
+        },
+        "2-2": {
+          "description": "1"
+        },
+        "3-3": {
+          "description": "1"
+        },
+        "4-4": {
+          "description": "1"
+        },
+        "5-5": {
+          "description": "1"
+        },
+        "6-6": {
+          "description": "1"
+        },
+        "7-7": {
+          "description": "1"
+        },
+        "8-8": {
+          "description": "2"
+        },
+        "9-9": {
+          "description": "2"
+        },
+        "10-10": {
+          "description": "2"
+        },
+        "11-11": {
+          "description": "2"
+        },
+        "12-12": {
+          "description": "2"
+        },
+        "13-13": {
+          "description": "3"
+        },
+        "14-14": {
+          "description": "3"
+        },
+        "15-15": {
+          "description": "3"
+        },
+        "16-16": {
+          "description": "3"
+        },
+        "17-17": {
+          "description": "3"
+        },
+        "18-18": {
+          "description": "4"
+        },
+        "19-19": {
+          "description": "4"
+        },
+        "20-20": {
+          "description": "4"
+        }
+      }
+    },
+    "Faction Advantage": {
+      "name": "Fraktionsvorteil",
+      "description": "<p>Würfle die Spalte „Vorteil“ der Tabelle Fraktionsvorteile.</p>",
+      "results": {
+        "1-1": {
+          "description": "Bündnisse"
+        },
+        "2-2": {
+          "description": "Anonymität"
+        },
+        "3-3": {
+          "description": "Apparate"
+        },
+        "4-4": {
+          "description": "Überzeugungen"
+        },
+        "5-5": {
+          "description": "Charisma"
+        },
+        "6-6": {
+          "description": "Überzeugtheit"
+        },
+        "7-7": {
+          "description": "Treueeid"
+        },
+        "8-8": {
+          "description": "Waffengewalt"
+        },
+        "9-9": {
+          "description": "Informationen"
+        },
+        "10-10": {
+          "description": "Blutlinie"
+        },
+        "11-11": {
+          "description": "Magie"
+        },
+        "12-12": {
+          "description": "Mitglieder"
+        },
+        "13-13": {
+          "description": "Beliebtheit"
+        },
+        "14-14": {
+          "description": "Stellung"
+        },
+        "15-15": {
+          "description": "Ruf"
+        },
+        "16-16": {
+          "description": "Ressourcen"
+        },
+        "17-17": {
+          "description": "Skrupellosigkeit"
+        },
+        "18-18": {
+          "description": "Spezialisierung"
+        },
+        "19-19": {
+          "description": "Unterwanderung"
+        },
+        "20-20": {
+          "description": "Reichtum"
+        }
+      }
+    },
+    "Faction Agenda": {
+      "name": "Fraktionsagenda",
+      "description": "<p>Würfle die Spalte „Agenda“ der Tabelle Fraktionsagenden.</p>",
+      "results": {
+        "1-1": {
+          "description": "Aufsteigen auf eine höhere Ebene"
+        },
+        "2-2": {
+          "description": "Artefakte sammeln"
+        },
+        "3-3": {
+          "description": "Eine seltene Ressource kultivieren"
+        },
+        "4-4": {
+          "description": "Etwas verteidigen"
+        },
+        "5-5": {
+          "description": "Etwas zerstören"
+        },
+        "6-6": {
+          "description": "Andere beherrschen"
+        },
+        "7-7": {
+          "description": "Sich bereichern"
+        },
+        "8-8": {
+          "description": "Eine Kolonie gründen"
+        },
+        "9-9": {
+          "description": "Eine neue Ordnung errichten"
+        },
+        "10-10": {
+          "description": "Unerschlossene Länder erkunden"
+        },
+        "11-11": {
+          "description": "Ein Bündnis schmieden"
+        },
+        "12-12": {
+          "description": "Eine andere Fraktion infiltrieren"
+        },
+        "13-13": {
+          "description": "Den Status quo bewahren"
+        },
+        "14-14": {
+          "description": "Ein Geheimnis schützen"
+        },
+        "15-15": {
+          "description": "Das Land säubern"
+        },
+        "16-16": {
+          "description": "Ein Geheimnis enthüllen"
+        },
+        "17-17": {
+          "description": "Rache"
+        },
+        "18-18": {
+          "description": "Eine frühere Macht wiederbeleben"
+        },
+        "19-19": {
+          "description": "Neue Führung suchen"
+        },
+        "20-20": {
+          "description": "Eine Überzeugung verbreiten"
+        }
+      }
+    },
+    "Faction Agent": {
+      "name": "Fraktionsagent",
+      "description": "<p>Würfle die Spalte „Agent“ der Tabelle Fraktionstypen – eine Repräsentantin der Fraktion.</p>",
+      "results": {
+        "1-1": {
+          "description": "Akademikerin"
+        },
+        "2-2": {
+          "description": "Assassine"
+        },
+        "3-3": {
+          "description": "Schmied"
+        },
+        "4-4": {
+          "description": "Bäuerin"
+        },
+        "5-5": {
+          "description": "General"
+        },
+        "6-6": {
+          "description": "Grabgräberin"
+        },
+        "7-7": {
+          "description": "Wache"
+        },
+        "8-8": {
+          "description": "Heilerin"
+        },
+        "9-9": {
+          "description": "Kerkermeisterin"
+        },
+        "10-10": {
+          "description": "Arbeiterin"
+        },
+        "11-11": {
+          "description": "Lord"
+        },
+        "12-12": {
+          "description": "Händlerin"
+        },
+        "13-13": {
+          "description": "Mönch"
+        },
+        "14-14": {
+          "description": "Mystikerin"
+        },
+        "15-15": {
+          "description": "Fremde"
+        },
+        "16-16": {
+          "description": "Hausiererin"
+        },
+        "17-17": {
+          "description": "Politikerin"
+        },
+        "18-18": {
+          "description": "Spionin"
+        },
+        "19-19": {
+          "description": "Diebin"
+        },
+        "20-20": {
+          "description": "Schlägerin"
+        }
+      }
+    },
+    "Faction Name Formula": {
+      "name": "Fraktionsnamen-Formel",
+      "description": "<p>Würfle die Tabelle Fraktionsnamen-Formeln der Benennungsvorgehen; [Gruppe] ist ein Wurf auf Gruppentyp.</p>",
+      "results": {
+        "1-1": {
+          "description": "(Die/Das) [Nomen] [Gruppe]"
+        },
+        "2-2": {
+          "description": "(Die/Das) [Adjektiv] [Gruppe]"
+        },
+        "3-3": {
+          "description": "[Gruppe] von (der/dem) [Nomen]"
+        },
+        "4-4": {
+          "description": "[Adjektiv] [Gruppe] von (der/dem) [Nomen]"
+        },
+        "5-5": {
+          "description": "(Die/Das) [Nomen]-[Adjektiv]-[Gruppe]"
+        },
+        "6-6": {
+          "description": "[Gruppe] von (der/dem) [Adjektiv] [Nomen]"
+        }
+      }
+    },
+    "Faction Obstacle": {
+      "name": "Fraktionshindernis",
+      "description": "<p>Würfle die Spalte „Hindernis“ der Tabelle Fraktionsagenden.</p>",
+      "results": {
+        "1-1": {
+          "description": "Eine geografische Barriere oder unpassierbares Gelände."
+        },
+        "2-2": {
+          "description": "Eine wichtige Information muss erst gefunden werden."
+        },
+        "3-3": {
+          "description": "Ein bestimmtes Objekt oder Relikt ist erforderlich."
+        },
+        "4-4": {
+          "description": "Eine mächtige Figur oder ein Feind muss beseitigt werden."
+        },
+        "5-5": {
+          "description": "Eine seltene, aber notwendige Ressource muss erst beschafft werden."
+        },
+        "6-6": {
+          "description": "Eine schwere Schuld zwingt die Fraktion zu drastischen Entscheidungen."
+        },
+        "7-7": {
+          "description": "Eine bekannte Prophezeiung sagt das unmittelbare Scheitern voraus."
+        },
+        "8-8": {
+          "description": "Zuerst muss ein Bündnis mit einem Feind geschlossen werden."
+        },
+        "9-9": {
+          "description": "Eine innere Spaltung droht, die Fraktion zu zerreißen."
+        },
+        "10-10": {
+          "description": "Eine andere Fraktion verfolgt dasselbe Ziel."
+        },
+        "11-11": {
+          "description": "Eine andere Fraktion stellt sich entgegen."
+        },
+        "12-12": {
+          "description": "Einfache Leute widersetzen sich offen."
+        },
+        "13-13": {
+          "description": "Erhebliches Kapital ist erforderlich."
+        },
+        "14-14": {
+          "description": "Verstößt gegen einen etablierten Kodex, mit schwerer Strafe."
+        },
+        "15-15": {
+          "description": "Durch kulturelle Tabus behindert."
+        },
+        "16-16": {
+          "description": "Viele müssen sterben – aus Notwendigkeit oder als Folge."
+        },
+        "17-17": {
+          "description": "Muss zu einem seltenen oder exakten Zeitpunkt ausgeführt werden."
+        },
+        "18-18": {
+          "description": "Muss in absoluter Heimlichkeit ausgeführt werden."
+        },
+        "19-19": {
+          "description": "Erfordert eine Spezialistin ungewöhnlicher Art."
+        },
+        "20-20": {
+          "description": "Das Ergebnis würde zu einem unvermeidlichen Krieg führen."
+        }
+      }
+    },
+    "Faction Trait 1": {
+      "name": "Fraktionsmerkmal 1",
+      "description": "<p>Würfle die Spalte „Merkmal 1“ der Tabelle Fraktionsmerkmale.</p>",
+      "results": {
+        "1-1": {
+          "description": "Vorsichtig"
+        },
+        "2-2": {
+          "description": "Beziehungsvoll"
+        },
+        "3-3": {
+          "description": "Dekadent"
+        },
+        "4-4": {
+          "description": "Diszipliniert"
+        },
+        "5-5": {
+          "description": "Diskret"
+        },
+        "6-6": {
+          "description": "Dogmatisch"
+        },
+        "7-7": {
+          "description": "Rätselhaft"
+        },
+        "8-8": {
+          "description": "Wild"
+        },
+        "9-9": {
+          "description": "Unbestechlich"
+        },
+        "10-10": {
+          "description": "Intellektuell"
+        },
+        "11-11": {
+          "description": "Urteilsfähig"
+        },
+        "12-12": {
+          "description": "Scharfsinnig"
+        },
+        "13-13": {
+          "description": "Treue"
+        },
+        "14-14": {
+          "description": "Akribisch"
+        },
+        "15-15": {
+          "description": "Beliebt"
+        },
+        "16-16": {
+          "description": "Pragmatisch"
+        },
+        "17-17": {
+          "description": "Einfallsreich"
+        },
+        "18-18": {
+          "description": "Verschwiegen"
+        },
+        "19-19": {
+          "description": "Gewieft"
+        },
+        "20-20": {
+          "description": "Hartnäckig"
+        }
+      }
+    },
+    "Faction Trait 2": {
+      "name": "Fraktionsmerkmal 2",
+      "description": "<p>Würfle die Spalte „Merkmal 2“ der Tabelle Fraktionsmerkmale.</p>",
+      "results": {
+        "1-1": {
+          "description": "Anpassungsfähig"
+        },
+        "2-2": {
+          "description": "Pleite"
+        },
+        "3-3": {
+          "description": "Brutal"
+        },
+        "4-4": {
+          "description": "Kooperationsbereit"
+        },
+        "5-5": {
+          "description": "Korrupt"
+        },
+        "6-6": {
+          "description": "Feige"
+        },
+        "7-7": {
+          "description": "Grausam"
+        },
+        "8-8": {
+          "description": "Listig"
+        },
+        "9-9": {
+          "description": "Zynisch"
+        },
+        "10-10": {
+          "description": "Trügerisch"
+        },
+        "11-11": {
+          "description": "Großzügig"
+        },
+        "12-12": {
+          "description": "Unfähig"
+        },
+        "13-13": {
+          "description": "Manipulativ"
+        },
+        "14-14": {
+          "description": "Launisch"
+        },
+        "15-15": {
+          "description": "Verklemmt"
+        },
+        "16-16": {
+          "description": "Skrupellos"
+        },
+        "17-17": {
+          "description": "Egoistisch"
+        },
+        "18-18": {
+          "description": "Schleichend"
+        },
+        "19-19": {
+          "description": "Bedrängt"
+        },
+        "20-20": {
+          "description": "Fremdenfeindlich"
+        }
+      }
+    },
+    "Faction Type": {
+      "name": "Fraktionstyp",
+      "description": "<p>Würfle die Spalte „Typ“ der Tabelle Fraktionstypen.</p>",
+      "results": {
+        "1-1": {
+          "description": "Handwerker"
+        },
+        "2-2": {
+          "description": "Einfache Leute"
+        },
+        "3-3": {
+          "description": "Kriminelle"
+        },
+        "4-4": {
+          "description": "Kultisten"
+        },
+        "5-5": {
+          "description": "Verbannte"
+        },
+        "6-6": {
+          "description": "Entdecker"
+        },
+        "7-7": {
+          "description": "Industrielle"
+        },
+        "8-8": {
+          "description": "Kaufleute"
+        },
+        "9-9": {
+          "description": "Militär"
+        },
+        "10-10": {
+          "description": "Adelige"
+        },
+        "11-11": {
+          "description": "Nomaden"
+        },
+        "12-12": {
+          "description": "Pilger"
+        },
+        "13-13": {
+          "description": "Beschützer"
+        },
+        "14-14": {
+          "description": "Religiöse"
+        },
+        "15-15": {
+          "description": "Revolutionäre"
+        },
+        "16-16": {
+          "description": "Herrscher"
+        },
+        "17-17": {
+          "description": "Gelehrte"
+        },
+        "18-18": {
+          "description": "Siedler"
+        },
+        "19-19": {
+          "description": "Spione"
+        },
+        "20-20": {
+          "description": "Stamm"
+        }
+      }
+    },
+    "Forest Adjective": {
+      "name": "Wald-Adjektiv",
+      "description": "<p>Würfle die Spalte „Adjektive“ der Tabelle Waldnamen der Benennungsvorgehen.</p>",
+      "results": {
+        "1-1": {
+          "description": "Verlassene"
+        },
+        "2-2": {
+          "description": "Uralte"
+        },
+        "3-3": {
+          "description": "Lockende"
+        },
+        "4-4": {
+          "description": "Blühende"
+        },
+        "5-5": {
+          "description": "Spenreiche"
+        },
+        "6-6": {
+          "description": "Himmlische"
+        },
+        "7-7": {
+          "description": "Verzauberte"
+        },
+        "8-8": {
+          "description": "Kristallene"
+        },
+        "9-9": {
+          "description": "Gefleckte"
+        },
+        "10-10": {
+          "description": "Dichte"
+        },
+        "11-11": {
+          "description": "Öde"
+        },
+        "12-12": {
+          "description": "Ferne"
+        },
+        "13-13": {
+          "description": "Hallende"
+        },
+        "14-14": {
+          "description": "Unheimliche"
+        },
+        "15-15": {
+          "description": "Smaragdgrüne"
+        },
+        "16-16": {
+          "description": "Verwunschene"
+        },
+        "17-17": {
+          "description": "Rätselhafte"
+        },
+        "18-18": {
+          "description": "Flüchtige"
+        },
+        "19-19": {
+          "description": "Ewige"
+        },
+        "20-20": {
+          "description": "Ätherische"
+        },
+        "21-21": {
+          "description": "Exotische"
+        },
+        "22-22": {
+          "description": "Sagenhafte"
+        },
+        "23-23": {
+          "description": "Blühende"
+        },
+        "24-24": {
+          "description": "Vergessene"
+        },
+        "25-25": {
+          "description": "Verstoßene"
+        },
+        "26-26": {
+          "description": "Duftende"
+        },
+        "27-27": {
+          "description": "Frostige"
+        },
+        "28-28": {
+          "description": "Sanfte"
+        },
+        "29-29": {
+          "description": "Glitzernde"
+        },
+        "30-30": {
+          "description": "Düstere"
+        },
+        "31-31": {
+          "description": "Gnarrenreiche"
+        },
+        "32-32": {
+          "description": "Goldene"
+        },
+        "33-33": {
+          "description": "Grasige"
+        },
+        "34-34": {
+          "description": "Harmonische"
+        },
+        "35-35": {
+          "description": "Heimgesuchte"
+        },
+        "36-36": {
+          "description": "Verborgene"
+        },
+        "37-37": {
+          "description": "Verstumme"
+        },
+        "38-38": {
+          "description": "Schroffe"
+        },
+        "39-39": {
+          "description": "Prächtige"
+        },
+        "40-40": {
+          "description": "Üppige"
+        },
+        "41-41": {
+          "description": "Laubige"
+        },
+        "42-42": {
+          "description": "Einsame"
+        },
+        "43-43": {
+          "description": "Drohende"
+        },
+        "44-44": {
+          "description": "Verlorene"
+        },
+        "45-45": {
+          "description": "Leuchtende"
+        },
+        "46-46": {
+          "description": "Strahlende"
+        },
+        "47-47": {
+          "description": "Üppige"
+        },
+        "48-48": {
+          "description": "Majestätische"
+        },
+        "49-49": {
+          "description": "Melancholische"
+        },
+        "50-50": {
+          "description": "Bedrohliche"
+        },
+        "51-51": {
+          "description": "Nebelverhangene"
+        },
+        "52-52": {
+          "description": "Mondbeschienene"
+        },
+        "53-53": {
+          "description": "Moosige"
+        },
+        "54-54": {
+          "description": "Murmeln"
+        },
+        "55-55": {
+          "description": "Mysteriöse"
+        },
+        "56-56": {
+          "description": "Mystische"
+        },
+        "57-57": {
+          "description": "Prunkvolle"
+        },
+        "58-58": {
+          "description": "Überwucherte"
+        },
+        "59-59": {
+          "description": "Prekäre"
+        },
+        "60-60": {
+          "description": "Urtümliche"
+        },
+        "61-61": {
+          "description": "Unberührte"
+        },
+        "62-62": {
+          "description": "Reizvolle"
+        },
+        "63-63": {
+          "description": "Strahlende"
+        },
+        "64-64": {
+          "description": "Tosende"
+        },
+        "65-65": {
+          "description": "Robuste"
+        },
+        "66-66": {
+          "description": "Rauschende"
+        },
+        "67-67": {
+          "description": "Heilige"
+        },
+        "68-68": {
+          "description": "Abgeschiedene"
+        },
+        "69-69": {
+          "description": "Stille"
+        },
+        "70-70": {
+          "description": "Schlangenhafte"
+        },
+        "71-71": {
+          "description": "Schattige"
+        },
+        "72-72": {
+          "description": "Schimmernde"
+        },
+        "73-73": {
+          "description": "Verhüllte"
+        },
+        "74-74": {
+          "description": "Stille"
+        },
+        "75-75": {
+          "description": "Rauchige"
+        },
+        "76-76": {
+          "description": "Düstere"
+        },
+        "77-77": {
+          "description": "Spektrale"
+        },
+        "78-78": {
+          "description": "Prachtvolle"
+        },
+        "79-79": {
+          "description": "Karge"
+        },
+        "80-80": {
+          "description": "Stattliche"
+        },
+        "81-81": {
+          "description": "Sonnenbeschienene"
+        },
+        "82-82": {
+          "description": "Sonnige"
+        },
+        "83-83": {
+          "description": "Wirbelnde"
+        },
+        "84-84": {
+          "description": "Verwachsene"
+        },
+        "85-85": {
+          "description": "Zeitlose"
+        },
+        "86-86": {
+          "description": "Turmhohe"
+        },
+        "87-87": {
+          "description": "Ruhige"
+        },
+        "88-88": {
+          "description": "Plätschernde"
+        },
+        "89-89": {
+          "description": "Zwielichtige"
+        },
+        "90-90": {
+          "description": "Verdrehte"
+        },
+        "91-91": {
+          "description": "Unsichtbare"
+        },
+        "92-92": {
+          "description": "Unnachgiebige"
+        },
+        "93-93": {
+          "description": "Verschleierte"
+        },
+        "94-94": {
+          "description": "Grünende"
+        },
+        "95-95": {
+          "description": "Lebendige"
+        },
+        "96-96": {
+          "description": "Verwitterte"
+        },
+        "97-97": {
+          "description": "Weinende"
+        },
+        "98-98": {
+          "description": "Flüsternde"
+        },
+        "99-99": {
+          "description": "Wilde"
+        },
+        "100-100": {
+          "description": "Windungsreiche"
+        }
+      }
+    },
+    "Forest Noun": {
+      "name": "Wald-Nomen",
+      "description": "<p>Würfle die Spalte „Nomen“ der Tabelle Waldnamen der Benennungsvorgehen.</p>",
+      "results": {
+        "1-1": {
+          "description": "Lauben"
+        },
+        "2-2": {
+          "description": "Bogen"
+        },
+        "3-3": {
+          "description": "Blüten"
+        },
+        "4-4": {
+          "description": "Moore"
+        },
+        "5-5": {
+          "description": "Aste"
+        },
+        "6-6": {
+          "description": "Dickicht"
+        },
+        "7-7": {
+          "description": "Brombeeren"
+        },
+        "8-8": {
+          "description": "Zweige"
+        },
+        "9-9": {
+          "description": "Dornengestrüpp"
+        },
+        "10-10": {
+          "description": "Brücke"
+        },
+        "11-11": {
+          "description": "Bach"
+        },
+        "12-12": {
+          "description": "Gestrüpp"
+        },
+        "13-13": {
+          "description": "Lager"
+        },
+        "14-14": {
+          "description": "Blätterdach"
+        },
+        "15-15": {
+          "description": "Wasserfall"
+        },
+        "16-16": {
+          "description": "Höhle"
+        },
+        "17-17": {
+          "description": "Kaverne"
+        },
+        "18-18": {
+          "description": "Jagdrevier"
+        },
+        "19-19": {
+          "description": "Lichtung"
+        },
+        "20-20": {
+          "description": "Baumgruppe"
+        },
+        "21-21": {
+          "description": "Niederwald"
+        },
+        "22-22": {
+          "description": "Gehölz"
+        },
+        "23-23": {
+          "description": "Klippen"
+        },
+        "24-24": {
+          "description": "Bach"
+        },
+        "25-25": {
+          "description": "Tal"
+        },
+        "26-26": {
+          "description": "Senke"
+        },
+        "27-27": {
+          "description": "Tau"
+        },
+        "28-28": {
+          "description": "Fell"
+        },
+        "29-29": {
+          "description": "Fenn"
+        },
+        "30-30": {
+          "description": "Farne"
+        },
+        "31-31": {
+          "description": "Laubwerk"
+        },
+        "32-32": {
+          "description": "Wald"
+        },
+        "33-33": {
+          "description": "Pilze"
+        },
+        "34-34": {
+          "description": "Bachtal"
+        },
+        "35-35": {
+          "description": "Lichtung"
+        },
+        "36-36": {
+          "description": "Tal"
+        },
+        "37-37": {
+          "description": "Schlucht"
+        },
+        "38-38": {
+          "description": "Fels"
+        },
+        "39-39": {
+          "description": "Grün"
+        },
+        "40-40": {
+          "description": "Grotte"
+        },
+        "41-41": {
+          "description": "Hain"
+        },
+        "42-42": {
+          "description": "Wuchs"
+        },
+        "43-43": {
+          "description": "Heide"
+        },
+        "44-44": {
+          "description": "Steinkreis"
+        },
+        "45-45": {
+          "description": "Höhle"
+        },
+        "46-46": {
+          "description": "Horizont"
+        },
+        "47-47": {
+          "description": "Knorr"
+        },
+        "48-48": {
+          "description": "Hügel"
+        },
+        "49-49": {
+          "description": "Blätter"
+        },
+        "50-50": {
+          "description": "Licht"
+        },
+        "51-51": {
+          "description": "Lehm"
+        },
+        "52-52": {
+          "description": "Webstuhl"
+        },
+        "53-53": {
+          "description": "Marsch"
+        },
+        "54-54": {
+          "description": "Wiese"
+        },
+        "55-55": {
+          "description": "Morast"
+        },
+        "56-56": {
+          "description": "Sumpf"
+        },
+        "57-57": {
+          "description": "Eiche"
+        },
+        "58-58": {
+          "description": "Oase"
+        },
+        "59-59": {
+          "description": "Obsthain"
+        },
+        "60-60": {
+          "description": "Pass"
+        },
+        "61-61": {
+          "description": "Gänge"
+        },
+        "62-62": {
+          "description": "Pfad"
+        },
+        "63-63": {
+          "description": "Pfade"
+        },
+        "64-64": {
+          "description": "Föhre"
+        },
+        "65-65": {
+          "description": "Wurzeln"
+        },
+        "66-66": {
+          "description": "Zuflucht"
+        },
+        "67-67": {
+          "description": "Schatten"
+        },
+        "68-68": {
+          "description": "Schatten"
+        },
+        "69-69": {
+          "description": "Schutz"
+        },
+        "70-70": {
+          "description": "Strauch"
+        },
+        "71-71": {
+          "description": "Abhang"
+        },
+        "72-72": {
+          "description": "Quelle"
+        },
+        "73-73": {
+          "description": "Regung"
+        },
+        "74-74": {
+          "description": "Steine"
+        },
+        "75-75": {
+          "description": "Bächlein"
+        },
+        "76-76": {
+          "description": "Stumpf"
+        },
+        "77-77": {
+          "description": "Senke"
+        },
+        "78-78": {
+          "description": "Rasen"
+        },
+        "79-79": {
+          "description": "Wiegen"
+        },
+        "80-80": {
+          "description": "Gestrüpp"
+        },
+        "81-81": {
+          "description": "Dickicht"
+        },
+        "82-82": {
+          "description": "Disteln"
+        },
+        "83-83": {
+          "description": "Scheitholz"
+        },
+        "84-84": {
+          "description": "Waldland"
+        },
+        "85-85": {
+          "description": "Turm"
+        },
+        "86-86": {
+          "description": "Pfade"
+        },
+        "87-87": {
+          "description": "Bäume"
+        },
+        "88-88": {
+          "description": "Stämme"
+        },
+        "89-89": {
+          "description": "Unterholz"
+        },
+        "90-90": {
+          "description": "Unterwuchs"
+        },
+        "91-91": {
+          "description": "Krautschicht"
+        },
+        "92-92": {
+          "description": "Ranken"
+        },
+        "93-93": {
+          "description": "Wasserlauf"
+        },
+        "94-94": {
+          "description": "Forst"
+        },
+        "95-95": {
+          "description": "Wildwald"
+        },
+        "96-96": {
+          "description": "Waldland"
+        },
+        "97-97": {
+          "description": "Wäldchen"
+        },
+        "98-98": {
+          "description": "Wälder"
+        },
+        "99-99": {
+          "description": "Jenseits"
+        },
+        "100-100": {
+          "description": "Windhauch"
+        }
+      }
+    },
+    "Group Type": {
+      "name": "Gruppentyp",
+      "description": "<p>Würfle die Tabelle Gruppentypen der Benennungsvorgehen.</p>",
+      "results": {
+        "1-1": {
+          "description": "Versammlung"
+        },
+        "2-2": {
+          "description": "Bruderschaft"
+        },
+        "3-3": {
+          "description": "Zirkel"
+        },
+        "4-4": {
+          "description": "Sippe"
+        },
+        "5-5": {
+          "description": "Koalition"
+        },
+        "6-6": {
+          "description": "Kollektiv"
+        },
+        "7-7": {
+          "description": "Bund"
+        },
+        "8-8": {
+          "description": "Enklave"
+        },
+        "9-9": {
+          "description": "Gemeinschaft"
+        },
+        "10-10": {
+          "description": "Zunft"
+        },
+        "11-11": {
+          "description": "Horde"
+        },
+        "12-12": {
+          "description": "Liga"
+        },
+        "13-13": {
+          "description": "Legion"
+        },
+        "14-14": {
+          "description": "Markt"
+        },
+        "15-15": {
+          "description": "Ministerium"
+        },
+        "16-16": {
+          "description": "Bewegung"
+        },
+        "17-17": {
+          "description": "Netzwerk"
+        },
+        "18-18": {
+          "description": "Orden"
+        },
+        "19-19": {
+          "description": "Pakt"
+        },
+        "20-20": {
+          "description": "Syndikat"
+        }
+      }
+    },
+    "Monster Ability Target": {
+      "name": "Monsterfähigkeits-Ziel",
+      "description": "<p>Würfle die Spalte „Ziel“ der Tabelle Monsterfähigkeiten.</p>",
+      "results": {
+        "1-1": {
+          "description": "Körper"
+        },
+        "2-2": {
+          "description": "Träume"
+        },
+        "3-3": {
+          "description": "Element"
+        },
+        "4-4": {
+          "description": "Gefühle"
+        },
+        "5-5": {
+          "description": "Energie"
+        },
+        "6-6": {
+          "description": "Gesundheit"
+        },
+        "7-7": {
+          "description": "Gehör"
+        },
+        "8-8": {
+          "description": "Illusionen"
+        },
+        "9-9": {
+          "description": "Licht"
+        },
+        "10-10": {
+          "description": "Erinnerung"
+        },
+        "11-11": {
+          "description": "Metall"
+        },
+        "12-12": {
+          "description": "Pflanzen"
+        },
+        "13-13": {
+          "description": "Geist"
+        },
+        "14-14": {
+          "description": "Stein"
+        },
+        "15-15": {
+          "description": "Umgebung"
+        },
+        "16-16": {
+          "description": "Zeit"
+        },
+        "17-17": {
+          "description": "Gesichtsfeld"
+        },
+        "18-18": {
+          "description": "Wasser"
+        },
+        "19-19": {
+          "description": "Wetter"
+        },
+        "20-20": {
+          "description": "Schwäche"
+        }
+      }
+    },
+    "Monster Ability": {
+      "name": "Monsterfähigkeit",
+      "description": "<p>Würfle die Spalte „Fähigkeit“ der Tabelle Monsterfähigkeiten.</p>",
+      "results": {
+        "1-1": {
+          "description": "Absorbiert"
+        },
+        "2-2": {
+          "description": "Verstärkt"
+        },
+        "3-3": {
+          "description": "Zieht an"
+        },
+        "4-4": {
+          "description": "Bindet"
+        },
+        "5-5": {
+          "description": "Tarnt"
+        },
+        "6-6": {
+          "description": "Beschwört"
+        },
+        "7-7": {
+          "description": "Steuert"
+        },
+        "8-8": {
+          "description": "Setzt außer Gefecht"
+        },
+        "9-9": {
+          "description": "Verdoppelt"
+        },
+        "10-10": {
+          "description": "Wächst"
+        },
+        "11-11": {
+          "description": "Manipuliert"
+        },
+        "12-12": {
+          "description": "Reflektiert"
+        },
+        "13-13": {
+          "description": "Regeneriert"
+        },
+        "14-14": {
+          "description": "Widersteht"
+        },
+        "15-15": {
+          "description": "Kehrt um"
+        },
+        "16-16": {
+          "description": "Formt"
+        },
+        "17-17": {
+          "description": "Schrumpft"
+        },
+        "18-18": {
+          "description": "Verwandelt"
+        },
+        "19-19": {
+          "description": "Fängt"
+        },
+        "20-20": {
+          "description": "Blitzt"
+        }
+      }
+    },
+    "Monster Attack": {
+      "name": "Monsterangriff",
+      "description": "<p>Würfle die Spalte „Typ“ der Tabelle Monsterangriffe.</p>",
+      "results": {
+        "1-1": {
+          "description": "Beißt"
+        },
+        "2-2": {
+          "description": "Stumpft"
+        },
+        "3-3": {
+          "description": "Verbrennt"
+        },
+        "4-4": {
+          "description": "Erfriert"
+        },
+        "5-5": {
+          "description": "Vergast"
+        },
+        "6-6": {
+          "description": "Tritt"
+        },
+        "7-7": {
+          "description": "Schlägt"
+        },
+        "8-8": {
+          "description": "Schießt"
+        },
+        "9-9": {
+          "description": "Hämmert"
+        },
+        "10-10": {
+          "description": "Haut"
+        },
+        "11-11": {
+          "description": "Schneidet"
+        },
+        "12-12": {
+          "description": "Zerschmettert"
+        },
+        "13-13": {
+          "description": "Spritzt"
+        },
+        "14-14": {
+          "description": "Presst"
+        },
+        "15-15": {
+          "description": "Sticht"
+        },
+        "16-16": {
+          "description": "Stachelt"
+        },
+        "17-17": {
+          "description": "Wirft"
+        },
+        "18-18": {
+          "description": "Berührt"
+        },
+        "19-19": {
+          "description": "Peitscht"
+        },
+        "20-20": {
+          "description": "Blitzt"
+        }
+      }
+    },
+    "Monster Category": {
+      "name": "Monsterkategorie",
+      "description": "<p>Würfle eine Monstergruppe, dann wähle oder würfle eines der aufgelisteten 2e-Bestiarium-Monster.</p>",
+      "results": {
+        "1-1": {
+          "name": "Vogelwesen",
+          "description": "<p>Phönix, Roch, Wyvern</p>"
+        },
+        "2-2": {
+          "name": "Bestie",
+          "description": "<p>Blut-Elch, Grizzlybär, Mörderbienen, Nachtkatze, Viper, Wolf</p>"
+        },
+        "3-3": {
+          "name": "Behemot",
+          "description": "<p>Grüner Drache, Purpurwurm</p>"
+        },
+        "4-4": {
+          "name": "Konstrukt",
+          "description": "<p>Knochenkonstrukt, Pflasterbeißer, Gargoyle</p>"
+        },
+        "5-5": {
+          "name": "Dämon",
+          "description": "<p>Höllenhund, Nachtmahr</p>"
+        },
+        "6-6": {
+          "name": "Extraplanar",
+          "description": "<p>Schreckensauge, Geistespeitscher</p>"
+        },
+        "7-7": {
+          "name": "Feenwesen",
+          "description": "<p>Irrwicht, Dryade, Frostelf, Feenkobold, Rotkappe, Nachthexe, Seehexe, Irrlicht</p>"
+        },
+        "8-8": {
+          "name": "Riese",
+          "description": "<p>Ettin, Wolkenriese, Sturmriese, Titan</p>"
+        },
+        "9-9": {
+          "name": "Goblinoid",
+          "description": "<p>Grottenschrat, Goblin, Hobgoblin, Oger, Wurzelgoblin, Troll, Waldtroll</p>"
+        },
+        "10-10": {
+          "name": "Humanoid",
+          "description": "<p>Akolyth, Räuber, Gnoll, Kultisten, Triton</p>"
+        },
+        "11-11": {
+          "name": "Hybrid",
+          "description": "<p>Zentaur, Mantikor, Minotaurus, Eulenbär</p>"
+        },
+        "12-12": {
+          "name": "Körperloses",
+          "description": "<p>Unsichtbarer Pirscher, Schatten</p>"
+        },
+        "13-13": {
+          "name": "Insektoid",
+          "description": "<p>Aranea, Grabschrecken, Höhlengrille, Riesenskorpion</p>"
+        },
+        "14-14": {
+          "name": "Echse",
+          "description": "<p>Basilisk, Hydra, Kobold, Naga, Reptilianer</p>"
+        },
+        "15-15": {
+          "name": "Magisches",
+          "description": "<p>Flimmerhund, Sprungpanther, Wasserelementar</p>"
+        },
+        "16-16": {
+          "name": "Mythisches",
+          "description": "<p>Todesfee, Greif, Harpyie, Hydra, Lamia, Einhorn</p>"
+        },
+        "17-17": {
+          "name": "Pflanze",
+          "description": "<p>Kriechranken, Wurzelhexe, Modernder Schlurfer, Baumhirte</p>"
+        },
+        "18-18": {
+          "name": "Gestaltwandler",
+          "description": "<p>Schweinding, Werwolf</p>"
+        },
+        "19-19": {
+          "name": "Untotes",
+          "description": "<p>Gruftwächter, Geist, Ghul, Leichnam, Mumie, Skelett, Vampir, Wicht, Zombie</p>"
+        },
+        "20-20": {
+          "name": "Ungewöhnliches",
+          "description": "<p>Gallertschleim, Mimik, Rostmonster, Kriegerschnecke</p>"
+        }
+      }
+    },
+    "Monster Critical Damage": {
+      "name": "Kritischer Monsterschaden",
+      "description": "<p>Würfle die Spalte „Kritischer Schaden“ der Tabelle Monsterangriffe.</p>",
+      "results": {
+        "1-1": {
+          "description": "Erstickt macht"
+        },
+        "2-2": {
+          "description": "Blutet"
+        },
+        "3-3": {
+          "description": "Blendet"
+        },
+        "4-4": {
+          "description": "Bricht"
+        },
+        "5-5": {
+          "description": "Zerquetscht"
+        },
+        "6-6": {
+          "description": "Verfallen lässt"
+        },
+        "7-7": {
+          "description": "Löst auf"
+        },
+        "8-8": {
+          "description": "Umgarnt"
+        },
+        "9-9": {
+          "description": "Explodiert"
+        },
+        "10-10": {
+          "description": "Packt"
+        },
+        "11-11": {
+          "description": "Setzt außer Gefecht"
+        },
+        "12-12": {
+          "description": "Ritzt auf"
+        },
+        "13-13": {
+          "description": "Verflüssigt"
+        },
+        "14-14": {
+          "description": "Lähmt"
+        },
+        "15-15": {
+          "description": "Versteinert"
+        },
+        "16-16": {
+          "description": "Vergiftet"
+        },
+        "17-17": {
+          "description": "Durchbohrt"
+        },
+        "18-18": {
+          "description": "Amputiert"
+        },
+        "19-19": {
+          "description": "Zertrampelt"
+        },
+        "20-20": {
+          "description": "Schwächt"
+        }
+      }
+    },
+    "Monster Feature": {
+      "name": "Monstermerkmal",
+      "description": "<p>Würfle die Spalte „Merkmal“ der Tabelle Monstererscheinung.</p>",
+      "results": {
+        "1-1": {
+          "description": "Fühler"
+        },
+        "2-2": {
+          "description": "Schnabel"
+        },
+        "3-3": {
+          "description": "Panzer"
+        },
+        "4-4": {
+          "description": "Krallen"
+        },
+        "5-5": {
+          "description": "Fänge"
+        },
+        "6-6": {
+          "description": "Federn"
+        },
+        "7-7": {
+          "description": "Pelz"
+        },
+        "8-8": {
+          "description": "Kiemen"
+        },
+        "9-9": {
+          "description": "Hörner"
+        },
+        "10-10": {
+          "description": "Zeichnung"
+        },
+        "11-11": {
+          "description": "Schuppen"
+        },
+        "12-12": {
+          "description": "Schale"
+        },
+        "13-13": {
+          "description": "Schnauze"
+        },
+        "14-14": {
+          "description": "Schwanz"
+        },
+        "15-15": {
+          "description": "Krallentatzen"
+        },
+        "16-16": {
+          "description": "Tentakel"
+        },
+        "17-17": {
+          "description": "Rüssel"
+        },
+        "18-18": {
+          "description": "Hauer"
+        },
+        "19-19": {
+          "description": "Stimme"
+        },
+        "20-20": {
+          "description": "Flügel"
+        }
+      }
+    },
+    "Monster Physique": {
+      "name": "Monstergestalt",
+      "description": "<p>Würfle die Spalte „Gestalt“ der Tabelle Monstererscheinung.</p>",
+      "results": {
+        "1-1": {
+          "description": "Albinotisch"
+        },
+        "2-2": {
+          "description": "Schwarz"
+        },
+        "3-3": {
+          "description": "Kristallin"
+        },
+        "4-4": {
+          "description": "Ausgemergelt"
+        },
+        "5-5": {
+          "description": "Augenlos"
+        },
+        "6-6": {
+          "description": "Befedert"
+        },
+        "7-7": {
+          "description": "Gallertartig"
+        },
+        "8-8": {
+          "description": "Leuchtend"
+        },
+        "9-9": {
+          "description": "Gehärtet"
+        },
+        "10-10": {
+          "description": "Kopflos"
+        },
+        "11-11": {
+          "description": "Gehörnt"
+        },
+        "12-12": {
+          "description": "Bucklig"
+        },
+        "13-13": {
+          "description": "Schillernd"
+        },
+        "14-14": {
+          "description": "Vieläugig"
+        },
+        "15-15": {
+          "description": "Beschuppt"
+        },
+        "16-16": {
+          "description": "Geringelt"
+        },
+        "17-17": {
+          "description": "Skelettartig"
+        },
+        "18-18": {
+          "description": "Schleimig"
+        },
+        "19-19": {
+          "description": "Durchscheinend"
+        },
+        "20-20": {
+          "description": "Verworren"
+        }
+      }
+    },
+    "Monster Quirk": {
+      "name": "Monstereigenheit",
+      "description": "<p>Würfle die Spalte „Eigenheit“ der Tabelle Monstermerkmale.</p>",
+      "results": {
+        "1-1": {
+          "description": "Verändert ihre Größe nach Belieben"
+        },
+        "2-2": {
+          "description": "Wechselt die Farbe nach Belieben"
+        },
+        "3-3": {
+          "description": "Sammelt seltene Blumen"
+        },
+        "4-4": {
+          "description": "Sammelt Trophäen"
+        },
+        "5-5": {
+          "description": "Stirbt nicht an Alter"
+        },
+        "6-6": {
+          "description": "Zeichnet Symbole"
+        },
+        "7-7": {
+          "description": "Fasziniert von Feuer"
+        },
+        "8-8": {
+          "description": "Hortet Bücher"
+        },
+        "9-9": {
+          "description": "Liebt eine bestimmte Farbe"
+        },
+        "10-10": {
+          "description": "Wird jeden Tag neu geboren"
+        },
+        "11-11": {
+          "description": "Liebt glänzende Objekte"
+        },
+        "12-12": {
+          "description": "Ahmt Stimmen nach"
+        },
+        "13-13": {
+          "description": "Bewegt sich in gerader Linie"
+        },
+        "14-14": {
+          "description": "Kommentiert alles"
+        },
+        "15-15": {
+          "description": "Putzt zwanghaft"
+        },
+        "16-16": {
+          "description": "In ihrer Spur wachsen Pflanzen"
+        },
+        "17-17": {
+          "description": "Schläft kopfüber"
+        },
+        "18-18": {
+          "description": "Spricht in Reimen"
+        },
+        "19-19": {
+          "description": "Schwitzt seltene Mineralien"
+        },
+        "20-20": {
+          "description": "Vermehrt sich ungeschlechtlich"
+        }
+      }
+    },
+    "Monster Weakness": {
+      "name": "Monsterschwäche",
+      "description": "<p>Würfle die Spalte „Schwäche“ der Tabelle Monstermerkmale.</p>",
+      "results": {
+        "1-1": {
+          "description": "Alkohol"
+        },
+        "2-2": {
+          "description": "Kälte"
+        },
+        "3-3": {
+          "description": "Gespräch"
+        },
+        "4-4": {
+          "description": "Schmeichelei"
+        },
+        "5-5": {
+          "description": "Spiele"
+        },
+        "6-6": {
+          "description": "Geschenke"
+        },
+        "7-7": {
+          "description": "Eisen"
+        },
+        "8-8": {
+          "description": "Laute Geräusche"
+        },
+        "9-9": {
+          "description": "Spiegel"
+        },
+        "10-10": {
+          "description": "Grelle Farben"
+        },
+        "11-11": {
+          "description": "Mondlicht"
+        },
+        "12-12": {
+          "description": "Musik"
+        },
+        "13-13": {
+          "description": "Zubereitete Mahlzeiten"
+        },
+        "14-14": {
+          "description": "Rätsel"
+        },
+        "15-15": {
+          "description": "Religiöse Symbole"
+        },
+        "16-16": {
+          "description": "Salz"
+        },
+        "17-17": {
+          "description": "Silber"
+        },
+        "18-18": {
+          "description": "Sonnenlicht"
+        },
+        "19-19": {
+          "description": "Wahrer Name"
+        },
+        "20-20": {
+          "description": "Schwache Stelle"
+        }
+      }
+    },
+    "Name Adjective": {
+      "name": "Namens-Adjektiv",
+      "description": "<p>Würfle die Tabelle Adjektive der Benennungsvorgehen.</p>",
+      "results": {
+        "1-1": {
+          "description": "Gealterte"
+        },
+        "2-2": {
+          "description": "Bernsteinerne"
+        },
+        "3-3": {
+          "description": "Uralte"
+        },
+        "4-4": {
+          "description": "Zornige"
+        },
+        "5-5": {
+          "description": "Aschfahle"
+        },
+        "6-6": {
+          "description": "Kahle"
+        },
+        "7-7": {
+          "description": "Zerbeulte"
+        },
+        "8-8": {
+          "description": "Bittere"
+        },
+        "9-9": {
+          "description": "Geschwärzte"
+        },
+        "10-10": {
+          "description": "Lodernde"
+        },
+        "11-11": {
+          "description": "Trübe"
+        },
+        "12-12": {
+          "description": "Verseuchte"
+        },
+        "13-13": {
+          "description": "Blasige"
+        },
+        "14-14": {
+          "description": "Sengende"
+        },
+        "15-15": {
+          "description": "Stürmische"
+        },
+        "16-16": {
+          "description": "Frische"
+        },
+        "17-17": {
+          "description": "Helle"
+        },
+        "18-18": {
+          "description": "Breite"
+        },
+        "19-19": {
+          "description": "Ruhige"
+        },
+        "20-20": {
+          "description": "Himmlische"
+        },
+        "21-21": {
+          "description": "Würgerische"
+        },
+        "22-22": {
+          "description": "Kalte"
+        },
+        "23-23": {
+          "description": "Farbige"
+        },
+        "24-24": {
+          "description": "Kupferne"
+        },
+        "25-25": {
+          "description": "Rissige"
+        },
+        "26-26": {
+          "description": "Purpurrote"
+        },
+        "27-27": {
+          "description": "Bröckelnde"
+        },
+        "28-28": {
+          "description": "Gelockte"
+        },
+        "29-29": {
+          "description": "Kräuselnde"
+        },
+        "30-30": {
+          "description": "Gekrümmte"
+        },
+        "31-31": {
+          "description": "Kurvige"
+        },
+        "32-32": {
+          "description": "Befeuchtete"
+        },
+        "33-33": {
+          "description": "Dunkle"
+        },
+        "34-34": {
+          "description": "Blendende"
+        },
+        "35-35": {
+          "description": "Tote"
+        },
+        "36-36": {
+          "description": "Tödliche"
+        },
+        "37-37": {
+          "description": "Diamantene"
+        },
+        "38-38": {
+          "description": "Trübsinnige"
+        },
+        "39-39": {
+          "description": "Trostlose"
+        },
+        "40-40": {
+          "description": "Leere"
+        },
+        "41-41": {
+          "description": "Endlose"
+        },
+        "42-42": {
+          "description": "Wilde"
+        },
+        "43-43": {
+          "description": "Flammende"
+        },
+        "44-44": {
+          "description": "Blinkende"
+        },
+        "45-45": {
+          "description": "Nebelige"
+        },
+        "46-46": {
+          "description": "Verbotene"
+        },
+        "47-47": {
+          "description": "Vergessene"
+        },
+        "48-48": {
+          "description": "Zerbrechliche"
+        },
+        "49-49": {
+          "description": "Verschlissene"
+        },
+        "50-50": {
+          "description": "Gefrorene"
+        },
+        "51-51": {
+          "description": "Wütende"
+        },
+        "52-52": {
+          "description": "Klaffende"
+        },
+        "53-53": {
+          "description": "Glänzende"
+        },
+        "54-54": {
+          "description": "Glühende"
+        },
+        "55-55": {
+          "description": "Granitene"
+        },
+        "56-56": {
+          "description": "Grimmige"
+        },
+        "57-57": {
+          "description": "Graumelierte"
+        },
+        "58-58": {
+          "description": "Diesige"
+        },
+        "59-59": {
+          "description": "Erhitzte"
+        },
+        "60-60": {
+          "description": "Höllische"
+        },
+        "61-61": {
+          "description": "Scheußliche"
+        },
+        "62-62": {
+          "description": "Schroffe"
+        },
+        "63-63": {
+          "description": "Einsame"
+        },
+        "64-64": {
+          "description": "Verlassene"
+        },
+        "65-65": {
+          "description": "Leuchtende"
+        },
+        "66-66": {
+          "description": "Taumelnde"
+        },
+        "67-67": {
+          "description": "Glänzende"
+        },
+        "68-68": {
+          "description": "Elende"
+        },
+        "69-69": {
+          "description": "Nebelgraue"
+        },
+        "70-70": {
+          "description": "Traurige"
+        },
+        "71-71": {
+          "description": "Schlammige"
+        },
+        "72-72": {
+          "description": "Enge"
+        },
+        "73-73": {
+          "description": "Unheilverkündende"
+        },
+        "74-74": {
+          "description": "Überwucherte"
+        },
+        "75-75": {
+          "description": "Geflickte"
+        },
+        "76-76": {
+          "description": "Schälende"
+        },
+        "77-77": {
+          "description": "Stürzende"
+        },
+        "78-78": {
+          "description": "Zerlumpte"
+        },
+        "79-79": {
+          "description": "Verfaulte"
+        },
+        "80-80": {
+          "description": "Salzige"
+        },
+        "81-81": {
+          "description": "Wilde"
+        },
+        "82-82": {
+          "description": "Wandernde"
+        },
+        "83-83": {
+          "description": "Schimmernde"
+        },
+        "84-84": {
+          "description": "Strahlende"
+        },
+        "85-85": {
+          "description": "Zitternde"
+        },
+        "86-86": {
+          "description": "Verhüllte"
+        },
+        "87-87": {
+          "description": "Versengte"
+        },
+        "88-88": {
+          "description": "Sinkende"
+        },
+        "89-89": {
+          "description": "Blutige"
+        },
+        "90-90": {
+          "description": "Rauchige"
+        },
+        "91-91": {
+          "description": "Durchnässte"
+        },
+        "92-92": {
+          "description": "Saure"
+        },
+        "93-93": {
+          "description": "Stotternde"
+        },
+        "94-94": {
+          "description": "Fleckige"
+        },
+        "95-95": {
+          "description": "Verhungerte"
+        },
+        "96-96": {
+          "description": "Stinkende"
+        },
+        "97-97": {
+          "description": "Ausgestopfte"
+        },
+        "98-98": {
+          "description": "Versunkene"
+        },
+        "99-99": {
+          "description": "Dürre"
+        },
+        "100-100": {
+          "description": "Verwelkte"
+        }
+      }
+    },
+    "Name Formula": {
+      "name": "Namens-Formel",
+      "description": "<p>Würfle die Tabelle Namens-Formeln der Benennungsvorgehen für einen Interessenspunkt; [POI] ist die Art des Ortes.</p>",
+      "results": {
+        "1-1": {
+          "description": "(Die/Das) [Nomen] [POI]"
+        },
+        "2-2": {
+          "description": "(Die/Das) [Adjektiv] [POI]"
+        },
+        "3-3": {
+          "description": "[POI] von (der/dem) [Nomen]"
+        },
+        "4-4": {
+          "description": "[Adjektiv] [POI] von (der/dem) [Nomen]"
+        },
+        "5-5": {
+          "description": "(Die/Das) [Nomen]-[Adjektiv]-[POI]"
+        },
+        "6-6": {
+          "description": "[POI] von (der/dem) [Adjektiv] [Nomen]"
+        }
+      }
+    },
+    "Name Noun": {
+      "name": "Namens-Nomen",
+      "description": "<p>Würfle die Tabelle Nomen der Benennungsvorgehen.</p>",
+      "results": {
+        "1-1": {
+          "description": "Abgrund"
+        },
+        "2-2": {
+          "description": "Bündnis"
+        },
+        "3-3": {
+          "description": "Bernstein"
+        },
+        "4-4": {
+          "description": "Ehrgeiz"
+        },
+        "5-5": {
+          "description": "Apfel"
+        },
+        "6-6": {
+          "description": "Polarlicht"
+        },
+        "7-7": {
+          "description": "Bollwerk"
+        },
+        "8-8": {
+          "description": "Schwarz"
+        },
+        "9-9": {
+          "description": "Seuche"
+        },
+        "10-10": {
+          "description": "Blau"
+        },
+        "11-11": {
+          "description": "Bein"
+        },
+        "12-12": {
+          "description": "Helle"
+        },
+        "13-13": {
+          "description": "Kluft"
+        },
+        "14-14": {
+          "description": "Splitter"
+        },
+        "15-15": {
+          "description": "Kupfer"
+        },
+        "16-16": {
+          "description": "Land"
+        },
+        "17-17": {
+          "description": "Riss"
+        },
+        "18-18": {
+          "description": "Purpur"
+        },
+        "19-19": {
+          "description": "Locke"
+        },
+        "20-20": {
+          "description": "Dunkelheit"
+        },
+        "21-21": {
+          "description": "Morgengrauen"
+        },
+        "22-22": {
+          "description": "Tote"
+        },
+        "23-23": {
+          "description": "Tod"
+        },
+        "24-24": {
+          "description": "Verfall"
+        },
+        "25-25": {
+          "description": "Delle"
+        },
+        "26-26": {
+          "description": "Verödung"
+        },
+        "27-27": {
+          "description": "Verzweiflung"
+        },
+        "28-28": {
+          "description": "Teufel"
+        },
+        "29-29": {
+          "description": "Dreck"
+        },
+        "30-30": {
+          "description": "Untergang"
+        },
+        "31-31": {
+          "description": "Türspalt"
+        },
+        "32-32": {
+          "description": "Echo"
+        },
+        "33-33": {
+          "description": "Glut"
+        },
+        "34-34": {
+          "description": "Schicksal"
+        },
+        "35-35": {
+          "description": "Furcht"
+        },
+        "36-36": {
+          "description": "Feuer"
+        },
+        "37-37": {
+          "description": "Flamme"
+        },
+        "38-38": {
+          "description": "Torheit"
+        },
+        "39-39": {
+          "description": "Schorf"
+        },
+        "40-40": {
+          "description": "Frost"
+        },
+        "41-41": {
+          "description": "Wut"
+        },
+        "42-42": {
+          "description": "Geist"
+        },
+        "43-43": {
+          "description": "Riese"
+        },
+        "44-44": {
+          "description": "Schimmer"
+        },
+        "45-45": {
+          "description": "Gott"
+        },
+        "46-46": {
+          "description": "Gold"
+        },
+        "47-47": {
+          "description": "Grün"
+        },
+        "48-48": {
+          "description": "Einklang"
+        },
+        "49-49": {
+          "description": "Ernte"
+        },
+        "50-50": {
+          "description": "Spuk"
+        },
+        "51-51": {
+          "description": "Hafen"
+        },
+        "52-52": {
+          "description": "Schrecken"
+        },
+        "53-53": {
+          "description": "Eisen"
+        },
+        "54-54": {
+          "description": "Insel"
+        },
+        "55-55": {
+          "description": "Jade"
+        },
+        "56-56": {
+          "description": "König"
+        },
+        "57-57": {
+          "description": "Lavendel"
+        },
+        "58-58": {
+          "description": "Leben"
+        },
+        "59-59": {
+          "description": "Licht"
+        },
+        "60-60": {
+          "description": "Marmor"
+        },
+        "61-61": {
+          "description": "Nebel"
+        },
+        "62-62": {
+          "description": "Schimmel"
+        },
+        "63-63": {
+          "description": "Mond"
+        },
+        "64-64": {
+          "description": "Albtraum"
+        },
+        "65-65": {
+          "description": "Flicken"
+        },
+        "66-66": {
+          "description": "Gefahr"
+        },
+        "67-67": {
+          "description": "Violett"
+        },
+        "68-68": {
+          "description": "Glanz"
+        },
+        "69-69": {
+          "description": "Fetzen"
+        },
+        "70-70": {
+          "description": "Regen"
+        },
+        "71-71": {
+          "description": "Regenbogen"
+        },
+        "72-72": {
+          "description": "Rot"
+        },
+        "73-73": {
+          "description": "Zuflucht"
+        },
+        "74-74": {
+          "description": "Reue"
+        },
+        "75-75": {
+          "description": "Fäulnis"
+        },
+        "76-76": {
+          "description": "Ruin"
+        },
+        "77-77": {
+          "description": "Schatten"
+        },
+        "78-78": {
+          "description": "Silber"
+        },
+        "79-79": {
+          "description": "Schädel"
+        },
+        "80-80": {
+          "description": "Himmel"
+        },
+        "81-81": {
+          "description": "Rauch"
+        },
+        "82-82": {
+          "description": "Schlange"
+        },
+        "83-83": {
+          "description": "Kummer"
+        },
+        "84-84": {
+          "description": "Funke"
+        },
+        "85-85": {
+          "description": "Stein"
+        },
+        "86-86": {
+          "description": "Sturm"
+        },
+        "87-87": {
+          "description": "Sonne"
+        },
+        "88-88": {
+          "description": "Gewitter"
+        },
+        "89-89": {
+          "description": "Schrecken"
+        },
+        "90-90": {
+          "description": "Dorn"
+        },
+        "91-91": {
+          "description": "Donner"
+        },
+        "92-92": {
+          "description": "Gift"
+        },
+        "93-93": {
+          "description": "Stille"
+        },
+        "94-94": {
+          "description": "Troll"
+        },
+        "95-95": {
+          "description": "Tapferkeit"
+        },
+        "96-96": {
+          "description": "Violett"
+        },
+        "97-97": {
+          "description": "Krieg"
+        },
+        "98-98": {
+          "description": "Flüstern"
+        },
+        "99-99": {
+          "description": "Windhauch"
+        },
+        "100-100": {
+          "description": "Windhauch"
+        }
+      }
+    },
+    "NPC Background": {
+      "name": "NSC-Hintergrund",
+      "description": "<p>Würfle den Hintergrund eines NSC. Seine Startausrüstung wird vom Generator ermittelt, nicht von dieser Tabelle.</p>",
+      "results": {
+        "1-1": {
+          "description": "Akademikerin"
+        },
+        "2-2": {
+          "description": "Assassine"
+        },
+        "3-3": {
+          "description": "Schmied"
+        },
+        "4-4": {
+          "description": "Bäuerin"
+        },
+        "5-5": {
+          "description": "General"
+        },
+        "6-6": {
+          "description": "Grabgräberin"
+        },
+        "7-7": {
+          "description": "Wache"
+        },
+        "8-8": {
+          "description": "Heilerin"
+        },
+        "9-9": {
+          "description": "Kerkermeisterin"
+        },
+        "10-10": {
+          "description": "Arbeiterin"
+        },
+        "11-11": {
+          "description": "Lord"
+        },
+        "12-12": {
+          "description": "Händlerin"
+        },
+        "13-13": {
+          "description": "Mönch"
+        },
+        "14-14": {
+          "description": "Mystikerin"
+        },
+        "15-15": {
+          "description": "Fremde"
+        },
+        "16-16": {
+          "description": "Hausiererin"
+        },
+        "17-17": {
+          "description": "Politikerin"
+        },
+        "18-18": {
+          "description": "Spionin"
+        },
+        "19-19": {
+          "description": "Diebin"
+        },
+        "20-20": {
+          "description": "Schlägerin"
+        }
+      }
+    },
+    "NPC Goal": {
+      "name": "NSC-Ziel",
+      "description": "<p>Würfle, was ein NSC zu erreichen versucht.</p>",
+      "results": {
+        "1-1": {
+          "description": "Aufstieg"
+        },
+        "2-2": {
+          "description": "Reinigung"
+        },
+        "3-3": {
+          "description": "Bewahrung"
+        },
+        "4-4": {
+          "description": "Verteidigung"
+        },
+        "5-5": {
+          "description": "Vorherrschaft"
+        },
+        "6-6": {
+          "description": "Bereicherung"
+        },
+        "7-7": {
+          "description": "Ausdehnung"
+        },
+        "8-8": {
+          "description": "Freiheit"
+        },
+        "9-9": {
+          "description": "Heilung"
+        },
+        "10-10": {
+          "description": "Eingliederung"
+        },
+        "11-11": {
+          "description": "Gerechtigkeit"
+        },
+        "12-12": {
+          "description": "Frieden"
+        },
+        "13-13": {
+          "description": "Macht"
+        },
+        "14-14": {
+          "description": "Erhaltung"
+        },
+        "15-15": {
+          "description": "Läuterung"
+        },
+        "16-16": {
+          "description": "Erlösung"
+        },
+        "17-17": {
+          "description": "Rache"
+        },
+        "18-18": {
+          "description": "Überleben"
+        },
+        "19-19": {
+          "description": "Einheit"
+        },
+        "20-20": {
+          "description": "Reichtum"
+        }
+      }
+    },
+    "NPC Name": {
+      "name": "NSC-Name",
+      "description": "<p>Würfle einen Namen für einen NSC. Die drei Quelllisten sind hier zu einem W60 vereint.</p>",
+      "results": {
+        "1-1": {
+          "description": "Alaric"
+        },
+        "2-2": {
+          "description": "Carver"
+        },
+        "3-3": {
+          "description": "Cleaver"
+        },
+        "4-4": {
+          "description": "Darnel"
+        },
+        "5-5": {
+          "description": "Eoin"
+        },
+        "6-6": {
+          "description": "Evander"
+        },
+        "7-7": {
+          "description": "Glyph"
+        },
+        "8-8": {
+          "description": "Hemlock"
+        },
+        "9-9": {
+          "description": "Herald"
+        },
+        "10-10": {
+          "description": "Lisbeth"
+        },
+        "11-11": {
+          "description": "Lucian"
+        },
+        "12-12": {
+          "description": "Luna"
+        },
+        "13-13": {
+          "description": "Lysander"
+        },
+        "14-14": {
+          "description": "Marius"
+        },
+        "15-15": {
+          "description": "Mend"
+        },
+        "16-16": {
+          "description": "Milo"
+        },
+        "17-17": {
+          "description": "Neria"
+        },
+        "18-18": {
+          "description": "Pan"
+        },
+        "19-19": {
+          "description": "Quill"
+        },
+        "20-20": {
+          "description": "Seraphine"
+        },
+        "21-21": {
+          "description": "Ainsley"
+        },
+        "22-22": {
+          "description": "Azura"
+        },
+        "23-23": {
+          "description": "Brave"
+        },
+        "24-24": {
+          "description": "Callan"
+        },
+        "25-25": {
+          "description": "Cedric"
+        },
+        "26-26": {
+          "description": "Crow"
+        },
+        "27-27": {
+          "description": "Finch"
+        },
+        "28-28": {
+          "description": "Gunnar"
+        },
+        "29-29": {
+          "description": "Harper"
+        },
+        "30-30": {
+          "description": "Liora"
+        },
+        "31-31": {
+          "description": "Lira"
+        },
+        "32-32": {
+          "description": "Lorelai"
+        },
+        "33-33": {
+          "description": "Lysandra"
+        },
+        "34-34": {
+          "description": "Marcellus"
+        },
+        "35-35": {
+          "description": "Shade"
+        },
+        "36-36": {
+          "description": "Shroud"
+        },
+        "37-37": {
+          "description": "Spade"
+        },
+        "38-38": {
+          "description": "Spike"
+        },
+        "39-39": {
+          "description": "Tanner"
+        },
+        "40-40": {
+          "description": "Thyme"
+        },
+        "41-41": {
+          "description": "Alder"
+        },
+        "42-42": {
+          "description": "Alistair"
+        },
+        "43-43": {
+          "description": "Caius"
+        },
+        "44-44": {
+          "description": "Dain"
+        },
+        "45-45": {
+          "description": "Dax"
+        },
+        "46-46": {
+          "description": "Dorian"
+        },
+        "47-47": {
+          "description": "Godric"
+        },
+        "48-48": {
+          "description": "Harkin"
+        },
+        "49-49": {
+          "description": "Hildred"
+        },
+        "50-50": {
+          "description": "Kael"
+        },
+        "51-51": {
+          "description": "Kavi"
+        },
+        "52-52": {
+          "description": "Mariner"
+        },
+        "53-53": {
+          "description": "Nazira"
+        },
+        "54-54": {
+          "description": "Onyx"
+        },
+        "55-55": {
+          "description": "Rolan"
+        },
+        "56-56": {
+          "description": "Rush"
+        },
+        "57-57": {
+          "description": "Sky"
+        },
+        "58-58": {
+          "description": "Storm"
+        },
+        "59-59": {
+          "description": "Taros"
+        },
+        "60-60": {
+          "description": "Thaddeus"
+        }
+      }
+    },
+    "NPC Quirk": {
+      "name": "NSC-Eigenheit",
+      "description": "<p>Würfle eine körperliche oder verhaltensbezogene Eigenheit für einen NSC.</p>",
+      "results": {
+        "1-1": {
+          "description": "Wachsam"
+        },
+        "2-2": {
+          "description": "Glatzköpfig"
+        },
+        "3-3": {
+          "description": "Helläugig"
+        },
+        "4-4": {
+          "description": "Breites Gesicht"
+        },
+        "5-5": {
+          "description": "Schiefe Zähne"
+        },
+        "6-6": {
+          "description": "Hager"
+        },
+        "7-7": {
+          "description": "Gute Haltung"
+        },
+        "8-8": {
+          "description": "Schmutzig"
+        },
+        "9-9": {
+          "description": "Raue Stimme"
+        },
+        "10-10": {
+          "description": "Wuchtige Brauen"
+        },
+        "11-11": {
+          "description": "Hinkt"
+        },
+        "12-12": {
+          "description": "Fehlendes Ohr"
+        },
+        "13-13": {
+          "description": "Muskulös"
+        },
+        "14-14": {
+          "description": "Auffälliges Haar"
+        },
+        "15-15": {
+          "description": "Angenehme Stimme"
+        },
+        "16-16": {
+          "description": "Kneift die Augen"
+        },
+        "17-17": {
+          "description": "Stark"
+        },
+        "18-18": {
+          "description": "Dicke Augenbrauen"
+        },
+        "19-19": {
+          "description": "Müde"
+        },
+        "20-20": {
+          "description": "Jung"
+        }
+      }
+    },
+    "NPC Vice": {
+      "name": "NSC-Laster",
+      "description": "<p>Würfle das prägende Laster eines NSC.</p>",
+      "results": {
+        "1-1": {
+          "description": "Schnippisch"
+        },
+        "2-2": {
+          "description": "Korrupt"
+        },
+        "3-3": {
+          "description": "Feige"
+        },
+        "4-4": {
+          "description": "Grausam"
+        },
+        "5-5": {
+          "description": "Zynisch"
+        },
+        "6-6": {
+          "description": "Trügerisch"
+        },
+        "7-7": {
+          "description": "Gierig"
+        },
+        "8-8": {
+          "description": "Impulsiv"
+        },
+        "9-9": {
+          "description": "Unfähig"
+        },
+        "10-10": {
+          "description": "Unbiegsam"
+        },
+        "11-11": {
+          "description": "Manipulativ"
+        },
+        "12-12": {
+          "description": "Launisch"
+        },
+        "13-13": {
+          "description": "Naiv"
+        },
+        "14-14": {
+          "description": "Besserwisserisch"
+        },
+        "15-15": {
+          "description": "Skrupellos"
+        },
+        "16-16": {
+          "description": "Sarkastisch"
+        },
+        "17-17": {
+          "description": "Egoistisch"
+        },
+        "18-18": {
+          "description": "Stur"
+        },
+        "19-19": {
+          "description": "Eitel"
+        },
+        "20-20": {
+          "description": "Fremdenfeindlich"
+        }
+      }
+    },
+    "NPC Virtue": {
+      "name": "NSC-Tugend",
+      "description": "<p>Würfle die prägende Tugend eines NSC.</p>",
+      "results": {
+        "1-1": {
+          "description": "Vorsichtig"
+        },
+        "2-2": {
+          "description": "Mitleidig"
+        },
+        "3-3": {
+          "description": "Beziehungsvoll"
+        },
+        "4-4": {
+          "description": "Mutig"
+        },
+        "5-5": {
+          "description": "Diszipliniert"
+        },
+        "6-6": {
+          "description": "Diskret"
+        },
+        "7-7": {
+          "description": "Ehrlich"
+        },
+        "8-8": {
+          "description": "Intelligent"
+        },
+        "9-9": {
+          "description": "Urteilsfähig"
+        },
+        "10-10": {
+          "description": "Treue"
+        },
+        "11-11": {
+          "description": "Methodisch"
+        },
+        "12-12": {
+          "description": "Akribisch"
+        },
+        "13-13": {
+          "description": "Höflich"
+        },
+        "14-14": {
+          "description": "Beliebt"
+        },
+        "15-15": {
+          "description": "Pragmatisch"
+        },
+        "16-16": {
+          "description": "Einfallsreich"
+        },
+        "17-17": {
+          "description": "Weltgewandt"
+        },
+        "18-18": {
+          "description": "Gewieft"
+        },
+        "19-19": {
+          "description": "Hartnäckig"
+        },
+        "20-20": {
+          "description": "Geistreich"
+        }
+      }
+    },
+    "Ruler Name Formula": {
+      "name": "Herrschernamen-Formel",
+      "description": "<p>Würfle die Tabelle Herrschernamen-Formeln der Benennungsvorgehen; [Herrscher] ist ein Wurf auf Herrschertyp.</p>",
+      "results": {
+        "1-1": {
+          "description": "(Die/Das) [Nomen] [Herrscher]"
+        },
+        "2-2": {
+          "description": "(Die/Das) [Adjektiv] [Herrscher]"
+        },
+        "3-3": {
+          "description": "[Herrscher] von (der/dem) [Nomen]"
+        },
+        "4-4": {
+          "description": "[Adjektiv] [Herrscher] von (der/dem) [Nomen]"
+        },
+        "5-5": {
+          "description": "(Die/Das) [Nomen]-[Adjektiv]-[Herrscher]"
+        },
+        "6-6": {
+          "description": "[Herrscher] von (der/dem) [Adjektiv] [Nomen]"
+        }
+      }
+    },
+    "Ruler Type": {
+      "name": "Herrschertyp",
+      "description": "<p>Würfle die Tabelle Herrschertypen der Benennungsvorgehen.</p>",
+      "results": {
+        "1-1": {
+          "description": "Allianz"
+        },
+        "2-2": {
+          "description": "Baronie"
+        },
+        "3-3": {
+          "description": "Commonwealth"
+        },
+        "4-4": {
+          "description": "Staatenbund"
+        },
+        "5-5": {
+          "description": "Herrschaftsgebiet"
+        },
+        "6-6": {
+          "description": "Priesterherrschaft"
+        },
+        "7-7": {
+          "description": "Imperium"
+        },
+        "8-8": {
+          "description": "Bund"
+        },
+        "9-9": {
+          "description": "Lehen"
+        },
+        "10-10": {
+          "description": "Großherzogtum"
+        },
+        "11-11": {
+          "description": "Hegemonie"
+        },
+        "12-12": {
+          "description": "Königreich"
+        },
+        "13-13": {
+          "description": "Monarchie"
+        },
+        "14-14": {
+          "description": "Fürstentum"
+        },
+        "15-15": {
+          "description": "Protektorat"
+        },
+        "16-16": {
+          "description": "Reich"
+        },
+        "17-17": {
+          "description": "Regentschaft"
+        },
+        "18-18": {
+          "description": "Republik"
+        },
+        "19-19": {
+          "description": "Staat"
+        },
+        "20-20": {
+          "description": "Union"
+        }
+      }
+    },
+    "Terrain Synonym": {
+      "name": "Gelände-Synonym",
+      "description": "<p>Die Tabelle Gelände-Synonyme der Benennungsvorgehen, ein Ergebnis pro Synonym. Sie hat keinen eigenen Würfel: Der Namensgenerator wählt aus den Synonymen des jeweiligen Geländetyps.</p>",
+      "results": {
+        "1-1": {
+          "description": "Küstenort"
+        },
+        "2-2": {
+          "description": "Ufer"
+        },
+        "3-3": {
+          "description": "Küste"
+        },
+        "4-4": {
+          "description": "Küstenstrich"
+        },
+        "5-5": {
+          "description": "Strandvorland"
+        },
+        "6-6": {
+          "description": "Marina"
+        },
+        "7-7": {
+          "description": "Marsch"
+        },
+        "8-8": {
+          "description": "Morast"
+        },
+        "9-9": {
+          "description": "Viereck"
+        },
+        "10-10": {
+          "description": "Schlammgrund"
+        },
+        "11-11": {
+          "description": "Fenn"
+        },
+        "12-12": {
+          "description": "Schlucht"
+        },
+        "13-13": {
+          "description": "Kluft"
+        },
+        "14-14": {
+          "description": "Abgrund"
+        },
+        "15-15": {
+          "description": "Golf"
+        },
+        "16-16": {
+          "description": "Graben"
+        },
+        "17-17": {
+          "description": "Grotte"
+        },
+        "18-18": {
+          "description": "Hohlraum"
+        },
+        "19-19": {
+          "description": "Tunnel"
+        },
+        "20-20": {
+          "description": "Kuhle"
+        },
+        "21-21": {
+          "description": "Höhle"
+        },
+        "22-22": {
+          "description": "Absturz"
+        },
+        "23-23": {
+          "description": "Felswand"
+        },
+        "24-24": {
+          "description": "Steilkante"
+        },
+        "25-25": {
+          "description": "Bruchkante"
+        },
+        "26-26": {
+          "description": "Grat"
+        },
+        "27-27": {
+          "description": "Steilhang"
+        },
+        "28-28": {
+          "description": "Abhang"
+        },
+        "29-29": {
+          "description": "Dünen"
+        },
+        "30-30": {
+          "description": "Sande"
+        },
+        "31-31": {
+          "description": "Weiten"
+        },
+        "32-32": {
+          "description": "Ödland"
+        },
+        "33-33": {
+          "description": "Verödung"
+        },
+        "34-34": {
+          "description": "Dünenmeer"
+        },
+        "35-35": {
+          "description": "Ackerland"
+        },
+        "36-36": {
+          "description": "Landgut"
+        },
+        "37-37": {
+          "description": "Flur"
+        },
+        "38-38": {
+          "description": "Siedlung"
+        },
+        "39-39": {
+          "description": "Meierei"
+        },
+        "40-40": {
+          "description": "Plantage"
+        },
+        "41-41": {
+          "description": "Gebüsch"
+        },
+        "42-42": {
+          "description": "Wälder"
+        },
+        "43-43": {
+          "description": "Waldland"
+        },
+        "44-44": {
+          "description": "Forst"
+        },
+        "45-45": {
+          "description": "Hain"
+        },
+        "46-46": {
+          "description": "Gehölz"
+        },
+        "47-47": {
+          "description": "Weide"
+        },
+        "48-48": {
+          "description": "Felder"
+        },
+        "49-49": {
+          "description": "Savanne"
+        },
+        "50-50": {
+          "description": "Grünland"
+        },
+        "51-51": {
+          "description": "Hügelchen"
+        },
+        "52-52": {
+          "description": "Hügel"
+        },
+        "53-53": {
+          "description": "Berg"
+        },
+        "54-54": {
+          "description": "Kuppe"
+        },
+        "55-55": {
+          "description": "Buckel"
+        },
+        "56-56": {
+          "description": "Abhang"
+        },
+        "57-57": {
+          "description": "Mulde"
+        },
+        "58-58": {
+          "description": "Loch"
+        },
+        "59-59": {
+          "description": "Grube"
+        },
+        "60-60": {
+          "description": "Hohlraum"
+        },
+        "61-61": {
+          "description": "Krater"
+        },
+        "62-62": {
+          "description": "Trog"
+        },
+        "63-63": {
+          "description": "Löcher"
+        },
+        "64-64": {
+          "description": "Teich"
+        },
+        "65-65": {
+          "description": "Pool"
+        },
+        "66-66": {
+          "description": "Bergsee"
+        },
+        "67-67": {
+          "description": "Lagune"
+        },
+        "68-68": {
+          "description": "See"
+        },
+        "69-69": {
+          "description": "Bayou"
+        },
+        "70-70": {
+          "description": "Gipfel"
+        },
+        "71-71": {
+          "description": "Grat"
+        },
+        "72-72": {
+          "description": "Kette"
+        },
+        "73-73": {
+          "description": "Spitze"
+        },
+        "74-74": {
+          "description": "Felsnadel"
+        },
+        "75-75": {
+          "description": "Tafelberg"
+        },
+        "76-76": {
+          "description": "Quelle"
+        },
+        "77-77": {
+          "description": "Born"
+        },
+        "78-78": {
+          "description": "Springbrunnen"
+        },
+        "79-79": {
+          "description": "Hafen"
+        },
+        "80-80": {
+          "description": "Tränke"
+        },
+        "81-81": {
+          "description": "Zuflucht"
+        },
+        "82-82": {
+          "description": "Heide"
+        },
+        "83-83": {
+          "description": "Wiese"
+        },
+        "84-84": {
+          "description": "Baumsavanne"
+        },
+        "85-85": {
+          "description": "Flachland"
+        },
+        "86-86": {
+          "description": "Tiefland"
+        },
+        "87-87": {
+          "description": "Rasen"
+        },
+        "88-88": {
+          "description": "Hochland"
+        },
+        "89-89": {
+          "description": "Mesa"
+        },
+        "90-90": {
+          "description": "Hochebene"
+        },
+        "91-91": {
+          "description": "Downs"
+        },
+        "92-92": {
+          "description": "Weite"
+        },
+        "93-93": {
+          "description": "Wasserlauf"
+        },
+        "94-94": {
+          "description": "Bächlein"
+        },
+        "95-95": {
+          "description": "Flüsschen"
+        },
+        "96-96": {
+          "description": "Rinnsal"
+        },
+        "97-97": {
+          "description": "Wiederlauf"
+        },
+        "98-98": {
+          "description": "Kanal"
+        },
+        "99-99": {
+          "description": "Moore"
+        },
+        "100-100": {
+          "description": "Feuchtland"
+        },
+        "101-101": {
+          "description": "Hartlaubgebüsch"
+        },
+        "102-102": {
+          "description": "Gestrüpp"
+        },
+        "103-103": {
+          "description": "Versteck"
+        },
+        "104-104": {
+          "description": "Niederwald"
+        },
+        "105-105": {
+          "description": "Fell"
+        },
+        "106-106": {
+          "description": "Weite"
+        },
+        "107-107": {
+          "description": "Nadelwald"
+        },
+        "108-108": {
+          "description": "Ley"
+        },
+        "109-109": {
+          "description": "Tal"
+        },
+        "110-110": {
+          "description": "Vale"
+        },
+        "111-111": {
+          "description": "Becken"
+        },
+        "112-112": {
+          "description": "Schlucht"
+        },
+        "113-113": {
+          "description": "Lücke"
+        },
+        "114-114": {
+          "description": "Tal"
+        }
+      }
+    },
+    "Vald Weather (Dead)": {
+      "name": "Vald-Wetter (Tote Zeit)",
+      "description": "<p>Würfle die Spalte „Tote Zeit“ der Tabelle Wetter in Vald für einen Tag der Jahreszeit der Toten. Sie beschreibt den Tag; das Wetter, in dem eine Reise stattfindet, ist Teil der Reise.</p>",
+      "results": {
+        "1-1": {
+          "description": "Kalt und klar"
+        },
+        "2-2": {
+          "description": "Frostige Morgen"
+        },
+        "3-3": {
+          "description": "Bedeckter Himmel"
+        },
+        "4-4": {
+          "description": "Leichter Schnee"
+        },
+        "5-5": {
+          "description": "Schneeschauer"
+        },
+        "6-6": {
+          "description": "Eisregen"
+        }
+      }
+    },
+    "Vald Weather (Dry)": {
+      "name": "Vald-Wetter (Trocken)",
+      "description": "<p>Würfle die Spalte „Trockenzeit“ der Tabelle Wetter in Vald für einen Tag der Trockenzeit. Sie beschreibt den Tag; das Wetter, in dem eine Reise stattfindet, ist Teil der Reise.</p>",
+      "results": {
+        "1-1": {
+          "description": "Heiß und sonnig"
+        },
+        "2-2": {
+          "description": "Warm und sonnig"
+        },
+        "3-3": {
+          "description": "Warm und breeze"
+        },
+        "4-4": {
+          "description": "Heiß und schwül"
+        },
+        "5-5": {
+          "description": "Vereinzelt Hitzewelle"
+        },
+        "6-6": {
+          "description": "Trocken und windig"
+        }
+      }
+    },
+    "Vald Weather (Harvest)": {
+      "name": "Vald-Wetter (Erntezeit)",
+      "description": "<p>Würfle die Spalte „Erntezeit“ der Tabelle Wetter in Vald für einen Tag der Erntezeit. Sie beschreibt den Tag; das Wetter, in dem eine Reise stattfindet, ist Teil der Reise.</p>",
+      "results": {
+        "1-1": {
+          "description": "Mild und sonnig"
+        },
+        "2-2": {
+          "description": "Kühl und klar"
+        },
+        "3-3": {
+          "description": "Warm und sonnig"
+        },
+        "4-4": {
+          "description": "Warm und breeze"
+        },
+        "5-5": {
+          "description": "Leichter Regen"
+        },
+        "6-6": {
+          "description": "Starker Regen"
+        }
+      }
+    },
+    "Vald Weather (Wet)": {
+      "name": "Vald-Wetter (Nasszeit)",
+      "description": "<p>Würfle die Spalte „Nasszeit“ der Tabelle Wetter in Vald für einen Tag der Nasszeit. Sie beschreibt den Tag; das Wetter, in dem eine Reise stattfindet, ist Teil der Reise.</p>",
+      "results": {
+        "1-1": {
+          "description": "Leichter Regen"
+        },
+        "2-2": {
+          "description": "Bedeckt"
+        },
+        "3-3": {
+          "description": "Windig"
+        },
+        "4-4": {
+          "description": "Starker Regen"
+        },
+        "5-5": {
+          "description": "Gewitter"
+        },
+        "6-6": {
+          "description": "Vereinzelt Schauer"
+        }
+      }
+    },
+    "Wilderness Encounter": {
+      "name": "Wildnis-Begegnung",
+      "description": "<p>Eine allgemeine Tabelle häufiger wilder Kreaturen. Jedes Ergebnis verlinkt einen 2e-Bestiarium-Akteur; die Beschreibung nennt zuerst, wie viele erscheinen.</p>",
+      "results": {
+        "yTBCoCH66fz1gu8k": {
+          "description": "<p>1W6 Wölfe</p>"
+        },
+        "Q2aQ8ViEEhAMOkD5": {
+          "description": "<p>1W6 Räuber</p>"
+        },
+        "WbcwaRh6uYi6z8MA": {
+          "description": "<p>1W6 Goblins</p>"
+        },
+        "aoFzG2WoSFxgyiAm": {
+          "description": "<p>1W4 Blut-Elche</p>"
+        },
+        "jo4PEg991b997h8A": {
+          "description": "<p>1W4 Vipern</p>"
+        },
+        "A3W0fHKZSTQ8Fzvm": {
+          "description": "<p>1W3 Harpyien</p>"
+        },
+        "Fw3WBZzXgHMzaRaC": {
+          "description": "<p>1W3 Grottenschrat</p>"
+        },
+        "Onir1WODihbgnbAd": {
+          "description": "<p>1 Schwarm Mörderbienen</p>"
+        },
+        "r7WmoY1pXk5j0gj8": {
+          "description": "<p>1 Nachtkatze</p>"
+        },
+        "tooOo1i4DuD6DMAx": {
+          "description": "<p>1 Grizzlybär</p>"
+        }
+      }
+    },
+    "Wilderness Event": {
+      "name": "Wildnis-Ereignis",
+      "description": "<p>Die Wärterin würfelt nach jeder Wildnis-Aktion einmal auf dieser Tabelle (nachts zweimal).</p>",
+      "results": {
+        "1-1": {
+          "name": "Begegnung",
+          "description": "<p>Würfle auf einer Begegnungstabelle für diesen Geländetyp oder Ort. Vergiss nicht, falls zutreffend, auf NSC-Reaktionen zu würfeln.</p>"
+        },
+        "2-2": {
+          "name": "Spur",
+          "description": "<p>Die Gruppe entdeckt einen Hinweis, eine Fährte oder ein Anzeichen für eine nahe Begegnung, einen Ort, ein verborgenes Merkmal oder Informationen über ein nahegelegenes Gebiet.</p>"
+        },
+        "3-3": {
+          "name": "Umgebung",
+          "description": "<p>Eine Wetter- oder Geländeveränderung.</p>"
+        },
+        "4-4": {
+          "name": "Verlust",
+          "description": "<p>Die Gruppe steht vor einer Wahl, die sie eine Ressource (Rationen, Werkzeug usw.), Zeit oder Mühen kostet.</p>"
+        },
+        "5-5": {
+          "name": "Erschöpfung",
+          "description": "<p>Die Gruppe stößt auf ein Hindernis, das Mühen, Vorsicht oder Verzögerung erfordert. Das kann zusätzliche Zeit (und eine weitere <strong>Wildnis-Aktion</strong>) bedeuten oder das Nehmen einer <strong>Erschöpfung</strong>.</p>"
+        },
+        "6-6": {
+          "name": "Entdeckung",
+          "description": "<p>Die Gruppe findet Nahrung, Schätze oder andere nützliche Ressourcen. Die <strong>Wärterin</strong> kann stattdessen das Hauptmerkmal des Gebiets enthüllen.</p>"
+        }
+      }
+    }
+  }
+}
