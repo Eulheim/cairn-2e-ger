@@ -1,0 +1,43 @@
+<div class="language-panel-content">
+  <p class="hint">Die Sprache wird im Browser jedes Spielers gespeichert und erscheint nur bei verbundenen Spielern. “Reaktivieren” zeigt die Frage beim nächsten Login wieder an.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Spieler</th>
+        <th>Sprache</th>
+        <th>Angebot</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each users}}
+      <tr class="{{#unless active}}offline{{/unless}}">
+        <td class="user-name">
+          <span class="chip" style="background: {{color}}"></span>{{name}}
+          {{#unless active}}<span class="tag">offline</span>{{/unless}}
+        </td>
+        <td>{{#if lang}}{{lang}}{{else}}—{{/if}}</td>
+        <td>{{#if offered}}erfolgt{{else}}offen{{/if}}</td>
+        <td class="user-actions">
+          {{#if active}}
+          <button type="button" data-action="setLanguage" data-user-id="{{id}}" {{#if isGerman}}disabled{{/if}}
+                  data-tooltip="Stellt die Sprache des Spielers auf Deutsch um und bittet um Neuladen">
+            <i class="fa-solid fa-language" inert></i>Ändern
+          </button>
+          <button type="button" data-action="offerLanguage" data-user-id="{{id}}" {{#if isGerman}}disabled{{/if}}
+                  data-tooltip="Öffnet die Sprachfrage jetzt auf dem Bildschirm des Spielers">
+            <i class="fa-solid fa-paper-plane" inert></i>Anbieten
+          </button>
+          {{/if}}
+          <button type="button" data-action="resetOffer" data-user-id="{{id}}" {{#unless offered}}disabled{{/unless}}
+                  data-tooltip="Zeigt die Frage beim nächsten Login wieder an">
+            <i class="fa-solid fa-rotate-left" inert></i>Reaktivieren
+          </button>
+        </td>
+      </tr>
+      {{else}}
+      <tr><td colspan="4" class="empty">Keine Spieler in dieser Welt.</td></tr>
+      {{/each}}
+    </tbody>
+  </table>
+</div>

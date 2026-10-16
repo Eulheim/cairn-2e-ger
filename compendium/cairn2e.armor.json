@@ -1,0 +1,29 @@
+{
+  "label": "Rüstungen",
+  "entries": {
+    "Brigandine": {
+      "name": "Brigantinenjacke",
+      "description": "<p>Brigantinenjacke (1 Rüstung, <em>sperrig</em>)</p>"
+    },
+    "Chainmail": {
+      "name": "Kettenhemd",
+      "description": "<p>Kettenhemd (2 Rüstung, <em>sperrig</em>)</p>"
+    },
+    "Gambeson": {
+      "name": "Gambeson",
+      "description": "<p>Gambeson (+1 Rüstung)</p>"
+    },
+    "Helmet": {
+      "name": "Helm",
+      "description": "<p>Helm (+1 Rüstung)</p>"
+    },
+    "Plate": {
+      "name": "Plattenrüstung",
+      "description": "<p>Plattenrüstung (3 Rüstung, <em>sperrig</em>)</p>"
+    },
+    "Shield": {
+      "name": "Schild",
+      "description": "<p>Schild (+1 Rüstung)</p>"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+ "label": "Materialien",
+ "entries": {
+  "Acorns": {
+   "name": "Eicheln",
+   "description": "<p>Eicheln (<em>Kleinzeug</em>)</p>"
+  },
+  "Berries": {
+   "name": "Beeren",
+   "description": "<p>Beeren (<em>Kleinzeug</em>)</p>"
+  },
+  "Bone": {
+   "name": "Knochen",
+   "description": "<p>Knochen</p>"
+  },
+  "Cloth": {
+   "name": "Stoff",
+   "description": "<p>Stoff</p>"
+  },
+  "Eggs": {
+   "name": "Eier",
+   "description": "<p>Eier</p>"
+  },
+  "Feather": {
+   "name": "Feder",
+   "description": "<p>Feder (<em>Kleinzeug</em>)</p>"
+  },
+  "Flax": {
+   "name": "Flachs",
+   "description": "<p>Flachs (Kleinzeug)</p>"
+  },
+  "Flour": {
+   "name": "Mehl",
+   "description": "<p>Mehl</p>"
+  },
+  "Fruit": {
+   "name": "Obst",
+   "description": "<p>Obst (<em>Kleinzeug</em>)</p>"
+  },
+  "Gargoyle Grit": {
+   "name": "Gargoulenstaub",
+   "description": "<p>Steinstaub, von einer Gargoule geschabt, solange das Tageslicht sie gefrierthält. Nachts regt er sich im Beutel und beißt.</p>"
+  },
+  "Glass": {
+   "name": "Glas",
+   "description": "<p>Glas</p>"
+  },
+  "Grain": {
+   "name": "Getreide",
+   "description": "<p>Getreide (<em>Kleinzeug</em>)</p>"
+  },
+  "Herbs": {
+   "name": "Kräuter",
+   "description": "<p>Kräuter (<em>Kleinzeug</em>)</p>"
+  },
+  "Hide": {
+   "name": "Pelz",
+   "description": "<p>Pelz</p>"
+  },
+  "Iron Ingot": {
+   "name": "Eisenbarren",
+   "description": "<p>Eisenbarren</p>"
+  },
+  "Iron Ore": {
+   "name": "Eisenerz",
+   "description": "<p>Eisenerz</p>"
+  },
+  "Leather Strip": {
+   "name": "Lederstreifen",
+   "description": "<p>Lederstreifen (<em>Kleinzeug</em>)</p>"
+  },
+  "Leather": {
+   "name": "Leder",
+   "description": "<p>Leder</p>"
+  },
+  "Log": {
+   "name": "Scheit",
+   "description": "<p>Scheit (sperrig)</p>"
+  },
+  "Manticore Spike": {
+   "name": "Mantikorenstachel",
+   "description": "<p>Ein Stachel vom Schwanz einer Mantikore. Ein Sammler zahlt gut dafür.</p>"
+  },
+  "Milk": {
+   "name": "Milch",
+   "description": "<p>Milch</p>"
+  },
+  "Mushrooms": {
+   "name": "Pilze",
+   "description": "<p>Pilze (<em>Kleinzeug</em>)</p>"
+  },
+  "Nails": {
+   "name": "Nägel",
+   "description": "<p>Nägel (<em>Kleinzeug</em>)</p>"
+  },
+  "Phoenix Feather": {
+   "name": "Phönixfeder",
+   "description": "<p>Aus Phönixasche gesiebt und so warm, egal wie lange aufbewahrt. Begehrt wegen seiner heilenden Eigenschaften.</p>"
+  },
+  "Pixie Scale": {
+   "name": "Pixieschuppe",
+   "description": "<p>Schimmernder Staub, gefunden, wo eine Pixie schlief, unsichtbar bis angehaucht.</p>"
+  },
+  "Plank": {
+   "name": "Brett",
+   "description": "<p>Brett</p>"
+  },
+  "Raw Fish": {
+   "name": "Roher Fisch",
+   "description": "<p>Roher Fisch</p>"
+  },
+  "Raw Fowl": {
+   "name": "Rohes Geflügel",
+   "description": "<p>Rohes Geflügel</p>"
+  },
+  "Raw Meat": {
+   "name": "Rohes Fleisch",
+   "description": "<p>Rohes Fleisch</p>"
+  },
+  "Reeds": {
+   "name": "Schilf",
+   "description": "<p>Schilf (<em>Kleinzeug</em>)</p>"
+  },
+  "Resin": {
+   "name": "Harz",
+   "description": "<p>Harz (<em>Kleinzeug</em>)</p>"
+  },
+  "Rubble": {
+   "name": "Schutt",
+   "description": "<p>Zerbrochenes Gestein ohne Inhalt (sperrig).</p>"
+  },
+  "Salt": {
+   "name": "Salz",
+   "description": "<p>Salz (<em>Kleinzeug</em>)</p>"
+  },
+  "Sand": {
+   "name": "Sand",
+   "description": "<p>Sand</p>"
+  },
+  "Sinew": {
+   "name": "Sehne",
+   "description": "<p>Sehne (<em>Kleinzeug</em>)</p>"
+  },
+  "Steel Ingot": {
+   "name": "Stahlbarren",
+   "description": "<p>Stahlbarren</p>"
+  },
+  "Steel Plate": {
+   "name": "Stahlplatte",
+   "description": "<p>Stahlplatte</p>"
+  },
+  "Stick": {
+   "name": "Stock",
+   "description": "<p>Stock (<em>Kleinzeug</em>)</p>"
+  },
+  "Stone": {
+   "name": "Stein",
+   "description": "<p>Stein</p>"
+  },
+  "Tallow": {
+   "name": "Talg",
+   "description": "<p>Talg (<em>Kleinzeug</em>)</p>"
+  },
+  "Thread": {
+   "name": "Faden",
+   "description": "<p>Faden (<em>Kleinzeug</em>)</p>"
+  },
+  "Troll Tallow": {
+   "name": "Trolltalg",
+   "description": "<p>Ein Klumpen gelben Fetts, der nachwächst, wenn man ihn abschneidet. Riecht nach nassem Rinden.</p>"
+  },
+  "Vegetables": {
+   "name": "Gemüse",
+   "description": "<p>Gemüse</p>"
+  },
+  "Viper Venom Sac": {
+   "name": "Viperngiftbeutel",
+   "description": "<p>Eine Giftbeutel einer Viper, ganz herausgeschnitten. Daraus lässt sich ein Gegengift brauen (Kleinzeug).</p>"
+  },
+  "Wax": {
+   "name": "Wachs",
+   "description": "<p>Wachs (<em>Kleinzeug</em>)</p>"
+  }
+ },
+ "folders": {
+  "Cloth": "Stoff",
+  "Herbs": "Kräuter",
+  "Hide & Bone": "Pelz & Knochen",
+  "Metal": "Metall",
+  "Monster Parts": "Monsterteile",
+  "Raw Food": "Rohe Nahrung",
+  "Wood & Stone": "Holz & Stein"
+ }
+}

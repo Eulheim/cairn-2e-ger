@@ -1,0 +1,1002 @@
+{
+  "Aurifex: What alchemical marvel is the product of your latest ingenuity?": {
+    "name": "Aurifex: What alchemical marvel is the product of your latest ingenuity?",
+    "description": "<p>Roll on this table during character creation for the <strong>Aurifex</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Pyrophoric Gel</strong> A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Blast Sphere</strong> A head-sized iron ball filled with explosive powder that detonates on impact (d12, <em>blast</em>, <em>bulky</em>, 1 use).</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Aqua Vita</strong> Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Mimic Stone</strong> Records a short phrase that can later be played back.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Spark Dust</strong> Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Homunculus</strong> A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL</p>"
+      }
+    }
+  },
+  "Aurifex: What went horribly wrong?": {
+    "name": "Aurifex: What went horribly wrong?",
+    "description": "<p>Roll on this table during character creation for the <strong>Aurifex</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a <strong>Tin of Snuff</strong> (6 uses) to dampen the impact. Use it every day or become <em>deprived</em>.</p>"
+      },
+      "2-2": {
+        "description": "<p>You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a <strong>Fatigue</strong> each time.) It follows basic commands.</p>"
+      },
+      "3-3": {
+        "description": "<p>You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.</p>"
+      },
+      "4-4": {
+        "description": "<p>You were adept at creating <em>fake</em> gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy <strong>Metal Ingot</strong> and <strong>Gold Powder</strong> (3 uses).</p>"
+      },
+      "5-5": {
+        "description": "<p>Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype <strong>Blunderbuss</strong> (d12, <em>blast</em>, <em>bulky</em>) that takes one round to reload, and a taste for revenge.</p>"
+      },
+      "6-6": {
+        "description": "<p>Ridiculed for discovering how to turn gold into <em>lead</em>, you were a laughing stock. Take a bottle of <strong>Universal Solvent</strong> (2 uses) that dissolves anything it touches into its constituent parts.</p>"
+      }
+    }
+  },
+  "Backgrounds": {
+    "name": "Backgrounds",
+    "description": "<p>Roll or choose a Background during character creation, then refer to that background for the next few steps.</p>"
+  },
+  "Barber-Surgeon: How have you \"improved\" yourself?": {
+    "name": "Barber-Surgeon: How have you \"improved\" yourself?",
+    "description": "<p>Roll on this table during character creation for the <strong>Barber-Surgeon</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>You have a replacement <strong>eye</strong> that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you <em>deprived</em>.</p>"
+      },
+      "2-2": {
+        "description": "<p>One <strong>foot</strong> is mostly metal (kick, d6), and you treat some Tough terrain as <strong>Easy</strong>. Carry a <strong>Oil Can</strong> (6 uses). Without a daily application, you are <em>deprived</em> and noisy.</p>"
+      },
+      "3-3": {
+        "description": "<p>One of your fingers has been swapped, the bone replaced by gold and iron. Take a <strong>Hook</strong> and a <strong>Screwdriver</strong> that can attach to the fingertip.</p>"
+      },
+      "4-4": {
+        "description": "<p>Both <strong>ears</strong> have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis).</p>"
+      },
+      "5-5": {
+        "description": "<p>Your <strong>chest</strong> is lined with alchemical sigils, <em>toughening the skin</em> (1 Armor). Wearing other metallic armor nullifies the effect.</p>"
+      },
+      "6-6": {
+        "description": "<p>One <strong>arm</strong> is fully metal and comes off at the shoulder. It can be used as a weapon (d8, <em>bulky</em> when not attached) and can move independently if you are within sight of it.</p>"
+      }
+    }
+  },
+  "Barber-Surgeon: What rare tool is essential to your work?": {
+    "name": "Barber-Surgeon: What rare tool is essential to your work?",
+    "description": "<p>Roll on this table during character creation for the <strong>Barber-Surgeon</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Regrowth Salve</strong> Regrows a body part over the course of a day. 1 use.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Graftgrub</strong> A small worm that can fuse inanimate objects with parts of the body.  1 use.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Woundwax</strong> Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Quicksilver</strong> A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. <em>Addictive</em>: Save STR or become <em>deprived</em> after 24 hours without it. 4 uses.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Pneuma Pump</strong> Portable iron lungs (<em>bulky</em>). Enables life-saving surgery or underwater breathing.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Lodestone</strong> Draws out dangerous elements from the body and acts as a powerful magnetic force.</p>"
+      }
+    }
+  },
+  "Beast Handler: What creature is your specialty?": {
+    "name": "Beast Handler: What creature is your specialty?",
+    "description": "<p>Roll on this table during character creation for the <strong>Beast Handler</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Arachnids</strong> Take a <strong>Quick-Flame Rod</strong> and an <strong>Oil Can</strong> (6 uses). It can destroy a large spider nest in seconds.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Felines</strong> Take a sack of <strong>Whiskerwort</strong>. Its odor can calm and control even the largest of cats.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Canines</strong> Take a wreath of <strong>Wolfsbane</strong> and a <strong>Large Net</strong>. Effective against werewolves as well.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Birds</strong> Take a <strong>Warble-Whistle</strong> (3 charges). It can imitate any bird call and can even be used to send simple messages. <strong>Recharge</strong>: Feed a baby bird as its mother would, then blow.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Rodents</strong> Take a <strong>Pan Flute</strong> that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Serpents</strong> Take a <strong>Warming Stone</strong> that generates an irresistible heat and a vial of <strong>Antitoxin</strong> (2 uses).</p>"
+      }
+    }
+  },
+  "Beast Handler: What have you learned from the creatures of the wild?": {
+    "name": "Beast Handler: What have you learned from the creatures of the wild?",
+    "description": "<p>Roll on this table during character creation for the <strong>Beast Handler</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your <strong>specialty</strong>.</p>"
+      },
+      "2-2": {
+        "description": "<p>That the behavior of beasts is a language in itself. When observing beasts of your <strong>specialty</strong> you gain insight into weather patterns and impending disasters.</p>"
+      },
+      "3-3": {
+        "description": "<p>That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those <strong>not of your specialty</strong> are near.</p>"
+      },
+      "4-4": {
+        "description": "<p>That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your <strong>specialty</strong> is reduced by one step (e.g. 4-in-6 becomes 3-in-6).</p>"
+      },
+      "5-5": {
+        "description": "<p>That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your <strong>specialty</strong>, they can alert you to approaching danger before it arrives.</p>"
+      },
+      "6-6": {
+        "description": "<p>That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your <strong>specialty</strong> (webbed fingers, night vision, etc.). Add a <strong>Fatigue</strong> each time.</p>"
+      }
+    }
+  },
+  "Bonekeeper: What did you take from the dead?": {
+    "name": "Bonekeeper: What did you take from the dead?",
+    "description": "<p>Roll on this table during character creation for the <strong>Bonekeeper</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>A <strong>crow-shaped amulet</strong>. You can ask a question of the dead but must add a <strong>Fatigue</strong> each time. They do not always speak truthfully.</p>"
+      },
+      "2-2": {
+        "description": "<p>A <strong>mortal wound</strong> from a freed <em>revenant</em>. You were healed, but the disfigurement has made you a pariah. You require neither air nor sustenance but are still subject to pain and death. Trapped between worlds, the dead see you as one of their own.</p>"
+      },
+      "3-3": {
+        "description": "<p>A <strong>Blood Pail</strong> (<em>bulky</em>) from a local death-cult. Empty it to raise a servant built from whatever is buried below, with 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, and shard fists (d8+d8). Only one servant can be raised at a time. If destroyed, you permanently lose 1d4 STR. <strong>Recharge</strong>: Fill with the blood of a dying warrior.</p>"
+      },
+      "4-4": {
+        "description": "<p>A <strong>burial wagon</strong> (+6 slots, <em>slow</em>) from your last job. It came with a stubborn old <strong>donkey</strong> (+4 slots, only +2 slots if pulling wagon).</p>"
+      },
+      "5-5": {
+        "description": "<p>The <strong>Detect Magic</strong> Spellbook, stolen from an ancient library. Your family worked in service to an obscure underworld deity, but you lost your faith. Though exiled, you continue to serve, even as an apostate. Detect Magic: You can see or hear nearby magical auras. <em>Becomes warm to the touch when magic is used nearby.</em></p>"
+      },
+      "6-6": {
+        "description": "<p>A <strong>plague doctor's mask</strong>, after its owner succumbed to the disease that wiped out everyone you once knew. They should have kept it on.</p>"
+      }
+    }
+  },
+  "Bonekeeper: What tool was invaluable in your work?": {
+    "name": "Bonekeeper: What tool was invaluable in your work?",
+    "description": "<p>Roll on this table during character creation for the <strong>Bonekeeper</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Manacles</strong> Though old, it's still effective even against the very strong. You don't have the key.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Sponge</strong> Supposedly made from the remains of a rare sea creature. It never seems to dry out.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Pulley</strong> Great for moving gravestones, rocks, or even bodies.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Incense</strong> Perfect for rituals or to keep the flies at bay. Cools the blood.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Crowbar</strong> d6 damage. Sometimes you just need to get the damn thing open!</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Repellent</strong> Powerful stuff. Its faded label makes it unclear what it is actually <em>meant</em> to repel, though. Perhaps everything. 3 uses.</p>"
+      }
+    }
+  },
+  "Cutpurse: What helps you steal?": {
+    "name": "Cutpurse: What helps you steal?",
+    "description": "<p>Roll on this table during character creation for the <strong>Cutpurse</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Catring</strong> 2 charges. Climb up walls and fall safely. <strong>Recharge</strong>: Place the ring on a stray cat's tail.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Gildfinger</strong> 1 charge. A finger glove that mimics any mundane key. <strong>Recharge</strong>: Bundle it with at least 100gp for a night.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Glimpse Glass</strong> 3 uses. A monocle that lets you see through walls or other obstructions. It shatters after the last use.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Sweetwhistle</strong> 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. <strong>Recharge</strong>: Lose a dear memory. (Describe it.)</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Vagrant's Veil</strong> 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. <strong>Recharge</strong>: Donate the day's winnings to the poor. <em>Petty</em></p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Reverse Teetotum</strong> 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.</p>"
+      }
+    }
+  },
+  "Cutpurse: What was your last big job?": {
+    "name": "Cutpurse: What was your last big job?",
+    "description": "<p>Roll on this table during character creation for the <strong>Cutpurse</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>A noble's summer home. The place was full of fancy wine (+20gp) but not much else. Take <strong>Fence Cutters</strong>.</p>"
+      },
+      "ADji6nYTyFyvAkv2": {
+        "name": "Gold"
+      },
+      "2-2": {
+        "description": "<p>A bank. (You were caught.) You bear a brand only visible by firelight, and anyone who sees the mark can ask you for a beer. Take <strong>Retractable Wires</strong>.</p>"
+      },
+      "3-3": {
+        "description": "<p>A guild warehouse. Take a <strong>Ladder</strong> (<em>bulky</em>, 3 m / 10 ft) and <strong>Blinding Powder</strong> (1 use).</p>"
+      },
+      "4-4": {
+        "description": "<p>Moneylender. Someone beat you to the job but left behind a <strong>Scroll</strong> of <em>Arcane Eye</em> (<em>petty</em>). <em>Arcane Eye</em>: You can see through a magical floating eyeball that flies around at your command.</p>"
+      },
+      "5-5": {
+        "description": "<p>Constable's quarters. You escaped but left some friends behind. Take <strong>Strong Silk Rope</strong> (9 m / 30 ft) and a queasy feeling.</p>"
+      },
+      "6-6": {
+        "description": "<p>A university. You were seen but not pursued. You still don't know why. Take <strong>Smoke Pellets</strong> (3 uses).</p>"
+      }
+    }
+  },
+  "Fieldwarden: What got the better of you?": {
+    "name": "Fieldwarden: What got the better of you?",
+    "description": "<p>Roll on this table during character creation for the <strong>Fieldwarden</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take <strong>Gale Seed Extract</strong> (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two <strong>Fatigue</strong>.</p>"
+      },
+      "2-2": {
+        "description": "<p>A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of <strong>Fireseeds</strong> (d8, <em>blast</em>, 4 uses).</p>"
+      },
+      "3-3": {
+        "description": "<p>An antlered, toothy demon that nearly ended you. Take a blood-stained <strong>Bone Knife</strong> (d6). On <strong>Critical Damage</strong>, its next attack becomes <em>enhanced</em> from contact with blood.</p>"
+      },
+      "4-4": {
+        "description": "<p><em>The Withering</em>, a type of stem rot from the <strong>Roots</strong>. Take a <strong>Diseased Crop</strong> (6 uses) that quickly decays any plant it touches.</p>"
+      },
+      "5-5": {
+        "description": "<p>Wolves, or so you thought. You are now a <strong>Werewolf</strong> [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can <em>turn</em> at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection.</p>"
+      },
+      "6-6": {
+        "description": "<p>Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a <strong>Cusped Falchion</strong> (d8).</p>"
+      }
+    }
+  },
+  "Fieldwarden: What tool saved your life?": {
+    "name": "Fieldwarden: What tool saved your life?",
+    "description": "<p>Roll on this table during character creation for the <strong>Fieldwarden</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Bloodvine Whip</strong> d8 damage. On <strong>Critical Damage</strong>, it drains the target's blood, granting the weapon's next attack the <em>blast</em> quality</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Clatter Keeper</strong> A hand-cranked device that emits a loud noise, frightening away most creatures.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Sun Stick</strong> Provides ample warmth and light for up to one hour. <strong>Recharge</strong>: Leave in heavy sunlight for a full day. 1 use.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Root Tether</strong> When thrown, binds a creature as large as a wolf to the soil for a short time.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Greenwhistle</strong> A small flute that calms plants, making passage through areas heavy with plant life a bit easier.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Everbloom Band</strong> A circlet adorned with flowers that never wilt. On <strong>Critical Damage</strong>, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs).</p>"
+      }
+    }
+  },
+  "Fletchwind: How did you earn your bow?": {
+    "name": "Fletchwind: How did you earn your bow?",
+    "description": "<p>Roll on this table during character creation for the <strong>Fletchwind</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>War</strong>. If you are first to attack, your bow gains the <em>blast</em> property for the first round.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Falconry</strong>. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Hunting</strong>. When taking the Supply action, your ability to secure <strong>Rations</strong> increases by <strong>one step</strong> (e.g. 1d4 becomes 1d6).</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Tournaments</strong>. Attacks with your bow are <em>enhanced</em> if the target is immobile.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Training</strong>. If you are the first to attack, melee attacks against you are <em>impaired</em> until you take STR damage.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Scouting</strong>. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6).</p>"
+      }
+    }
+  },
+  "Fletchwind: What kind of wood is your bow made from?": {
+    "name": "Fletchwind: What kind of wood is your bow made from?",
+    "description": "<p>Roll on this table during character creation for the <strong>Fletchwind</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Western Yew</strong> (d6, <em>bulky</em>). Can be wielded as a blunt weapon (d6). Noisy.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Sessile Oak</strong> (d8, <em>bulky</em>). Slams into targets. On <strong>Critical Damage</strong> something is torn off.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Stone Pine</strong> (d6, <em>bulky</em>). Produces one use of <strong>Sticky Sap</strong> per day. The sap is highly explosive.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>White Ash</strong> (d6, <em>bulky</em>). Can be used in place of a shield in melee combat (+1 Armor).</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Striped Bamboo</strong> (d6). Collapsible, it only requires one slot (but still requires both hands).</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Wych Elm</strong> (d6, <em>bulky</em>). Protects the bearer from poisons and toxins, so long as they are holding it.</p>"
+      }
+    }
+  },
+  "Foundling: What keeps bad tidings at bay?": {
+    "name": "Foundling: What keeps bad tidings at bay?",
+    "description": "<p>Roll on this table during character creation for the <strong>Foundling</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Pipeweed</strong> Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Stink Jar</strong> Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Ivy Worm</strong> A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Dream Stone</strong> A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Drowning Rod</strong> A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Rabbit's Foot</strong> You were wearing it when they found you. They say it is the foot of she who left you and that it protects you from witch magic. <em>Petty</em>.</p>"
+      }
+    }
+  },
+  "Foundling: Who took you in?": {
+    "name": "Foundling: Who took you in?",
+    "description": "<p>Roll on this table during character creation for the <strong>Foundling</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>An old hunter. You were both quite happy, until it all ended. Take a <strong>Weathered Longbow</strong> (d8, <em>bulky</em>) and a <strong>Leather Jerkin</strong> (1 Armor).</p>"
+      },
+      "hQc5nODhFzhzknIo": {
+        "name": "Leather Jerkin"
+      },
+      "2-2": {
+        "description": "<p>A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a <strong>Healing Unguent</strong> (restores d4 STR, 1 use).</p>"
+      },
+      "3-3": {
+        "description": "<p>A druid, who taught you the language of trees. When it came time to , you took with you only a <strong>Gnarled Staff</strong> (d8) and left a promise that one day you would return.</p>"
+      },
+      "4-4": {
+        "description": "<p>A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a <strong>Smith's Apron</strong> (<em>petty</em>) and a set of <strong>Oft-mended Chain Mail</strong> (2 Armor, <em>bulky</em>).</p>"
+      },
+      "5-5": {
+        "description": "<p>A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a <strong>Storybook</strong>, a <strong>Dagger</strong> (d6), and some burning questions.</p>"
+      },
+      "6-6": {
+        "description": "<p>The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a <strong>Monk's Habit</strong> (warm, <em>petty</em>) and a <strong>Spellbook</strong> of <em>Control Plants</em>. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. <em>Leaves grow along the spine, and it smells faintly of decay.</em></p>"
+      }
+    }
+  },
+  "Fungal Forager: What keeps you sane, even in utter darkness?": {
+    "name": "Fungal Forager: What keeps you sane, even in utter darkness?",
+    "description": "<p>Roll on this table during character creation for the <strong>Fungal Forager</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Glowsnail</strong> Casts a soft, bioluminescent light. Feeds on one ration every two days.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Silk Moth Shawl</strong> A weatherproof blanket, it can also douse a fire without being damaged.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Milkflower</strong> A gentle stimulant. Chewing it makes you immune to <em>panic</em> for the next hour. 3 uses.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Luxcompass</strong> Hums softly as it moves closer to the Sun. Eventually the noise becomes unbearably loud.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Sloth-Tarp</strong> A tough and weatherproof fabric, useful for hanging off trees. When inside, you have +1 Armor.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Miner's Grease</strong> Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.</p>"
+      }
+    }
+  },
+  "Fungal Forager: What strange fungus did you discover?": {
+    "name": "Fungal Forager: What strange fungus did you discover?",
+    "description": "<p>Roll on this table during character creation for the <strong>Fungal Forager</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Shrieking Trumpet</strong>. When exposed to light, it screams so loudly that all nearby attacks (including your own) are <em>impaired</em>. 2 uses.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Torch Fungus</strong>. When crushed, it creates a cold blue light for a short while. 2 uses.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Murderous Truffle</strong>. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere. 1 use.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Hellcap</strong>. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled (1 use).</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Sproutcup</strong>. Ingest to shrink down to the size of a mouse. (Your belongings stay the same size.) You return to normal size within the hour, often in fits and starts. 1 use.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Rootflower</strong>. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead and their stories. 1 use.</p>"
+      }
+    }
+  },
+  "Greenwise: How has the Wood failed you ?": {
+    "name": "Greenwise: How has the Wood failed you ?",
+    "description": "<p>Roll on this table during character creation for the <strong>Greenwise</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a <strong>Bezoar Stone</strong>. Ingesting it cures any poison (1 use, unless retrieved).</p>"
+      },
+      "2-2": {
+        "description": "<p>A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a <strong>Soporific Concoction</strong> (3 uses).</p>"
+      },
+      "3-3": {
+        "description": "<p>You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry <strong>Antitoxin</strong> (2 uses).</p>"
+      },
+      "4-4": {
+        "description": "<p>Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need <strong>Rations</strong>, but a day without sufficient sunlight and water leaves you <em>deprived</em>.</p>"
+      },
+      "5-5": {
+        "description": "<p>Your impressive corpseflower won a local contest then promptly killed a judge. You fled, but not without the <strong>Prize Money (100gp)</strong> and a warrant for your arrest.</p>"
+      },
+      "NafIwkWXnt5vkZ4D": {
+        "name": "Gold"
+      },
+      "6-6": {
+        "description": "<p>You created a restorative tincture that also causes accidental infertility. Take a <strong>Healing Potion</strong> that completely restores STR. Only you know of its unintended side-effects.</p>"
+      }
+    }
+  },
+  "Greenwise: What keeps you safe while in the Wood?": {
+    "name": "Greenwise: What keeps you safe while in the Wood?",
+    "description": "<p>Roll on this table during character creation for the <strong>Greenwise</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Amadou</strong> A vermilion fungus that catches fire quite easily. 3 uses.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Delphinium</strong> Breathe water for up to one hour. 1 use, but can be divided into fractional doses.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Tacky Stalk</strong> A woody reed that hardens into a permanent adhesive when chewed. 2 uses.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Wisp Lantern</strong> Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Seed Bomb</strong> A canvas sack filled with seeds that explode on impact. d6 damage (<em>blast</em>, 3 uses).</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Briarvine</strong> Entangles any creature up to horse size (STR to break free). Reusable.</p>"
+      }
+    }
+  },
+  "Half Witch: What concoction do you carry, and what rare ingredients did you gather to make it?": {
+    "name": "Half Witch: What concoction do you carry, and what rare ingredients did you gather to make it?",
+    "description": "<p>Roll on this table during character creation for the <strong>Half Witch</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Rebirth Ash</strong> Remnants of a bark spirit. Sprinkle to reignite a fire that has died or return to life a creature that has died only moments before. 3 uses.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Glamour Feather</strong> Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Hawthorn Seed</strong> An acorn from the other side, gathered on the spring equinox. When planted, it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Stonetree Sap</strong> Sap obtained in exchange for blood. Hardens when rubbed on any surface (+1 Armor). 3 uses.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Nightdust Powder</strong> Made from the ritual burning of six owls. When tossed in the air, day turns to night for a short while. 2 uses.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Hex Stone</strong> Gathered from a river that flows from the <em>other side</em>. Removed from its iron tin, it can absorb the effects of an active magical effect. If destroyed, the magic is released. 1 use.</p>"
+      }
+    }
+  },
+  "Half Witch: What did you bring back from the Unseelie Court?": {
+    "name": "Half Witch: What did you bring back from the Unseelie Court?",
+    "description": "<p>Roll on this table during character creation for the <strong>Half Witch</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>A <strong>Black Rose Fiddle</strong> (<em>bulky</em>). Its music causes intense sadness and immobility in nearby mortals. (Others are merely fascinated.) You don't know how to play.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Paper legs</strong>. You are extremely light, and can fall a few stories without getting hurt. Try to avoid tearing them or getting them wet.</p>"
+      },
+      "3-3": {
+        "description": "<p>A <strong>Living Nightmare</strong> that dwells within you but manifests whenever you are in danger. It has your same <strong>Attributes</strong> and <strong>HP</strong> and attacks with claws (d8+d8). It disappears on <strong>Critical Damage</strong> (take 1d4 WIL damage), re-appearing again on the next full moon.</p>"
+      },
+      "4-4": {
+        "description": "<p>A <strong>Raven Familiar</strong> [8 HP, 3 STR, 11 DEX, 13 WIL, beak, (d6)]. It speaks as an intelligent being and is entirely devoted to you.</p>"
+      },
+      "5-5": {
+        "description": "<p>A <strong>Briar Thorn</strong>. It can pierce any organic material (quite painfully) but when removed leaves no trace of the intrusion.</p>"
+      },
+      "6-6": {
+        "description": "<p>A Fae creature's <strong>True Name</strong>. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, from the right buyer.</p>"
+      }
+    }
+  },
+  "Hexenbane: To which order do you belong?": {
+    "name": "Hexenbane: To which order do you belong?",
+    "description": "<p>Roll on this table during character creation for the <strong>Hexenbane</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Order of the Crossroads</strong>. Take a <strong>Pocket Leyfinder</strong>. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Order of the Bleeding Star</strong>. Take a <strong>Star-Iron Mace</strong> (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Order of the Glass Sigil</strong>. Take a short sword (d8) and chainmail (2 Armor, <em>bulky</em>). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Order of the Blank Eye</strong>. Take a <strong>Voidglass Shard</strong>. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are <em>deprived</em>).</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Order of Canaas</strong>. Once per day, you can change into a wolf. Take a <strong>Quicksilver Chain</strong>. Without it, you are unable to shift back.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Order of the Silent Veil</strong>. Take a <strong>Quell Stone</strong> (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.</p>"
+      }
+    }
+  },
+  "Hexenbane: What was your vow?": {
+    "name": "Hexenbane: What was your vow?",
+    "description": "<p>Roll on this table during character creation for the <strong>Hexenbane</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Honesty</strong>. Choose a <strong>weapon type</strong> (blunt, blade, etc). Attacks against you of this type are <em>impaired</em>. If your vow is broken, you lose d4 WIL.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Poverty</strong>. You carry the <em>Disassemble</em> <strong>Spellbook</strong>. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. <em>Regenerates any torn or defaced pages.</em></p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Selflessness</strong>. You are immune to <strong>mind-altering magical effects</strong>, such as <em>charm</em>, <em>hatred</em>, <em>frenzy</em>, and so on. If you break this vow, you lose d6 WIL.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Mercy</strong>. Choose a <strong>weapon type</strong> (blunt, blade, etc). Attacks with this weapon are <em>enhanced</em>. If your vow is broken, you can never use that weapon type again.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Charity</strong>. Once per day you can shrug off a <strong>Fatigue</strong>. If your vow is ever broken, you permanently lose one inventory slot.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Valor</strong>. The first time you inflict <strong>Critical Damage</strong>, you receive +d4 HP, returning to the previous limit at the end of combat. If your vow is broken, you die.</p>"
+      }
+    }
+  },
+  "Jongleur: What happened at your final performance?": {
+    "name": "Jongleur: What happened at your final performance?",
+    "description": "<p>Roll on this table during character creation for the <strong>Jongleur</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight <strong>Rapier</strong> (d6) and a false identity.</p>"
+      },
+      "InhUfkEr5cwJUK5X": {
+        "name": "Rapier"
+      },
+      "2-2": {
+        "description": "<p>The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the <em>Read Mind</em> <strong>Spellbook</strong> and a warrant for your arrest. Read Mind: You can hear the surface thoughts of nearby creatures. <em>Long-term possession can cause the reader to mistake the thoughts of others as their own.</em></p>"
+      },
+      "3-3": {
+        "description": "<p>Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a <strong>Book On Astronomy</strong>, and a lot of questions.</p>"
+      },
+      "4-4": {
+        "description": "<p>You mocked a forgotten trickster god and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a <strong>Thesaurus</strong> (20gp). Without it, you are <em>deprived</em>.</p>"
+      },
+      "5-5": {
+        "description": "<p>You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn <strong>Stage Mail</strong> (1 Armor), a memorable scar, and a fear of applause.</p>"
+      },
+      "6-6": {
+        "description": "<p>Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an <strong>Uncanny Hand-Puppet</strong> and a <strong>Rabbit Skull</strong> (<em>petty</em>) that protects against charms.</p>"
+      }
+    }
+  },
+  "Jongleur: What trinket were you unable to leave behind?": {
+    "name": "Jongleur: What trinket were you unable to leave behind?",
+    "description": "<p>Roll on this table during character creation for the <strong>Jongleur</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>False Cuffs</strong> Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Pocket Theatre</strong> A set of small puppets and a folding stage. Good for quick distractions.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Ghost Violin</strong> A dark-gray violin that plays a haunting tune, mirrored by an invisible, distant twin.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Tragic Tales</strong> Banned in proper company, this book becomes less bawdy and more harrowing towards the end. Worth <strong>100gp</strong>.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Mythos Mask</strong> A plaster mask that allows one to take on a monster's countenance. Once it comes off, add a <strong>Fatigue</strong>.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Rebreak Glass</strong> A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.</p>"
+      }
+    }
+  },
+  "Kettlewright: What is your trade?": {
+    "name": "Kettlewright: What is your trade?",
+    "description": "<p>Roll on this table during character creation for the <strong>Kettlewright</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault.</p>"
+      },
+      "OWZvxSwC7D8qCe32": {
+        "name": "Gold"
+      },
+      "2-2": {
+        "description": "<p>You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the <em>Traveler's Cant</em>.</p>"
+      },
+      "88bvIeq00E05GvCA": {
+        "name": "Gold"
+      },
+      "3-3": {
+        "description": "<p>You were a military smelter, before peace destroyed your livelihood. Take a <strong>smelting hammer</strong> (d10, <em>bulky</em>) and a <strong>tin helm</strong> (+1 Armor). Given time and adequate materials, you can repair armor.</p>"
+      },
+      "4-4": {
+        "description": "<p>You sell rare and quality items to monasteries and nobles alike. Take a <strong>Spyglass</strong>, a <strong>Necklace</strong> (<em>petty</em>) worth 20gp, and a <strong>Scroll</strong> of Mirrorwalk (<em>petty</em>).</p>"
+      },
+      "5-5": {
+        "description": "<p>You offer protection as a service, quietly watching for threats as money exchanges hands. You start with <strong>+d4 HP</strong>, and carry a <strong>Long Sword</strong> (d10, <em>bulky</em>) and a <strong>Gambeson</strong> (+1 Armor).</p>"
+      },
+      "6-6": {
+        "description": "<p>You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young <strong>Donkey</strong> (+4 slots, slow), a <strong>Crossbow</strong> (d8 damage, <em>bulky</em>), and a <strong>Saw</strong> (d6).</p>"
+      }
+    }
+  },
+  "Kettlewright: What never fails to get you out of trouble?": {
+    "name": "Kettlewright: What never fails to get you out of trouble?",
+    "description": "<p>Roll on this table during character creation for the <strong>Kettlewright</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Fire Eggs</strong> Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, <em>blast</em>) but the flames dissipate quickly.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Black Tar</strong> Versatile: both sticky and highly flammable. 3 uses.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Spiked Boots</strong> Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Tinker's Paste</strong> Seals shut any fist-sized opening. 3 uses.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Fireworks</strong> A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Carrion Cat</strong> A clever pet, small enough to hide in your pack (<em>bulky</em>), but strong enough to scare off smaller predators. Requires one <strong>Ration</strong> a day, and it must be meat.</p>"
+      }
+    }
+  },
+  "Marchguard: What do you carry as proof of your Oath?": {
+    "name": "Marchguard: What do you carry as proof of your Oath?",
+    "description": "<p>Roll on this table during character creation for the <strong>Marchguard</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Impressive Pin</strong> A metal badge of honor from the Guard. It can open doors but leaves a trail. <em>Petty</em>.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Oath Compass</strong> Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Pullstones</strong> Two jet-black stones. When separated, the stones will always roll toward one another.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Fireflask</strong> Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 3 m (10 ft) high that burns out after a few minutes. 1 use.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Pain Band</strong> Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) <strong>Recharge</strong>: Wear the ring while in perfect health. You will lose 1 STR, permanently. <em>Petty</em>.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Poacher's Woe</strong> Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.</p>"
+      }
+    }
+  },
+  "Marchguard: Why did you take the Oath?": {
+    "name": "Marchguard: Why did you take the Oath?",
+    "description": "<p>Roll on this table during character creation for the <strong>Marchguard</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the Supply action, your yield increases by one step (e.g. 1d4 &gt; 1d6).</p>"
+      },
+      "2-2": {
+        "description": "<p>As a convict, the Oath was simply a means of avoiding punishment. Take a set of <strong>Lockpicks</strong> and the <strong>Key</strong> (<em>petty</em>) to a safehouse.</p>"
+      },
+      "zkHdPGuJ0zBSvHly": {
+        "name": "Lockpicks"
+      },
+      "3-3": {
+        "description": "<p>Noble-born, you joined to escape family trouble. Take a <strong>Goosefelt Tarp</strong> (fits two) that you stole before leaving home.</p>"
+      },
+      "4-4": {
+        "description": "<p>When your family lost everything, you took the Oath to avoid becoming a burden. Take extra <strong>Rations</strong> (3 uses) and a brace of <strong>Throwing Knives</strong> (d6).</p>"
+      },
+      "5-5": {
+        "description": "<p>Your life was saved by a member of the <strong>Marchguard</strong>, and you were inspired to join their ranks. Take a <strong>Snare Trap</strong> and a <strong>Sketchbook</strong> filled with detailed drawings.</p>"
+      },
+      "6-6": {
+        "description": "<p>You were in a dark place and decided that your life needed a little direction. You're still not so sure it was the right choice. Take an <strong>Oilskin Coat</strong> and <strong>Mapping Paper</strong>.</p>"
+      }
+    }
+  },
+  "Mountebank: How was your fraud exposed?": {
+    "name": "Mountebank: How was your fraud exposed?",
+    "description": "<p>Roll on this table during character creation for the <strong>Mountebank</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>Your \"patients\" kept reporting miraculous recoveries, despite your lack of training. Start with <strong>Bandages</strong> (3 uses) and a knack for healing.</p>"
+      },
+      "2-2": {
+        "description": "<p>After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with <strong>Beauty Cream</strong>, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.</p>"
+      },
+      "3-3": {
+        "description": "<p>You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the <strong>Omens</strong> table, but keep the result to yourself. Start with a concealable <strong>Knife</strong> (d6, <em>petty</em>).</p>"
+      },
+      "4-4": {
+        "description": "<p>Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a <strong>Captain's Uniform</strong> (<em>petty</em>), a <strong>Ceremonial Sword</strong> (harmless, 60gp), and a <strong>Bouquet of Flowers</strong>.</p>"
+      },
+      "5-5": {
+        "description": "<p>You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (<em>WIL save to avoid disaster</em>). If you are the target of magic, the same applies to its wielder.</p>"
+      },
+      "6-6": {
+        "description": "<p>Your \"seances\" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the <strong>Spellbook</strong> and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice. <em>Produces random and occasionally inopportune sounds throughout the day</em>.</p>"
+      }
+    }
+  },
+  "Mountebank: What keepsake could always identify you?": {
+    "name": "Mountebank: What keepsake could always identify you?",
+    "description": "<p>Roll on this table during character creation for the <strong>Mountebank</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Royal Crest</strong> Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. <em>Petty</em>.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Miracle Oil</strong> A smelly, slippery concoction. 2 uses.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Surgeon's Soap</strong> A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Goat Powder</strong> Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Cursed Sapphire</strong> Worth <strong>200gp</strong>, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Alchemical Tattoo</strong> A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (<em>as STR loss</em>) back onto you. <em>Petty</em>.</p>"
+      }
+    }
+  },
+  "Outrider: What breed is your horse?": {
+    "name": "Outrider: What breed is your horse?",
+    "description": "<p>Roll on this table during character creation for the <strong>Outrider</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Heavy Destrier</strong> A beast built for war, an imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Blacklegged Dandy</strong> Hardy and adaptable. <strong>Tough</strong> or <strong>Perilous</strong> terrain are one step easier. 6 HP. +4 slots.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Rivertooth</strong> Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Piebald Cob</strong> Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Linden White</strong> Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Stray Fogger</strong> Wild but very fast (even in <strong>Tough</strong> terrain). Rides light. 4 HP. +2 slots.</p>"
+      }
+    }
+  },
+  "Outrider: What personal code or principle do you uphold?": {
+    "name": "Outrider: What personal code or principle do you uphold?",
+    "description": "<p>Roll on this table during character creation for the <strong>Outrider</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>No innocent blood</strong>: No bystander will come to harm on your watch. Take a <strong>Steadymade Buckler</strong> (+1 Armor). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Revere the tools of death</strong>: Weapons are to be respected and maintained. Take a <strong>Wyrmbone Whetstone</strong>. Following a half-hour ritual sharpening, attacks with the weapon are <em>enhanced</em> until STR damage is dealt.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>To the death, always</strong>: You never back down from a fight, no matter the odds. Take a <strong>Death-Whistle</strong>, 1 charge. Its scream frightens away all who hear it (save WIL or flee). <strong>Recharge</strong>: Capture the final breath of a dying warrior.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Revere the dead</strong>: Death is a journey we all take, and it deserves respect. Take an extra <strong>30gp</strong>. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.</p>"
+      },
+      "QC7LgS0zghe5DmIg": {
+        "name": "Gold"
+      },
+      "5-5": {
+        "description": "<p><strong>Loyalty to the work</strong>: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered <strong>Tally Stick</strong>. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Always pay your debts</strong>: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a <strong>Blacked-Out Ledger</strong>, then roll a second time on the <strong>Bonds</strong> table.</p>"
+      }
+    }
+  },
+  "Prowler: What did you last hunt?": {
+    "name": "Prowler: What did you last hunt?",
+    "description": "<p>Roll on this table during character creation for the <strong>Prowler</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p>A <em>mock firefly</em>, baiting water carriers with its glowing lure. Take an <strong>Alchemical Limb</strong> (d8, <em>petty</em> when worn) to replace the one it tore off and an <strong>Oil Can</strong> (6 uses). The limb is immune to heat and poison. Needs to be oiled daily.</p>"
+      },
+      "2-2": {
+        "description": "<p>An <em>ice nettle</em>, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a <strong>Rime Seed</strong> (1 use). It freezes any body of water, no matter the size. Don't eat it.</p>"
+      },
+      "3-3": {
+        "description": "<p>A <em>silver marsh crawler</em> that killed someone close to you. You now carry its <strong>Tooth</strong> (<em>petty</em>) on a chain around your neck as a warning to others of its kind. <em>The tooth hums softly when something is stalking you</em>.</p>"
+      },
+      "4-4": {
+        "description": "<p>A malicious <em>forest spirit</em> that poisoned a homestead. You saved a <strong>Heartseed</strong> from the roots of a dying tree. (Plant it to create a new forest.) Also, take <strong>Iron Bracers</strong> (+1 Armor, <em>bulky</em>).</p>"
+      },
+      "5-5": {
+        "description": "<p>A <em>hollow wolf</em> that had been frightening travelers. You took pity on the half-starved creature and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6).</p>"
+      },
+      "6-6": {
+        "description": "<p>An <em>azure warbler</em>. The gametes attract a sizeable profit, if properly extracted. You succeeded but left its nest to the wolves. Take a <strong>Paring Knife</strong> (d6), <strong>an extra 20gp</strong>, and a pang of regret.</p>"
+      },
+      "GWqMZftnf7HHcdSm": {
+        "name": "Gold"
+      }
+    }
+  },
+  "Prowler: What tool is always in your pack?": {
+    "name": "Prowler: What tool is always in your pack?",
+    "description": "<p>Roll on this table during character creation for the <strong>Prowler</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Fermented Spirits</strong> Keeps you warm at the best of times and as an explosive at the worst. 3 Uses.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Trail Shaker</strong> A noisy instrument that reveals nearby trails, even when deeply hidden.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Drowse Balm</strong> A wax bar. If boiled in water, the steam acts as a soporific agent.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Spike and Cord</strong> For traversing difficult terrain or for creating makeshift traps and structures.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Iron Rattle</strong> A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Hardening Glue</strong> Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses).</p>"
+      }
+    }
+  },
+  "Rill Runner: What pays your way across the land?": {
+    "name": "Rill Runner: What pays your way across the land?",
+    "description": "<p>Roll on this table during character creation for the <strong>Rill Runner</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Performance</strong> Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra <strong>10gp</strong>.</p>"
+      },
+      "wFkLvHaTna8Uf2hA": {
+        "name": "Gold"
+      },
+      "2-2": {
+        "description": "<p><strong>Bodyguard</strong> You are a protector for those afraid to travel alone. Start with a <strong>Rapier</strong> (d8).</p>"
+      },
+      "IDQxSw3o193bt29I": {
+        "name": "Rapier"
+      },
+      "3-3": {
+        "description": "<p><strong>Wares</strong> You buy low and sell high, always making just enough to get by. Take a <strong>single item</strong> worth <strong>20gp</strong> (or less) from the [gear](/second-edition/players-guide/marketplace#gear) table.</p>"
+      },
+      "EnUfY8zkAFccQd3S": {
+        "name": "Gold"
+      },
+      "4-4": {
+        "description": "<p><strong>Transport</strong> You deliver \"delicate\" packages throughout the lands. You have at least one contact in any major town.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Sailor's Friend</strong> Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Guide</strong> You shepherd caravans and travelers across water-soaked lands. Start a <strong>map</strong> (<em>petty</em>) relevant to your next journey.</p>"
+      }
+    }
+  },
+  "Rill Runner: What songs are you best known for?": {
+    "name": "Rill Runner: What songs are you best known for?",
+    "description": "<p>Roll on this table during character creation for the <strong>Rill Runner</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><em>The Tinker's Two-Step</em>. A humorous fairy tale about a gift-giving traveler. Start with a <strong>Reed Whistle</strong>. Anyone in earshot must pass a WIL save to perform an act of violence.</p>"
+      },
+      "2-2": {
+        "description": "<p><em>The Sylph and Her Lover</em>. A bawdy tale of lost love. Start with a <strong>Breeze Knot</strong> (3 charges). Creates a strong breeze. <strong>Recharge</strong>: Tie it to a mast during a storm.</p>"
+      },
+      "3-3": {
+        "description": "<p><em>Harper's Devotion</em>. A sad, short tale about a musician that falls in love with a star. Start with a <strong>Celestial Lute</strong>. Reveals the constellations above, no matter the weather.</p>"
+      },
+      "4-4": {
+        "description": "<p><em>The Reed Fisher</em>. A celebrated song about a massive carp that always seems to get away. Begin with a spool of <strong>River Twine</strong> (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.</p>"
+      },
+      "5-5": {
+        "description": "<p><em>Song of the Silver Stream</em>. A wordless lullaby that mimics flowing water. Take a <strong>Stone Flute</strong> that can calm almost any river.</p>"
+      },
+      "6-6": {
+        "description": "<p><em>The Thrush and the Meadow</em>. A moody tale told in alternating chorus. Start with a <strong>Feather Quill</strong> (1 use, <em>petty</em>). A map drawn with this quill reveals the most expedient course between any two points.</p>"
+      }
+    }
+  },
+  "Scrivener: How do you transcribe sensitive information?": {
+    "name": "Scrivener: How do you transcribe sensitive information?",
+    "description": "<p>Roll on this table during character creation for the <strong>Scrivener</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>Fib Ink</strong> Glows when used to write true statements but fades if used to write false ones.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>Cipher Stone</strong> A pair of sharp black stones. Each one decrypts any message written by the other.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>Everquill</strong> A quill that writes on any surface. You still need ink. <em>Petty</em>.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>Whisper Vial</strong> Whisper a message into the vial, and it will play it back to whoever opens it next.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>Sanguine Lens</strong> Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Echo Leaf</strong> A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. <em>Petty</em>.</p>"
+      }
+    }
+  },
+  "Scrivener: What work did you keep for yourself?": {
+    "name": "Scrivener: What work did you keep for yourself?",
+    "description": "<p>Roll on this table during character creation for the <strong>Scrivener</strong> background.</p>",
+    "results": {
+      "1-1": {
+        "description": "<p><strong>The Wild Tongue</strong>. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts and how to understand them.</p>"
+      },
+      "2-2": {
+        "description": "<p><strong>The Silent Symphony</strong>. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by those employing invisibility magic.</p>"
+      },
+      "3-3": {
+        "description": "<p><strong>A Treatise on the Abyss</strong>. A nondescript black book. An in-depth, largely theoretical text describing the <strong>Roots</strong>, as well as information about the location of a nearby <strong>Gate</strong>.</p>"
+      },
+      "4-4": {
+        "description": "<p><strong>The Star Waltz</strong>. A comet-shaped clasp bound in a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers.</p>"
+      },
+      "5-5": {
+        "description": "<p><strong>The Cathedral and the Canopy</strong>. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.</p>"
+      },
+      "6-6": {
+        "description": "<p><strong>Garden of Glass</strong>. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a <strong>Gate</strong>.</p>"
+      }
+    }
+  }
+}

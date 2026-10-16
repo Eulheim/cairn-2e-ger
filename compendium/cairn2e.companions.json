@@ -1,0 +1,80 @@
+{
+ "label": "Gefährten",
+ "entries": {
+  "Blood Pail Servant": {
+   "name": "Bluteimer-Diener",
+   "items": {
+    "Shard Fists": {
+     "name": "Splitterfäuste",
+     "description": "<p>Splitterfäuste (W8+W8)</p>"
+    },
+    "Raised by emptying a Blood Pail, built from whatever is buried below.": {
+     "name": "Entstanden durch Ausleeren eines Bluteimers, gebaut aus allem, was darunter begraben liegt."
+    },
+    "Only one servant can be raised at a time.": {
+     "name": "Es kann immer nur ein Diener erweckt werden."
+    },
+    "If destroyed, the one who raised it permanently loses 1d4 STR.": {
+     "name": "Wird er zerstört, verliert der Erwecker dauerhaft 1W4 STR."
+    }
+   }
+  },
+  "Falcon": {
+   "name": "Falke",
+   "items": {
+    "Claws": {
+     "name": "Krallen",
+     "description": "<p>Krallen (W6+W6)</p>"
+    },
+    "Bite": {
+     "name": "Biss",
+     "description": "<p>Biss (W8)</p>"
+    },
+    "It only eats live game.": {
+     "name": "It only eats live game."
+    }
+   }
+  },
+  "Hollow Wolf": {
+   "name": "Hohler Wolf",
+   "items": {
+    "Teeth": {
+     "name": "Zähne",
+     "description": "<p>Zähne (W6)</p>"
+    },
+    "Loyal to you unto death.": {
+     "name": "Loyal to you unto death."
+    },
+    "A great tunneler.": {
+     "name": "A great tunneler."
+    }
+   }
+  },
+  "Homunculus": {
+   "name": "Homunkulus",
+   "items": {
+    "A miniature clay replica of you that follows your every command.": {
+     "name": "A miniature clay replica of you that follows your every command."
+    },
+    "It hates being enthralled to you and complains bitterly whenever possible.": {
+     "name": "It hates being enthralled to you and complains bitterly whenever possible."
+    },
+    "Any damage done to the homunculus is also done to you.": {
+     "name": "Any damage done to the homunculus is also done to you."
+    }
+   }
+  },
+  "Raven Familiar": {
+   "name": "Rabenvertrauter",
+   "items": {
+    "Beak": {
+     "name": "Schnabel",
+     "description": "<p>Schnabel (W6)</p>"
+    },
+    "It speaks as an intelligent being and is entirely devoted to you.": {
+     "name": "It speaks as an intelligent being and is entirely devoted to you."
+    }
+   }
+  }
+ }
+}
