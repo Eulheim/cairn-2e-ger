@@ -1,79 +1,79 @@
 {
- "label": "Spieltabellen",
- "entries": {
-  "Die of Fate": {
-   "name": "Schicksalswürfel",
-   "description": "<p>Optional: Würfle 1W6, wann immer der Ausgang eines Ereignisses ungewiss ist oder um ein Element des Zufalls zu simulieren.</p>",
-   "results": {
-    "1-3": {
-     "description": "3 oder darunter: Pech für die SC."
+  "label": "Spieltabellen",
+  "entries": {
+    "Die of Fate": {
+      "name": "Schicksalswürfel",
+      "description": "<p>Optional: Würfle 1W6, wann immer der Ausgang eines Ereignisses ungewiss ist oder um ein Element des Zufalls zu simulieren.</p>",
+      "results": {
+        "1-3": {
+          "description": "3 oder darunter: Pech für die SC."
+        },
+        "4-6": {
+          "description": "4 oder mehr: der Ausgang begünstigt die SC."
+        }
+      }
     },
-    "4-6": {
-     "description": "4 oder mehr: der Ausgang begünstigt die SC."
+    "Reactions": {
+      "name": "Reaktionen",
+      "description": "<p>Wenn die SC auf einen NSC treffen, dessen Reaktion auf die Gruppe nicht offenkundig ist, kann der Wächter 2W6 würfeln und diese Tabelle befragen.</p>",
+      "results": {
+        "2-2": {
+          "description": "Feindselig"
+        },
+        "3-5": {
+          "description": "Misstrauisch"
+        },
+        "6-8": {
+          "description": "Neugierig"
+        },
+        "9-11": {
+          "description": "Freundlich"
+        },
+        "12-12": {
+          "description": "Hilfsbereit"
+        }
+      }
+    },
+    "Scars": {
+      "name": "Narben",
+      "results": {
+        "1-1": {
+          "description": "Bleibende Narbe: Würfle 1W6. 1: Nacken, 2: Hände, 3: Auge, 4: Brust, 5: Beine, 6: Ohr. Würfle 1W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
+        },
+        "2-2": {
+          "description": "Erschütternder Schlag: Du bist desorientiert und erschüttert. Beschreibe, wie du dich sammelst. Würfle 1W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
+        },
+        "3-3": {
+          "description": "Abgedrängt: Du wirst weggeschleudert und landest flach auf dem Gesicht, nach Luft ringend. Du bist erschöpft, bis du ein paar Stunden rastest. Dann würfle 1W6. Addiere das Ergebnis auf deine max. HP."
+        },
+        "4-4": {
+          "description": "Gebrochenes Glied: Würfle 1W6. 1–2: Bein, 3–4: Arm, 5: Rippe, 6: Schädel. Nach der Heilung würfle 2W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
+        },
+        "5-5": {
+          "description": "Erkrankt: Du bist von einer widerlichen, unangenehmen Infektion befallen. Wenn du sie überstanden hast, würfle 2W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
+        },
+        "6-6": {
+          "description": "Neuorientierende Kopfverletzung: Würfle 1W6. 1–2: STR, 3–4: DEX, 5–6: WIL. Würfle 3W6. Ist das Ergebnis höher als dein aktuelles Attribut, nimm den neuen Wert."
+        },
+        "7-7": {
+          "description": "Sehnenriss: Du kannst dich kaum bewegen, bis du ernsthafte Hilfe und Ruhe bekommst. Nach der Genesung würfle 3W6. Ist das Ergebnis höher als deine max. DEX, nimm den neuen Wert."
+        },
+        "8-8": {
+          "description": "Ertaubt: Du kannst nichts hören, bis du außergewöhnliche Hilfe findest. Würfle außerdem einen WIL-Rettungswurf. Bestehst du ihn, erhöhe dein max. WIL um 1W4."
+        },
+        "9-9": {
+          "description": "Umgekrempelt: Ein verborgener Teil deiner Psyche ist losgerissen. Würfle 3W6. Ist das Ergebnis höher als deine max. WIL, nimm den neuen Wert."
+        },
+        "10-10": {
+          "description": "Zerschmettert: Ein Glied ist abgerissen, verkrüppelt oder unbrauchbar. (Der Wächter sagt dir, welches.) Würfle dann einen WIL-Rettungswurf. Bestehst du ihn, erhöhe dein max. WIL um 1W6."
+        },
+        "11-11": {
+          "description": "Tödliche Wunde: Du bist erschöpft und handlungsunfähig. Du stirbst in einer Stunde, wenn du nicht geheilt wirst. Nach der Genesung würfle 2W6. Nimm das neue Ergebnis als deine max. HP."
+        },
+        "12-12": {
+          "description": "Verdammt: Der Tod schien zum Greifen nah, aber irgendwie hast du überlebt. Verfehlst du deinen nächsten Rettungswurf gegen kritischen Schaden, stirbst du schrecklich. Bestehst du ihn, würfle 3W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
+        }
+      }
     }
-   }
-  },
-  "Reactions": {
-   "name": "Reaktionen",
-   "description": "<p>Wenn die SC auf einen NSC treffen, dessen Reaktion auf die Gruppe nicht offenkundig ist, kann der Wächter 2W6 würfeln und diese Tabelle befragen.</p>",
-   "results": {
-    "2-2": {
-     "description": "Feindselig"
-    },
-    "3-5": {
-     "description": "Misstrauisch"
-    },
-    "6-8": {
-     "description": "Neugierig"
-    },
-    "9-11": {
-     "description": "Freundlich"
-    },
-    "12-12": {
-     "description": "Hilfsbereit"
-    }
-   }
-  },
-  "Scars": {
-   "name": "Narben",
-   "results": {
-    "1-1": {
-     "description": "Bleibende Narbe: Würfle 1W6. 1: Nacken, 2: Hände, 3: Auge, 4: Brust, 5: Beine, 6: Ohr. Würfle 1W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
-    },
-    "2-2": {
-     "description": "Erschütternder Schlag: Du bist desorientiert und erschüttert. Beschreibe, wie du dich sammelst. Würfle 1W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
-    },
-    "3-3": {
-     "description": "Abgedrängt: Du wirst weggeschleudert und landest flach auf dem Gesicht, nach Luft ringend. Du bist erschöpft, bis du ein paar Stunden rastest. Dann würfle 1W6. Addiere das Ergebnis auf deine max. HP."
-    },
-    "4-4": {
-     "description": "Gebrochenes Glied: Würfle 1W6. 1–2: Bein, 3–4: Arm, 5: Rippe, 6: Schädel. Nach der Heilung würfle 2W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
-    },
-    "5-5": {
-     "description": "Erkrankt: Du bist von einer widerlichen, unangenehmen Infektion befallen. Wenn du sie überstanden hast, würfle 2W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
-    },
-    "6-6": {
-     "description": "Neuorientierende Kopfverletzung: Würfle 1W6. 1–2: STR, 3–4: DEX, 5–6: WIL. Würfle 3W6. Ist das Ergebnis höher als dein aktuelles Attribut, nimm den neuen Wert."
-    },
-    "7-7": {
-     "description": "Sehnenriss: Du kannst dich kaum bewegen, bis du ernsthafte Hilfe und Ruhe bekommst. Nach der Genesung würfle 3W6. Ist das Ergebnis höher als deine max. DEX, nimm den neuen Wert."
-    },
-    "8-8": {
-     "description": "Ertaubt: Du kannst nichts hören, bis du außergewöhnliche Hilfe findest. Würfle außerdem einen WIL-Rettungswurf. Bestehst du ihn, erhöhe dein max. WIL um 1W4."
-    },
-    "9-9": {
-     "description": "Umgekrempelt: Ein verborgener Teil deiner Psyche ist losgerissen. Würfle 3W6. Ist das Ergebnis höher als deine max. WIL, nimm den neuen Wert."
-    },
-    "10-10": {
-     "description": "Zerschmettert: Ein Glied ist abgerissen, verkrüppelt oder unbrauchbar. (Der Wächter sagt dir, welches.) Würfle dann einen WIL-Rettungswurf. Bestehst du ihn, erhöhe dein max. WIL um 1W6."
-    },
-    "11-11": {
-     "description": "Tödliche Wunde: Du bist erschöpft und handlungsunfähig. Du stirbst in einer Stunde, wenn du nicht geheilt wirst. Nach der Genesung würfle 2W6. Nimm das neue Ergebnis als deine max. HP."
-    },
-    "12-12": {
-     "description": "Verdammt: Der Tod schien zum Greifen nah, aber irgendwie hast du überlebt. Verfehlst du deinen nächsten Rettungswurf gegen kritischen Schaden, stirbst du schrecklich. Bestehst du ihn, würfle 3W6. Ist das Ergebnis höher als deine max. HP, nimm den neuen Wert."
-    }
-   }
   }
- }
 }

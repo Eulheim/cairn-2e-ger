@@ -1,0 +1,1545 @@
+{
+  "label": "bestiary",
+  "entries": {
+    "Acolyte": {
+      "name": "Akolyth",
+      "items": {
+        "Ceremonial Dagger": {
+          "name": "Zeremoniendolch",
+          "description": "<p>Zeremoniendolch (W6)</p>"
+        },
+        "Holy servants bound to a particular deity.": {
+          "name": "Heilige Diener, die einer bestimmten Gottheit verbunden sind.",
+          "description": "<p>Reisen meist in Gruppen von vier oder mehr.</p>"
+        },
+        "Carry a holy symbol (Ward once per day).": {
+          "name": "Tragen ein heiliges Symbol (einmal täglich Bann)."
+        }
+      }
+    },
+    "Aranea": {
+      "name": "Aranea",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W8)</p>"
+        },
+        "Enormous spiders with greenish-black skin and large brains.": {
+          "name": "Enorme Spinnen mit grünschwarzer Haut und großem Gehirn.",
+          "description": "<p>Können nach Belieben Menschengestalt annehmen.</p>"
+        },
+        "Conduct their magical research in dark, web-filled caverns.": {
+          "name": "Betreiben ihre magische Forschung in dunklen, netzerfüllten Höhlen.",
+          "description": "<p>Tragen die Zauberbücher <em>Bezaubern</em> und <em>Befehl</em> stets bei sich.</p>"
+        },
+        "Fire damage against Aranea is enhanced.": {
+          "name": "Feuerschaden gegen Aranea ist verstärkt."
+        }
+      }
+    },
+    "Bandit": {
+      "name": "Räuber",
+      "items": {
+        "Short Sword": {
+          "name": "Kurzschwert",
+          "description": "<p>Kurzschwert (W6)</p>"
+        },
+        "Short Bow": {
+          "name": "Kurzbogen",
+          "description": "<p>Kurzbogen (W6)</p>"
+        },
+        "Outlaws who raid settlements, attack ships, or ambush travelers.": {
+          "name": "Gesetzlose, die Siedlungen überfallen, Schiffe angreifen oder Reisende in Hinterhalte locken.",
+          "description": "<p>Gruppen von vier oder mehr sind eine <em>Abteilung</em>.</p>"
+        },
+        "A detachment always travels with one leader wearing chain mail or similar (2 Armor) and a long sword (d10) or crossbow (d8).": {
+          "name": "Eine Abteilung reist stets mit einer Anführerin in Kettenhemd oder Ähnlichem (2 Rüstung) und mit Langschwert (W10) oder Armbrust (W8)."
+        },
+        "Loyal": {
+          "name": "Treue",
+          "description": "<p>Beim Moraltest wird mit dem WIL der Anführerin gewürfelt (13). Stirbt die Anführerin, ergreifen die anderen die Flucht.</p>"
+        }
+      }
+    },
+    "Banshee": {
+      "name": "Todesfee",
+      "items": {
+        "Ghostly Touch": {
+          "name": "Spukberührung",
+          "description": "<p>Spukberührung (W8)</p>"
+        },
+        "Incorporeal spirits that linger long after death to haunt the living.": {
+          "name": "Körperlose Geister, die lange nach ihrem Tod den Lebenden nachgehen."
+        },
+        "Unharmed by cold, heat, or the elements.": {
+          "name": "Unverletzt durch Kälte, Hitze oder die Elemente.",
+          "description": "<p>Schaden durch Eisenwaffen ist <em>verstärkt</em>.</p>"
+        },
+        "Wail": {
+          "name": "Klage",
+          "description": "<p>Alle in Hörweite müssen einen WIL-Rettungswurf bestehen oder werden bewusstlos.</p>"
+        }
+      }
+    },
+    "Basilisk": {
+      "name": "Basilisk",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W10)</p>"
+        },
+        "Long, serpentine lizards that nest deep below the earth or in brambles just underfoot.": {
+          "name": "Lange, schlangenartige Echsen, die tief unter der Erde oder in Dornengestrüpp gleich nebenan nisten."
+        },
+        "Fighting a Basilisk without meeting its gaze is difficult.": {
+          "name": "Eine Basilisk zu bekämpfen, ohne ihrem Blick zu begegnen, ist schwierig.",
+          "description": "<p>(Angriffe, die ihr zugewandt sind, sind <em>beeinträchtigt</em>.)</p>"
+        },
+        "Gaze": {
+          "name": "Blick",
+          "description": "<p>Ein Ziel, das die Basilisk ansieht, wird von unten nach oben langsam versteinert und ist nach drei Runden vollständig erstarrt. Ein Gegengift lässt sich aus dem Kröpfer der Basilisk brauen. Die Spiegelung der Kreatur ist harmlos.</p>"
+        }
+      }
+    },
+    "Blink Dog": {
+      "name": "Flimmerhund",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W6)</p>"
+        },
+        "Teleporting canines in service of a powerful master.": {
+          "name": "Teleportierende Hunde im Dienst eines mächtigen Herrn."
+        },
+        "Can phase out of reality at will.": {
+          "name": "Können nach Belieben aus der Realität treten.",
+          "description": "<p>Nahkampfangriffe gegen sie sind <em>beeinträchtigt</em>.</p>"
+        }
+      }
+    },
+    "Blood Elk": {
+      "name": "Blut-Elch",
+      "items": {
+        "Horns": {
+          "name": "Hörner",
+          "description": "<p>Hörner (W8)</p>"
+        },
+        "Born from violence resulting from a greedy or selfish act.": {
+          "name": "Geboren aus der Gewalt einer gierigen oder selbstsüchtigen Tat."
+        },
+        "Kill their victims for sustenance, but gains no succor.": {
+          "name": "Töten ihre Opfer zum Überleben, doch finden keine Linderung.",
+          "description": "<p>Sie sind stets hungrig.</p>"
+        },
+        "Gores its victims by ripping out their entrails.": {
+          "name": "Spießen ihre Opfer auf und reißen ihnen die Eingeweide heraus."
+        }
+      }
+    },
+    "Boggart": {
+      "name": "Irrwicht",
+      "items": {
+        "Wild, hairy tricksters that prize shiny trinkets above coin.": {
+          "name": "Wilde, behaarte Trickser, die glänzenden Tand höher schätzen als Münzen."
+        },
+        "Boggarts have true names that describe their true nature.": {
+          "name": "Irrwichte tragen wahre Namen, die ihr wahres Wesen beschreiben.",
+          "description": "<p>Wer diese Namen kennt, hat Macht über sie.</p>"
+        },
+        "Magic": {
+          "name": "Magie",
+          "description": "<p>Der Irrwicht kann <em>Objekte beleben</em>, <em>Verwirrung säen</em>, <em>magische Verkleidungen erschaffen</em>, <em>Telekinese</em> und <em>Teleport</em> einsetzen.</p>"
+        }
+      }
+    },
+    "Bone Construct": {
+      "name": "Knochenkonstrukt",
+      "items": {
+        "Sharpened Arms": {
+          "name": "Geschärfte Arme",
+          "description": "<p>geschärfte Arme (W8+W8)</p>"
+        },
+        "Gigantic, four-armed constructs made of bone and sorcery.": {
+          "name": "Gigantische, vierarmige Konstrukte aus Knochen und Zauberkunst."
+        },
+        "Mindless guardians that stand ready to attack any creature other than their creator.": {
+          "name": "Willelose Wächter, die bereitstehen, jede Kreatur außer ihrer Erschafferin anzugreifen."
+        }
+      }
+    },
+    "Bugbear": {
+      "name": "Grottenschrat",
+      "items": {
+        "Club": {
+          "name": "Knüppel",
+          "description": "<p>Knüppel (W8)</p>"
+        },
+        "Large, goblin-like creatures covered in fur.": {
+          "name": "Große, goblinartige Kreaturen, dicht behaart."
+        },
+        "Prefer stealth and trickery to gain an advantage.": {
+          "name": "Bevorzugen Heimlichkeit und Tricks, um Vorteil zu gewinnen."
+        },
+        "Often command parties of like creatures (typically goblins).": {
+          "name": "Befehlen oft Gruppen gleichartiger Kreaturen (meist Goblins)."
+        }
+      }
+    },
+    "Burrowing Horror": {
+      "name": "Grabschrecken",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W10)</p>"
+        },
+        "Acid Squirt": {
+          "name": "Säurespeier",
+          "description": "<p>Säurespeier (W8, <em>Flächenschaden</em>)</p>"
+        },
+        "Huge insectoids with multiple legs and shiny black eyes.": {
+          "name": "Riesige Insektoide mit zahlreichen Beinen und glänzend schwarzen Augen.",
+          "description": "<p>Ernähren sich von Erde, Wurzeln und Fleisch.</p>"
+        },
+        "Burrow just beneath surfaces to ambush unsuspecting creatures.": {
+          "name": "Graben direkt unter der Oberfläche, um ahnungslose Kreaturen zu überfallen."
+        },
+        "Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm.": {
+          "name": "Das Ziel verliert ein Körperteil. Würfle 1W6. 1: Kopf, 2–4: Bein, 5–6: Arm."
+        }
+      }
+    },
+    "Cave Locust": {
+      "name": "Höhlengrille",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W6)</p>"
+        },
+        "Giant plant-eating crickets that dwell in caves.": {
+          "name": "Riesige pflanzenfressende Grillen, die in Höhlen leben.",
+          "description": "<p>Immun gegen die meisten Gifte.</p>"
+        },
+        "Their natural coloration allows them to blend in with the stone.": {
+          "name": "Ihre natürliche Färbung lässt sie mit dem Stein verschmelzen.",
+          "description": "<p>Bei Bedrohung stoßen sie laute Schreie aus.</p>"
+        }
+      }
+    },
+    "Centaur": {
+      "name": "Zentaur",
+      "items": {
+        "Spear": {
+          "name": "Speer",
+          "description": "<p>Speer (W8)</p>"
+        },
+        "Short Bow": {
+          "name": "Kurzbogen",
+          "description": "<p>Kurzbogen (W6)</p>"
+        },
+        "Creatures with the lower body and legs of a horse, but a humanoid upper body.": {
+          "name": "Kreaturen mit dem Unterleib und den Beinen eines Pferdes, aber humanoidem Oberkörper."
+        },
+        "Rarely found alone, preferring the company of their own.": {
+          "name": "Selten allein anzutreffen, denn sie lieben die Gesellschaft ihrer Art."
+        }
+      }
+    },
+    "Cobblehounds": {
+      "name": "Pflasterbeißer",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W10)</p>"
+        },
+        "Immobile constructs typically used as guardians to great tombs or artifacts.": {
+          "name": "Unbewegliche Konstrukte, meist als Wächter großer Gräber oder Artefakte eingesetzt."
+        },
+        "Unaffected by mundane persuasion techniques, but love a good bone.": {
+          "name": "Unbeeindruckt von gewöhnlichen Überredungsversuchen, doch erpicht auf einen guten Knochen."
+        }
+      }
+    },
+    "Creeping Vines": {
+      "name": "Kriechranken",
+      "items": {
+        "Vines": {
+          "name": "Ranken",
+          "description": "<p>Ranken (W4, <em>Flächenschaden</em>)</p>"
+        },
+        "Appear as an inert, typical vine.": {
+          "name": "Er scheinen eine träge, gewöhnliche Ranke zu sein.",
+          "description": "<p>Greift vorüberziehende Kreaturen an, um ihre Leichen als Dünger zu nutzen.</p>"
+        },
+        "Target is pulled into the air where they asphyxiate within a few minutes.": {
+          "name": "Das Ziel wird in die Luft gezogen und erstickt dort binnen weniger Minuten."
+        }
+      }
+    },
+    "Crypt Guardian": {
+      "name": "Gruftwächter",
+      "items": {
+        "Ethereal Claws": {
+          "name": "Ätherische Klauen",
+          "description": "<p>ätherische Klauen (W8+W8)</p>"
+        },
+        "Animated skeletons clothed in billowing robes.": {
+          "name": "Belebte Skelette in wehenden Gewändern.",
+          "description": "<p>Ihre Augenhöhlen glühen hypnotisch rot. Sie verteidigen Krypten und Gräber, greifen aber nicht an, wenn man sie in Ruhe lässt.</p>"
+        },
+        "Non-magical attacks against them are impaired.": {
+          "name": "Nichtmagische Angriffe gegen sie sind beeinträchtigt."
+        },
+        "Can teleport any target in eyesight to a random room nearby.": {
+          "name": "Können jedes sichtbare Ziel in einen zufälligen nahen Raum teleportieren."
+        }
+      }
+    },
+    "Dryad": {
+      "name": "Dryade",
+      "items": {
+        "Knotted Arms": {
+          "name": "Knorrige Arme",
+          "description": "<p>knorrige Arme (W6)</p>"
+        },
+        "Shy, protective tree spirits that manifest as beautiful, green-skinned humanoids.": {
+          "name": "Scheue, beschützende Baumsgeister, die als schöne, grünhäutige Humanoiden erscheinen."
+        },
+        "Unable to travel far from the tree they are bound to.": {
+          "name": "Können sich nicht weit von dem Baum entfernen, an den sie gebunden sind.",
+          "description": "<p>Sie vergehen, wenn der Baum zerstört wird.</p>"
+        },
+        "Befuddle": {
+          "name": "Verwirren",
+          "description": "<p>Das Ziel wird verwirrt und entfernt sich Schritt für Schritt immer weiter vom Wirtsbaum. Pro Runde ein WIL-Rettungswurf, um sich zu befreien.</p>"
+        }
+      }
+    },
+    "Ettin": {
+      "name": "Ettin",
+      "items": {
+        "Club": {
+          "name": "Knüppel",
+          "description": "<p>Knüppel (W10)</p>"
+        },
+        "The two-headed kin of giants.": {
+          "name": "Zweiköpfige Verwandte der Riesen.",
+          "description": "<p>Bevorzugen Höhlen und unterirdische Behausungen.</p>"
+        },
+        "Cannot be surprised.": {
+          "name": "Nicht zu überraschen."
+        }
+      }
+    },
+    "Eye of Terror": {
+      "name": "Schreckensauge",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W8)</p>"
+        },
+        "Floating spheres with large mouths, enormous eyes, and several small eyes set atop long stalks.": {
+          "name": "Schwebende Kugeln mit großen Mäulern, riesigen Augen und mehreren kleinen Augen auf langen Stielen."
+        },
+        "They are highly intelligent, intensely greedy, and completely insane.": {
+          "name": "Sie sind hochintelligent, maßlos gierig und vollkommen verrückt."
+        },
+        "Can cast the following spells at will: Charm, Phobia, Telekinesis, Sleep, Shuffle, Vision.": {
+          "name": "Können folgende Zauber nach Belieben wirken: Bezaubern, Phobie, Telekinese, Schlaf, Vertauschen, Vision.",
+          "description": "<p>Magie gegen sie verlangt einen WIL-Rettungswurf, sonst verpufft sie.</p>"
+        }
+      }
+    },
+    "Frost Elf": {
+      "name": "Frostelf",
+      "items": {
+        "Icicle Dagger": {
+          "name": "Eiszappendolch",
+          "description": "<p>Eiszappendolch (W6)</p>"
+        },
+        "Beautiful, amoral, and long-lived.": {
+          "name": "Schön, unmoralisch und langlebig."
+        },
+        "Resistant to most forms of magic.": {
+          "name": "Resistent gegen die meisten Formen von Magie."
+        },
+        "Can cast the following spells at will: Sleep, Teleport, Detect Magic.": {
+          "name": "Können folgende Zauber nach Belieben wirken: Schlaf, Teleport, Magie entdecken."
+        }
+      }
+    },
+    "Gargoyle": {
+      "name": "Gargoyle",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W8+W8)</p>"
+        },
+        "Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs.": {
+          "name": "Magische, träg wandernde Statuen geflügelter Ungeheuer, meist als Wachen oder Wachhunde eingesetzt."
+        },
+        "Prowl at nights but fear the day, when the sun's light freezes them in place.": {
+          "name": "Pirschen nachts, fürchten aber den Tag, dessen Sonnenlicht sie an Ort und Stelle friert."
+        },
+        "Immune to charms and magical sleep.": {
+          "name": "Immun gegen Bezauberung und magischen Schlaf."
+        }
+      }
+    },
+    "Gelatinous Ooze": {
+      "name": "Gallertschleim",
+      "items": {
+        "Devouring Touch": {
+          "name": "Fressgriff",
+          "description": "<p>verschlingende Berührung (W8)</p>"
+        },
+        "Large shapeless masses of transparent jelly.": {
+          "name": "Große, formlose Massen aus durchsichtigem Gelee.",
+          "description": "<p>Jagen blind nach Nahrung in Verliesen und unterirdischen Höhlen.</p>"
+        },
+        "The target is engulfed, losing d6 STR damage per round until they are consumed.": {
+          "name": "Das Ziel wird eingeschlossen und erleidet pro Runde W6 STR-Schaden, bis es verzehrt ist."
+        }
+      }
+    },
+    "Ghost": {
+      "name": "Geist",
+      "items": {
+        "Life Drain": {
+          "name": "Lebenssauger",
+          "description": "<p>Lebenssauger (W6)</p>"
+        },
+        "Incorporeal spirits of the restless dead, vulnerable only to magic and specific anointed rites.": {
+          "name": "Körperlose Geister der Ruhelosen, nur durch Magie und bestimmte geweihte Riten zu verwunden."
+        },
+        "Target must save WIL or is possessed, acting only on behalf of the ghost's whims.": {
+          "name": "Das Ziel muss einen WIL-Rettungswurf bestehen oder wird besessen und handelt nur nach den Launen des Geistes."
+        }
+      }
+    },
+    "Ghoul": {
+      "name": "Ghul",
+      "items": {
+        "Elongated Claws": {
+          "name": "Langkrallen",
+          "description": "<p>Langkrallen (W6+W6)</p>"
+        },
+        "Grey-skinned man-things wearing shredded clothes that crave only the flesh of the living.": {
+          "name": "Grauhäutige Mensendinge in zerfetzten Kleidern, die nur nach dem Fleisch der Lebenden gieren."
+        },
+        "Target is deprived from their necrotic wound, dying in d4 days unless treated by a priest or skilled healer. If the body is not burned it later rises as a Ghoul as well.": {
+          "name": "Das Ziel ist durch seine nekrotische Wunde erschöpft und stirbt in W4 Tagen, wenn es nicht von einer Priesterin oder erfahrenen Heilerin behandelt wird. Wird der Leichnam nicht verbrannt, steht er später als Ghul wieder auf."
+        }
+      }
+    },
+    "Giant Scorpion": {
+      "name": "Riesenskorpion",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W10+W10)</p>"
+        },
+        "Horse-sized arachnids commonly found in dry terrain or caverns.": {
+          "name": "Pferdegroße Spinnentiere, häufig in trockenem Gelände oder Höhlen."
+        },
+        "The stinger's poison liquefies the target's insides for an additional d8 STR damage. The STR loss is permanent.": {
+          "name": "Das Gift des Stachels verflüssigt das Innere des Ziels und verursacht zusätzlich W8 STR-Schaden. Der STR-Verlust ist dauerhaft."
+        }
+      }
+    },
+    "Gnoll": {
+      "name": "Gnoll",
+      "items": {
+        "Spear": {
+          "name": "Speer",
+          "description": "<p>Speer (W8)</p>"
+        },
+        "Ferocious humanoid hyenas spawned from arcane experiments long ago.": {
+          "name": "Wilde humanoide Hyänen, hervorgegangen aus arkanen Experimenten vergangener Zeiten."
+        },
+        "Deadly warriors, they attack as a pack (as detachment) or on their own.": {
+          "name": "Tödliche Krieger, die als Rudel (als Abteilung) oder einzeln angreifen."
+        }
+      }
+    },
+    "Goblin": {
+      "name": "Goblin",
+      "items": {
+        "Dagger": {
+          "name": "Dolch",
+          "description": "<p>Dolch (W6)</p>"
+        },
+        "Sling": {
+          "name": "Schleuder",
+          "description": "<p>Schleuder (W6)</p>"
+        },
+        "Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.": {
+          "name": "Kleine, groteske Humanoiden mit Haut in gedeckten Grüntönen, Braun und Grau."
+        },
+        "Avoid combat, only attacking when advantageous, using hit-and-run tactics.": {
+          "name": "Meiden den Kampf und greifen nur an, wenn es vorteilhaft ist, mit Hinterhalt-und-Rückzug-Taktiken."
+        },
+        "Sometimes are found using dire wolves as mounts.": {
+          "name": "Reiten mitunter auf Schreckenswölfen."
+        }
+      }
+    },
+    "Green Dragon": {
+      "name": "Grüner Drache",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W12)</p>"
+        },
+        "Forest-dwelling snakes topped with tall green scales.": {
+          "name": "Waldbewohnende Schlangen mit hohen grünen Schuppen.",
+          "description": "<p>Sammeln große Schatzhorte.</p>"
+        },
+        "Use intelligence and cunning to manipulate the weak into their service.": {
+          "name": "Nutzen Intelligenz und List, um Schwache in ihre Dienste zu zwingen."
+        },
+        "Chlorine Gas": {
+          "name": "Chlorgas",
+          "description": "<p>Alle in der Nähe müssen einen GES-Rettungswurf schaffen, um seiner Reichweite zu entkommen, oder verlieren 1W4 STR und werden <em>erschöpft</em>.</p>"
+        }
+      }
+    },
+    "Griffon": {
+      "name": "Greif",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W6+W6)</p>"
+        },
+        "Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.": {
+          "name": "Gierige Mischwesen mit Kopf und Flügeln eines Adlers und dem Unterleib eines Löwen."
+        },
+        "Can be used as mounts if taken young and properly trained.": {
+          "name": "Lassen sich als Reittiere nutzen, wenn man sie jung fängt und richtig abrichtet."
+        },
+        "Fly and attack at astonishing speeds, diving in to scoop up their prey.": {
+          "name": "Fliegen und greifen mit verblüffender Geschwindigkeit an, im Sturzflug, um ihre Beute zu packen."
+        },
+        "Tears flesh and bone from its victim with its razor-sharp beak.": {
+          "name": "Reißt mit seinem messerscharfen Schnabel Fleisch und Knochen vom Opfer."
+        }
+      }
+    },
+    "Grizzly Bear": {
+      "name": "Grizzlybär",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W8+W8)</p>"
+        },
+        "Reddish-brown bears commonly found in mountains, woodlands, and prairies.": {
+          "name": "Rötlichbraune Bären, häufig in Bergen, Wäldern und Prärien."
+        },
+        "Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.": {
+          "name": "Fressen am liebsten Fisch und Fleisch und greifen die seltenen Unglücklichen an, die ihren Weg kreuzen."
+        },
+        "Bites the victim for an additional d6 STR damage. They bleed out very quickly.": {
+          "name": "Beißt das Opfer für zusätzlich W6 STR-Schaden. Es blutet sehr schnell aus."
+        }
+      }
+    },
+    "Harpy": {
+      "name": "Harpyie",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W6+W6)</p>"
+        },
+        "Hideous monstrosities with the body of a giant eagle and a humanoid head.": {
+          "name": "Scheußliche Ungeheuer mit dem Leib eines riesigen Adlers und einem humanoiden Kopf."
+        },
+        "Their movements and flight are clumsy due to their disproportionate size.": {
+          "name": "Ihre Bewegungen und ihr Flug sind unbeholfen wegen ihrer unrechten Proportionen.",
+          "description": "<p>Sie verlassen sich auf bezauberte Opfer für alles Nennenswerte.</p>"
+        },
+        "Song": {
+          "name": "Gesang",
+          "description": "<p>Alle in der Nähe müssen einen WIL-Rettungswurf bestehen oder werden von ihrer Stimme bezaubert: Sie folgen der Harpyie und verteidigen sie gegen jede Bedrohung.</p>"
+        }
+      }
+    },
+    "Hellhound": {
+      "name": "Höllenhund",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W8)</p>"
+        },
+        "Fire Breath": {
+          "name": "Feuerodem",
+          "description": "<p>Feuerodem (W6, <em>Flächenschaden</em>)</p>"
+        },
+        "Monstrous, intelligent dogs that dwell near volcanoes.": {
+          "name": "Ungeheuerliche, intelligente Hunde, die nahe Vulkanen leben."
+        },
+        "Immune to fire and heat damage.": {
+          "name": "Immun gegen Feuer- und Hitzeschaden.",
+          "description": "<p>Heiß genug, Eisen allein durch Zubeißen zu schmelzen.</p>"
+        }
+      }
+    },
+    "Hobgoblin": {
+      "name": "Hobgoblin",
+      "items": {
+        "Mace": {
+          "name": "Streitkolben",
+          "description": "<p>Streitkolben (W8)</p>"
+        },
+        "Large and burly relatives of goblins.": {
+          "name": "Große, kräftige Verwandte der Goblins.",
+          "description": "<p>Leben in unterirdischen Festungen, bis sie zum Krieg gerufen werden.</p>"
+        },
+        "Automatically succeed in Morale Saves if a commander is present.": {
+          "name": "Bestehen Moral-Rettungswürfe automatisch, wenn eine Befehlshaberin zugegen ist."
+        },
+        "Trained to fight together.": {
+          "name": "Kämpfen im Verbund.",
+          "description": "<p>Ihr Schaden ist <em>verstärkt</em>, wenn eine Verbündete ebenfalls mit demselben Gegner im Kampf steht.</p>"
+        }
+      }
+    },
+    "Hooded Men": {
+      "name": "Kultisten",
+      "items": {
+        "Leystaff": {
+          "name": "Leystab",
+          "description": "<p>Leystab (W8)</p>"
+        },
+        "The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.": {
+          "name": "Die Wächter des Waldes; ein Kult, der seine Macht aus Leylinien, Runensteinen und Ähnlichem zieht."
+        },
+        "Leech a part of the victim's soul (1d4 WIL damage).": {
+          "name": "Saugen einen Teil der Seele des Opfers aus (1W4 WIL-Schaden)."
+        },
+        "Carries two of the following spellbooks: Charm, Hypnotize, Push/Pull, Shield.": {
+          "name": "Tragen zwei der folgenden Zauberbücher: Bezaubern, Hypnotisieren, Stoßen/Ziehen, Schild."
+        }
+      }
+    },
+    "Hydra": {
+      "name": "Hydra",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W12, <em>Flächenschaden</em>)</p>"
+        },
+        "Large reptilians with nine serpentine heads.": {
+          "name": "Große Reptilien mit neun schlangenartigen Köpfen.",
+          "description": "<p>Sie abzuschütteln ist fast unmöglich, wenn sie die Spur erst einmal aufgenommen haben.</p>"
+        },
+        "On taking Critical Damage, the hydra loses one head.": {
+          "name": "Bei Kritischem Schaden verliert die Hydra einen Kopf.",
+          "description": "<p>Sie kämpft weiter, bis keine Köpfe mehr übrig sind.</p>"
+        }
+      }
+    },
+    "Invisible Stalker": {
+      "name": "Unsichtbarer Pirscher",
+      "items": {
+        "Fists": {
+          "name": "Fäuste",
+          "description": "<p>Fäuste (W4+W4)</p>"
+        },
+        "Intelligent beings shaped into reality by a powerful wizard.": {
+          "name": "Intelligente Wesen, von einem mächtigen Magier in die Wirklichkeit geformt.",
+          "description": "<p>Völlig unsichtbar und lautlos.</p>"
+        },
+        "Attacks deal direct STR damage (subtracting Armor).": {
+          "name": "Angriffe verursachen direkten STR-Schaden (Rüstung wird abgezogen)."
+        }
+      }
+    },
+    "Killer Bees": {
+      "name": "Mörderbienen",
+      "items": {
+        "Sting": {
+          "name": "Stachel",
+          "description": "<p>Stachel (W6)</p>"
+        },
+        "Oversized bees that build underground hives.": {
+          "name": "Überdimensionierte Bienen, die unterirdische Stöcke bauen.",
+          "description": "<p>Sind extrem aggressiv und greifen alles an, was sich nähert.</p>"
+        },
+        "Produce special honey that heals 1d6 STR.": {
+          "name": "Produzieren besonderen Honig, der 1W6 STR heilt.",
+          "description": "<p>3 Anwendungen.</p>"
+        },
+        "When the bees cause STR damage, the stingers are lodged into the target, dealing d4 damage each round until removed.": {
+          "name": "Verursachen die Bienen STR-Schaden, bleiben die Stacheln im Ziel stecken und verursachen pro Runde W4 Schaden, bis sie entfernt werden."
+        }
+      }
+    },
+    "Kobold": {
+      "name": "Kobold",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W6)</p>"
+        },
+        "Spear": {
+          "name": "Speer",
+          "description": "<p>Speer (W8)</p>"
+        },
+        "Hairless humanoids with canine-like features and scaly skin.": {
+          "name": "Haarlose Humanoiden mit hundeartigen Zügen und schuppiger Haut.",
+          "description": "<p>Können im Dunkeln perfekt sehen, doch direktes Sonnenlicht schadet ihnen.</p>"
+        },
+        "Use traps and ambush to defeat opponents.": {
+          "name": "Besiegen Gegner mit Fallen und Hinterhalten.",
+          "description": "<p>Dienen oft mächtigeren Kreaturen.</p>"
+        }
+      }
+    },
+    "Lamia": {
+      "name": "Lamia",
+      "items": {
+        "Toothy Bite": {
+          "name": "Zähniger Biss",
+          "description": "<p>zähniger Biss (W8)</p>"
+        },
+        "Centaur-like creatures that prey on the life force of others, seducing their victims through heightened charm and intelligence.": {
+          "name": "Zentaurartige Kreaturen, die der Lebenskraft anderer nachstellen und ihre Opfer mit gesteigertem Charme und Intelligenz verführen.",
+          "description": "<p>Ihr Oberkörper ist meist humanoid, die untere Hälfte ein beliebigerest Mischwesen.</p>"
+        },
+        "Inherently magical.": {
+          "name": "Von Natur aus magisch.",
+          "description": "<p>Können nach Belieben Illusionen erschaffen, Kreaturen bezaubern und sich verkleiden.</p>"
+        },
+        "The target takes d6 WIL damage as their spirit is slowly sapped away. They then become enthralled to the Lamia, obeying its every command while in its presence.": {
+          "name": "Das Ziel erleidet W6 WIL-Schaden, während sein Geist langsam ausgesogen wird. Dann verfällt es der Lamia und gehorcht in ihrer Gegenwart jedem ihrer Befehle."
+        }
+      }
+    },
+    "Lich": {
+      "name": "Leichnam",
+      "items": {
+        "Soul Dagger": {
+          "name": "Seelendolch",
+          "description": "<p>Seelendolch (W8)</p>"
+        },
+        "Powerful sorcerers that paid the ultimate price for immortality: their own life.": {
+          "name": "Mächtige Zauberer, die den letzten Preis für Unsterblichkeit zahlten: ihr eigenes Leben.",
+          "description": "<p>Ihre Gier nach Macht kennt nun keine Grenzen mehr.</p>"
+        },
+        "Maintain unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.": {
+          "name": "Erhalten ihren Untod durch Bindung an ein irdisches Artefakt, das meist von mindestens W6 weiteren untoten Dienern beschützt wird."
+        },
+        "Carry up to six of the following spellbooks: Animate Object, Arcane Eye, Deafen, Disassemble, Elemental Wall, Frenzy, Gate, Hover, Hatred, Identify Owner, Knock, Pacify, Raise Dead, Raise Spirit, Shield, Sleep, Smoke Form, Telekinesis, Telepathy, Teleport, Vision, Wizard Mark.": {
+          "name": "Tragen bis zu sechs der folgenden Zauberbücher: Objekt beleben, Arkanauges, Ertauben, Zerlegen, Elementarwand, Raserei, Tor, Schweben, Hass, Eigentum erkennen, Klopfen, Besänftigen, Tote erwecken, Geist rufen, Schild, Schlaf, Rauchgestalt, Telekinese, Telepathie, Teleport, Vision, Magierzeichen."
+        }
+      }
+    },
+    "Manticore": {
+      "name": "Mantikor",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W6+W6)</p>"
+        },
+        "Tail Spike": {
+          "name": "Schwanzstachel",
+          "description": "<p>Schwanzstachel (W8)</p>"
+        },
+        "Spiteful monstrosities that wear a humanoid face, a lion's body, wings of a bat, and a scorpion's tail.": {
+          "name": "Boshafter Ungeheuer mit humanoidem Gesicht, Löwenleib, Fledermausflügeln und Skorpionschwanz.",
+          "description": "<p>Leben in Gebirgen, verlassenen Burgen und vergessenen Verliesen.</p>"
+        },
+        "Tail spikes act like darts, regrowing after a few days.": {
+          "name": "Die Schwanzstacheln wirken wie Wurfpfeile und wachsen nach wenigen Tagen nach.",
+          "description": "<p>Ein einzelner Stachel ist einem Sammler 150 GM wert.</p>"
+        },
+        "Target is deprived until they get a good night's sleep. Until then, they act boorish, selfish, and cruel (or more so, if that already is their nature).": {
+          "name": "Das Ziel ist erschöpft, bis es eine gute Nacht geschlafen hat. Bis dahin benimmt es sich grob, selbstsüchtig und grausam (oder noch mehr, falls das schon seine Art ist)."
+        }
+      }
+    },
+    "Mimic": {
+      "name": "Mimik",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W8)</p>"
+        },
+        "Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.": {
+          "name": "Boshafte Gestaltwandler, die die Form lebloser Gegenstände annehmen, wie man sie in Verliesen findet."
+        },
+        "Remain motionless while in disguise, surprising anyone that comes near.": {
+          "name": "Bleiben in ihrer Tarnung regungslos und überraschen jeden, der sich nähert."
+        },
+        "The mimic's saliva is extremely sticky and difficult to remove.": {
+          "name": "Der Speichel des Mimiks ist extrem klebrig und schwer zu entfernen.",
+          "description": "<p>Alchemisten zahlen bis zu 150 GM für selbst die kleinste Phiole.</p>"
+        }
+      }
+    },
+    "Mind Lasher": {
+      "name": "Geistespeitscher",
+      "items": {
+        "Tentacles": {
+          "name": "Tentakel",
+          "description": "<p>Tentakel (W6, <em>Flächenschaden</em>)</p>"
+        },
+        "Humanoid creatures with purple skin and squid-like heads.": {
+          "name": "Humanoide Kreaturen mit violetter Haut und tintenfischartigen Köpfen.",
+          "description": "<p>Leben tief unter der Erde oder auf raumfahrenden Schiffen. Sie fressen die Gehirne anderer Humanoider und nehmen deren Erinnerungen und Lebensessenz auf. Hochintelligent, aber unbeschreiblich böse.</p>"
+        },
+        "Mind Blast": {
+          "name": "Geistesstoß",
+          "description": "<p>Ziele in der Nähe müssen einen WIL-Rettungswurf bestehen oder 1W4 WIL verlieren und gelähmt werden.</p>"
+        },
+        "A tentacle rips the victim's brain out of their skull.": {
+          "name": "Ein Tentakel reißt dem Opfer das Gehirn aus dem Schädel."
+        }
+      }
+    },
+    "Minotaur": {
+      "name": "Minotaurus",
+      "items": {
+        "Two-Handed Axe": {
+          "name": "Zweihändige Axt",
+          "description": "<p>zweihändige Axt (W10)</p>"
+        },
+        "Charge": {
+          "name": "Angriffslauf",
+          "description": "<p>Angriffslauf (W12)</p>"
+        },
+        "Large humanoids (typically male) with the head of a bull.": {
+          "name": "Große Humanoiden (meist männlich) mit dem Kopf eines Stiers.",
+          "description": "<p>Leben in Labyrinthen oder Verliesen.</p>"
+        },
+        "Extraordinary trackers with an excellent sense of smell and navigation skills.": {
+          "name": "Hervorragende Fährtenleser mit ausgezeichnetem Geruchssinn und Orientierungssinn."
+        }
+      }
+    },
+    "Mummy": {
+      "name": "Mumie",
+      "items": {
+        "Necrotic Touch": {
+          "name": "Fäulnisgriff",
+          "description": "<p>nekrotische Berührung (W10)</p>"
+        },
+        "Undead humanoids wrapped in funerary cloth.": {
+          "name": "Untote Humanoide, in Grabtücher gehüllt.",
+          "description": "<p>In Pyramiden, Ruinen, Tempeln und Gräbern zu finden.</p>"
+        },
+        "Target is infected with mummy rot, and is unable to recover STR until they are cured by a specialist healer. The target is also deprived.": {
+          "name": "Das Ziel infiziert sich mit Mumienfäule und kann kein STR zurückgewinnen, bis eine spezialisierte Heilerin es heilt. Das Ziel ist zudem erschöpft."
+        }
+      }
+    },
+    "Naga": {
+      "name": "Naga",
+      "items": {
+        "Sword": {
+          "name": "Schwert",
+          "description": "<p>Schwert (W6)</p>"
+        },
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W10)</p>"
+        },
+        "Humanoids with the lower body, tail, and neck of snakes.": {
+          "name": "Humanoide mit dem Unterleib, Schwanz und Hals von Schlangen.",
+          "description": "<p>Leben in heißen Dschungeln und der Zeit verlorenen Tempeln.</p>"
+        },
+        "Use cunning and hypnosis to capture other creatures to be enslaved.": {
+          "name": "Nutzen List und Hypnose, um andere Kreaturen gefangen zu nehmen und zu versklaven."
+        },
+        "Gaze": {
+          "name": "Blick",
+          "description": "<p>Ein Ziel, das die Naga ansieht, wird hypnotisiert und ihrem Willen unterworfen. Ihre Opfer können nicht zu Gewalt gezwungen werden.</p>"
+        }
+      }
+    },
+    "Night Cat": {
+      "name": "Nachtkatze",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W6+W6)</p>"
+        },
+        "Intelligent, nocturnal marsupials that make their homes in forests and swamps.": {
+          "name": "Intelligente, nachtaktive Beuteltiere, die in Wäldern und Sümpfen heimisch sind.",
+          "description": "<p>Jagen im Rudel.</p>"
+        },
+        "The Night Cat begins to eat the target (d4 STR damage) while they are still alive.": {
+          "name": "Die Nachtkatze beginnt, das Ziel zu fressen (W4 STR-Schaden), solange es noch lebt."
+        }
+      }
+    },
+    "Night Hag": {
+      "name": "Nachthexe",
+      "items": {
+        "Talons": {
+          "name": "Krallentatzen",
+          "description": "<p>Krallentatzen (W8+W8)</p>"
+        },
+        "Hideous old women that dwell in dead forests, swamps, and bogs.": {
+          "name": "Scheußliche alte Weiber in toten Wäldern, Sümpfen und Mooren."
+        },
+        "Carry three of the following spellbooks: Arcane Eye, Disguise, Fog Cloud, Identify Owner, Smoke Form.": {
+          "name": "Tragen drei der folgenden Zauberbücher: Arkanauges, Verkleiden, Nebelwolke, Eigentum erkennen, Rauchgestalt."
+        }
+      }
+    },
+    "Nightmare": {
+      "name": "Nachtmahr",
+      "items": {
+        "Flaming Hooves": {
+          "name": "Flammende Hufe",
+          "description": "<p>flammende Hufe (W8+W8)</p>"
+        },
+        "Intelligent, demonic horses with eyes like burning coals, smoldering nostrils, and flaming hooves.": {
+          "name": "Intelligente, dämonische Pferde mit Augen wie brennende Kohlen, glühenden Nüstern und flammenden Hufen."
+        },
+        "Melee attacks against the Nightmare are impaired due to the thick clouds of smoke it produces.": {
+          "name": "Nahkampfangriffe gegen den Nachtmahr sind beeinträchtigt wegen der dichten Rauchwolken, die er erzeugt."
+        }
+      }
+    },
+    "Ogre": {
+      "name": "Oger",
+      "items": {
+        "Club": {
+          "name": "Knüppel",
+          "description": "<p>Knüppel (W10)</p>"
+        },
+        "Massive, gluttonous brutes of ill-spirit and low intelligence.": {
+          "name": "Massige, gefräßige Grobiane von üblem Charakter und geringem Verstand."
+        },
+        "Easily impressed by shiny materials, keeping sacks of gold and treasure in their lairs.": {
+          "name": "Lassen sich leicht von glänzenden Dingen beeindrucken und horten Säcke voll Gold und Schätze in ihren Höhlen."
+        }
+      }
+    },
+    "Owlbear": {
+      "name": "Eulenbär",
+      "items": {
+        "Beak": {
+          "name": "Schnabel",
+          "description": "<p>Schnabel (W10)</p>"
+        },
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W8+W8)</p>"
+        },
+        "Bear-like carnivores with the face of an owl.": {
+          "name": "Bärenartige Fleischfresser mit dem Gesicht einer Eule.",
+          "description": "<p>In dichten Wäldern zu finden. Gerüchten zufolge ein magisches Missgeschick.</p>"
+        },
+        "A piece of armor is rent and destroyed.": {
+          "name": "Ein Rüstungsteil wird zerrissen und zerstört."
+        }
+      }
+    },
+    "Phoenix": {
+      "name": "Phönix",
+      "items": {
+        "Talons": {
+          "name": "Krallentatzen",
+          "description": "<p>Krallentatzen (W10+W10)</p>"
+        },
+        "Intelligent, hawk-like spirits of pure flame, found in isolated deserts and high mountains.": {
+          "name": "Intelligente, falkenartige Geister aus reiner Flamme, in abgelegenen Wüsten und hohen Bergen zu finden."
+        },
+        "If killed, they explode in a burst of flames.": {
+          "name": "Werden sie getötet, explodieren sie in einem Flammenstoß.",
+          "description": "<p>Aus der Asche werden sie 1W3 Tage später wiedergeboren.</p>"
+        },
+        "Their feathers are highly-sought after for their healing properties.": {
+          "name": "Ihre Federn sind wegen ihrer heilenden Wirkung heiß begehrt."
+        }
+      }
+    },
+    "Pixie": {
+      "name": "Feenkobold",
+      "items": {
+        "Tiny humanoids with insectoid wings.": {
+          "name": "Winzige Humanoiden mit insektenartigen Flügeln.",
+          "description": "<p>Von Natur aus unsichtbar.</p>"
+        },
+        "Can cast Sleep and Masquerade at will.": {
+          "name": "Können Schlaf und Maskerade nach Belieben wirken."
+        }
+      }
+    },
+    "Purple Worm": {
+      "name": "Purpurwurm",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W12)</p>"
+        },
+        "Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat.": {
+          "name": "Gigantische Würmer, die in gewaltigen Bauten tief unter der Erde hausen und nur zum Fressen an die Oberfläche kommen.",
+          "description": "<p>In hohen Wüsten und heißer Tundra zu finden.</p>"
+        },
+        "The target is devoured, taking d8 STR damage from the acid in the worm's stomach.": {
+          "name": "Das Ziel wird verschlungen und erleidet W8 STR-Schaden durch die Säure im Magen des Wurms."
+        }
+      }
+    },
+    "Red Cap": {
+      "name": "Rotkappe",
+      "items": {
+        "Dual Sickles": {
+          "name": "Zwei Sicheln",
+          "description": "<p>zwei Sicheln (W6+W6)</p>"
+        },
+        "Born from blood left to rot in the land of Fairy.": {
+          "name": "Geboren aus Blut, das im Feenreich verrottete.",
+          "description": "<p>Ihre Mützen sind tiefrot vom Blut, in dem sie sich baden.</p>"
+        },
+        "Ignore those with little to live for, as there is no pleasure in their murder.": {
+          "name": "Ignorieren jene, denen wenig am Leben liegt, denn an ihrem Mord ist kein Vergnügen."
+        },
+        "Target is eviscerated, the spray of their blood restoring STR loss suffered by the Red Cap.": {
+          "name": "Das Ziel wird aufgeschlitzt; das verspritzte Blut gleicht den STR-Verlust der Rotkappe aus."
+        }
+      }
+    },
+    "Reptilian": {
+      "name": "Reptilianer",
+      "items": {
+        "Bone Spear": {
+          "name": "Knochenspeer",
+          "description": "<p>Knochenspeer (W8)</p>"
+        },
+        "Amphibian humanoids that live in large tribes near swamps and jungles.": {
+          "name": "Amphibische Humanoiden, die in großen Stämmen nahe Sümpfen und Dschungeln leben."
+        },
+        "Craft their armor and weapons from the bones of their prey.": {
+          "name": "Fertigen Rüstung und Waffen aus den Knochen ihrer Beute.",
+          "description": "<p>Sie fressen alles, auch Humanoide.</p>"
+        }
+      }
+    },
+    "Root Goblin": {
+      "name": "Wurzelgoblin",
+      "items": {
+        "Spear": {
+          "name": "Speer",
+          "description": "<p>Speer (W6)</p>"
+        },
+        "Avoid combat unless they have the advantage (such as greater numbers).": {
+          "name": "Meiden den Kampf, außer sie sind im Vorteil (etwa durch zahlenmäßige Überlegenheit)."
+        },
+        "Guard their stolen goods to the death.": {
+          "name": "Verteidigen ihre gestohlenen Güter bis in den Tod."
+        },
+        "Root Goblins prize spellbooks and are always willing to trade.": {
+          "name": "Wurzelgoblins schätzen Zauberbücher und tauschen stets gern."
+        }
+      }
+    },
+    "Root Witch": {
+      "name": "Wurzelhexe",
+      "items": {
+        "Tuber-Fingers": {
+          "name": "Knollenfinger",
+          "description": "<p>Knollenfinger (W6)</p>"
+        },
+        "Excellent tunnelers that hide underground near water.": {
+          "name": "Hervorragende Gräber, die sich unterirdisch nahe Wasser verstecken.",
+          "description": "<p>Locken mit winzigen Wedeln, die sie in die Luft strecken.</p>"
+        },
+        "Above-ground, appear vaguely humanoid with the face of a rotted tree stump.": {
+          "name": "Überirdisch erscheinen sie vage humanoid, mit dem Gesicht eines vermoderten Baumstumpfs."
+        },
+        "Will exchange rare minerals for a “fresh corpse” of any kind.": {
+          "name": "Tauschen seltene Mineralien gegen einen „frischen Leichnam\" jeglicher Art."
+        }
+      }
+    },
+    "Rust Monster": {
+      "name": "Rostmonster",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W6)</p>"
+        },
+        "Armadillo-like creatures with club-like tails and long antennae.": {
+          "name": "Gürteltierartige Kreaturen mit keulenförmigen Schwänzen und langen Fühlern.",
+          "description": "<p>Ernähren sich von Eisen und rostem Metall.</p>"
+        },
+        "Any mundane metals their antennae touch instantly become rust.": {
+          "name": "Jedes gewöhnliche Metall, das ihre Fühler berühren, wird sofort zu Rost.",
+          "description": "<p>Können Metall aus großer Entfernung riechen.</p>"
+        },
+        "Metal armor rusts into useless weight.": {
+          "name": "Metallrüstung rostet zu nutzlosem Ballast."
+        }
+      }
+    },
+    "Sea Hag": {
+      "name": "Seehexe",
+      "items": {
+        "Long Claws": {
+          "name": "Lange Krallen",
+          "description": "<p>lange Krallen (W6+W6)</p>"
+        },
+        "Ghostly, green-skinned hags that dwell in seaweed forests and warm shallow waters.": {
+          "name": "Spukhafte, grünhäutige Weiber in Tangwäldern und warmen Flachgewässern."
+        },
+        "Immune to magic from spellbooks.": {
+          "name": "Immun gegen Magie aus Zauberbüchern."
+        },
+        "Hideous Gaze": {
+          "name": "Scheußlicher Blick",
+          "description": "<p>Ein Ziel wird von Furcht überwältigt (HP fallen auf 0). Pro Runde ein WIL-Rettungswurf, um den Bann zu brechen.</p>"
+        }
+      }
+    },
+    "Shadow": {
+      "name": "Schatten",
+      "items": {
+        "Draining Touch": {
+          "name": "Lebenszehrer",
+          "description": "<p>entkräftende Berührung (W6, ignoriert Rüstung)</p>"
+        },
+        "Incorporeal monsters that look like animated shadows.": {
+          "name": "Körperlose Ungeheuer, die wie belebte Schatten wirken.",
+          "description": "<p>Unversehrt durch gewöhnliche Angriffe, Schlaf oder Gedankenkontrolle.</p>"
+        },
+        "Target loses d4 STR. If reduced to 0 STR, they become a shadow as well.": {
+          "name": "Das Ziel verliert W4 STR. Sinkt sein STR auf 0, wird es selbst zum Schatten."
+        }
+      }
+    },
+    "Shambling Mound": {
+      "name": "Modernder Schlurfer",
+      "items": {
+        "Tendrils": {
+          "name": "Ranken",
+          "description": "<p>Ranken (W8+W8)</p>"
+        },
+        "Tall humanoids made of slimy vegetation.": {
+          "name": "Große Humanoide aus schleimiger Vegetation.",
+          "description": "<p>Leben in dunklen Sümpfen und feuchtem Untergrund.</p>"
+        },
+        "Target is swallowed whole and dragged away.": {
+          "name": "Das Ziel wird im Ganzen verschluckt und fortgeschleppt."
+        }
+      }
+    },
+    "Skeleton": {
+      "name": "Skelett",
+      "items": {
+        "Rusty Sword": {
+          "name": "Rostiges Schwert",
+          "description": "<p>rostiges Schwert (W6)</p>"
+        },
+        "Bow": {
+          "name": "Bogen",
+          "description": "<p>Bogen (W6)</p>"
+        },
+        "Frequently found serving a master or necromancer, often in groups of 3 or more.": {
+          "name": "Dienen häufig einem Herrn oder Nekromanten, oft in Gruppen von 3 oder mehr."
+        },
+        "Found wearing whatever was on them at the time of their death.": {
+          "name": "Tragen, was sie zum Zeitpunkt ihres Todes trugen."
+        },
+        "If a skeleton is killed and its bones are not scattered, it reforms.": {
+          "name": "Wird ein Skelett getötet und seine Knochen nicht zerstreut, formt es sich neu."
+        }
+      }
+    },
+    "Sky Giant": {
+      "name": "Wolkenriese",
+      "items": {
+        "Mace": {
+          "name": "Streitkolben",
+          "description": "<p>Streitkolben (W10)</p>"
+        },
+        "Towering, white-skinned giants that live in castles high in the mountains.": {
+          "name": "Türmende, weißhäutige Riesen, die in Burgen hoch in den Bergen leben."
+        },
+        "Missile attacks against them are impaired due to the powerful winds surrounding them.": {
+          "name": "Fernkampfangriffe gegen sie sind beeinträchtigt wegen der gewaltigen Winde, die sie umgeben."
+        }
+      }
+    },
+    "Sphinx": {
+      "name": "Sphinx",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W8+W8, <em>Flächenschaden</em>)</p>"
+        },
+        "Beak": {
+          "name": "Schnabel",
+          "description": "<p>Schnabel (W10)</p>"
+        },
+        "Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion.": {
+          "name": "Mythische Bestien mit menschlichem Oberkörper und Haupt, Adlerflügeln und Löwenleib.",
+          "description": "<p>Immun gegen jede Art von Magie.</p>"
+        },
+        "Poses riddles to anyone they meet.": {
+          "name": "Stellen jedem, den sie treffen, Rätsel.",
+          "description": "<p>Falsche Antworten beantworten sie meist mit dem Tod. Sie wissen fast alles Wissenswerte.</p>"
+        },
+        "Roar": {
+          "name": "Brüllen",
+          "description": "<p>Alle in Hörweite müssen einen WIL-Rettungswurf bestehen oder fliehen in Panik.</p>"
+        }
+      }
+    },
+    "Storm Giant": {
+      "name": "Sturmriese",
+      "items": {
+        "Great Sword": {
+          "name": "Großschwert",
+          "description": "<p>Großschwert (W12)</p>"
+        },
+        "Building-sized humanoids with bronze-hued skin and light-colored hair.": {
+          "name": "Hausgroße Humanoide mit bronzefarbener Haut und hellem Haar.",
+          "description": "<p>Leben auf den höchsten Gipfeln und felsigsten Küsten.</p>"
+        },
+        "Unharmed by lightning, can summon storm clouds at their will.": {
+          "name": "Vom Blitz unversehrt; können nach Belieben Sturmwolken herbeirufen.",
+          "description": "<p>Können mit dem Wind wie mit einem Streitwagen fliegen.</p>"
+        },
+        "Thunderclap": {
+          "name": "Donnerschlag",
+          "description": "<p>Verursacht 4 STR-Schaden gegen ein einzelnes Ziel. Ziele in Metallrüstung erleiden doppelten Schaden.</p>"
+        }
+      }
+    },
+    "Swine Thing": {
+      "name": "Schweinding",
+      "items": {
+        "Gore": {
+          "name": "Aufgore",
+          "description": "<p>Aufgore (W6+W6)</p>"
+        },
+        "Obese humanoids that transform into massive porcine monstrosities to feast on human flesh.": {
+          "name": "Fettleibige Humanoiden, die sich in gewaltige schweinische Ungeheuer verwandeln, um Menschenfleisch zu verschlingen."
+        },
+        "Prefer to hunt in isolated settlements close to forests and wetlands.": {
+          "name": "Jagen bevorzugt in abgelegenen Siedlungen nahe Wäldern und Feuchtgebieten.",
+          "description": "<p>Können sich nur nachts verwandeln.</p>"
+        },
+        "Charm": {
+          "name": "Bezaubern",
+          "description": "<p>Das Ziel gehorcht jedem Befehl des Schweindings, bis es getötet wird. Pro Runde ein WIL-Rettungswurf, um sich zu befreien.</p>"
+        }
+      }
+    },
+    "Titan": {
+      "name": "Titan",
+      "items": {
+        "Lightning Sword": {
+          "name": "Blitzschwert",
+          "description": "<p>Blitzschwert (W12)</p>"
+        },
+        "Mythical, humanoid giants of radiant beauty and powerfully athletic bodies.": {
+          "name": "Mythische, humanoide Riesen von strahlender Schönheit und kraftvoll-athletischem Körperbau.",
+          "description": "<p>Wohlwollend im Charakter, doch anfällig für Größenwahn.</p>"
+        },
+        "Natives of other planes of existence, but sometimes have strongholds in the mortal world.": {
+          "name": "Heimisch auf anderen Existenzebenen, unterhalten aber mitunter Festungen in der sterblichen Welt."
+        },
+        "Can levitate, shape shift, and sculpt elements at will.": {
+          "name": "Können nach Belieben schweben, die Gestalt wandeln und Elemente formen."
+        }
+      }
+    },
+    "Treant": {
+      "name": "Baumhirte",
+      "items": {
+        "Roots": {
+          "name": "Wurzeln",
+          "description": "<p>Wurzeln (W8+W8, <em>Flächenschaden</em>)</p>"
+        },
+        "Sentient, bipedal trees with a vaguely humanoid face on their trunks.": {
+          "name": "Bewusste, zweibeinige Bäume mit einem vage humanoiden Gesicht am Stamm.",
+          "description": "<p>In den tiefsten Teilen des Waldes zu finden.</p>"
+        },
+        "Speak slowly and ponderously, with a deep voice.": {
+          "name": "Sprechen langsam und bedächtig mit tiefer Stimme.",
+          "description": "<p>Zeitlos, da sie viele tausend Jahre leben.</p>"
+        }
+      }
+    },
+    "Triton": {
+      "name": "Triton",
+      "items": {
+        "Trident": {
+          "name": "Dreizack",
+          "description": "<p>Dreizack (W8)</p>"
+        },
+        "Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins.": {
+          "name": "Wasserlebende Humanoiden mit silberner Haut, blaugrünem Haar und beschuppten Beinen, die in Flossen enden.",
+          "description": "<p>Leben in wärmeren Gewässern nahe dem Land.</p>"
+        },
+        "Lair in beautiful castles sculpted from sea rock and coral.": {
+          "name": "Hausen in schönen Burgen, aus Meeresfels und Korallen gemeißelt.",
+          "description": "<p>Befehligen riesige Fischschwärme zum Schutz und zur Nahrung.</p>"
+        }
+      }
+    },
+    "Troll": {
+      "name": "Troll",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W10)</p>"
+        },
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W8+W8)</p>"
+        },
+        "Giant, warty humanoids of flesh and bark.": {
+          "name": "Riesige, warzige Humanoide aus Fleisch und Borke.",
+          "description": "<p>Leben unterirdisch oder in tiefen Wäldern, aber auch in den verfallenen Heimstätten ihrer Opfer. Fleischfresser.</p>"
+        },
+        "When taking Critical Damage, a Troll will continue fighting, despite loss of flesh and limb.": {
+          "name": "Bei Kritischem Schaden kämpft ein Troll trotz des Verlusts von Fleisch und Gliedmaßen weiter.",
+          "description": "<p>Erst bei STR 0 ist er wirklich tot. Wird sein Kopf nicht in Säure getaucht, verbrannt oder mit starker Magie benetzt, regeneriert er innerhalb von 1W4 Tagen vollständig.</p>"
+        }
+      }
+    },
+    "Unicorn": {
+      "name": "Einhorn",
+      "items": {
+        "Horn": {
+          "name": "Horn",
+          "description": "<p>Horn (W10, ignoriert Rüstung)</p>"
+        },
+        "Magical horses with a single long horn on their foreheads.": {
+          "name": "Magische Pferde mit einem einzelnen langen Horn auf der Stirn.",
+          "description": "<p>Scheu, doch stolz und eigenwillig; gelten als göttliche Wesen.</p>"
+        },
+        "Their hair is worth a small fortune due to its powerful healing properties.": {
+          "name": "Ihr Haar ist wegen seiner starken Heilkraft ein kleines Vermögen wert."
+        }
+      }
+    },
+    "Vampire": {
+      "name": "Vampir",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W10)</p>"
+        },
+        "Charming, undead creatures that drink the blood of mortals.": {
+          "name": "Charmante untote Kreaturen, die das Blut Sterblicher trinken.",
+          "description": "<p>Handeln nachts und schlafen tagsüber im Sarg. Können sich nach Belieben in eine Fledermaus verwandeln.</p>"
+        },
+        "Regeneration": {
+          "name": "Regeneration",
+          "description": "<p>Ein beschädigter Vampir erhält 6 HP zurück, wenn er ein Ziel mit Blut beißt. Wird er getötet, zerfällt er zu einer Gaswolke und zieht sich in seinen Sarg zurück, um bei der nächsten Nacht wiederzuerscheinen. Er kann nur getötet werden, wenn man ihn Sonnenlicht aussetzt oder seinen Sarg zerstört.</p>"
+        },
+        "The vampire drains the target's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire.": {
+          "name": "Der Vampir saugt das Wesen des Ziels aus und verursacht W12 WIL-Schaden. Sinkt das WIL des Ziels auf diese Weise auf 0, stirbt es und wird als Diener des Vampirs auferweckt."
+        }
+      }
+    },
+    "Viper": {
+      "name": "Viper",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W6)</p>"
+        },
+        "Poisonous snakes often found in caves, pits, and other dark places.": {
+          "name": "Giftschlangen, häufig in Höhlen, Gruben und anderen dunklen Orten.",
+          "description": "<p>Aus ihren Giftbeuteln lässt sich ein Gegengift herstellen.</p>"
+        },
+        "Use heat and smell to track their victims.": {
+          "name": "Spurensuche über Wärme und Geruch."
+        },
+        "Target is poisoned, dying in 1d12 hours without a cure.": {
+          "name": "Das Ziel ist vergiftet und stirbt ohne Heilung in 1W12 Stunden."
+        }
+      }
+    },
+    "Warp Panther": {
+      "name": "Sprungpanther",
+      "items": {
+        "Tentacles": {
+          "name": "Tentakel",
+          "description": "<p>Tentakel (W8+W8, <em>Flächenschaden</em>)</p>"
+        },
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W10)</p>"
+        },
+        "Grotesque panther-like predators with long razored tentacles growing out of their backs.": {
+          "name": "Groteske pantherartige Raubtiere mit langen, messerscharfen Tentakeln auf dem Rücken."
+        },
+        "Resistant to magical attacks.": {
+          "name": "Magieresistent.",
+          "description": "<p>Die Zaubernde muss einen WIL-Rettungswurf bestehen, damit die beabsichtigte Wirkung eintritt.</p>"
+        },
+        "Can teleport a short distance away at will.": {
+          "name": "Können nach Belieben eine kurze Strecke teleportieren.",
+          "description": "<p>Hassen Flimmerhunde.</p>"
+        }
+      }
+    },
+    "Warrior Snail": {
+      "name": "Kriegerschnecke",
+      "items": {
+        "Tentacles": {
+          "name": "Tentakel",
+          "description": "<p>Tentakel (W8+W8)</p>"
+        },
+        "Giant armored snails with heavy, club-like tentacles.": {
+          "name": "Riesige, gepanzerte Schnecken mit schweren, keulenartigen Tentakeln."
+        },
+        "Some species have colorful shells that can reflect magical attacks.": {
+          "name": "Manche Arten haben bunte Gehäuse, die magische Angriffe zurückwerfen können."
+        }
+      }
+    },
+    "Water Elemental": {
+      "name": "Wasserelementar",
+      "items": {
+        "Spray": {
+          "name": "Wasserspeier",
+          "description": "<p>Wasserspeier (W8)</p>"
+        },
+        "Rare spirits of lakes, rivers, and seas.": {
+          "name": "Seltene Geister der Seen, Flüsse und Meere."
+        },
+        "Mundane attacks against the Water Elemental are impaired.": {
+          "name": "Gewöhnliche Angriffe gegen das Wasserelementar sind beeinträchtigt."
+        },
+        "Target is enveloped by the water and drowns in three rounds.": {
+          "name": "Das Ziel wird vom Wasser umschlossen und ertrinkt in drei Runden."
+        }
+      }
+    },
+    "Werewolf": {
+      "name": "Werwolf",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W6+W6)</p>"
+        },
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W8)</p>"
+        },
+        "Ferocious lycanthropes that can transform into a wolf-shape at will.": {
+          "name": "Wilde Lykanthropen, die sich nach Belieben in Wolfs Gestalt verwandeln können."
+        },
+        "Mundane attacks are impaired against werewolves, but attacks with weapons made of silver are enhanced.": {
+          "name": "Gewöhnliche Angriffe sind gegen Werwölfe beeinträchtigt, Angriffe mit Silberwaffen jedoch verstärkt."
+        },
+        "Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.": {
+          "name": "Das Ziel infiziert sich mit Lykanthropie und verwandelt sich beim nächsten Vollmond in einen Werwolf."
+        }
+      }
+    },
+    "Wight": {
+      "name": "Wicht",
+      "items": {
+        "Long Sword": {
+          "name": "Langschwert",
+          "description": "<p>Langschwert (W10)</p>"
+        },
+        "Grotesque, fallen warriors, raised from death for ill purpose.": {
+          "name": "Groteske, gefallene Krieger, für üble Zwecke vom Tod auferweckt.",
+          "description": "<p>Oft auf ebenso albtraumhaften Rossen, die sie geringere Untote in die Schlacht führen.</p>"
+        },
+        "On a fail, any STR loss is permanent.": {
+          "name": "Misslingt der Rettungswurf, ist jeder STR-Verlust dauerhaft."
+        }
+      }
+    },
+    "Will-o-Wisp": {
+      "name": "Irrlicht",
+      "items": {
+        "Nocturnal spirits of cool flame, commonly found in dense woodlands, marshes, and swamps.": {
+          "name": "Nachtaktive Geister aus kühler Flamme, häufig in dichten Wäldern, Sümpfen und Mooren."
+        },
+        "Known to lead travelers astray, to a corpse, or back home again.": {
+          "name": "Bekannt dafür, Reisende in die Irre zu führen – zu einer Leiche oder auch zurück nach Hause."
+        }
+      }
+    },
+    "Wolf": {
+      "name": "Wolf",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W8)</p>"
+        },
+        "Large canines that dwell primarily in forest or tundra.": {
+          "name": "Große Hunde, die vor allem in Wald und Tundra leben."
+        },
+        "Can be trained with effort if captured at a young age.": {
+          "name": "Lassen sich mit Mühe abrichten, wenn man sie jung fängt."
+        }
+      }
+    },
+    "Wood Troll": {
+      "name": "Waldtroll",
+      "items": {
+        "Bite": {
+          "name": "Biss",
+          "description": "<p>Biss (W8)</p>"
+        },
+        "Club": {
+          "name": "Knüppel",
+          "description": "<p>Knüppel (W10)</p>"
+        },
+        "Large humanoids with elongated arms made of bark or root.": {
+          "name": "Große Humanoiden mit langen Armen aus Borke oder Wurzelholz.",
+          "description": "<p>Sie leben in Wäldern und sind tief mit der Vegetation um sie herum verbunden.</p>"
+        },
+        "If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.": {
+          "name": "Werden sie getötet, regenerieren sie langsam, es sei denn, ihre Leiche wird aus dem Wald geschafft oder mit Feuer verbrannt."
+        },
+        "Moss and twigs begin growing out of target's wounds.": {
+          "name": "Aus den Wunden des Ziels sprießen Moos und Zweige."
+        }
+      }
+    },
+    "Wyvern": {
+      "name": "Wyvern",
+      "items": {
+        "Stinger": {
+          "name": "Stachel",
+          "description": "<p>Stachel (W10)</p>"
+        },
+        "Large, intelligent, winged reptiles.": {
+          "name": "Große, intelligente, geflügelte Reptilien.",
+          "description": "<p>Leben in jedem Gelände, bevorzugen aber trockene Klippen.</p>"
+        },
+        "Shy away from other creatures, preferring to silently stalk their targets from afar.": {
+          "name": "Meiden andere Kreaturen und pirschen ihre Ziele bevorzugt lautlos aus der Ferne."
+        },
+        "The victim is impaled and held in place. The wyvern then bites their head off.": {
+          "name": "Das Opfer wird aufgespießt und festgehalten. Dann beißt der Wyvern ihm den Kopf ab."
+        }
+      }
+    },
+    "Zombie": {
+      "name": "Zombie",
+      "items": {
+        "Jagged Nails": {
+          "name": "Gezackte Nägel",
+          "description": "<p>gezackte Nägel (W6)</p>"
+        },
+        "Re-animated corpse brought back through necromantic ritual or fell influence.": {
+          "name": "Wiederbelebter Leichnam, durch nekromantisches Ritual oder üblen Einfluss zurückgebracht.",
+          "description": "<p>Immun gegen alle geisteseinflüssenden Effekte.</p>"
+        },
+        "If not utterly destroyed (by fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.": {
+          "name": "Wird sie nicht vollkommen zerstört (durch Feuer, völlige Zerstückelung usw.), steht die Zombie binnen weniger Minuten wieder auf."
+        },
+        "Target is infected and becomes deprived. Without the services of a specialist or healer, they will become a zombie in 1d4 days.": {
+          "name": "Das Ziel infiziert sich und wird erschöpft. Ohne eine Spezialistin oder Heilerin wird es in 1W4 Tagen zur Zombie."
+        }
+      }
+    }
+  }
+}

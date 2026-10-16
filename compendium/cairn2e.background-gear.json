@@ -1,0 +1,1365 @@
+{
+  "label": "background-gear",
+  "entries": {
+    "A Treatise on the Abyss": {
+      "name": "A Treatise on the Abyss",
+      "description": "<p><strong>Eine Abhandlung über den Abgrund</strong>. Ein unscheinbares schwarzes Buch. Ein tiefgehender, weitgehend theoretischer Text über die <strong>Wurzeln</strong> samt Angaben zum Ort eines nahegelegenen <strong>Tors</strong>.</p>"
+    },
+    "Alchemical Limb": {
+      "name": "Alchemical Limb",
+      "description": "<p>Eine <em>After-Glühwürmchen</em>, die Wasserträgerinnen mit leuchtender Locke köderte. Nimm eine <strong>alchemistische Extremität</strong> (W8, <em>Kleinzeug</em> getragen) als Ersatz für die, die sie abriss, und eine <strong>Ölkanne</strong> (6 Anwendungen). Die Gliedmaße ist immun gegen Hitze und Gift. Muss täglich geölt werden.</p>"
+    },
+    "Alchemical Sigils": {
+      "name": "Alchemical Sigils",
+      "description": "<p>Deine <strong>Brust</strong> ist mit alchemistischen Sigillen übersät, die die <em>Haut härten</em> (1 Rüstung). Das Tragen anderer Metallrüstung hebt die Wirkung auf.</p>"
+    },
+    "Alchemical Tattoo": {
+      "name": "Alchemical Tattoo",
+      "description": "<p><strong>Alchemistische Tätowierung</strong> Ein Hund, eine Katze oder ein Vogel, der deinen Körper auf Zuruf verlassen kann. Er folgt deinen Befehlen, so gut er kann, und kann seine Verletzungen (<em>als STR-Verlust</em>) auf dich zurückübertragen. <em>Kleinzeug</em>.</p>"
+    },
+    "Always Pay Your Debts": {
+      "name": "Always Pay Your Debts",
+      "description": "<p><strong>Schulde immer bezahlen</strong>: Du begleichst jede Schuld – in Münze oder in Natur. Von allen anderen erwartest du nichts weniger. Nimm ein <strong>geschwärztes Kontobuch</strong> und würfle ein zweites Mal auf der Tabelle <strong>Bänder</strong>.</p>"
+    },
+    "Amadou": {
+      "name": "Amadou",
+      "description": "<p><strong>Zunderschwamm</strong> Ein zinnoberroter Pilz, der leicht Feuer fängt. 3 Anwendungen.</p>"
+    },
+    "Ancient Key (half)": {
+      "name": "Halber Schlüssel",
+      "description": "<p>Du hütest ein langeshaftes Familiengeheimnis. Nimm eine Hälfte eines <strong>uralten Schlüssels</strong> (<em>Kleinzeug</em>). Man sagt, vereint mit seinem Zwilling öffnet er ein <strong>Tor</strong> durch jede Tür.</p>"
+    },
+    "Antitoxin (2 uses)": {
+      "name": "Gegengift (2)",
+      "description": "<p>Gegengift (2 Anwendungen)</p>"
+    },
+    "Aqua Vita": {
+      "name": "Aqua Vita",
+      "description": "<p><strong>Aqua Vita</strong> Reinigt jede Flüssigkeit und verwandelt sie in reines Wasser. Getrunken heilt sie 1W6 STR (1 Anwendung).</p>"
+    },
+    "Awl": {
+      "name": "Ahle",
+      "description": "<p>Ahle (W6)</p>"
+    },
+    "Badge": {
+      "name": "Abzeichen",
+      "description": "<p>Abzeichen (<em>Kleinzeug</em>)</p>"
+    },
+    "Beast Aspect": {
+      "name": "Beast Aspect",
+      "description": "<p>Dass Überleben Anpassung ist. Einmal täglich kannst du eine einfache Eigenschaft einer Kreatur deiner <strong>Spezialität</strong> annehmen (Schwimmhäute, Nachtsicht usw.). Nimm jedes Mal eine <strong>Erschöpfung</strong>.</p>"
+    },
+    "Beast Omens": {
+      "name": "Beast Omens",
+      "description": "<p>Dass das Verhalten von Bestien selbst eine Sprache ist. Wenn du Bestien deiner <strong>Spezialität</strong> beobachtest, gewinnst du Einblick in Wetterlagen und bevorstehende Katastrophen.</p>"
+    },
+    "Beast Pathfinder": {
+      "name": "Beast Pathfinder",
+      "description": "<p>Dass das Land selbst eine Sprache ist. Deine Chance, dich in Gelände zu verirren, das von Bestien deiner <strong>Spezialität</strong> beherrscht wird, sinkt um eine Stufe (z. B. 4-in-6 wird zu 3-in-6).</p>"
+    },
+    "Beauty Cream": {
+      "name": "Beauty Cream",
+      "description": "<p>Nach der Verführung eines wohlhabenden Gönners engagierte dessen Familie eine Verbrecherbande, um dich zu holen. Du entkamst und musst dich versteckt halten. Beginne mit <strong>Schönheitscreme</strong>, 2 Anwendungen. Aufgetragen, wirkst du für die nächsten 12 Stunden unwiderstehlich schön.</p>"
+    },
+    "Bezoar Stone": {
+      "name": "Bezoar Stone",
+      "description": "<p>Ein reizbarer Waldgeist verfluchte dich für einen Diebstahl und stempelte dich zur Feindin ihrer Art. Nimm einen <strong>Bezoar-Stein</strong>. Eingenommen, heilt er jedes Gift (1 Anwendung, außer wieder ausgegraben).</p>"
+    },
+    "Black Outfit": {
+      "name": "Schwarze Kleidung",
+      "description": "<p>Schwarze Kleidung (<em>Kleinzeug</em>)</p>"
+    },
+    "Black Rose Fiddle": {
+      "name": "Schwarzrosen-Fiedel",
+      "description": "<p>Eine <strong>Schwarzrosen-Fiedel</strong> (<em>sperrig</em>). Ihre Musik ruft bei nahegelegenen Sterblichen tiefe Trauer und Bewegungslosigkeit hervor. (Andere sind nur fasziniert.) Du kannst nicht spielen.</p>"
+    },
+    "Black Tar": {
+      "name": "Black Tar",
+      "description": "<p><strong>Schwarzer Teer</strong> Vielseitig: klebrig und hochentzündlich. 3 Anwendungen.</p>"
+    },
+    "Blacked-Out Ledger": {
+      "name": "Blacked-Out Ledger",
+      "description": "<p><strong>Schulde immer bezahlen</strong>: Du begleichst jede Schuld – in Münze oder in Natur. Von allen anderen erwartest du nichts weniger. Nimm ein <strong>geschwärztes Kontobuch</strong> und würfle ein zweites Mal auf der Tabelle <strong>Bänder</strong>.</p>"
+    },
+    "Blacklegged Dandy": {
+      "name": "Blacklegged Dandy",
+      "description": "<p><strong>Schwarzbeiniger Dandy</strong> Robust und anpassungsfähig. <strong>Schwieriges</strong> oder <strong>Perilöses</strong> Gelände ist eine Stufe leichter. 6 HP. +4 Plätze.</p>"
+    },
+    "Blank Book": {
+      "name": "Leeres Buch",
+      "description": "<p>Leeres Buch</p>"
+    },
+    "Blast Sphere": {
+      "name": "Blast Sphere",
+      "description": "<p><strong>Knallkugel</strong> Ein kopfgroßer Eisenball, gefüllt mit Sprengpulver, der beim Aufprall detoniert (W12, <em>Flächenschaden</em>, <em>sperrig</em>, 1 Anwendung).</p>"
+    },
+    "Blessed Tinctures": {
+      "name": "Gesegnete Tinkturen",
+      "description": "<p>Gesegnete Tinkturen</p>"
+    },
+    "Blinding Powder": {
+      "name": "Blendpulver",
+      "description": "<p>Eine Gildenlagerhalle. Nimm eine <strong>Leiter</strong> (<em>sperrig</em>, 3 m / 10 ft) und <strong>Blendpulver</strong> (1 Anwendung).</p>"
+    },
+    "Blood Pail": {
+      "name": "Blood Pail",
+      "description": "<p>Ein <strong>Bluteimer</strong> (<em>sperrig</em>) von einem örtlichen Totenkult. Leere ihn, um einen Diener zu erwecken, gebaut aus allem darunter Beerdigten, mit 6 HP, 1 Rüstung, 13 STR, 11 DEX, 4 WIL und Scherenschlag (W8+W8). Nur ein Diener kann gleichzeitig erweckt sein. Wird er zerstört, verlierst du dauerhaft 1W4 STR. <strong>Wiederaufladung</strong>: Fülle ihn mit dem Blut eines sterbenden Kriegers.</p>"
+    },
+    "Blood-Red Flower": {
+      "name": "Blutrote Blume",
+      "description": "<p>Die <strong>Morgenbrigade</strong> erwies deiner Familie einen Dienst und gab dir eine getrocknete <strong>Blutrote Blume</strong> (<em>Kleinzeug</em>) als Beweis. Wird die Blume weiß, ist die Gefälligkeit fällig.</p>"
+    },
+    "Bloodvine Whip": {
+      "name": "Bloodvine Whip",
+      "description": "<p><strong>Blutranken-Peitsche</strong> W8 Schaden. Bei <strong>Kritischem Schaden</strong> saugt sie dem Ziel Blut ab; der nächste Angriff der Waffe erhält die Eigenschaft <em>Flächenschaden</em>.</p>"
+    },
+    "Blunderbuss": {
+      "name": "Blunderbuss",
+      "description": "<p>Dein alchemistisches Rezept funktionierte, doch eine Rivalin stahl den Bauplan, bevor deine Ansprüche belegt werden konnten. Nimm einen Prototyp einer <strong>Flinte</strong> (W12, <em>Flächenschaden</em>, <em>sperrig</em>), die eine Runde zum Nachladen braucht – und eine Vorliebe für Rache.</p>"
+    },
+    "Boiled Leather": {
+      "name": "Gehärtetes Leder",
+      "description": "<p>Gehärtetes Leder (1 Rüstung)</p>"
+    },
+    "TFBn50KLgZ5IcZ1S": {
+      "name": "Erbschaft",
+      "description": "<p>Eine entfernte Cousine hinterließ dir ein kleines Erbe. Nimm <strong>20 GM</strong> und einen <strong>Seltsamen Kompass</strong> (<em>Kleinzeug</em>), der stets auf etwas tief im Wald zeigt.</p>"
+    },
+    "Bone Knife": {
+      "name": "Bone Knife",
+      "description": "<p>Ein gehörnter, zahnbewehrter Dämon, der dich fast umbrachte. Nimm ein blutgetränktes <strong>Knochenmesser</strong> (W6). Bei <strong>Kritischem Schaden</strong> ist sein nächster Angriff durch Blutkontakt <em>verstärkt</em>.</p>"
+    },
+    "Bonesaw": {
+      "name": "Knochensäge",
+      "description": "<p>Knochensäge (W6)</p>"
+    },
+    "Book On Astronomy": {
+      "name": "Book On Astronomy",
+      "description": "<p>Deine Debüt-Komposition reduzierte das Publikum zu stammelndem Wirrwarr, das von hellen Kreaturen murmelte, die vom Nachthimmel herabstiegen. Später fiel dir auf, dass die Noten Sternbildern glichen. Nimm ein <strong>Buch über Astronomie</strong> – und viele Fragen.</p>"
+    },
+    "Born to the Wild": {
+      "name": "Born to the Wild",
+      "description": "<p>Deine Familie hat eine lange Diensttradition, und du wurdest früh darin geschult, in der Wildnis zu überleben. Bei der Aktion Vorräte sammeln steigt dein Ertrag um eine Stufe (z. B. 1W4 > 1W6).</p>"
+    },
+    "Borrowed Senses": {
+      "name": "Borrowed Senses",
+      "description": "<p>Dass die Welt weit mehr ist, als das Auge sieht. In stiller Konzentration kannst du die Sinne einer nahegelegenen Kreatur deiner <strong>Spezialität</strong> borgen.</p>"
+    },
+    "Bouquet of Flowers": {
+      "name": "Bouquet of Flowers",
+      "description": "<p>Dein letzter Stunt zerstörte ein unbezahlbares Artefakt und verletzte ein Dutzend Schaulustige. Beginne mit einer <strong>Hauptmanns-Uniform</strong> (<em>Kleinzeug</em>), einem <strong>Zeremonienschwert</strong> (harmlos, 60 GM) und einem <strong>Blumenstrauß</strong>.</p>"
+    },
+    "Bracelet": {
+      "name": "Armband",
+      "description": "<p>Du versprachst einer Kinderfreundin, ihr ein seltenes Geschenk mitzubringen – etwas Einmaliges auf der Welt. Nimm ein <strong>Armband</strong> (<em>Kleinzeug</em>) aus Schnur und Wildblumen.</p>"
+    },
+    "Breeze Knot": {
+      "name": "Breeze Knot",
+      "description": "<p><em>Die Sylphe und ihre Liebe</em>. Ein derb-frivoles Lied über verlorene Liebe. Beginne mit einem <strong>Wind-Knoten</strong> (3 Ladungen). Erzeugt eine starke Brise. <strong>Wiederaufladung</strong>: Binde ihn im Sturm an einen Mast.</p>"
+    },
+    "Briar Thorn": {
+      "name": "Briar Thorn",
+      "description": "<p>Ein <strong>Dorn aus dem Gestrüpp</strong>. Er durchbohrt jedes organische Material (ziemlich schmerzhaft), hinterlässt beim Herausziehen aber keine Spur des Eindringens.</p>"
+    },
+    "Briarvine": {
+      "name": "Briarvine",
+      "description": "<p><strong>Dornenrebe</strong> Verstrickt jede Kreatur bis Pferdegröße (STR zum Freireißen). Wiederverwendbar.</p>"
+    },
+    "Burial Wagon": {
+      "name": "Burial Wagon",
+      "description": "<p>Ein <strong>Bestattungswagen</strong> (+6 Plätze, <em>langsam</em>) von deinem letzten Auftrag. Er kam mit einem störrischen alten <strong>Esel</strong> (+4 Plätze, nur +2 Plätze, wenn er den Wagen zieht).</p>"
+    },
+    "Candle Helmet": {
+      "name": "Kerzenhelm",
+      "description": "<p>Kerzenhelm (+1 Rüstung, schwaches Licht, 6 Anwendungen)</p>"
+    },
+    "Cane Sword": {
+      "name": "Stockdegen",
+      "description": "<p>Stockdegen (W6)</p>"
+    },
+    "Captain's Uniform": {
+      "name": "Captain's Uniform",
+      "description": "<p>Dein letzter Stunt zerstörte ein unbezahlbares Artefakt und verletzte ein Dutzend Schaulustige. Beginne mit einer <strong>Hauptmanns-Uniform</strong> (<em>Kleinzeug</em>), einem <strong>Zeremonienschwert</strong> (harmlos, 60 GM) und einem <strong>Blumenstrauß</strong>.</p>"
+    },
+    "Carrion Cat": {
+      "name": "Carrion Cat",
+      "description": "<p><strong>Aaskatze</strong> Ein geschicktes Tier, klein genug für deinen Rucksack (<em>sperrig</em>), doch stark genug, kleinere Räuber zu verscheuchen. Braucht täglich eine <strong>Ration</strong> – und die muss Fleisch sein.</p>"
+    },
+    "Catring": {
+      "name": "Catring",
+      "description": "<p><strong>Katzring</strong> 2 Ladungen. An Wänden hochklettern und sicher fallen. <strong>Wiederaufladung</strong>: Stecke den Ring an den Schwanz einer Streunerin.</p>"
+    },
+    "Celestial Lute": {
+      "name": "Celestial Lute",
+      "description": "<p><em>Des Harfers Hingabe</em>. Eine traurige, kurze Erzählung über einen Musiker, der sich in einen Stern verliebt. Beginne mit einer <strong>Himmelslaute</strong>. Sie zeigt die Sternbilder, egal das Wetter.</p>"
+    },
+    "Ceremonial Sword": {
+      "name": "Ceremonial Sword",
+      "description": "<p>Dein letzter Stunt zerstörte ein unbezahlbares Artefakt und verletzte ein Dutzend Schaulustige. Beginne mit einer <strong>Hauptmanns-Uniform</strong> (<em>Kleinzeug</em>), einem <strong>Zeremonienschwert</strong> (harmlos, 60 GM) und einem <strong>Blumenstrauß</strong>.</p>"
+    },
+    "Charity": {
+      "name": "Charity",
+      "description": "<p><strong>Barmherzigkeit</strong>. Einmal täglich kannst du eine <strong>Erschöpfung</strong> abschütteln. Brichst du das Gelübde, verlierst du dauerhaft einen Inventarplatz.</p>"
+    },
+    "Cipher Stone": {
+      "name": "Cipher Stone",
+      "description": "<p><strong>Chiffrensteine</strong> Ein Paar spitzer schwarzer Steine. Jeder entschlüsselt jede Botschaft, die der andere geschrieben hat.</p>"
+    },
+    "Clatter Keeper": {
+      "name": "Clatter Keeper",
+      "description": "<p><strong>Klapperwächter</strong> Eine Handkurbel-Maschine, die einen lauten Lärm erzeugt und die meisten Kreaturen verscheucht.</p>"
+    },
+    "Costume": {
+      "name": "Verkleidung",
+      "description": "<p>Verkleidung</p>"
+    },
+    "Crow-Shaped Amulet": {
+      "name": "Crow-Shaped Amulet",
+      "description": "<p>Ein <strong>krabenförmiger Amulett</strong>. Du kannst den Toten eine Frage stellen, musst aber jedes Mal eine <strong>Erschöpfung</strong> nehmen. Sie sprechen nicht immer die Wahrheit.</p>"
+    },
+    "Crowbar": {
+      "name": "Crowbar",
+      "description": "<p><strong>Brecheisen</strong> W6 Schaden. Manchmal muss das verdammte Ding einfach auf!</p>"
+    },
+    "Cursed Sapphire": {
+      "name": "Cursed Sapphire",
+      "description": "<p><strong>Verfluchter Saphir</strong> <strong>200 GM</strong> wert; kehrt kurz nachdem du ihn ausgibst auffällig in deine Tasche zurück. Du scheinst ihn nicht loszuwerden.</p>"
+    },
+    "Cusped Falchion": {
+      "name": "Cusped Falchion",
+      "description": "<p>Felddiebe. Nicht alle überlebten, doch du warst in der Unterzahl. Beginne mit +W4 HP und einem <strong>gekrümmten\tFalchion</strong> (W8).</p>"
+    },
+    "ytEX0QkKOAlA0l3l": {
+      "name": "Zaunschneider",
+      "description": "<p>Ein Adelssitz. Voll edlen Weins (+20 GM), aber sonst nicht viel. Nimm <strong>Zaunschneider</strong>.</p>"
+    },
+    "Death-Whistle": {
+      "name": "Death-Whistle",
+      "description": "<p><strong>Bis in den Tod, immer</strong>: Du weichst keinem Kampf, egal die Chancen. Nimm eine <strong>Todespfeife</strong>, 1 Ladung. Ihr Schrei verscheucht alle, die sie hören (WIL-Rettungswurf oder Flucht). <strong>Wiederaufladung</strong>: Fange den letzten Atem eines sterbenden Kriegers.</p>"
+    },
+    "Delphinium": {
+      "name": "Delphinium",
+      "description": "<p><strong>Rittersporn</strong> Bis zu eine Stunde unter Wasser atmen. 1 Anwendung, in Teildosen teilbar.</p>"
+    },
+    "Destrier Hooves": {
+      "name": "Destrier-Hufe",
+      "description": "<p>Die Hufe des Schweren Destriers (W10+W10), solange du ihn reitest.</p>"
+    },
+    "Diseased Crop": {
+      "name": "Diseased Crop",
+      "description": "<p><em>Das Verwelken</em>, eine Stängelfäule aus den <strong>Wurzeln</strong>. Nimm eine <strong>verseuchte Feldfrucht</strong> (6 Anwendungen), die jede Pflanze, die sie berührt, rasch verfaulen lässt.</p>"
+    },
+    "Donkey": {
+      "name": "Donkey",
+      "description": "<p>Du plünderst Rohzinn und -eisen von Schlachtfeldern und ziehst noch zuckenden Leichen die Zähne. Beginne mit einem jungen <strong>Esel</strong> (+4 Plätze, langsam), einer <strong>Armbrust</strong> (W8 Schaden, <em>sperrig</em>) und einer <strong>Säge</strong> (W6).</p>"
+    },
+    "Dream Stone": {
+      "name": "Dream Stone",
+      "description": "<p><strong>Traumstein</strong> Ein glatter blauer Stein, der Träume klarer zurückruft. Übermaß kann Traum-Sucht verursachen.</p>"
+    },
+    "Drowning Rod": {
+      "name": "Drowning Rod",
+      "description": "<p><strong>Ertrinkens-Rute</strong> Ein fingergroßer Holzstab, der sich bei jedem vollständigen Eintauchen in Wasser verdoppelt. Er schrumpft nicht wieder.</p>"
+    },
+    "Drowse Balm": {
+      "name": "Drowse Balm",
+      "description": "<p><strong>Schlafbalsam</strong> Ein Wachsstück. In Wasser gekocht, wirkt der Dampf als Betäubungsmittel.</p>"
+    },
+    "Echo Leaf": {
+      "name": "Echo Leaf",
+      "description": "<p><strong>Echo-Blatt</strong> Ein leeres Pergament. Wer es entrollt, sieht die eigenen Taten des Tages in enger Kritzelei enthüllt. <em>Kleinzeug</em>.</p>"
+    },
+    "Enhanced Ears": {
+      "name": "Enhanced Ears",
+      "description": "<p>Beide <strong>Ohren</strong> wurden chirurgisch verbessert und verdreifachen dein Gehör. Du kannst dich auf ein bestimmtes Geräusch – etwa ein Gespräch – in großer Entfernung konzentrieren. Du trägst eine Ohrklappe gegen plötzliche laute Geräusche (WIL-Rettungswurf, um vorübergehende Lähmung zu vermeiden).</p>"
+    },
+    "Everbloom Band": {
+      "name": "Everbloom Band",
+      "description": "<p><strong>Immerblüh-Band</strong> Ein Stirnreif, geschmückt mit Blumen, die nie verwelken. Bei <strong>Kritischem Schaden</strong> zerfallen die Blüten zu Staub, aber du handelst, als hätte dein Rettungswurf Erfolg gehabt (STR-Verlust bleibt).</p>"
+    },
+    "Everquill": {
+      "name": "Everquill",
+      "description": "<p><strong>Immerfeder</strong> Eine Feder, die auf jeder Oberfläche schreibt. Tinte brauchst du weiterhin. <em>Kleinzeug</em>.</p>"
+    },
+    "Falconry": {
+      "name": "Falconry",
+      "description": "<p><strong>Beizjagd</strong>. Du hältst einen Falken [3 HP, 5 STR, 16 DEX, 4 WIL, Krallen (W6+W6), Biss (W8)]. Er frisst nur lebende Beute.</p>"
+    },
+    "False Cuffs": {
+      "name": "False Cuffs",
+      "description": "<p><strong>Falsche Fesseln</strong> Bequeme, echt aussehende Fesseln. Nur du kennst den Trick, um ihnen zu entkommen.</p>"
+    },
+    "False Prophet": {
+      "name": "False Prophet",
+      "description": "<p>Du warst Händlerin falscher Prophezeiungen, doch als eine eintraf, zog sie unerwünschte Aufmerksamkeit auf sich. Würfle auf der Tabelle <strong>Omen</strong> und behalte das Ergebnis für dich. Beginne mit einem versteckbaren <strong>Messer</strong> (W6, <em>Kleinzeug</em>).</p>"
+    },
+    "Fancy Hat": {
+      "name": "Modischer Hut",
+      "description": "<p>Modischer Hut (<em>Kleinzeug</em>)</p>"
+    },
+    "Feather Quill": {
+      "name": "Feather Quill",
+      "description": "<p><em>Die Drossel und die Wiese</em>. Eine düstere Erzählung im Wechselchor. Beginne mit einer <strong>Federfeder</strong> (1 Anwendung, <em>Kleinzeug</em>). Eine mit dieser Feder gezeichnete Karte zeigt den schnellsten Weg zwischen zwei Punkten.</p>"
+    },
+    "Fence Cutters": {
+      "name": "Zaunschneider",
+      "description": "<p>Ein Adelssitz. Voll edlen Weins (+20 GM), aber sonst nicht viel. Nimm <strong>Zaunschneider</strong>.</p>"
+    },
+    "Fermented Spirits": {
+      "name": "Fermented Spirits",
+      "description": "<p><strong>Vergorener Schnaps</strong> Hält dich in guten Zeiten warm, in schlechten dient er als Sprengstoff. 3 Anwendungen.</p>"
+    },
+    "Fib Ink": {
+      "name": "Fib Ink",
+      "description": "<p><strong>Wahrheitstinte</strong> Glüht, wenn man Wahres schreibt, verblasst bei Falschem.</p>"
+    },
+    "Fire Eggs": {
+      "name": "Fire Eggs",
+      "description": "<p><strong>Feuereier</strong> Sechs kleine Pellets aus Meersalz, Holz und Tonschutt. Sie explodieren bei geringer Hitze (W8, <em>Flächenschaden</em>), doch die Flammen verlöschen schnell.</p>"
+    },
+    "Fireflask": {
+      "name": "Fireflask",
+      "description": "<p><strong>Feuerflasche</strong> Hochprozentig, doch seltsam köstlich. Geworfen, erzeugt sie eine 3 m (10 ft) hohe Flammenwand, die nach wenigen Minuten erlischt. 1 Anwendung.</p>"
+    },
+    "Fireseeds": {
+      "name": "Fireseeds",
+      "description": "<p>Ein Feldgeist, erzürnt über eine schlechte Zehntabgabe. Die Flammen fraßen fast alles, und danach konntest du einen Beutel <strong>Feuersamen</strong> (W8, <em>Flächenschaden</em>, 4 Anwendungen) sammeln.</p>"
+    },
+    "Fireworks": {
+      "name": "Fireworks",
+      "description": "<p><strong>Feuerwerk</strong> Ein blendendes, wenn auch gefährliches Schauspiel. genug Sprengstoff, um einen Finger oder drei zu verlieren. 2 Anwendungen übrig.</p>"
+    },
+    "Gale Seed Extract": {
+      "name": "Gale Seed Extract",
+      "description": "<p>Ein gieriger Schwarm von Schädlingen, der Feldfrüchte und Tiere gleichermaßen verschlang. Mit nichts zu verteidigen, zog du fort. Nimm <strong>Sturmsamen-Extrakt</strong> (3 Anwendungen). Eingenommen sprintest du mit vierfacher Geschwindigkeit. Danach nimmst du zwei <strong>Erschöpfungen</strong>.</p>"
+    },
+    "Garden of Glass": {
+      "name": "Garden of Glass",
+      "description": "<p><strong>Garten aus Glas</strong>. Gebunden im Einband eines anderen Buches. Ein ketzerisches Werk; es beschreibt Materialien, Verfahren und optimale Orte, um ein <strong>Tor</strong> zu öffnen.</p>"
+    },
+    "Ghillie Suit": {
+      "name": "Tarnanzug",
+      "description": "<p>Tarnanzug</p>"
+    },
+    "Ghost Violin": {
+      "name": "Ghost Violin",
+      "description": "<p><strong>Geister-Violine</strong> Eine dunkelgraue Violine, die eine geisterhafte Weise spielt, gespiegelt von einem unsichtbaren, fernen Zwillingsinstrument.</p>"
+    },
+    "Gildfinger": {
+      "name": "Gildfinger",
+      "description": "<p><strong>Goldsammlfinger</strong> 1 Ladung. Ein Fingerling, der jeden gewöhnlichen Schlüssel nachahmt. <strong>Wiederaufladung</strong>: Bünde ihn eine Nacht mit mindestens 100 GM zusammen.</p>"
+    },
+    "Glamour Feather": {
+      "name": "Glamour Feather",
+      "description": "<p><strong>Glanz-Feder</strong> Eine Feder eines Feuer-Vogels. Lässt jede Kreatur überzeugend als jemand (oder etwas) anderes erscheinen. 1 Anwendung.</p>"
+    },
+    "Glimpse Glass": {
+      "name": "Glimpse Glass",
+      "description": "<p><strong>Späherglas</strong> 3 Anwendungen. Ein Monokel, das durch Wände oder andere Hindernisse sehen lässt. Es zerspringt nach der letzten Anwendung.</p>"
+    },
+    "Glowsnail": {
+      "name": "Glowsnail",
+      "description": "<p><strong>Leuchtschnecke</strong> Strahlt ein weiches biolumineszentes Licht. Frisst alle zwei Tage eine Ration.</p>"
+    },
+    "Gnarled Staff": {
+      "name": "Gnarled Staff",
+      "description": "<p>Ein Druide, der dir die Sprache der Bäume lehrte. Als es Zeit war zu gehen, nahmst du nur einen <strong>knorrigen Stab</strong> (W8) mit und ließest das Versprechen zurück, eines Tages wiederzukehren.</p>"
+    },
+    "Goat Powder": {
+      "name": "Goat Powder",
+      "description": "<p><strong>Ziegenpulver</strong> Aus der Plazenta eines Zickleins gewonnen. Heilt vorübergehend jedes Leiden, doch die Symptome kehren innerhalb weniger Stunden zurück.</p>"
+    },
+    "Gold Powder": {
+      "name": "Goldpulver",
+      "description": "<p>Du warst geschickt darin, <em>falsches</em> Gold zu erschaffen, das fast so gut ist. Irgendwann flog dein Betrug auf, und du musstest fluchtartig verschwinden. Nimm einen schweren <strong>Metallbarren</strong> und <strong>Goldpulver</strong> (3 Anwendungen).</p>"
+    },
+    "Goosefelt Tarp": {
+      "name": "Goosefelt Tarp",
+      "description": "<p>Adelig geboren, tratest du bei, um Familienproblemen zu entfliehen. Nimm eine <strong>Gänzfell-Plane</strong> (fasst zwei), die du vor dem Aufbruch stahlst.</p>"
+    },
+    "Graftgrub": {
+      "name": "Graftgrub",
+      "description": "<p><strong>Pfropfwurm</strong> Ein kleiner Wurm, der leblose Objekte mit Körperteilen verschmelzen kann. 1 Anwendung.</p>"
+    },
+    "Green Skin": {
+      "name": "Green Skin",
+      "description": "<p>Deine radikalen Experimente färbten deine Haut grün; du nährst dich nun wie eine Pflanze. Du brauchst keine <strong>Rationen</strong>, doch ein Tag ohne genug Sonnenlicht und Wasser lässt dich <em>erschöpft</em> werden.</p>"
+    },
+    "Greenwhistle": {
+      "name": "Greenwhistle",
+      "description": "<p><strong>Grünpfeife</strong> Eine kleine Flöte, die Pflanzen beruhigt und das Durchqueren dicht bewachsenen Gelände etwas erleichtert.</p>"
+    },
+    "VRi1nw0gZ3roWWsj": {
+      "name": "Gold",
+      "description": "<p>Deine preisgekrönte Leichenblume gewann einen örtlichen Wettstreit und tötete sogleich eine Jurorin. Du flohest – nicht ohne das <strong>Preisgeld (100 GM)</strong> und einen Haftbefehl.</p>"
+    },
+    "Guide": {
+      "name": "Guide",
+      "description": "<p><strong>Wegführerin</strong> Du geleitest Karawanen und Reisende durch wasserdurchsetztes Land. Beginne mit einer <strong>Karte</strong> (<em>Kleinzeug</em>) zu deiner nächsten Reise.</p>"
+    },
+    "Hammer": {
+      "name": "Hammer",
+      "description": "<p>Hammer (W6)</p>"
+    },
+    "Hand Axe": {
+      "name": "Handaxt",
+      "description": "<p>Handaxt (W6)</p>"
+    },
+    "Hardening Glue": {
+      "name": "Hardening Glue",
+      "description": "<p><strong>Härtungsleim</strong> Macht jedes flache Material (Stoff, Leder, Sand) steinhart. Teuer (20 GM die Flasche, 3 Anwendungen).</p>"
+    },
+    "Hawthorn Seed": {
+      "name": "Hawthorn Seed",
+      "description": "<p><strong>Weißdorn-Samen</strong> Eine Eichel von der anderen Seite, zur Frühjahrstaggleichnacht gesammelt. Gepflanzt, treibt sie eine üppige Behausung, die am nächsten Monduntergang zusammentstürzt. 1 Anwendung.</p>"
+    },
+    "Healing Potion": {
+      "name": "Healing Potion",
+      "description": "<p>Du erschufst einen Kräftigungstrunk, der auch versehentliche Unfruchtbarkeit verursacht. Nimm einen <strong>Heiltrank</strong>, der STR vollständig wiederherstellt. Nur du kennst seine ungewollten Nebenwirkungen.</p>"
+    },
+    "Healing Salve": {
+      "name": "Heilsalbe",
+      "description": "<p>Heilsalbe (stellt 1W4 STR wieder her, 1 Anwendung)</p>"
+    },
+    "Healing Unguent": {
+      "name": "Heilsalbe",
+      "description": "<p>Eine verschrumpelte Apothekerin, die dir die Heilkunst lehrte, doch klinisch-distanziert blieb. Nimm eine <strong>Heilsalbe</strong> (stellt W4 STR wieder her, 1 Anwendung).</p>"
+    },
+    "Heartroot Salve": {
+      "name": "Herzwurz-Salbe",
+      "description": "<p>Herzwurz-Salbe (stellt 1W4 STR wieder her, 1 Anwendung)</p>"
+    },
+    "Heartseed": {
+      "name": "Heartseed",
+      "description": "<p>Einen bösartigen <em>Waldgeist</em>, der einen Hof vergiftete. Du rettetest einen <strong>Herzsamen</strong> aus den Wurzeln eines sterbenden Baums. (Pflanzt ihn, um einen neuen Wald zu erschaffen.) Nimm zudem <strong>Eisenarmschienen</strong> (+1 Rüstung, <em>sperrig</em>).</p>"
+    },
+    "Heavy Destrier": {
+      "name": "Heavy Destrier",
+      "description": "<p><strong>Schwerer Destrier</strong> Ein Tier für den Krieg, eine einschüchternde Kreatur. 8 HP, 1 Rüstung, Huftritte (W10+W10), +2 Plätze.</p>"
+    },
+    "Hedgewitch's Curse": {
+      "name": "Hedgewitch's Curse",
+      "description": "<p>Eine Feldhexe verfluchte dich, weil du unschuldige Dorfleute hereinlegtest. Magie wirkt in deinen Hunden unvorhersehbar (<em>WIL-Rettungswurf, um ein Desaster zu vermeiden</em>). Bist du Ziel eines Zaubers, gilt dasselbe für seine Anwenderin.</p>"
+    },
+    "Heirloom Amulet": {
+      "name": "Erb-Amulett",
+      "description": "<p>Erb-Amulett (<em>Kleinzeug</em>, leuchtet in der Gegenwart von Magie)</p>"
+    },
+    "Hellcap": {
+      "name": "Hellcap",
+      "description": "<p><strong>Höllenhut</strong>. Sein Aroma verursacht heftige Übelkeit und Erbrechen. So oder so räumt er den Raum. Abgefüllt (1 Anwendung).</p>"
+    },
+    "Herbs Pouch": {
+      "name": "Kräuterbeutel",
+      "description": "<p>Kräuterbeutel (stellt 1 STR wieder her, 3 Anwendungen)</p>"
+    },
+    "Hex Stone": {
+      "name": "Hex Stone",
+      "description": "<p><strong>Hexenstein</strong> Aus einem Fluss geborgen, der von der <em>anderen Seite</em> herabfließt. Aus seiner Eisenbüchse genommen, kann er die Wirkung eines aktiven magischen Effekts einsaugen. Wird er zerstört, wird die Magie frei. 1 Anwendung.</p>"
+    },
+    "Hired Protection": {
+      "name": "Hired Protection",
+      "description": "<p>Du bietest Schutz als Dienstleistung und achtest still auf Bedrohungen, während Geld die Hand wechselt. Beginne mit <strong>+W4 HP</strong> und trage ein <strong>Langschwert</strong> (W10, <em>sperrig</em>) und ein <strong>Gambeson</strong> (+1 Rüstung).</p>"
+    },
+    "Hollow Wolf": {
+      "name": "Hollow Wolf",
+      "description": "<p>Einen <em>hohlen Wolf</em>, der Reisende schreckte. Du erbarmtest dich des halb verhungerten Tieres und pflegtest ihn gesund. Nun ist er dir bis in den Tod treu. Er gräbt auch hervorragend. 5 HP, 11 STR, 13 DEX, 8 WIL, Zähne (W6).</p>"
+    },
+    "Homunculus": {
+      "name": "Homunculus",
+      "description": "<p><strong>Homunculus</strong> Eine tongrößige Nachbildung deiner selbst, die deinem jeden Befehl folgt. Sie hasst es, dir untertan zu sein, und beschwert sich bei jeder Gelegenheit. Jeglicher Schaden am Homunculus trifft auch dich. 3 HP, 4 STR, 13 DEX, 5 WIL</p>"
+    },
+    "Honesty": {
+      "name": "Honesty",
+      "description": "<p><strong>Ehrlichkeit</strong>. Wähle einen <strong>Waffentyp</strong> (wuchtig, Klinge usw.). Angriffe dieses Typs gegen dich sind <em>beeinträchtigt</em>. Brichst du das Gelübde, verlierst du W4 WIL.</p>"
+    },
+    "Hook": {
+      "name": "Hook",
+      "description": "<p>Einer deiner Finger wurde ersetzt, der Knochen durch Gold und Eisen. Nimm einen <strong>Haken</strong> und einen <strong>Schraubendreher</strong>, die an der Fingerspitze befestigt werden können.</p>"
+    },
+    "Hunting": {
+      "name": "Hunting",
+      "description": "<p><strong>Jagd</strong>. Bei der Aktion Vorräte sammeln steigt dein <strong>Rationen</strong>-Ertrag um <strong>eine Stufe</strong> (z. B. 1W4 wird zu 1W6).</p>"
+    },
+    "Impressive Pin": {
+      "name": "Impressive Pin",
+      "description": "<p><strong>Prunk-Nadel</strong> Eine metallene Ehrennadel der Wache. Sie öffnet Türen, hinterlässt aber eine Spur. <em>Kleinzeug</em>.</p>"
+    },
+    "Incense": {
+      "name": "Incense",
+      "description": "<p><strong>Weihrauch</strong> Perfekt für Rituale oder um Fliegen fernzuhalten. Kühlt das Blut.</p>"
+    },
+    "Invisible Pet": {
+      "name": "Invisible Pet",
+      "description": "<p>Du hast ein geliebtes Haustzer demateralisiert. Nun folgt es dir, unsichtbar, doch allgegenwärtig. Es kann die physische Welt zwar nicht berühren, aber du kannst seine Sinne teilen. (Nimm jedes Mal eine <strong>Erschöpfung</strong>.) Es befolgt einfache Befehle.</p>"
+    },
+    "Iron Bracers": {
+      "name": "Iron Bracers",
+      "description": "<p>Einen bösartigen <em>Waldgeist</em>, der einen Hof vergiftete. Du rettetest einen <strong>Herzsamen</strong> aus den Wurzeln eines sterbenden Baums. (Pflanzt ihn, um einen neuen Wald zu erschaffen.) Nimm zudem <strong>Eisenarmschienen</strong> (+1 Rüstung, <em>sperrig</em>).</p>"
+    },
+    "Iron Dagger": {
+      "name": "Eisendolch",
+      "description": "<p>Eisendolch (W6)</p>"
+    },
+    "Iron Pot": {
+      "name": "Eisentopf",
+      "description": "<p>Eisentopf</p>"
+    },
+    "Iron Rattle": {
+      "name": "Iron Rattle",
+      "description": "<p><strong>Eisenklapper</strong> Ein Ratsche zum Ablenken oder Verscheuchen der Beute. Klingt überzeugend wie eine Schlange.</p>"
+    },
+    "Ivy Worm": {
+      "name": "Ivy Worm",
+      "description": "<p><strong>Efeuwurm</strong> Ein grüner Wurm, oft für Unkraut gehalten. Ganz verschluckt, saugt er Gifte und Fäulnis aus dem Körper, bevor er auf dem üblichen Weg wieder hinauswill.</p>"
+    },
+    "Journal": {
+      "name": "Tagebuch",
+      "description": "<p>Du hast ein altes <strong>Tagebuch</strong> geerbt, in Rinde gebunden. Jeden Abend füllen sich seine Seiten mit den Ereignissen des Tages, derb aus der Perspektive des Tagebuchs geschrieben. Die Schrift ist grob, doch genau.</p>"
+    },
+    "XphAFeGeebG7fgTA": {
+      "name": "Gold",
+      "description": "<p>Du handelst mit Haushaltswaren und Werkzeug und feilst deine Waren Städtern im ganzen Land an. Nimm Waren im Wert von 20 GM aus der Ausrüstungs-Tabelle. Du sprichst fließend die <em>Reisendensprache</em>.</p>"
+    },
+    "s4z2uvA45g65mNKC": {
+      "name": "Gold",
+      "description": "<p>Du baust kleine Apparaturen für örtliche Gilden (und fragst nicht zu viel). Beginne mit 40 GM extra und einem Steckbrief mit deinem Gesicht. Mit Zeit und Material öffnest du fast jede Tür oder jedes Gewölbe.</p>"
+    },
+    "Key": {
+      "name": "Key",
+      "description": "<p>Als Sträflingin war der Eid ein schlichtes Mittel, der Strafe zu entgehen. Nimm ein Set <strong>Dietriche</strong> und den <strong>Schlüssel</strong> (<em>Kleinzeug</em>) zu einem Versteck.</p>"
+    },
+    "Knife": {
+      "name": "Knife",
+      "description": "<p>Du warst Händlerin falscher Prophezeiungen, doch als eine eintraf, zog sie unerwünschte Aufmerksamkeit auf sich. Würfle auf der Tabelle <strong>Omen</strong> und behalte das Ergebnis für dich. Beginne mit einem versteckbaren <strong>Messer</strong> (W6, <em>Kleinzeug</em>).</p>"
+    },
+    "Ladder": {
+      "name": "Leiter",
+      "description": "<p>Eine Gildenlagerhalle. Nimm eine <strong>Leiter</strong> (<em>sperrig</em>, 3 m / 10 ft) und <strong>Blendpulver</strong> (1 Anwendung).</p>"
+    },
+    "Large Net": {
+      "name": "Large Net",
+      "description": "<p><strong>Hunde</strong> Nimm einen Kranz <strong>Eisenhut</strong> und ein <strong>Großes Netz</strong>. Wirkt auch gegen Werwölfe.</p>"
+    },
+    "DbcvvfOSGpy7DrSX": {
+      "name": "Leather Jerkin",
+      "description": "<p>Ein alter Jäger. Ihr wart beide glücklich, bis alles endete. Nimm einen <strong>verwitterten Langbogen</strong> (W8, <em>sperrig</em>) und einen <strong>Lederwams</strong> (1 Rüstung).</p>"
+    },
+    "3ZwvVAf2JgCAQ6OG": {
+      "name": "Lederwams",
+      "description": "<p>Lederwams (1 Rüstung)</p>"
+    },
+    "Leather Whip": {
+      "name": "Lederpeitsche",
+      "description": "<p>Lederpeitsche (W6)</p>"
+    },
+    "Leech": {
+      "name": "Blutegel",
+      "description": "<p>Blutegel (stellt 1 STR wieder her, 3 Anwendungen)</p>"
+    },
+    "Letter of Fae Parentage": {
+      "name": "Brief der Feenabstammung",
+      "description": "<p>Du hast einen <strong>Brief</strong> (<em>Kleinzeug</em>) erhalten, der unumstößlich belegt, dass dein wahres Elternhaus das eines Feenadels ist. Die Notiz nennt auch Datum und Ort, wo du dich mit der Absenderin zu treffen hast.</p>"
+    },
+    "Letter to the Lord of Winter": {
+      "name": "Brief an den Herrn des Winters",
+      "description": "<p>Auf deinen Reisen triffst du einen sterbenden Jäger, der dich bat, seiner Liebsten eine Botschaft zu überbringen. Nimm einen <strong>Brief</strong> (<em>Kleinzeug</em>), mit Baumsaft versiegelt. Er ist allein an den <strong>Herrn des Winters</strong> adressiert.</p>"
+    },
+    "Linden White": {
+      "name": "Linden White",
+      "description": "<p><strong>Linden-Schimmel</strong> Hochtrainiert und wendig; in der Not vollführt er kunstvolle Manöver (kein GES-Rettungswurf zum Fliehen). 4 HP. +3 Plätze.</p>"
+    },
+    "Living Nightmare": {
+      "name": "Living Nightmare",
+      "description": "<p>Ein <strong>Lebendiger Nachtmahr</strong>, der in dir wohnt, doch wann immer du in Gefahr bist, erscheint er. Er hat deine <strong>Attribute</strong> und <strong>HP</strong> und greift mit Krallen an (W8+W8). Bei <strong>Kritischem Schaden</strong> verschwindet er (nimm 1W4 WIL-Schaden) und erscheint beim nächsten Vollmond wieder.</p>"
+    },
+    "SnMkFBcgfszJzjmf": {
+      "name": "Lockpicks",
+      "description": "<p>Als Sträflingin war der Eid ein schlichtes Mittel, der Strafe zu entgehen. Nimm ein Set <strong>Dietriche</strong> und den <strong>Schlüssel</strong> (<em>Kleinzeug</em>) zu einem Versteck.</p>"
+    },
+    "i3fbJIbB6lJ6FyS0": {
+      "name": "Dietriche",
+      "description": "<p>Dietriche</p>"
+    },
+    "Lodestone": {
+      "name": "Lodestone",
+      "description": "<p><strong>Magnetstein</strong> Zieht gefährliche Stoffe aus dem Körper und wirkt als gewaltige magnetische Kraft.</p>"
+    },
+    "Lucky Jerkin": {
+      "name": "Glückswams",
+      "description": "<p>Glückswams (+1 Rüstung)</p>"
+    },
+    "Lure": {
+      "name": "Köder",
+      "description": "<p>Köder</p>"
+    },
+    "Luxcompass": {
+      "name": "Luxcompass",
+      "description": "<p><strong>Lichtkompass</strong> Summt leise, je näher er der Sonne kommt. Irgendwann wird der Lärm unerträglich laut.</p>"
+    },
+    "Manacles": {
+      "name": "Manacles",
+      "description": "<p><strong>Handschellen</strong> Alt, doch selbst gegen sehr Starke wirksam. Den Schlüssel hast du nicht.</p>"
+    },
+    "Map": {
+      "name": "Map",
+      "description": "<p><strong>Wegführerin</strong> Du geleitest Karawanen und Reisende durch wasserdurchsetztes Land. Beginne mit einer <strong>Karte</strong> (<em>Kleinzeug</em>) zu deiner nächsten Reise.</p>"
+    },
+    "Mapping Paper": {
+      "name": "Mapping Paper",
+      "description": "<p>Du warst an einem dunklen Ort und beschlossestr, dass dein Leben etwas Richtung brauchte. Ob es die richtige Wahl war, weißt du bis heute nicht so recht. Nimm einen <strong>Ölhaut-Mantel</strong> und <strong>Kartenpapier</strong>.</p>"
+    },
+    "Master Tinker": {
+      "name": "Master Tinker",
+      "description": "<p>Du baust kleine Apparaturen für örtliche Gilden (und fragst nicht zu viel). Beginne mit 40 GM extra und einem Steckbrief mit deinem Gesicht. Mit Zeit und Material öffnest du fast jede Tür oder jedes Gewölbe.</p>"
+    },
+    "Mercy": {
+      "name": "Mercy",
+      "description": "<p><strong>Gnade</strong>. Wähle einen <strong>Waffentyp</strong> (wuchtig, Klinge usw.). Angriffe mit dieser Waffe sind <em>verstärkt</em>. Brichst du das Gelübde, kannst du diesen Waffentyp nie wieder verwenden.</p>"
+    },
+    "Metal Arm": {
+      "name": "Metal Arm",
+      "description": "<p>Ein <strong>Arm</strong> ist komplett aus Metall und wird an der Schulter abgenommen. Er lässt sich als Waffe nutzen (W8, <em>sperrig</em>, wenn nicht angebracht) und kann sich selbstständig bewegen, solange du ihn siehst.</p>"
+    },
+    "Metal Foot": {
+      "name": "Metal Foot",
+      "description": "<p>Ein <strong>Fuß</strong> besteht großteils aus Metall (Tritt, W6), und manches <strong>Schwierige</strong> Gelände gilt für dich als <strong>Einfach</strong>. Trage eine Ölkanne (6 Anwendungen). Ohne tägliche Ölung bist du <em>erschöpft</em> und laut.</p>"
+    },
+    "Metal Ingot": {
+      "name": "Metallbarren",
+      "description": "<p>Du warst geschickt darin, <em>falsches</em> Gold zu erschaffen, das fast so gut ist. Irgendwann flog dein Betrug auf, und du musstest fluchtartig verschwinden. Nimm einen schweren <strong>Metallbarren</strong> und <strong>Goldpulver</strong> (3 Anwendungen).</p>"
+    },
+    "Metal Pail": {
+      "name": "Metalleimer",
+      "description": "<p>Metalleimer</p>"
+    },
+    "Milkflower": {
+      "name": "Milkflower",
+      "description": "<p><strong>Milchblume</strong> Ein sanftes Stimulans. Gekaut, bist du für die nächste Stunde immun gegen <em>Panik</em>. 3 Anwendungen.</p>"
+    },
+    "Mimic Stone": {
+      "name": "Mimic Stone",
+      "description": "<p><strong>Mimikstein</strong> Zeichnet eine kurze Phrase auf, die später wiedergegeben werden kann.</p>"
+    },
+    "Miner's Grease": {
+      "name": "Miner's Grease",
+      "description": "<p><strong>Mineralfett</strong> Hilft, einen Edelstein, ein Werkzeug oder ein Glied aus einem engen Spalt zu lösen. Hochexplosiv. 3 Anwendungen.</p>"
+    },
+    "Miniature Lute": {
+      "name": "Miniatur-Laute",
+      "description": "<p>Einst besuchte dich eine Gauklerin zu Hause und füllte es mit Geschichten und Gesang. Eines Tages ging sie ohne ein Wort und ließ nur <strong>eine Miniatur-Laute</strong> zurück. In ihr klappert etwas.</p>"
+    },
+    "Miracle Oil": {
+      "name": "Miracle Oil",
+      "description": "<p><strong>Wunderöl</strong> Ein stinkendes, rutschiges Gebräu. 2 Anwendungen.</p>"
+    },
+    "Mischievous Spirit": {
+      "name": "Mutwilliger Geist",
+      "description": "<p>Du hast einen <strong>mutwilligen Geist</strong> verschluckt, der in deinem Inneren Unheil stiftet und verlangt, heimgeführt zu werden – tief in den Wald. Er belegt einen Platz, nimmt aber täglich eine <strong>Erschöpfung</strong> auf. Er will, dass du ihn heimbringst.</p>"
+    },
+    "Monk's Habit": {
+      "name": "Monk's Habit",
+      "description": "<p>Die Nonnen eines abgeschiedenen Waldklosters. Als ihre Regeln zu streng wurden, hastest du davon. Nimm eine <strong>Klostergewandung</strong> (warm, <em>Kleinzeug</em>) und ein <strong>Zauberbuch</strong> der <em>Pflanzen bannen</em>. Pflanzen bannen: Nahegelegene Pflanzen und Bäume gehorchen dir und können sich langsam bewegen. <em>Blätter wachsen entlang des Buchrückens; es riecht schwach nach Verfall.</em></p>"
+    },
+    "Mortal Wound": {
+      "name": "Mortal Wound",
+      "description": "<p>Eine <strong>tödliche Wunde</strong> von einem befreiten <em>Wiedergänger</em>. Du wurdest geheilt, doch die Entstellung hat dich zum Ausgestoßenen gemacht. Du brauchst weder Luft noch Nahrung, bist aber weiter Schmerz und Tod unterworfen. Zwischen den Welten gefangen, sehen dich die Toten als einen ihrer Art.</p>"
+    },
+    "Murderous Truffle": {
+      "name": "Murderous Truffle",
+      "description": "<p><strong>Mörder-Trüffel</strong>. Durchdringend, hochgiftig und sehr selten (Attentätern 50 GM wert). Praktisch überall verboten. 1 Anwendung.</p>"
+    },
+    "Mythos Mask": {
+      "name": "Mythos Mask",
+      "description": "<p><strong>Mythos-Maske</strong> Eine Gipsmaske, die einem das Antlitz eines Ungeheuers verleiht. Einmal abgenommen, nimm eine <strong>Erschöpfung</strong>.</p>"
+    },
+    "Nature's Alarm": {
+      "name": "Nature's Alarm",
+      "description": "<p>Dass die Sinfonie der Natur zu hören ist, wenn du dich auf ihren Rhythmus einstimmst. Von Kreaturen deiner <strong>Spezialität</strong> umgeben, warnen sie dich, bevor Gefahr naht.</p>"
+    },
+    "Necklace": {
+      "name": "Necklace",
+      "description": "<p>Du verkaufst seltene und hochwertige Waren an Klöster wie Adel. Nimm ein <strong>Fernrohr</strong>, eine <strong>Halskette</strong> (<em>Kleinzeug</em>) im Wert von 20 GM und eine <strong>Schriftrolle</strong> der Spiegelwand (<em>Kleinzeug</em>).</p>"
+    },
+    "Needle-knife": {
+      "name": "Nadelmesser",
+      "description": "<p>Nadelmesser (W6)</p>"
+    },
+    "Nightdust Powder": {
+      "name": "Nightdust Powder",
+      "description": "<p><strong>Nachtstaub</strong> Aus dem rituellen Verbrennen von sechs Eulen gewonnen. In die Luft geworfen, wird der Tag eine Weile lang zur Nacht. 2 Anwendungen.</p>"
+    },
+    "Nightmare Claws": {
+      "name": "Nachtmahr-Krallen",
+      "description": "<p>Die Krallen des Lebendigen Nachtmahrs (W8+W8), solange er manifest ist.</p>"
+    },
+    "Oak Lord's Whistle": {
+      "name": "Pfeife des Eichenlords",
+      "description": "<p>Du hast eine <strong>Pfeife</strong> (<em>Kleinzeug</em>) aus dem Ast eines <strong>Eichenlords</strong> geschnitzt. Deine Tat blieb nicht unbemerkt. Und die Pfeife willst du einfach nicht mehr loswerden.</p>"
+    },
+    "Oath Compass": {
+      "name": "Oath Compass",
+      "description": "<p><strong>Eid-Kompass</strong> Weist nicht nach Norden, sondern zum nächsten Mitglied der Wache. Er verrät dir auch, wenn eines naht.</p>"
+    },
+    "Oft-mended Chain Mail": {
+      "name": "Oft-mended Chain Mail",
+      "description": "<p>Ein schroffer Schmied aus einem verschlafenen Flussstädtchen. Man hielt dich stets auf Abstand. Nun ist die Esse kalt, und du bist weitergezogen. Nimm einen <strong>Schmiedeschurz</strong> (<em>Kleinzeug</em>) und eine <strong>oft-flickierte Kettenrüstung</strong> (2 Rüstung, <em>sperrig</em>).</p>"
+    },
+    "Oilskin Coat": {
+      "name": "Oilskin Coat",
+      "description": "<p>Du warst an einem dunklen Ort und beschlossestr, dass dein Leben etwas Richtung brauchte. Ob es die richtige Wahl war, weißt du bis heute nicht so recht. Nimm einen <strong>Ölhaut-Mantel</strong> und <strong>Kartenpapier</strong>.</p>"
+    },
+    "Omen": {
+      "name": "Omen",
+      "description": "<p>Ein seltsames Muttermal, ein fremder Geruch: Irgendwie haftet dir noch immer die Berührung des <em>Anderswo</em> an. Würfle auf der Tabelle <strong>Omen</strong> (auch wenn du nicht die jüngste Spielerin bist), und behalte das Ergebnis vorerst für dich.</p>"
+    },
+    "Order of the Glass Sigil": {
+      "name": "Order of the Glass Sigil",
+      "description": "<p><strong>Orden des Glas-Sigills</strong>. Nimm ein Kurzschwert (W8) und ein Kettenhemd (2 Rüstung, <em>sperrig</em>). Du hast in den meisten Städten Kontakte (je ländlicher, desto besser), die Beistand, Essen oder gar Waffen geben.</p>"
+    },
+    "Outnumbered": {
+      "name": "Outnumbered",
+      "description": "<p>Felddiebe. Nicht alle überlebten, doch du warst in der Unterzahl. Beginne mit +W4 HP und einem <strong>gekrümmten\tFalchion</strong> (W8).</p>"
+    },
+    "wLUKk5pxYpQLE3Fg": {
+      "name": "Gold",
+      "description": "<p><strong>Ehre den Toten</strong>: Der Tod ist eine Reise, die wir alle antreten; er verdient Respekt. Nimm zusätzlich <strong>30 GM</strong>. Du legst besiegten Feinden stets zwei Goldmünzen auf die Augenlider. Irgendwie fehlt dir die Münze nie.</p>"
+    },
+    "Padded Leather": {
+      "name": "Gepolstertes Leder",
+      "description": "<p>Gepolstertes Leder (1 Rüstung)</p>"
+    },
+    "Pain Band": {
+      "name": "Pain Band",
+      "description": "<p><strong>Schmerzband</strong> Berühre eine verletzte Kreatur, um ihre Wunden auf dich zu übertragen. (Tausche ihren verlorenen STR gegen deinen eigenen.) <strong>Wiederaufladung</strong>: Trage den Ring bei vollkommener Gesundheit. Du verlierst dauerhaft 1 STR. <em>Kleinzeug</em>.</p>"
+    },
+    "Pan Flute": {
+      "name": "Pan Flute",
+      "description": "<p><strong>Nagetiere</strong> Nimm eine <strong>Panflöte</strong>, die einen hoheingestellten Ton erzeugt, den nur Nagetiere hören. Solange du spielst, folgen sie dir – in den Tod.</p>"
+    },
+    "Paper Legs": {
+      "name": "Paper Legs",
+      "description": "<p><strong>Papierbeine</strong>. Du bist extrem leicht und kannst einige Stockwerke fallen, ohne dir zu schaden. Nur einreißen oder nass werden solltest du sie nicht lassen.</p>"
+    },
+    "Paring Knife": {
+      "name": "Paring Knife",
+      "description": "<p>Eine <em>azurische Grasmücke</em>. Ihre Keimzellen erzielen ordentlichen Gewinn, richtig extrahiert. Dir gelang es – doch ihren Nest ließest du den Wölfen. Nimm ein <strong>Schälmesser</strong> (W6), <strong>20 GM extra</strong> und einen Stich des Bedauerns.</p>"
+    },
+    "Performance": {
+      "name": "Performance",
+      "description": "<p><strong>Auftritte</strong> In Taverne einzuspielen bringt stets Quartier und Kost. Manchmal gibt es sogar Trinkgeld! Beginne mit <strong>10 GM extra</strong>.</p>"
+    },
+    "Piebald Cob": {
+      "name": "Piebald Cob",
+      "description": "<p><strong>Scheckiger Cob</strong> Intelligent; versteht einfache Befehle und hat sogar Gespür für Gefahr. 6 HP. +4 Plätze.</p>"
+    },
+    "Pincers": {
+      "name": "Pinzette",
+      "description": "<p>Pinzette</p>"
+    },
+    "Pipeweed": {
+      "name": "Pipeweed",
+      "description": "<p><strong>Pfeifenkraut</strong> Dein Glückstalisman. Nach einem Zug fließen Gespräche leichter. 6 Anwendungen.</p>"
+    },
+    "Plague Doctor's Mask": {
+      "name": "Plague Doctor's Mask",
+      "description": "<p>Eine <strong>Pestmaske</strong>, nachdem ihre Trägerin der Seuche erlag, die alle auslöschte, die du einst kanntest. Sie hätten sie aufbehalten sollen.</p>"
+    },
+    "Pneuma Pump": {
+      "name": "Pneuma Pump",
+      "description": "<p><strong>Pneuma-Pumpe</strong> Eine transportable Eisenlunge (<em>sperrig</em>). Ermöglicht lebensrettende Operationen oder das Atmen unter Wasser.</p>"
+    },
+    "Poacher's Woe": {
+      "name": "Poacher's Woe",
+      "description": "<p><strong>Wildschützen-Weh</strong> Stark riechende Pfeile (3 Anwendungen). Der Geruch ist kräftig genug, um mühelos damit zu verfolgen.</p>"
+    },
+    "Pocket Leyfinder": {
+      "name": "Pocket Leyfinder",
+      "description": "<p><strong>Orden des Kreuzwegs</strong>. Nimm einen <strong>Taschen-Leysucher</strong>. Er weist auf nahe Leylinien und andere Quellen arkaner Macht. Verlierst du ihn, ist die Strafe der Tod.</p>"
+    },
+    "Pocket Theatre": {
+      "name": "Pocket Theatre",
+      "description": "<p><strong>Taschentheater</strong> Ein Satz kleiner Puppen und eine Klapübühne. Gut für schnelle Ablenkungsmanöver.</p>"
+    },
+    "Portrait": {
+      "name": "Porträt",
+      "description": "<p>Du trägst ein <strong>Porträt</strong> in einem Medaillon (<em>Kleinzeug</em>) von einer vergangenen Liebe, die vor langem im Wald verschwand. Irgendwie weißt du, dass sie noch lebt.</p>"
+    },
+    "Predator Sense": {
+      "name": "Predator Sense",
+      "description": "<p>Dass der Puls der Jagd ein mächtiger Impuls ist. Du spürst, wenn Räuber in der Nähe sind – auch solche <strong>außerhalb deiner Spezialität</strong>.</p>"
+    },
+    "Protective Gloves": {
+      "name": "Schutzhandschuhe",
+      "description": "<p>Schutzhandschuhe (<em>Kleinzeug</em>)</p>"
+    },
+    "OI18ewoJJr8MkG4I": {
+      "name": "Gold",
+      "description": "<p>Eine <em>azurische Grasmücke</em>. Ihre Keimzellen erzielen ordentlichen Gewinn, richtig extrahiert. Dir gelang es – doch ihren Nest ließest du den Wölfen. Nimm ein <strong>Schälmesser</strong> (W6), <strong>20 GM extra</strong> und einen Stich des Bedauerns.</p>"
+    },
+    "Pulley": {
+      "name": "Pulley",
+      "description": "<p><strong>Flaschenzug</strong> Ideal, um Grabsteine, Felsen oder gar Leichen zu bewegen.</p>"
+    },
+    "Pullstones": {
+      "name": "Pullstones",
+      "description": "<p><strong>Ziehsteine</strong> Zwei pechschwarze Steine. Getrennt, rollen sie stets aufeinander zu.</p>"
+    },
+    "Pyrophoric Gel": {
+      "name": "Pyrophoric Gel",
+      "description": "<p><strong>Pyrophores Gel</strong> Eine zähe grüne Flüssigkeit, die bei Luftkontakt Feuer fängt und danach 8 Stunden brennt. Kann nicht gelöscht werden (1 Anwendung).</p>"
+    },
+    "Quell Stone": {
+      "name": "Quell Stone",
+      "description": "<p><strong>Orden des Stillen Schleiers</strong>. Nimm einen <strong>Löschstein</strong> (2 Anwendungen), in Jute gewickelt. Löscht jede nahegelegene Flamme, sobald er Luft ausgesetzt wird.</p>"
+    },
+    "Quick-Flame Rod": {
+      "name": "Quick-Flame Rod",
+      "description": "<p><strong>Spinnentiere</strong> Nimm eine <strong>Schnellflammen-Rute</strong> und eine <strong>Ölkanne</strong> (6 Anwendungen). Sie vernichtet ein großes Spinnennest in Sekunden.</p>"
+    },
+    "Quicksilver Chain": {
+      "name": "Quicksilver Chain",
+      "description": "<p><strong>Orden von Canaas</strong>. Einmal täglich kannst du dich in einen Wolf verwandeln. Nimm eine <strong>Quecksilber-Kette</strong>. Ohne sie kannst du nicht zurückwechseln.</p>"
+    },
+    "Quicksilver": {
+      "name": "Quicksilver",
+      "description": "<p><strong>Quecksilber</strong> Ein Stimulans. Handle im Kampf zuerst und bestehe eine Stunde lang automatisch alle WIL-Rettungswürfe. <em>Macht abhängig</em>: STR-Rettungswurf oder werde nach 24 Stunden ohne es <em>erschöpft</em>. 4 Anwendungen.</p>"
+    },
+    "Quill & Ink": {
+      "name": "Feder & Tinte",
+      "description": "<p>Feder &amp; Tinte</p>"
+    },
+    "Rabbit Skull": {
+      "name": "Rabbit Skull",
+      "description": "<p>Deine respektablen Puppenspielkünste wurden nur von deiner Nachahmungsgabe übertroffen. Du warst so gut, dass man dich buchstäblich als Hexe brandmarkte und verbannte. Nimm eine <strong>unheimliche Handpuppe</strong> und einen <strong>Hasenschädel</strong> (<em>Kleinzeug</em>), der vor Bezauberung schützt.</p>"
+    },
+    "Rabbit's Foot": {
+      "name": "Rabbit's Foot",
+      "description": "<p><strong>Hasenfuß</strong> Du trugst ihn, als man dich fand. Man sagt, es sei der Fuß der Frau, die dich zurückließ, und dass er dich vor Hexenmagie schützt. <em>Kleinzeug</em>.</p>"
+    },
+    "lkT31MQ2uGNxj9QQ": {
+      "name": "Rapier",
+      "description": "<p><strong>Leibwache</strong> Du bist Beschützerin für jene, die nicht allein reisen wollen. Beginne mit einem <strong>Degen</strong> (W8).</p>"
+    },
+    "q8KGFMVCkf9CevmD": {
+      "name": "Rapier",
+      "description": "<p>Trotz deiner Ausbildung in den tödlichen Künsten starb ein Schauspieler, und man beschuldigte dich. Nimm einen leichten <strong>Degen</strong> (W6) und eine falsche Identität.</p>"
+    },
+    "Raven Familiar": {
+      "name": "Raven Familiar",
+      "description": "<p>Ein <strong>Rabe als Vertrauter</strong> [8 HP, 3 STR, 11 DEX, 13 WIL, Schnabel (W6)]. Er spricht wie ein intelligentes Wesen und ist dir bedingungslos ergeben.</p>"
+    },
+    "Rebirth Ash": {
+      "name": "Rebirth Ash",
+      "description": "<p><strong>Wiedergeburtsasche</strong> Reste eines Rindengeists. Gestreut, entfacht sie ein erloschenes Feuer neu oder erweckt eine Kreatur, die erst Augenblicke zuvor starb. 3 Anwendungen.</p>"
+    },
+    "Rebreak Glass": {
+      "name": "Rebreak Glass",
+      "description": "<p><strong>Wiederbrech-Glas</strong> Ein Weinglas, das mehrfach zerbrochen werden kann und sich nach 24 Stunden neu formt. Macht ein wirklich lautes Geräusch.</p>"
+    },
+    "Reed Whistle": {
+      "name": "Reed Whistle",
+      "description": "<p><em>Des Kesselflickers Zwei-Schritt</em>. Ein humorvolles Märchen über einen schenkenden Reisenden. Beginne mit einer <strong>Schilf-Pfeife</strong>. Alle in Hörweite müssen einen WIL-Rettungswurf bestehen, um eine Gewalttat zu begehen.</p>"
+    },
+    "Regrowth Salve": {
+      "name": "Regrowth Salve",
+      "description": "<p><strong>Regenerationssalbe</strong> Lässt ein Körperteil im Lauf eines Tages nachwachsen. 1 Anwendung.</p>"
+    },
+    "Repellent (3 uses)": {
+      "name": "Abschreckung (3)",
+      "description": "<p>Abschreckung (Art nach Wahl, 3 Anwendungen)</p>"
+    },
+    "Replacement Eye": {
+      "name": "Replacement Eye",
+      "description": "<p>Du hast ein Ersatz-<strong>Auge</strong>, das Objekte vergrößern, als Fernrohr dienen und minimale Nachtsicht bieten kann. Du kannst nichts Metallisches am Kopf tragen, und starke Magnete machen dich <em>erschöpft</em>.</p>"
+    },
+    "Retractable Wires": {
+      "name": "Retractable Wires",
+      "description": "<p>Eine Bank. (Du wurdest erwischt.) Du trägst ein Mal, das nur im Feuerschein sichtbar ist, und wer es sieht, darf dich auf ein Bier einladen. Nimm <strong>Einziehbare Drähte</strong>.</p>"
+    },
+    "Revere the Dead": {
+      "name": "Revere the Dead",
+      "description": "<p><strong>Ehre den Toten</strong>: Der Tod ist eine Reise, die wir alle antreten; er verdient Respekt. Nimm zusätzlich <strong>30 GM</strong>. Du legst besiegten Feinden stets zwei Goldmünzen auf die Augenlider. Irgendwie fehlt dir die Münze nie.</p>"
+    },
+    "Reverse Teetotum": {
+      "name": "Reverse Teetotum",
+      "description": "<p><strong>Umgekehrter Drehwürfel</strong> 1 Anwendung. Gedreht, springt die Zeit 30 Sekunden zurück. Alle erinnern sich, was geschah.</p>"
+    },
+    "U0Cx718fqe1Sf71L": {
+      "name": "Auftritte",
+      "description": "<p><strong>Auftritte</strong> In Taverne einzuspielen bringt stets Quartier und Kost. Manchmal gibt es sogar Trinkgeld! Beginne mit <strong>10 GM extra</strong>.</p>"
+    },
+    "ebiYhTM4rcHkx5ZN": {
+      "name": "Gold",
+      "description": "<p><strong>Waren</strong> Du kaufst billig und verkaufst hoch und kommst immer gerade so über die Runden. Nimm einen <strong>einzelnen Gegenstand</strong> im Wert von <strong>20 GM</strong> (oder weniger) aus der Ausrüstungs-Tabelle.</p>"
+    },
+    "Rime Seed": {
+      "name": "Rime Seed",
+      "description": "<p>Eine <em>Eisnessel</em>, die Schafe fing und aussaugte. Deinen Auftrag verlorst du, als der Pilz, den du einführtest, die halbe Herde tötete. Nimm einen <strong>Raussamen</strong> (1 Anwendung). Er friert jedes Gewässer ein, egal die Größe. Nicht essen.</p>"
+    },
+    "River Twine": {
+      "name": "River Twine",
+      "description": "<p><em>Der Reidfischer</em>. Ein gefeiertes Lied über einen gewaltigen Karpfen, der stets zu entkommen scheint. Beginne mit einer Spule <strong>Flussgarn</strong> (5 Anwendungen). Jeder Senkens garantiert einen Fang – der nicht angenehm sein muss.</p>"
+    },
+    "Rivertooth": {
+      "name": "Rivertooth",
+      "description": "<p><strong>Flusszahn</strong> Beeindruckend stark, trägt er schwere Lasten. 4 HP. +6 Plätze (nur +2 Plätze, wenn zwei Personen reiten).</p>"
+    },
+    "Roll of Tin": {
+      "name": "Zinnrolle",
+      "description": "<p>Zinnrolle</p>"
+    },
+    "Rolled-Up Map": {
+      "name": "Rollkarte",
+      "description": "<p>Eine fahrende Geschichtenerzählerin spann dir einst Märchen von großem Schatz, tief im Wald verborgen. Du hieltst es für Fablerei – bis sie dir <strong>eine zusammengerollte Karte</strong> (<em>Kleinzeug</em>) mit einem X gab.</p>"
+    },
+    "Root Knife": {
+      "name": "Wurzelmesser",
+      "description": "<p>Wurzelmesser (W6)</p>"
+    },
+    "Root Tether": {
+      "name": "Root Tether",
+      "description": "<p><strong>Wurzelstrick</strong> Geworfen, bindet er eine Kreatur bis Wolfsgröße für kurze Zeit an den Boden.</p>"
+    },
+    "Rootflower": {
+      "name": "Rootflower",
+      "description": "<p><strong>Wurzelblume</strong>. Ein weißer Pilz, der nur auf Leichen tief unter der Erde wächst. Eingenommen, stellt er W6 WIL wieder her. Du wirst von den Toten und ihren Geschichten träumen. 1 Anwendung.</p>"
+    },
+    "Royal Crest": {
+      "name": "Royal Crest",
+      "description": "<p><strong>Königswappen</strong> In den Adel geboren, wähltest du ein anderes Leben. Das Wappen gewährt Zugang – und meldet deiner Familie stets deinen Aufenthaltsort. <em>Kleinzeug</em>.</p>"
+    },
+    "Sailor's Friend": {
+      "name": "Sailor's Friend",
+      "description": "<p><strong>Freund der Seeleute</strong> Über unruhige Gewässer und gefährliche Winde bringst du jedes Schiff sicher an sein Ziel. Für dich ist die Passage immer frei.</p>"
+    },
+    "Salt Pouch": {
+      "name": "Salzbeutel",
+      "description": "<p>Salzbeutel</p>"
+    },
+    "Sanguine Lens": {
+      "name": "Sanguine Lens",
+      "description": "<p><strong>Blutrote Linse</strong> Entzieht einem Ziel unbemerkt Blut. Ein gestohlener Tropfen aufs Auge gelegt, zeigt Erinnerungen des vergangenen Tages.</p>"
+    },
+    "Saw": {
+      "name": "Saw",
+      "description": "<p>Du plünderst Rohzinn und -eisen von Schlachtfeldern und ziehst noch zuckenden Leichen die Zähne. Beginne mit einem jungen <strong>Esel</strong> (+4 Plätze, langsam), einer <strong>Armbrust</strong> (W8 Schaden, <em>sperrig</em>) und einer <strong>Säge</strong> (W6).</p>"
+    },
+    "Scouting": {
+      "name": "Scouting",
+      "description": "<p><strong>Kundschaften</strong>. Bei der Aktion Reisen senkt deine Anwesenheit die Verirrungs-Chance um eine Stufe (z. B. 4-in-6 wird zu 3-in-6).</p>"
+    },
+    "Screwdriver": {
+      "name": "Screwdriver",
+      "description": "<p>Einer deiner Finger wurde ersetzt, der Knochen durch Gold und Eisen. Nimm einen <strong>Haken</strong> und einen <strong>Schraubendreher</strong>, die an der Fingerspitze befestigt werden können.</p>"
+    },
+    "Second Bond": {
+      "name": "Zweites Band",
+      "description": "<p>Ein Amt von großer Ehre – solange es währt: Manche Wächter erleben ihre natürliche Lebensspanne nicht. Würfle ein zweites Mal auf der Tabelle <strong>Bänder</strong>.</p>"
+    },
+    "Seed Bomb": {
+      "name": "Seed Bomb",
+      "description": "<p><strong>Samenbombe</strong> Ein Sack voll Samen, die beim Aufprall explodieren. W6 Schaden (<em>Flächenschaden</em>, 3 Anwendungen).</p>"
+    },
+    "Selflessness": {
+      "name": "Selflessness",
+      "description": "<p><strong>Selbstlosigkeit</strong>. Du bist immun gegen <strong>geist-verändernde Magie</strong> wie <em>Bezaubern</em>, <em>Hass</em>, <em>Raserei</em> und so weiter. Brichst du das Gelübde, verlierst du W6 WIL.</p>"
+    },
+    "Serrated Knife": {
+      "name": "Gezacktes Messer",
+      "description": "<p>Gezacktes Messer (W6)</p>"
+    },
+    "Sessile Oak": {
+      "name": "Sessile Oak",
+      "description": "<p><strong>Straubeneiche</strong> (W8, <em>sperrig</em>). Knallt auf Ziele. Bei <strong>Kritischem Schaden</strong> wird etwas abgerissen.</p>"
+    },
+    "Sharpened Trowel": {
+      "name": "Scharfe Kelle",
+      "description": "<p>Geschärfte Pflanzkelle (W6)</p>"
+    },
+    "Short Sword": {
+      "name": "Kurzschwert",
+      "description": "<p>Kurzschwert (W6)</p>"
+    },
+    "Shrieking Trumpet": {
+      "name": "Shrieking Trumpet",
+      "description": "<p><strong>Schreiende Trompete</strong>. Bei Licht schreit sie so laut, dass alle Angriffe in der Nähe (auch deine eigenen) <em>beeinträchtigt</em> sind. 2 Anwendungen.</p>"
+    },
+    "Signet Ring": {
+      "name": "Siegelring",
+      "description": "<p>Du schuldest einer Adeligen einen großen Dienst und trägst ihren <strong>Siegelring</strong> (<em>Kleinzeug</em>): Beweis ihres Schutzes wie deiner Verpflichtung.</p>"
+    },
+    "Silk Moth Shawl": {
+      "name": "Silk Moth Shawl",
+      "description": "<p><strong>Seidenschal</strong> Eine wetterfeste Decke, die auch ein Feuer löschen kann, ohne Schaden zu nehmen.</p>"
+    },
+    "Silver Knife": {
+      "name": "Silbermesser",
+      "description": "<p>Silbermesser (W6)</p>"
+    },
+    "Silver Moss": {
+      "name": "Silbermoos",
+      "description": "<p>Du hast einmal eine Najade aus einem erstickten Bach befreit. Zum Dank gab sie dir etwas <strong>Silbermoos</strong> (Kleinzeug). Schlucke es in der Nähe von Wasser, und die Kreatur wird einmal kommen, um ihre Schuld zu begleichen.</p>"
+    },
+    "Single Gem": {
+      "name": "Edelstein",
+      "description": "<p>Du hast einen <strong>einzelnen Edelstein</strong> (500 GM, kalt und spröde) von einer längst verstorbenen Verwandten geerbt. Er kam mit einer Warnung: Verprasse dein neu gewonnenes Glück, und eine längst vergessen geglaubte Schuld wird eingefordert.</p>"
+    },
+    "Sketchbook": {
+      "name": "Sketchbook",
+      "description": "<p>Eine <strong>Marktwache</strong> rettete dein Leben, und du ließest dich inspirieren, ihrer Ränge beizutreten. Nimm eine <strong>Schlingenfalle</strong> und ein <strong>Skizzenbuch</strong> voll detaillierter Zeichnungen.</p>"
+    },
+    "Sloth-Tarp": {
+      "name": "Sloth-Tarp",
+      "description": "<p><strong>Trampeltier-Plane</strong> Ein zäher, wetterfester Stoff, gut zum Aufhängen in Bäumen. Darinnen hast du +1 Rüstung.</p>"
+    },
+    "Smelting Hammer": {
+      "name": "Smelting Hammer",
+      "description": "<p>Du warst Militär-Schmelzer, bis der Frieden dein Auskommen zerstörte. Nimm einen <strong>Schmelzhammer</strong> (W10, <em>sperrig</em>) und einen <strong>Zinnhelm</strong> (+1 Rüstung). Mit Zeit und Material kannst du Rüstung reparieren.</p>"
+    },
+    "Smith's Apron": {
+      "name": "Smith's Apron",
+      "description": "<p>Ein schroffer Schmied aus einem verschlafenen Flussstädtchen. Man hielt dich stets auf Abstand. Nun ist die Esse kalt, und du bist weitergezogen. Nimm einen <strong>Schmiedeschurz</strong> (<em>Kleinzeug</em>) und eine <strong>oft-flickierte Kettenrüstung</strong> (2 Rüstung, <em>sperrig</em>).</p>"
+    },
+    "Smoke Pellets": {
+      "name": "Smoke Pellets",
+      "description": "<p>Eine Universität. Man sah dich, verfolgte dich aber nicht. Du weißt bis heute nicht, warum. Nimm <strong>Rauchpastillen</strong> (3 Anwendungen).</p>"
+    },
+    "Snare Trap": {
+      "name": "Snare Trap",
+      "description": "<p>Eine <strong>Marktwache</strong> rettete dein Leben, und du ließest dich inspirieren, ihrer Ränge beizutreten. Nimm eine <strong>Schlingenfalle</strong> und ein <strong>Skizzenbuch</strong> voll detaillierter Zeichnungen.</p>"
+    },
+    "Soporific Concoction": {
+      "name": "Schlaftrunk-Konkoktion",
+      "description": "<p>Eine enge Freundin verschwand im Wald. Nun siehst du ihr Gesicht in jedem Gebräu. Nimm eine <strong>Schlaftrunk-Konkoktion</strong> (3 Anwendungen).</p>"
+    },
+    "Soporific Darts": {
+      "name": "Betäubungspfeile",
+      "description": "<p>Betäubungspfeile (STR-Rettungswurf oder Einschlafen, 6 Anwendungen)</p>"
+    },
+    "Spark Dust": {
+      "name": "Spark Dust",
+      "description": "<p><strong>Funkenstaub</strong> Entzündet sich leicht und schnell. Nützlich zum Feuermachen oder als Brandsatz (3 Anwendungen).</p>"
+    },
+    "Spike and Cord": {
+      "name": "Spike and Cord",
+      "description": "<p><strong>Spike und Schnur</strong> Zum Überqueren schwierigen Gelände oder für behelfsmäßige Fallen und Konstruktionen.</p>"
+    },
+    "Spiked Boots (d8)": {
+      "name": "Spiked Boots (d8)",
+      "description": "<p><strong>Stachelstiefel</strong> Knackt Schädel (W8) so leicht wie Eis und Matsch. Reisen geht etwas langsamer, dafür leichter.</p>"
+    },
+    "Sponge": {
+      "name": "Sponge",
+      "description": "<p><strong>Schwamm</strong> Angeblich aus den Überresten einer seltenen Meereskreatur. Er scheint nie auszutrocknen.</p>"
+    },
+    "Spring-Loaded Trap": {
+      "name": "Federfalle",
+      "description": "<p>Federfalle (4 STR-Schaden)</p>"
+    },
+    "Sproutcup": {
+      "name": "Sproutcup",
+      "description": "<p><strong>Sprossenbecher</strong>. Eingenommen, schrumpfst du auf Mausgröße. (Dein Gepäck bleibt.) Innerhalb einer Stunde kehrst du in normaler Größe zurück – oft ruckweise. 1 Anwendung.</p>"
+    },
+    "Stage Mail": {
+      "name": "Stage Mail",
+      "description": "<p>Du wurdest bei einem Unfall auf der Bühne vernarbt. Das Publikum jubelte, es hielt es für Teil der Show. Nimm abgenutzte <strong>Bühnenrüstung</strong> (1 Rüstung), eine unvergessliche Narbe und eine Angst vor Applaus.</p>"
+    },
+    "Stained Medical Finery": {
+      "name": "Gefleckte Medizinfarbe",
+      "description": "<p>Gefleckte Pracht der Heilkunst (<em>Kleinzeug</em>)</p>"
+    },
+    "Stake": {
+      "name": "Pflock",
+      "description": "<p>Pflock (W6)</p>"
+    },
+    "Star-Iron Mace": {
+      "name": "Star-Iron Mace",
+      "description": "<p><strong>Orden des Blutenden Sterns</strong>. Nimm einen <strong>Sterneneisen-Streitkolben</strong> (W8). Er schimmert schwach im Dunkeln und wird in der Gegenwart von Hexerei sehr heiß.</p>"
+    },
+    "Steadymade Buckler": {
+      "name": "Steadymade Buckler",
+      "description": "<p><strong>Kein unschuldiges Blut</strong>: In deiner Obhut kommt kein Unbeteiligter zu Schaden. Nimm einen <strong>Standhaften Buckler</strong> (+1 Rüstung). Solange du diesen Schild hältst und mit beiden Füßen auf festem Grund stehst, kannst du nicht fortbewegt werden.</p>"
+    },
+    "Stink Jar": {
+      "name": "Stink Jar",
+      "description": "<p><strong>Stinktopf</strong> Zerspringt der Topf, wird ein so übler Geruch freigesetzt, dass alle in der Nähe einen STR-Rettungswurf bestehen oder sofort erbrechen müssen. 1 Anwendung.</p>"
+    },
+    "Stone Flute": {
+      "name": "Stone Flute",
+      "description": "<p><em>Lied des Silbernen Stroms</em>. Eine Wortlose Wiegenweise, die fließendes Wasser nachahmt. Nimm eine <strong>Steinflöte</strong>, die fast jeden Fluss beschwichtigt.</p>"
+    },
+    "Stone Heart": {
+      "name": "Steinernes Herz",
+      "description": "<p>Du hast eine Kreatur des Waldes übel mitgespielt, und sie verfluchte dich mit einem <strong>steinernen Herz</strong>. Mit jedem Monat wird der Stein um einen Platz schwerer. Bis deine Schuld getilgt ist, kannst du nicht wahrhaft sterben.</p>"
+    },
+    "Stone Pine": {
+      "name": "Stone Pine",
+      "description": "<p><strong>Schirmkiefer</strong> (W6, <em>sperrig</em>). Erzeugt täglich eine Anwendung <strong>zähen Harzes</strong>. Das Harz ist hochexplosiv.</p>"
+    },
+    "Stonetree Sap": {
+      "name": "Stonetree Sap",
+      "description": "<p><strong>Steinbaum-Harz</strong> Für Blut erhandeltes Harz. Auf jede Oberfläche gerieben, härtet es (+1 Rüstung). 3 Anwendungen.</p>"
+    },
+    "Storybook": {
+      "name": "Storybook",
+      "description": "<p>Eine Truppe fahrender Gaukler. Eine Weile waren sie wie Familie. Eines Morgens waren sie fort, ohne Erklärung. Nimm ein <strong>Geschichtenbuch</strong>, einen <strong>Dolch</strong> (W6) und einige brennende Fragen.</p>"
+    },
+    "Strange Compass": {
+      "name": "Seltsamer Kompass",
+      "description": "<p>Eine entfernte Cousine hinterließ dir ein kleines Erbe. Nimm <strong>20 GM</strong> und einen <strong>Seltsamen Kompass</strong> (<em>Kleinzeug</em>), der stets auf etwas tief im Wald zeigt.</p>"
+    },
+    "Stray Fogger": {
+      "name": "Stray Fogger",
+      "description": "<p><strong>Streunender Nebelhengst</strong> Wild, doch sehr schnell (auch in <strong>Schwierigem</strong> Gelände). Reitet leicht. 4 HP. +2 Plätze.</p>"
+    },
+    "Striped Bamboo": {
+      "name": "Striped Bamboo",
+      "description": "<p><strong>Gestreifter Bambus</strong> (W6). Zusammenschiebbar; braucht nur einen Platz (aber beide Hände).</p>"
+    },
+    "Strong Silk Rope": {
+      "name": "Strong Silk Rope",
+      "description": "<p>Die Wohnung eines Polizeihauptmanns. Du entkamst, liebst aber Freunde zurück. Nimm <strong>Starkes Seidenseil</strong> (9 m / 30 ft) und ein flaues Gefühl.</p>"
+    },
+    "Sun Stick": {
+      "name": "Sun Stick",
+      "description": "<p><strong>Sonnenstab</strong> Liefert bis zu eine Stunde reichlich Wärme und Licht. <strong>Wiederaufladung</strong>: Einen ganzen Tag in starke Sonne legen. 1 Anwendung.</p>"
+    },
+    "Surgeon's Soap": {
+      "name": "Surgeon's Soap",
+      "description": "<p><strong>Chirurgen-Seife</strong> Ein Block aus Lauge und Asche, der die Haut kurzzeitig transparent macht und die Anatomie darunter enthüllt. 4 Anwendungen.</p>"
+    },
+    "Sweetwhistle": {
+      "name": "Sweetwhistle",
+      "description": "<p><strong>Süßpfeife</strong> 1 Ladung. Zuhörer hören eine sanfte, vertraute Stimme in der Ferne, der sie unweigerlich folgen. <strong>Wiederaufladung</strong>: Verliere eine liebe Erinnerung. (Beschreibe sie.)</p>"
+    },
+    "Tacky Stalk": {
+      "name": "Tacky Stalk",
+      "description": "<p><strong>Klebriger Stängel</strong> Ein holziges Rohr, das beim Kauen zu einem dauerhaften Klebstoff härtet. 2 Anwendungen.</p>"
+    },
+    "Tally Stick": {
+      "name": "Tally Stick",
+      "description": "<p><strong>Treue zum Auftrag</strong>: Dein Wort ist dein Bund. Hast du einen Auftrag angenommen, führst du ihn zu Ende. Nimm eine verwitterte <strong>Kerbholf</strong>. Wird ein Gelübde in ihr eingekerbt, härte sie (W8), bis es erfüllt ist. Das Holz zerbricht, wenn das Gelübde je gebrochen wird.</p>"
+    },
+    "Tarp": {
+      "name": "Plane",
+      "description": "<p>Plane</p>"
+    },
+    "The Cathedral and the Canopy": {
+      "name": "The Cathedral and the Canopy",
+      "description": "<p><strong>Die Kathedrale und das Blätterdach</strong>. Großblättriger Einband über Pergament. Nominell ein Kinderbuch; die Ränder verzeichnen Wissenswertes über Reisen, Essen und Schlafen in den Wolkenwäldern.</p>"
+    },
+    "The Silent Symphony": {
+      "name": "The Silent Symphony",
+      "description": "<p><strong>Die stille Sinfonie</strong>. In fluoreszierendem Umschlag gebunden. Sehr selten; sie hält die subtilen Zeichen fest, die Anwender unsichtbarer Magie nutzen.</p>"
+    },
+    "The Star Waltz": {
+      "name": "The Star Waltz",
+      "description": "<p><strong>Der Sternenwalzer</strong>. Ein kometenförmiger Verschluss in feinem Ledereinband. Detaillierte astronomische Karten, Himmelsbewegungen und Sternenfeste. Reisenden nützlich und hoch geschätzt (100 GM).</p>"
+    },
+    "The Wild Tongue": {
+      "name": "The Wild Tongue",
+      "description": "<p><strong>Die wilde Zunge</strong>. Ein Bündel ledergebundener Schriftrollen. Ein wegweisendes Werk, das die verborgenen Sprachen der Bestien katalogisiert und wie man sie versteht.</p>"
+    },
+    "Thesaurus": {
+      "name": "Thesaurus",
+      "description": "<p>Du verhöhntest einen vergessenen Trickgott und wurdest dafür verflucht. Du sprichst nur noch in perfekten Reimen. Ironischerweise hat das deine Popularität bei deinesgleichen nur gesteigert. Nimm ein <strong>Synonymwörterbuch</strong> (20 GM). Ohne es bist du <em>erschöpft</em>.</p>"
+    },
+    "Throwing Knives": {
+      "name": "Throwing Knives",
+      "description": "<p>Als deine Familie alles verlor, schwörst du den Eid, um nicht zur Last zu fallen. Nimm zusätzliche <strong>Rationen</strong> (3 Anwendungen) und einen Satz <strong>Wurfmesser</strong> (W6).</p>"
+    },
+    "Tin Helm": {
+      "name": "Tin Helm",
+      "description": "<p>Du warst Militär-Schmelzer, bis der Frieden dein Auskommen zerstörte. Nimm einen <strong>Schmelzhammer</strong> (W10, <em>sperrig</em>) und einen <strong>Zinnhelm</strong> (+1 Rüstung). Mit Zeit und Material kannst du Rüstung reparieren.</p>"
+    },
+    "Tin of Snuff": {
+      "name": "Tin of Snuff",
+      "description": "<p>Es gab eine Explosion, und du hast deinen Geruchssinn verloren. Nun, fast: Du kannst Gold aufspüren wie ein Schwein Trüffeln. Nimm eine <strong>Schnupftabak-Dose</strong> (6 Anwendungen), um die Wirkung zu dämpfen. Benutze sie täglich oder werde <em>erschöpft</em>.</p>"
+    },
+    "Tinker's Paste": {
+      "name": "Tinker's Paste",
+      "description": "<p><strong>Klempnerpaste</strong> Verschließt jede faustgroße Öffnung. 3 Anwendungen.</p>"
+    },
+    "Tiny Crystal Prism": {
+      "name": "Kristallprisma",
+      "description": "<p>Du hast ein <strong>winziges Kristallprisma</strong> (<em>Kleinzeug</em>) im Erdreich gefunden. Gegen das Licht gehalten, zeigt es Visionen eines unbekannten Ortes tief im Wald. Manchmal spürst du eine Gegenwart, die zurückblickt.</p>"
+    },
+    "Tooth": {
+      "name": "Tooth",
+      "description": "<p>Einen <em>silbernen Moorkriecher</em>, der jemanden tötete, der dir nahestand. Du trägst seinen <strong>Zahn</strong> (<em>Kleinzeug</em>) an einer Kette um den Hals – Warnung an seiner Art. <em>Der Zahn summt leise, wenn dich etwas anpirscht.</em></p>"
+    },
+    "Torch Fungus": {
+      "name": "Torch Fungus",
+      "description": "<p><strong>Fackelpilz</strong>. Zerrieben, erzeugt er eine Weile kaltes blaues Licht. 2 Anwendungen.</p>"
+    },
+    "Tournaments": {
+      "name": "Tournaments",
+      "description": "<p><strong>Turniere</strong>. Angriffe mit deinem Bogen sind <em>verstärkt</em>, wenn das Ziel reglos ist.</p>"
+    },
+    "Tragic Tales": {
+      "name": "Tragic Tales",
+      "description": "<p><strong>Tragische Erzählungen</strong> In gutem Hause verboten; dieses Buch wird zum Ende hin immer derber und gruseliger. <strong>100 GM</strong> wert.</p>"
+    },
+    "Trail Shaker": {
+      "name": "Trail Shaker",
+      "description": "<p><strong>Spurenrassel</strong> Ein lärmendes Werkzeug, das nahe Fährten aufdeckt, auch tief versteckte.</p>"
+    },
+    "Training": {
+      "name": "Training",
+      "description": "<p><strong>Training</strong>. Greifst du zuerst an, sind Nahkampfangriffe gegen dich <em>beeinträchtigt</em>, bis du STR-Schaden nimmst.</p>"
+    },
+    "Transport": {
+      "name": "Transport",
+      "description": "<p><strong>Transport</strong> Du lieferst „heikle“ Pakete durchs Land. Du hast in jeder größeren Stadt mindestens einen Kontakt.</p>"
+    },
+    "Traveler's Cant": {
+      "name": "Traveler's Cant",
+      "description": "<p>Du handelst mit Haushaltswaren und Werkzeug und feilst deine Waren Städtern im ganzen Land an. Nimm Waren im Wert von 20 GM aus der Ausrüstungs-Tabelle. Du sprichst fließend die <em>Reisendensprache</em>.</p>"
+    },
+    "Trick Playing Cards": {
+      "name": "Trick-Kartenspiel",
+      "description": "<p>Trick-Kartenspiel</p>"
+    },
+    "True Name": {
+      "name": "True Name",
+      "description": "<p>Der <strong>Wahre Name</strong> eines Feenwesens. Nutze ihn, um ihre Besitzerin für einen großen Dienst zu rufen – nur einmal. Beim richtigen Käufer könnte er auch einen hohen Preis erzielen.</p>"
+    },
+    "Truth Serum": {
+      "name": "Truth Serum",
+      "description": "<p>Du wurdest einem langwirkenden Wahrheitsserum ausgesetzt, dessen Wirkung nie ganz verebbt. Die Störung hat ihre Vorteile: Du kannst Lügen, die du gehört hast, auch nicht wiederholen.</p>"
+    },
+    "Twig": {
+      "name": "Zweig",
+      "description": "<p>Eine weiße Krähe erschien dir im Traum, ein Zweig im Schnabel. Am Morgen erwachtest du mit dem <strong>Zweig</strong> (<em>Kleinzeug</em>) in der Hand. Du glaubst, er bringe Glück. Er riecht schwach nach Schwefel.</p>"
+    },
+    "Twin Daggers": {
+      "name": "Zwillingsdolche",
+      "description": "<p>Zwillingsdolche (W6+W6, <em>sperrig</em>)</p>"
+    },
+    "Twine Bauble": {
+      "name": "Schnur-Schmuck",
+      "description": "<p>Schnur-Schmuck (<em>Kleinzeug</em>, einmal täglich <em>Bann</em>)</p><p><em>Bann</em>: Ein silberner Kreis von 15 m (50 ft) Durchmesser erscheint am Boden. Wähle eine Spezies, die ihn nicht überschreiten kann.</p>"
+    },
+    "Uncanny Hand-Puppet": {
+      "name": "Uncanny Hand-Puppet",
+      "description": "<p>Deine respektablen Puppenspielkünste wurden nur von deiner Nachahmungsgabe übertroffen. Du warst so gut, dass man dich buchstäblich als Hexe brandmarkte und verbannte. Nimm eine <strong>unheimliche Handpuppe</strong> und einen <strong>Hasenschädel</strong> (<em>Kleinzeug</em>), der vor Bezauberung schützt.</p>"
+    },
+    "Universal Solvent": {
+      "name": "Universal Solvent",
+      "description": "<p>Weil du herausfandst, wie man Gold in <em>Blei</em> verwandelt, wurdest du verlacht. Nimm eine Flasche <strong>Universal-Lösungsmittel</strong> (2 Anwendungen), die alles, was sie berührt, in seine Bestandteile auflöst.</p>"
+    },
+    "Vagrant's Veil": {
+      "name": "Vagrant's Veil",
+      "description": "<p><strong>Schleier des Vagabunden</strong> 1 Ladung. Trage ihn, um nahtlos in Menschenmengen unterzutauchen, als simple Bettlerin. <strong>Wiederaufladung</strong>: Spende das Tagesergebnis den Armen. <em>Kleinzeug</em></p>"
+    },
+    "Valor": {
+      "name": "Valor",
+      "description": "<p><strong>Tapferkeit</strong>. Verursachst du zum ersten Mal <strong>Kritischen Schaden</strong>, erhältst du +W4 HP, bis zum Kampfende; danach fällt die Grenze auf den alten Wert. Brichst du das Gelübde, stirbst du.</p>"
+    },
+    "Vestments of the Order": {
+      "name": "Ordnensgewänder",
+      "description": "<p>Ordnensgewänder (<em>Kleinzeug</em>)</p>"
+    },
+    "Voidglass Shard": {
+      "name": "Voidglass Shard",
+      "description": "<p><strong>Orden des Blinden Auges</strong>. Nimm eine <strong>Leerglasscherbe</strong>. Sieh durch sie, um unsichtbare Zeichen, Kreaturen und andere magische Effekte zu sehen. Danach verlierst du für eine Stunde die Nutzung deines Auges (du bist <em>erschöpft</em>).</p>"
+    },
+    "War": {
+      "name": "War",
+      "description": "<p><strong>Krieg</strong>. Greifst du zuerst an, erhält dein Bogen für die erste Runde die Eigenschaft <em>Flächenschaden</em>.</p>"
+    },
+    "Warble-Whistle": {
+      "name": "Warble-Whistle",
+      "description": "<p><strong>Vögel</strong> Nimm eine <strong>Trillerpfeife</strong> (3 Ladungen). Sie kann jeden Vogelruf imitieren und sogar einfache Botschaften übermitteln. <strong>Wiederaufladung</strong>: Füttere einen Jungvogel, wie es die Mutter täte, und blase dann.</p>"
+    },
+    "Wares": {
+      "name": "Wares",
+      "description": "<p><strong>Waren</strong> Du kaufst billig und verkaufst hoch und kommst immer gerade so über die Runden. Nimm einen <strong>einzelnen Gegenstand</strong> im Wert von <strong>20 GM</strong> (oder weniger) aus der Ausrüstungs-Tabelle.</p>"
+    },
+    "Warming Stone": {
+      "name": "Warming Stone",
+      "description": "<p><strong>Schlangen</strong> Nimm einen <strong>Wärmestein</strong>, der unwiderstehliche Hitze erzeugt, und eine Phiole <strong>Gegengift</strong> (2 Anwendungen).</p>"
+    },
+    "Water Shoes": {
+      "name": "Wasserschuhe",
+      "description": "<p>Wasserschuhe</p>"
+    },
+    "Weathered Longbow": {
+      "name": "Weathered Longbow",
+      "description": "<p>Ein alter Jäger. Ihr wart beide glücklich, bis alles endete. Nimm einen <strong>verwitterten Langbogen</strong> (W8, <em>sperrig</em>) und einen <strong>Lederwams</strong> (1 Rüstung).</p>"
+    },
+    "Werewolf Bite": {
+      "name": "Werwolf-Biss",
+      "description": "<p>Biss (W8), verwandelt</p>"
+    },
+    "Werewolf Claws": {
+      "name": "Werwolf-Krallen",
+      "description": "<p>Krallen (W6+W6), verwandelt</p>"
+    },
+    "Werewolf": {
+      "name": "Werewolf",
+      "description": "<p>Wölfe – oder so dachtest du. Du bist nun ein <strong>Werwolf</strong> [8 HP, 15 STR, 14 DEX, Krallen (W6+W6), Biss (W8)]. Dein WIL bleibt unverändert. Du kannst nach Belieben <em>die Gestalt wandeln</em> (einmal täglich), brauchst aber einen WIL-Rettungswurf, um zurückzuwechseln. Jeder, der deine Angriffe überlebt, muss einen WIL-Rettungswurf bestehen, um der Infektion zu entgehen.</p>"
+    },
+    "Western Yew": {
+      "name": "Western Yew",
+      "description": "<p><strong>Westliche Eibe</strong> (W6, <em>sperrig</em>). Lässt sich als Wuchtwaffe führen (W6). Laut.</p>"
+    },
+    "Whiskerwort": {
+      "name": "Whiskerwort",
+      "description": "<p><strong>Katzen</strong> Nimm einen Sack <strong>Tastenbart</strong>. Sein Geruch kann selbst die größten Katzen beruhigen und lenken.</p>"
+    },
+    "Whisper Vial": {
+      "name": "Whisper Vial",
+      "description": "<p><strong>Flüster-Phiole</strong> Flüstere eine Nachricht hinein, und sie gibt sie wieder, wer sie als Nächstes öffnet.</p>"
+    },
+    "White Ash": {
+      "name": "White Ash",
+      "description": "<p><strong>Weißesche</strong> (W6, <em>sperrig</em>). Kann im Nahkampf einen Schild ersetzen (+1 Rüstung).</p>"
+    },
+    "Wisp Lantern": {
+      "name": "Wisp Lantern",
+      "description": "<p><strong>Irrlicht-Laterne</strong> In Schmiedeeisen gefangen; gibt schwaches Licht, solange das Irrlicht sich von nahem Schmerz und Angst nähren kann.</p>"
+    },
+    "Wolfsbane": {
+      "name": "Wolfsbane",
+      "description": "<p><strong>Hunde</strong> Nimm einen Kranz <strong>Eisenhut</strong> und ein <strong>Großes Netz</strong>. Wirkt auch gegen Werwölfe.</p>"
+    },
+    "Woundwax": {
+      "name": "Woundwax",
+      "description": "<p><strong>Wundwachs</strong> Heilt Wunden durch Feuer oder Chemikalien (stellt volles STR wieder her), sonst nichts. 2 Anwendungen.</p>"
+    },
+    "Wych Elm": {
+      "name": "Wych Elm",
+      "description": "<p><strong>Flatterulme</strong> (W6, <em>sperrig</em>). Schützt die Trägerin vor Giften, solange sie ihn hält.</p>"
+    },
+    "Wyrmbone Whetstone": {
+      "name": "Wyrmbone Whetstone",
+      "description": "<p><strong>Ehre den Werkzeugen des Todes</strong>: Waffen sind zu respektieren und zu pflegen. Nimm einen <strong>Wurmknochen-Wetzstein</strong>. Nach einer halben Stunde rituellen Schärfens sind Angriffe mit der Waffe <em>verstärkt</em>, bis STR-Schaden verursacht wird.</p>"
+    }
+  },
+  "folders": {
+    "Aurifex": "Aurifex",
+    "Barber-Surgeon": "Bader-Chirurg",
+    "Beast Handler": "Bestienbändiger",
+    "Bonds": "Bänder",
+    "Bonekeeper": "Knochenhüter",
+    "Cutpurse": "Beutelschneider",
+    "Fieldwarden": "Feldwart",
+    "Fletchwind": "Fletchwind",
+    "Foundling": "Findelkind",
+    "Fungal Forager": "Pilzsucher",
+    "Greenwise": "Waldkundiger",
+    "Half Witch": "Halbhexe",
+    "Hexenbane": "Hexenbann",
+    "Jongleur": "Gaukler",
+    "Kettlewright": "Kesselschmied",
+    "Marchguard": "Marktwache",
+    "Mountebank": "Marktschreier",
+    "Outrider": "Vorreiter",
+    "Prowler": "Pirscher",
+    "Rill Runner": "Bachläufer",
+    "Scrivener": "Schreiber",
+    "Shared": "Gemeinsam"
+  }
+}

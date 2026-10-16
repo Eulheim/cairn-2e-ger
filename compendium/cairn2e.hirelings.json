@@ -1,0 +1,342 @@
+{
+  "label": "hirelings",
+  "entries": {
+    "Alchemist": {
+      "name": "Alchemist",
+      "career": "Alchemist",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Torch": {
+          "name": "Fackel",
+          "description": "<p>Fackel (3 Anwendungen)</p>"
+        },
+        "Dagger": {
+          "name": "Dolch",
+          "description": "<p>Dolch (W6 Schaden)</p>"
+        },
+        "Acid": {
+          "name": "Säure",
+          "description": "<p>Säure</p>"
+        },
+        "Lens": {
+          "name": "Linse",
+          "description": "<p>Linse</p>"
+        },
+        "Gloves": {
+          "name": "Handschuhe",
+          "description": "<p>Handschuhe (<em>Kleinzeug</em>)</p>"
+        }
+      }
+    },
+    "Animal Handler": {
+      "name": "Tierbändiger",
+      "career": "Tierbändiger",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Torch": {
+          "name": "Fackel",
+          "description": "<p>Fackel (3 Anwendungen)</p>"
+        },
+        "Dagger": {
+          "name": "Dolch",
+          "description": "<p>Dolch (W6 Schaden)</p>"
+        },
+        "Cage": {
+          "name": "Käfig",
+          "description": "<p>Käfig</p>"
+        },
+        "Rope": {
+          "name": "Seil",
+          "description": "<p>Seil (7,5 m / 25 ft)</p>"
+        },
+        "Hawk": {
+          "name": "Falke",
+          "description": "<p>@UUID[Compendium.cairn2e.hirelings.Actor.TE0MDSG0VK7Erzvl]{Falke} – 2 HP, 5 STR, 16 DEX, 5 WIL, Krallen (W4+W4)</p>"
+        }
+      }
+    },
+    "Blacksmith": {
+      "name": "Grobschmied",
+      "career": "Grobschmied",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Lantern": {
+          "name": "Laterne",
+          "description": "<p>Laterne (fasst 6 Anwendungen Öl, aus einer Ölkannen gefüllt)</p>"
+        },
+        "Oil Can": {
+          "name": "Ölkanne",
+          "description": "<p>Ölkanne (6 Anwendungen)</p>"
+        },
+        "Hammer": {
+          "name": "Hammer",
+          "description": "<p>Hammer (W6)</p>"
+        },
+        "Iron Tongs": {
+          "name": "Eisenzange",
+          "description": "<p>Eisenzange</p>"
+        },
+        "Gambeson": {
+          "name": "Gambeson",
+          "description": "<p>Gambeson (+1 Rüstung)</p>"
+        }
+      }
+    },
+    "Bodyguard": {
+      "name": "Leibwache",
+      "career": "Leibwache",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Torch": {
+          "name": "Fackel",
+          "description": "<p>Fackel (3 Anwendungen)</p>"
+        },
+        "Sword": {
+          "name": "Schwert",
+          "description": "<p>Schwert (W8 Schaden)</p>"
+        },
+        "Helmet": {
+          "name": "Helm",
+          "description": "<p>Helm (+1 Rüstung)</p>"
+        }
+      }
+    },
+    "Hawk": {
+      "name": "Falke",
+      "items": {
+        "Claws": {
+          "name": "Krallen",
+          "description": "<p>Krallen (W4+W4)</p>"
+        }
+      }
+    },
+    "Local Guide": {
+      "name": "Führer",
+      "career": "Ortskundiger Führer",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Torch": {
+          "name": "Fackel",
+          "description": "<p>Fackel (3 Anwendungen)</p>"
+        },
+        "Compass": {
+          "name": "Kompass",
+          "description": "<p>Kompass</p>"
+        },
+        "Rope": {
+          "name": "Seil",
+          "description": "<p>Seil (7,5 m / 25 ft)</p>"
+        },
+        "Shovel": {
+          "name": "Schaufel",
+          "description": "<p>Schaufel</p>"
+        }
+      }
+    },
+    "Lockpick": {
+      "name": "Schlossknacker",
+      "career": "Schlossknacker",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Lantern": {
+          "name": "Laterne",
+          "description": "<p>Laterne (fasst 6 Anwendungen Öl, aus einer Ölkannen gefüllt)</p>"
+        },
+        "Oil Can": {
+          "name": "Ölkanne",
+          "description": "<p>Ölkanne (6 Anwendungen)</p>"
+        },
+        "Cudgel": {
+          "name": "Knüppel",
+          "description": "<p>Knüppel (W6 Schaden)</p>"
+        },
+        "Lockpick": {
+          "name": "Dietrich",
+          "description": "<p>Dietrich</p>"
+        },
+        "Metal File": {
+          "name": "Metallfeile",
+          "description": "<p>Metallfeile</p>"
+        }
+      }
+    },
+    "Navigator": {
+      "name": "Navigator",
+      "career": "Navigator",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Torch": {
+          "name": "Fackel",
+          "description": "<p>Fackel (3 Anwendungen)</p>"
+        },
+        "Dagger": {
+          "name": "Dolch",
+          "description": "<p>Dolch (W6 Schaden)</p>"
+        },
+        "Compass": {
+          "name": "Kompass",
+          "description": "<p>Kompass</p>"
+        },
+        "Sextant": {
+          "name": "Sextant",
+          "description": "<p>Sextant</p>"
+        }
+      }
+    },
+    "Sailor": {
+      "name": "Seemann",
+      "career": "Seemann",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Lantern": {
+          "name": "Laterne",
+          "description": "<p>Laterne (fasst 6 Anwendungen Öl, aus einer Ölkannen gefüllt)</p>"
+        },
+        "Oil Can": {
+          "name": "Ölkanne",
+          "description": "<p>Ölkanne (6 Anwendungen)</p>"
+        },
+        "Sling": {
+          "name": "Schleuder",
+          "description": "<p>Schleuder (W6 Schaden)</p>"
+        },
+        "Spyglass": {
+          "name": "Fernrohr",
+          "description": "<p>Fernrohr</p>"
+        },
+        "Rope": {
+          "name": "Seil",
+          "description": "<p>Seil (7,5 m / 25 ft)</p>"
+        }
+      }
+    },
+    "Scholar": {
+      "name": "Gelehrter",
+      "career": "Gelehrter",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Candle": {
+          "name": "Kerze",
+          "description": "<p>Kerze (3 Anwendungen, schwaches Licht)</p>"
+        },
+        "Parchment & Ink": {
+          "name": "Pergament & Tinte",
+          "description": "<p>Pergament &amp; Tinte (3 Anwendungen)</p>"
+        },
+        "Stylus": {
+          "name": "Schreibgriffel",
+          "description": "<p>Schreibgriffel</p>"
+        },
+        "Staff": {
+          "name": "Stab",
+          "description": "<p>Stab (W6 Schaden)</p>"
+        },
+        "Robes": {
+          "name": "Roben",
+          "description": "<p>Roben (<em>Kleinzeug</em>)</p>"
+        }
+      }
+    },
+    "Tracker": {
+      "name": "Fährtenleser",
+      "career": "Fährtenleser",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Torch": {
+          "name": "Fackel",
+          "description": "<p>Fackel (3 Anwendungen)</p>"
+        },
+        "Crossbow": {
+          "name": "Armbrust",
+          "description": "<p>Armbrust (W8 Schaden, <em>sperrig</em>)</p>"
+        },
+        "Chain": {
+          "name": "Kette",
+          "description": "<p>Kette (3 m / 10 ft)</p>"
+        }
+      }
+    },
+    "Trapper": {
+      "name": "Fallensteller",
+      "career": "Fallensteller",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Torch": {
+          "name": "Fackel",
+          "description": "<p>Fackel (3 Anwendungen)</p>"
+        },
+        "Bow": {
+          "name": "Bogen",
+          "description": "<p>Bogen (W6 Schaden, <em>sperrig</em>)</p>"
+        },
+        "Trap": {
+          "name": "Falle",
+          "description": "<p>Falle (W6 STR-Schaden)</p>"
+        },
+        "Sack": {
+          "name": "Sack",
+          "description": "<p>Sack</p>"
+        }
+      }
+    },
+    "Veteran Bodyguard": {
+      "name": "Erfahrene Leibwache",
+      "career": "Erfahrene Leibwache",
+      "items": {
+        "Rations": {
+          "name": "Rationen",
+          "description": "<p>Rationen (3 Anwendungen)</p>"
+        },
+        "Torch": {
+          "name": "Fackel",
+          "description": "<p>Fackel (3 Anwendungen)</p>"
+        },
+        "Long Sword": {
+          "name": "Langschwert",
+          "description": "<p>Langschwert (W10 Schaden, <em>sperrig</em>)</p>"
+        },
+        "Helmet": {
+          "name": "Helm",
+          "description": "<p>Helm (+1 Rüstung)</p>"
+        },
+        "Gambeson": {
+          "name": "Gambeson",
+          "description": "<p>Gambeson (+1 Rüstung)</p>"
+        }
+      }
+    }
+  }
+}
