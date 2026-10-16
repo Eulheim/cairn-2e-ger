@@ -17,21 +17,19 @@ Es übersetzt nur das System Cairn 2e, nicht die Foundry-VTT-Oberfläche selbst.
 
 Vollständig übersetzt:
 
-- Komplette Oberfläche (`lang/de.json`, 1354 Schlüssel)
-- Charaktererschaffung: Hintergründe-Tabellen folgt, Merkmale, Bänder, Omen
+- Komplette Oberfläche (`lang/de.json`)
+- Charaktererschaffung: Spieler-Handbuch (Hintergründe, Merkmale, Vorgeschichten,
+  Omen), Hintergrund-Tabellen, Hintergrund-Ausrüstung
 - Ausrüstung: Rüstungen, Waffen, Ausrüstung, Materialien, Tränke
 - Magie: Zauberbücher und Schriften (Schriften werden automatisch aus den
-  Zauberbüchern abgeleitet)
+  Zauberbüchern abgeleitet), weitere Zauberbücher/Schriften
 - Referenz: Spieltabellen (Schicksalswürfel, Reaktionen, Narben), Gefährten,
-  Makros, Kompendiumsordner
+  Makros, Kompendiumsordner, Wächter-Kompendium (Fraktionen, Monster, NSC,
+  Gewölbe-/Wildnis-Ereignisse, Vald-Wetter), Relikte, Vald-Kalender,
+  Bestiarium, Gefolge, weitere Ausrüstung
 
-Als Arbeitsdateien unter `tools/work/` vorbereitet (Englisch; Werte in-place
-übersetzen, dann `apply`):
-
-- Hintergründe (`backgrounds`), Hintergrund-Tabellen, Hintergrund-Ausrüstung
-- Relikte, Spieler-Handbuch, Vald-Kalender
-- Bestiarium, Gefolge, Wächter-Kompendium
-- Mehr Ausrüstung, weitere Zauberbücher/Schriften
+Die Übersetzung folgt der offiziellen deutschen Cairn-2e-Ausgabe
+(Spielhandbuch v0.4, Übersetzung: Linus Weber et al.) als Terminologie-Referenz.
 
 ## Wartung
 

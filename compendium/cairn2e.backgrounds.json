@@ -6,7 +6,7 @@
       "description": "<blockquote><p>Du bist ein Handwerker des Arkanen, ein Schmied subtiler Kräfte. Im Schmelztiegel deiner Werkstatt werden die Gesetze, die diese Welt regieren, zu deinem Nutzen verbogen.</p></blockquote>"
     },
     "Barber-Surgeon": {
-      "name": "Bader-Chirurg",
+      "name": "Feldscher",
       "description": "<blockquote><p>Du bewegst dich auf dem Grat zwischen Heiler und Schinder und kennst die Gebrechlichkeit des Fleisches, aber auch die Geheimnisse, die in ihm liegen. Mit den richtigen Werkzeugen sind Leben und Tod bloße Worte.</p></blockquote>"
     },
     "Beast Handler": {
@@ -18,15 +18,15 @@
       "description": "<blockquote><p>Du bist ein Hirte der Verstorbenen. Du lauschest den letzten Flüstern der Toten, während sie in die kalte, unerbittliche Erde hinabsinken. Du weißt: Um das Geschenk des Lebens wirklich zu feiern, müssen wir auch sein Ende ehren.</p></blockquote>"
     },
     "Cutpurse": {
-      "name": "Beutelschneider",
+      "name": "Taschendieb",
       "description": "<blockquote><p>Du lebst im Grauraum zwischen denen, die Macht haben, und denen, die keine haben. Du findest Gelegenheiten, wo andere nur Chaos sehen. Mit flinken Fingern erleichterst du den reichsten Kaufmann wie den geringsten Wächter.</p></blockquote>"
     },
     "Fieldwarden": {
-      "name": "Feldwart",
+      "name": "Feldwache",
       "description": "<blockquote><p>Beschützer der Ernte, Bollwerk gegen Schädlinge, Diebe und Bestien. Ein Amt von großer Ehre – solange es währt: Manche Wächter erleben ihre natürlich Lebensspanne nicht. Würfle ein zweites Mal auf der Tabelle <strong>Bänder</strong>.</p></blockquote>"
     },
     "Fletchwind": {
-      "name": "Fletchwind",
+      "name": "Fiederwind",
       "description": "<blockquote><p>Du schlägst aus der Ferne zu, doch das macht dich nicht feige. Du bist Musiker, und das Lied deiner Bogensehne ist nichts als Warnung – das stille Versprechen eines schnellen Todes.</p></blockquote>"
     },
     "Foundling": {
@@ -34,43 +34,43 @@
       "description": "<blockquote><p>Ein seltsames Muttermal, ein fremder Geruch: Irgendwie haftet dir noch immer die Berührung des <em>Anderswo</em> an. Wo immer du bist, tust du dich schwer, dazu zu gehören. Würfle auf der Tabelle <strong>Omen</strong> (auch wenn du nicht die jüngste Spielerin bist), und behalte das Ergebnis vorerst für dich.</p></blockquote>"
     },
     "Fungal Forager": {
-      "name": "Pilzsucher",
+      "name": "Stöberling",
       "description": "<blockquote><p>Du folgst dem Flüstern der tiefen Erde, dem rhythmischen Puls des Myzelwaldes, der unter der Oberfläche wächst. Vor der Dunkelheit hast du keine Angst. Außerdem liebst du Pilze wirklich sehr.</p></blockquote>"
     },
     "Greenwise": {
-      "name": "Waldkundiger",
+      "name": "Grünfinger",
       "description": "<blockquote><p>Du dringst tief in den <strong>Wald</strong> ein und entringst seine Geheimnisse zwischen rauen Ästen und raunenden Blättern. Für dieses grüne Königreich bist du bloße Gelehrte, sondern auch seine Vertraute.</p></blockquote>"
     },
     "Half Witch": {
-      "name": "Halbhexe",
+      "name": "Halb-Hexe",
       "description": "<blockquote><p>Geboren aus der sterblichen Welt und dem Ungesehenen, bist du manchen ein Rätsel und vielen ein Schrecken. Deine Geschichte erzählt, was geschieht, wenn zwei Welten aufeinanderprallen.</p></blockquote>"
     },
     "Hexenbane": {
-      "name": "Hexenbann",
+      "name": "Fluchbrecher",
       "description": "<blockquote><p>Du bist bloß ein Glied an der unfehlbaren Hand der Gerechtigkeit. Du gehst dorthin, wo andere nicht hinzutreten wagen – unbeugsam und ungebrochen.</p></blockquote>"
     },
     "Jongleur": {
-      "name": "Gaukler",
+      "name": "Narr",
       "description": "<blockquote><p>Was beflügelt die Seele mehr als Gesang, Worte und Schau? Warum jahrelang das Arkane meistern, wenn du bereits echte Magie in dir trägst?</p></blockquote>"
     },
     "Kettlewright": {
-      "name": "Kesselschmied",
+      "name": "Kesselflicker",
       "description": "<blockquote><p>Man kennt dich am Geruch geschmolzenen Metalls und am Klingeln des Zinns. Du bist bloße Händlerin, sondern Künstlerin aus Feuer und Metall.</p></blockquote>"
     },
     "Marchguard": {
-      "name": "Marktwache",
+      "name": "Markgardist",
       "description": "<blockquote><p>Durch einen Bluteid gebunden, patrouillierst du die Grenze und schützt das Reich. Einmal geschworen, kann der Eid nicht gebrochen werden. Die Wache findet ihre Leute immer.</p></blockquote>"
     },
     "Mountebank": {
-      "name": "Marktschreier",
+      "name": "Scharlatan",
       "description": "<blockquote><p>Dein Scharfsinn ist deine schärfste Waffe, deine Fassade dein stärkster Schild. Doch wenn du verlierst, dann gründlich.</p></blockquote>"
     },
     "Outrider": {
-      "name": "Vorreiter",
+      "name": "Kundschafter",
       "description": "<blockquote><p>Dein Brot verdienst du damit, Karawanen zu eskortieren, Flüchtige aufzuspüren oder deine Klinge einer Sache zu leihen. Du warst Retter, Henkerin, Heldin – ja sogar Schurke. Dein Weg ist kein einsamer: Du hast immer dein Pferd.</p></blockquote>"
     },
     "Prowler": {
-      "name": "Pirscher",
+      "name": "Vagabund",
       "description": "<blockquote><p>Du bist ein Phantom in der Nacht, ein flüchtiger Schatten, der an seiner Beute vorübergleitet, ungesehen. Jeder Tod ist eine Prüfung von List und animalischem Willen, ein Wettstreit zwischen Leben und Tod. Du weißt, dass du eines Tages verlieren wirst. Du freust dich darauf.</p></blockquote>"
     },
     "Rill Runner": {
@@ -78,7 +78,7 @@
       "description": "<blockquote><p>Du singst die Geschichten von Flüssen und Seen; deine Begabung beschwichtigt Freunde wie Elemente. Du hast mehr gesehen als die meisten – und doch scheint es nie genug zu sein.</p></blockquote>"
     },
     "Scrivener": {
-      "name": "Schreiber",
+      "name": "Schriftmeister",
       "description": "<blockquote><p>Du kopierst alte Texte und illuminierst Manuskripte und hältst die Stimmen der Klugen, der Großen und der Mächtigen fest. Du wirst beweisen, dass die Feder wahrhaft mächtiger ist als das Schwert.</p></blockquote>"
     }
   }
