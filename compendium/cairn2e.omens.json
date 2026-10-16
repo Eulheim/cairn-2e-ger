@@ -1,71 +1,71 @@
 {
- "label": "Omen",
- "entries": {
-  "Omens": {
-   "name": "Omen",
-   "description": "<p>Der jüngste Charakter würfelt auf dieser Tabelle. Das Ergebnis wird den anderen Spielern laut vorgelesen; der Wächter verwebt es in den Schauplatz.</p>",
-   "results": {
-    "1-1": {
-     "description": "<p>Die einst reichen Wasser eines lebenspendenden Flusses sind schwarz und faulig geworden, vergiften das Land und machen alle krank, die daraus trinken. Eine Dorfälin weist auf eine kürzliche Schändung als Ursache, aber die meisten hören nicht auf ihre Worte.</p>"
-    },
-    "2-2": {
-     "description": "<p>Der Winter scheint in diesem Jahr zu früh gekommen, Frost und Schnee treten viel früher auf als erwartet. Man redet von einem Muster im Frost auf Fenstern, Teichen und Rissen im Boden. Es sieht fast wie eine Karte aus.</p>"
-    },
-    "3-3": {
-     "description": "<p>Ein dichter, unnatürlicher Nebel beginnt über einen alten heiligen Hain hereinzubrechen. Man sagt, es sei das Werk eines großen Waldgeistes, erzürnt über die Abholzung in der Nähe.</p>"
-    },
-    "4-4": {
-     "description": "<p>Der Nachthimmel wird jeden Abend dunkler, als verschwänden Sterne einer nach dem anderen. Gerüchte über höllische Kreaturen, die Bauern entführen und in die Wurzeln ziehen, verbreiten sich wie ein Lauffeuer. Die Dorfätesten glauben, beides hängt zusammen.</p>"
-    },
-    "5-5": {
-     "description": "<p>Die Singvögel des Waldes sind in letzter Zeit unheimlich still. Jäger behaupten, eine schemenhafte Gestalt im Wald gesehen zu haben, die jeden, dem sie begegnet, voller Sehnsucht anblickt.</p>"
-    },
-    "6-6": {
-     "description": "<p>Überall in der Gegend sind seltsame, tränenförmige Steine gefunden worden, was einen Goldrausch unter Juwelieren und Dieben auslöste. Die Einheimischen glauben, sie seien Tränen der Erde selbst, weinend um eine große Tragödie, die noch kommen wird.</p>"
-    },
-    "7-7": {
-     "description": "<p>Schädlinge nagen in Schwärmen an den Rändern der Träume, und Bauern sprechen von einem lauten Summen aus den Tiefen des Waldes. Sie sagen auch, der Klang komme näher.</p>"
-    },
-    "8-8": {
-     "description": "<p>Es gibt ein weit und breit bekanntes Dorf mit einem beeindruckenden „Mutterbaum“, der, so sagt man, die Geheimnisse des Ortes in seinen Zweigen birgt. In letzter Zeit beginnt er, roten Saft zu bluten, was die Ältesten beunruhigt.</p>"
-    },
-    "9-9": {
-     "description": "<p>Der Mond wird tief dunkelrot und taucht die Nacht in unheimliches, blutrotes Licht. Manche sagen, er verkünde eine Zeit des Chaos und des Aufruhrs, während die Grenzen zwischen dem Wald und der sterblichen Welt sich verdünnen.</p>"
-    },
-    "10-10": {
-     "description": "<p>Im Nachthimmel sind seltsame Risse aufgetreten, die einen wirbelnden Strudel aus Licht und Farbe enthüllen. Manche sagen, die Scheide zwischen den Reichen sei so schwach wie seit Jahrhunderten nicht mehr und fürchten, was aus der anderen Seite treten könnte.</p>"
-    },
-    "11-11": {
-     "description": "<p>Eine nachtblühende Blume, die als ausgestorben galt, sprießt überall im Wald. Ihr Duft ist berauschend, verursacht aber auch lebendige Albträume.</p>"
-    },
-    "12-12": {
-     "description": "<p>Das Vieh der Gegend ist in letzter Zeit zunehmend unruhig und unhandlich. Ein alter Hirte sagt, es liege an einem verstörenden Heulen, das bei jedem Vollmond aus dem Wald dringt.</p>"
-    },
-    "13-13": {
-     "description": "<p>Insektenschwärme fliehen in Scharen aus dem Wald und zerstören jede Holzstruktur, der sie begegnen. Das Summen ihrer Flügel trägt eine vertraute Melodie, wenn sie vorbeiziehen, wie ein vergessenes Wiegenlied.</p>"
-    },
-    "14-14": {
-     "description": "<p>Jäger sprechen von einem Fluch, der jeden trifft, der ein Tier mit weißem Fellstreifen tötet: Kurz darauf wird man tot zu Hause aufgefunden. Jeden Tag gibt es weniger Tiere zu jagen.</p>"
-    },
-    "15-15": {
-     "description": "<p>Man erzählt, dass aus Brunnen in der ganzen Stadt leises Lachen widerhallt und dass die Echos nachts in Schluchzen übergehen.</p>"
-    },
-    "16-16": {
-     "description": "<p>Die Sternbilder verschieben sich langsam am Nachthimmel und bilden unbekannte Muster, die Sterngucker und Weise ratlos machen. Selbst die Tiere scheinen beunruhigt.</p>"
-    },
-    "17-17": {
-     "description": "<p>Ein alter Baum im Herzen eines verschlafenden Dorfes ist plötzlich verdorrt und gestorben, ohne Zeichen von Krankheit. Nachdem sein Stamm gefällt wurde, fand man in seinem Kern eine blutige Hand.</p>"
-    },
-    "18-18": {
-     "description": "<p>Statuen weinen seit Monaten Blut, und die Leiber der Frauen im Dorf sind seitdem unfruchtbar. Ein einziges Kind ist die Ausnahme, von Ältesten aus Angst und Schrecken versteckt.</p>"
-    },
-    "19-19": {
-     "description": "<p>Die örtliche Tierwelt verhält sich seltsam, zeigt gesteigerte Aggression oder flieht ganz aus der Gegend. Jäger sprechen von einer Schattengestalt, die durch den Wald streift und die Tiere ruft.</p>"
-    },
-    "20-20": {
-     "description": "<p>Grenzstädte sind in den letzten Wochen in Aufruhr, nachdem mehrere von einer roten Gestalt in den Träumen ihrer Kinder berichtet wurde, die immer dieselbe Warnung ausspricht: Ein Feuer kommt, und es wird alles verzehren.</p>"
+  "label": "Omen",
+  "entries": {
+    "Omens": {
+      "name": "Omen",
+      "description": "<p>Der jüngste Charakter würfelt auf dieser Tabelle. Das Ergebnis wird den anderen Spielern laut vorgelesen; der Wächter verwebt es in den Schauplatz.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Die einst reichen Wasser eines lebenspendenden Flusses sind schwarz und faulig geworden, vergiften das Land und machen alle krank, die daraus trinken. Eine Dorfälin weist auf eine kürzliche Schändung als Ursache, aber die meisten hören nicht auf ihre Worte.</p>"
+        },
+        "2-2": {
+          "description": "<p>Der Winter scheint in diesem Jahr zu früh gekommen, Frost und Schnee treten viel früher auf als erwartet. Man redet von einem Muster im Frost auf Fenstern, Teichen und Rissen im Boden. Es sieht fast wie eine Karte aus.</p>"
+        },
+        "3-3": {
+          "description": "<p>Ein dichter, unnatürlicher Nebel beginnt über einen alten heiligen Hain hereinzubrechen. Man sagt, es sei das Werk eines großen Waldgeistes, erzürnt über die Abholzung in der Nähe.</p>"
+        },
+        "4-4": {
+          "description": "<p>Der Nachthimmel wird jeden Abend dunkler, als verschwänden Sterne einer nach dem anderen. Gerüchte über höllische Kreaturen, die Bauern entführen und in die Wurzeln ziehen, verbreiten sich wie ein Lauffeuer. Die Dorfätesten glauben, beides hängt zusammen.</p>"
+        },
+        "5-5": {
+          "description": "<p>Die Singvögel des Waldes sind in letzter Zeit unheimlich still. Jäger behaupten, eine schemenhafte Gestalt im Wald gesehen zu haben, die jeden, dem sie begegnet, voller Sehnsucht anblickt.</p>"
+        },
+        "6-6": {
+          "description": "<p>Überall in der Gegend sind seltsame, tränenförmige Steine gefunden worden, was einen Goldrausch unter Juwelieren und Dieben auslöste. Die Einheimischen glauben, sie seien Tränen der Erde selbst, weinend um eine große Tragödie, die noch kommen wird.</p>"
+        },
+        "7-7": {
+          "description": "<p>Schädlinge nagen in Schwärmen an den Rändern der Träume, und Bauern sprechen von einem lauten Summen aus den Tiefen des Waldes. Sie sagen auch, der Klang komme näher.</p>"
+        },
+        "8-8": {
+          "description": "<p>Es gibt ein weit und breit bekanntes Dorf mit einem beeindruckenden „Mutterbaum“, der, so sagt man, die Geheimnisse des Ortes in seinen Zweigen birgt. In letzter Zeit beginnt er, roten Saft zu bluten, was die Ältesten beunruhigt.</p>"
+        },
+        "9-9": {
+          "description": "<p>Der Mond wird tief dunkelrot und taucht die Nacht in unheimliches, blutrotes Licht. Manche sagen, er verkünde eine Zeit des Chaos und des Aufruhrs, während die Grenzen zwischen dem Wald und der sterblichen Welt sich verdünnen.</p>"
+        },
+        "10-10": {
+          "description": "<p>Im Nachthimmel sind seltsame Risse aufgetreten, die einen wirbelnden Strudel aus Licht und Farbe enthüllen. Manche sagen, die Scheide zwischen den Reichen sei so schwach wie seit Jahrhunderten nicht mehr und fürchten, was aus der anderen Seite treten könnte.</p>"
+        },
+        "11-11": {
+          "description": "<p>Eine nachtblühende Blume, die als ausgestorben galt, sprießt überall im Wald. Ihr Duft ist berauschend, verursacht aber auch lebendige Albträume.</p>"
+        },
+        "12-12": {
+          "description": "<p>Das Vieh der Gegend ist in letzter Zeit zunehmend unruhig und unhandlich. Ein alter Hirte sagt, es liege an einem verstörenden Heulen, das bei jedem Vollmond aus dem Wald dringt.</p>"
+        },
+        "13-13": {
+          "description": "<p>Insektenschwärme fliehen in Scharen aus dem Wald und zerstören jede Holzstruktur, der sie begegnen. Das Summen ihrer Flügel trägt eine vertraute Melodie, wenn sie vorbeiziehen, wie ein vergessenes Wiegenlied.</p>"
+        },
+        "14-14": {
+          "description": "<p>Jäger sprechen von einem Fluch, der jeden trifft, der ein Tier mit weißem Fellstreifen tötet: Kurz darauf wird man tot zu Hause aufgefunden. Jeden Tag gibt es weniger Tiere zu jagen.</p>"
+        },
+        "15-15": {
+          "description": "<p>Man erzählt, dass aus Brunnen in der ganzen Stadt leises Lachen widerhallt und dass die Echos nachts in Schluchzen übergehen.</p>"
+        },
+        "16-16": {
+          "description": "<p>Die Sternbilder verschieben sich langsam am Nachthimmel und bilden unbekannte Muster, die Sterngucker und Weise ratlos machen. Selbst die Tiere scheinen beunruhigt.</p>"
+        },
+        "17-17": {
+          "description": "<p>Ein alter Baum im Herzen eines verschlafenden Dorfes ist plötzlich verdorrt und gestorben, ohne Zeichen von Krankheit. Nachdem sein Stamm gefällt wurde, fand man in seinem Kern eine blutige Hand.</p>"
+        },
+        "18-18": {
+          "description": "<p>Statuen weinen seit Monaten Blut, und die Leiber der Frauen im Dorf sind seitdem unfruchtbar. Ein einziges Kind ist die Ausnahme, von Ältesten aus Angst und Schrecken versteckt.</p>"
+        },
+        "19-19": {
+          "description": "<p>Die örtliche Tierwelt verhält sich seltsam, zeigt gesteigerte Aggression oder flieht ganz aus der Gegend. Jäger sprechen von einer Schattengestalt, die durch den Wald streift und die Tiere ruft.</p>"
+        },
+        "20-20": {
+          "description": "<p>Grenzstädte sind in den letzten Wochen in Aufruhr, nachdem mehrere von einer roten Gestalt in den Träumen ihrer Kinder berichtet wurde, die immer dieselbe Warnung ausspricht: Ein Feuer kommt, und es wird alles verzehren.</p>"
+        }
+      }
     }
-   }
   }
- }
 }

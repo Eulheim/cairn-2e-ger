@@ -1,0 +1,211 @@
+{
+  "label": "relics",
+  "entries": {
+    "A Blade Called Hope": {
+      "name": "Klinge der Hoffnung",
+      "description": "<p>Ein dünnes, gebogenes Schwert, das mit schwachem Licht glüht, sichtbar nur in völliger Dunkelheit. In starkem Sonnenlicht gebadet, ist sein erster Angriff <em>verstärkt</em>.</p>"
+    },
+    "Assassin's Goblets": {
+      "name": "Kelche der Assassine",
+      "description": "<p>Ein Paar zerbrechlicher Weingläser. Jede Flüssigkeit, die in das eine gegossen wird, tauscht den Platz mit der im anderen.</p>"
+    },
+    "Babbleflask": {
+      "name": "Plapperflasche",
+      "description": "<p>Eine fremde Sprache wird automatisch verstanden und kann fließend gesprochen werden, solange die Muttersprache der Trinkerin weder gesprochen noch gehört wird.</p>"
+    },
+    "Barbed Epaulets": {
+      "name": "Stachel-Epauletten",
+      "description": "<p>Spitzenbesetzte Schulterpolster, die jeden vergiften, der sie berührt (STR-Rettungswurf oder Bewusstlosigkeit).</p>"
+    },
+    "Betterwand": {
+      "name": "Besser-Stab",
+      "description": "<p>Vibriert mit steigender Intensität, wenn er auf das Beste aus einer Reihe von Objekten gerichtet wird.</p>",
+      "recharge": "<p>Nimm im Besitz des Stabs freiwillig einen schlechten Deal oder Tausch an.</p>"
+    },
+    "Bloodmap": {
+      "name": "Blutkarte",
+      "description": "<p>Ein leeres Lederpergament, das jedes auf seiner Oberfläche vergossene Blut aufsaugt, bevor es sich zu einer straffen Rolle zusammenrollt. Zum Ansehen abrollen: Eine grobe Karte zeigt den gegenwärtigen Ort jedes verbliebenen Bluts. Das Bild verschwindet nach wenigen Minuten.</p>",
+      "recharge": "<p>Gieß ein Pint deines eigenen Lebensessenz auf die Karte, Blut für Blut. Du bist <em>erschöpft</em>, bis du rasten und eine Ration essen kannst.</p>"
+    },
+    "Coin of the Father": {
+      "name": "Münze des Vaters",
+      "description": "<p>Wirf dieses wertlos wirkende Stück flaches Metall in die Luft, und es verwandelt sich in W100 Goldmünzen. Die trügerischen Münzen verschwinden nach einer Stunde.</p><p><em>Kleinzeug.</em></p>",
+      "recharge": "<p>Trage die Münze drei Tage, ohne Geld auszugeben oder zu verdienen.</p>"
+    },
+    "Dryad's Tear": {
+      "name": "Träne der Dryade",
+      "description": "<p>Zerbrich diesen Kristall, um mit einem Baum zu verschmelzen, den du berühren kannst. Du kannst alles wahrnehmen, was in dem Wald geschieht, zu dem der Baum gehört.</p>"
+    },
+    "Empathy Rod": {
+      "name": "Empathie-Stab",
+      "description": "<p>Berühren zwei Kreaturen diesen Holzstab gleichzeitig, verweben sich ihre körperlichen und emotionalen Zustände vollkommen, bis sie loslassen.</p>",
+      "recharge": "<p>Schenke den Stab einem früheren Feind. Das Geschäft ist unumkehrbar.</p>"
+    },
+    "Eyestone": {
+      "name": "Augenstein",
+      "description": "<p>Wähle ein von Lebewesen erschaffenes Objekt. Du kannst das nächstgelegene Exemplar davon erspüren.</p>",
+      "recharge": "<p>Übernachte ihn in einem Eimer Regenwasser.</p>"
+    },
+    "Falconstone": {
+      "name": "Falkenstein",
+      "description": "<p>Nimm die Welt durch die Augen und Ohren eines nahegelegenen Greifvogels wahr. Du spürst, was er spürt, hast aber keine Kontrolle über ihn.</p>",
+      "recharge": "<p>Töte und iss eine gewöhnliche Beute, das Fleisch zusammen mit dem Stein gekocht.</p>"
+    },
+    "Footpad's Friend": {
+      "name": "Freund des Diebes",
+      "description": "<p>Weiche Lederschuhe, die sich jeder Fußgröße anpassen. Sie hinterlassen Fußspuren, die sich verwirrend verstreuen und drehen und jede Verfolgung nahezu unmöglich machen.</p>"
+    },
+    "Gate Chalk": {
+      "name": "Tor-Kreide",
+      "description": "<p>Zeichne eine Tür auf eine beliebige flache Oberfläche, um eine Einweg-Passage zu den Wurzeln zu öffnen. Viel Glück.</p><p><em>Kleinzeug.</em></p>"
+    },
+    "Golden Wheat Paste": {
+      "name": "Goldener Weizenleim",
+      "description": "<p>Mit Wasser vermischt, verbindet diese Substanz zwei beliebige Objekte chemisch auf Dauer.</p>"
+    },
+    "Gossip Box": {
+      "name": "Klatsch-Kästchen",
+      "description": "<p>Drehe die Kurbel, um jeglichen Ton der letzten Stunde an deinem jetzigen Ort wiedergeben zu lassen. Jede Kurbel geht eine Stunde zurück.</p>",
+      "recharge": "<p>Verbreide eine Lüge erfolgreich in Anwesenheit des Kästchens.</p>"
+    },
+    "Harbinger's Bell": {
+      "name": "Glocke des Vorbots",
+      "description": "<p>Hänge sie in Brusthöhe auf, um zu läuten, wenn Gefahr unmittelbar bevorsteht.</p>",
+      "recharge": "<p>Schmelze sie ein und schmiede sie neu. Würfle jedes Mal 1W6. Bei 1–2 zerbricht sie für immer.</p>"
+    },
+    "Homunculus Nail": {
+      "name": "Homunculus-Nagel",
+      "description": "<p>Stich dich mit der Spitze in den Finger und schlage ihn in ein kleines Objekt, um einen treuen Diener zu erschaffen [3 HP, 4 STR, 13 DEX, 5 WIL], der dir bedingungslos ergeben ist. Wird er nicht zerstört, überlebt er dich.</p><p><em>Kleinzeug.</em></p>"
+    },
+    "Honest Earworm": {
+      "name": "Ehrlicher Ohrwurm",
+      "description": "<p>Ein übel riechender, fingergroßer Wurm, der sich zum Ohrenschmalz-Fressen in den Gehörgang einer schlafenden Person bohrt. Das Opfer verliert für 1W4 Stunden die Fähigkeit zu lügen.</p>"
+    },
+    "Jar of Ants": {
+      "name": "Ameisenglas",
+      "description": "<p>Zerbrich es, um eine Kolonie Feuerameisen freizusetzen [6 HP, 2 STR, 10 DEX, 1 WIL, Biss (W10), <em>Abteilung</em>]. Verbraucht alle zwei Tage eine Ration.</p>"
+    },
+    "Last Breath": {
+      "name": "Letzter Atem",
+      "description": "<p>Ein abgenutztes Kurzschwert zweifelhafter Qualität. In die Erde gerammt, bildet es eine Kristallkuppel, die die Trägerin umschließt und unbeweglich macht. Die Kuppel ist mit gewöhnlichen Mitteln undurchdringlich und zerspringt, sobald das Schwert wieder angehoben wird.</p>",
+      "recharge": "<p>Versehe mit dem Schwert einen tödlichen Streich und sauge die Seele des sterbenden Opfers in die Klinge. Darin wohnt eine gerissene Intelligenz, die zur Trägerin spricht und stets nach mehr Seelen verlangt, mehr!</p>"
+    },
+    "Lightsucker Candle": {
+      "name": "Lichtschlucker-Kerze",
+      "description": "<p>Einmal angezündet, verbreitet diese schwarze Talgkerze Dunkelheit statt Licht, selbst am hellsten Tag.</p>"
+    },
+    "Lover's Covenant": {
+      "name": "Bund der Liebenden",
+      "description": "<p>Eine Flasche rötlicher Tinte, auf der Vorderseite ein zerbrochenes Herz. Schreibe einen Vertrag beliebiger Länge. Wer unterschreibt, ist bei Todesstrafe zum Gehorsam gebunden.</p>"
+    },
+    "Mace of the Kingslayer": {
+      "name": "Königstöter",
+      "description": "<p>Erhebe die Waffe und rufe einen Befehl oder eine Erklärung. Wer den WIL-Rettungswurf verfehlt, muss wider besseres Wissen gehorchen.</p>",
+      "recharge": "<p>Versehe der Anführerin einer Gruppe oder Fraktion einen tödlichen Streich.</p>"
+    },
+    "Moth Mirror": {
+      "name": "Mottenspiegel",
+      "description": "<p>Ein ganzkörperhoher, doppelseitiger Glasspiegel. Tritt in den Spiegel, um zu einem anderen dir bekannten Spiegel versetzt zu werden. Du trittst auf der anderen Seite als gewaltiger Schwarm summender Motten aus, die die Umstehenden mit Lähmung schlagen (WIL-Rettungswurf, um sich zu entziehen), während sie dich entsetzt anstarren. Du kannst nach Belieben in deine normale Gestalt zurückkehren. Der Spiegel funktioniert nur in eine Richtung.</p>"
+    },
+    "Muffle Dust": {
+      "name": "Dämpfstaub",
+      "description": "<p>Ein Beutel feinen Staubs, der jeden Ton in einem Radius von 12 m (40 ft) dämpft, wenn er verstreut wird.</p>"
+    },
+    "Nightstone": {
+      "name": "Nachtstein",
+      "description": "<p>Seltene mondförmige Steine, aus Unterwasserhöhlen und Dschungeldolinen geborgen. Ganz schlucken, um alle Erschöpfung zu lindern, wie nach einer guten Nacht Schlaf und einer guten Mahlzeit. Der Stein scheidet deinen Körper irgendwann wieder aus. Es ist kein Vergnügen.</p>"
+    },
+    "Obliteration Scroll": {
+      "name": "Schrift der Auslöschung",
+      "description": "<p>Ein einseitiges Dokument voller Zeichensalat. Unterschreibe irgendwo auf der Seite, um jedes Wissen um deine Existenz von dieser Ebene der Wirklichkeit zu tilgen. Niemand wird dich kennen oder erinnern, und jeder Verweis auf deinen Namen oder deine Herkunft verschwindet. Die Schrift zerfällt in eine Rauchwolke, die schwach nach Schwefel riecht.</p><p><em>Kleinzeug.</em></p>"
+    },
+    "Parliament's Promise": {
+      "name": "Eulengelübde",
+      "description": "<p>Ein Helm in Gestalt eines Eulenkopfs. Seine Trägerin kann den Kopf wie eine Eule herumdrehen und im Dunkeln mit vollkommener Klarheit sehen. Solange sie den Helm trägt, verliert sie die Fähigkeit zu sprechen und stößt nur die einfachsten Gurr-Laute aus.</p>"
+    },
+    "Phoenix Ash": {
+      "name": "Phönix-Asche",
+      "description": "<p>Streue sie über eine Leiche, um die Verstorbene auferstehen zu lassen. Sie kehrt mit voller Gesundheit, aber ohne Erinnerung an ihr früheres Leben zurück.</p>"
+    },
+    "Ring of the Snake": {
+      "name": "Ring der Schlange",
+      "description": "<p>Ein schmiedeeiserner Schlangenring. Stecke ihn an deinen Finger und falle in einen so tiefen Schlaf, dass die meisten dich für tot halten. Wird der Ring entfernt, erwachst du erfrischt. Sonst verblasst die Wirkung nach einem Monat.</p><p><em>Kleinzeug.</em></p>",
+      "recharge": "<p>Begrabe den Ring mit einer Leiche. Einen Monat später exhumiere die Leiche und hole ihn zurück.</p>"
+    },
+    "Roc Feather": {
+      "name": "Rochen-Feder",
+      "description": "<p>Halte sie beim Fallen, um aus jeder Höhe sicher zu Boden zu schweben.</p>"
+    },
+    "Skull Whistle": {
+      "name": "Schädel-Pfeife",
+      "description": "<p>Erzeugt einen schaurigen Schrei, der jeden, der ihn hört (auch die Bläserin), zu einem WIL-Rettungswurf zwingt oder vorübergehend handlungsunfähig macht.</p>",
+      "recharge": "<p>Verabreiche dem Instrument eine Haarlocke, einem lebenden Schädel entrissen.</p>"
+    },
+    "Soul Clump": {
+      "name": "Seelen-Klumpen",
+      "description": "<p>Ein harter, faustgroßer Ball, übersät mit kleinen Beulen. Auf einer flachen Oberfläche gerollt, sammelt er jedes Objekt ein, das kleiner ist als seine derzeitige Masse, die dadurch weiter wächst. Nur Lebewesen sind immun.</p>"
+    },
+    "Sponge Army": {
+      "name": "Schwamm-Armee",
+      "description": "<p>Ein Dutzend miniaturgroßer Soldaten aus geschnitzten Meerschwämmen. Mit Wasser bespritzt, wachsen sie auf voller Größe [8 HP, 6 STR, 13 DEX, 5 WIL, gehärteter Schwamm (W6), <em>Abteilung</em>] und befolgen die Befehle der Person, die sie sehen, bis sie zerstört sind oder vollständig austrocknen (etwa 10 Minuten).</p>"
+    },
+    "Spystone": {
+      "name": "Spitzstein",
+      "description": "<p>Ein glatter, flacher Stein, leicht warm in der Hand. Zusammenpressen, um Ton in einem Radius von 12 m (40 ft) aufzuzeichnen. Erneut pressen, um ihn beliebig oft wiederzugeben.</p>",
+      "recharge": "<p>Um einen neuen Ton aufzunehmen, lass den Stein mindestens dreimal über ein Gewässer springen und hole ihn wieder heraus.</p>"
+    },
+    "Sticky Rope": {
+      "name": "Klebe-Seil",
+      "description": "<p>Ein 30 m (100 ft) langes Seil, das an jeder Oberfläche haftet.</p>",
+      "recharge": "<p>Schneide 3 m (10 ft) Seil ab; sie verdorren.</p>"
+    },
+    "Stone Eater": {
+      "name": "Steinfresser",
+      "description": "<p>Ein hundsgroßer Tausendfüßler, der Stein frisst und verdaut und in weniger als einer Stunde einen kleinen Tunnel graben kann. Er ist mehrfach verwendbar, doch nur, wenn du ihn fangen kannst (DEX 18).</p>"
+    },
+    "Stonewax Gum": {
+      "name": "Steinwachs",
+      "description": "<p>Kaue und spucke aus. Der Kaugummi härtet aus und dehnt sich zu einer perfekten, unzerbrechlichen Dichtung.</p><p><em>Kleinzeug.</em></p>"
+    },
+    "Tupshead Crown": {
+      "name": "Krone des Tupshead",
+      "description": "<p>Ein kunstvoll gefertigter Widderkopf-Helm aus zähem Alpeneichenholz. Die Hörner lassen sich als Waffen einsetzen (W6+W6).</p>"
+    },
+    "Veilsilk Grip": {
+      "name": "Schleierhandschuh",
+      "description": "<p>Eine Hand mit diesem Handschuh kann durch feste Gegenstände treten.</p><p><em>Kleinzeug.</em></p>",
+      "recharge": "<p>Schneide einen der Finger ab.</p>"
+    },
+    "Voice of the Mountain": {
+      "name": "Stimme des Berges",
+      "description": "<p>Ein rauer Kieselstein, durchtränkt von der Essenz eines Berggeists. Zerquetsche ihn, um ein Erdbeben oder eine ähnliche Naturkatastrophe herbeizurufen. Erwarte nicht, dass du verschont wirst.</p>"
+    },
+    "Ward Stone": {
+      "name": "Bann-Stein",
+      "description": "<p>Ein flacher, unscheinbarer Flussstein mit ausgefranstten, verblassten Symbolen. Zertrümmere ihn, um ein silbriges Pulver in einem Radius von 6 m (20 ft) freizusetzen, das jeden besänftigt, der es einatmet.</p>"
+    },
+    "Whispergale": {
+      "name": "Flüsterwind",
+      "description": "<p>Eine ballonförmige Pflanze, die eine gesprochene Nachricht einfängt und sie an einen Ort innerhalb eines Tagesmarsches überbringt.</p>"
+    },
+    "Whistle-Rope": {
+      "name": "Pfeif-Seil",
+      "description": "<p>4,5 m (15 ft) hochelastisches Leder. In der Luft geschwungen, erzeugt es einen mächtigen Ultraschall-Effekt, der Wildtiere vertreibt. Funktioniert auch unter Wasser.</p>"
+    },
+    "Wonder Bar": {
+      "name": "Wunder-Stange",
+      "description": "<p>Drücke den Schalter an der Seite dieser Eisenstange, friert sie an Ort und Stelle ein – selbst mitten in der Luft. Einmal eingefroren, kann keine Kraft sie bewegen, bis der Schalter erneut gedrückt wird.</p>",
+      "recharge": "<p>Halte die Stange eine Stunde lang durchgehend mit beiden Händen fest (WIL-Rettungswurf, um zu bestehen). Nur ein Versuch pro Tag.</p>"
+    },
+    "Wraith Lantern": {
+      "name": "Gespenster-Laterne",
+      "description": "<p>Schreibe einen Namen auf ihr Glas, und er verschwindet. Die Laterne zeigt einen Pfad zum gegenwärtigen Aufenthaltsort der Person, sichtbar nur für die Trägerin (Tag und Nacht).</p>",
+      "recharge": "<p>Töte die zuletzt mit Hilfe der Laterne aufgefundene Person und fange ihren Geist darin. Die Laterne muss in der Nähe sein, wenn sie stirbt.</p>"
+    }
+  },
+  "folders": {
+    "150gp": "150 GM",
+    "300gp": "300 GM",
+    "600gp": "600 GM"
+  }
+}

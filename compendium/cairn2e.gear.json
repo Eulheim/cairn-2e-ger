@@ -1,228 +1,228 @@
 {
- "label": "Ausrüstung",
- "entries": {
-  "Air Bladder": {
-   "name": "Luftblase",
-   "description": "<p>Luftblase</p>"
+  "label": "Ausrüstung",
+  "entries": {
+    "Air Bladder": {
+      "name": "Luftblase",
+      "description": "<p>Luftblase</p>"
+    },
+    "Animal Feed": {
+      "name": "Tierfutter",
+      "description": "<p>Tierfutter (3 Anwendungen, sperrig)</p>"
+    },
+    "Antitoxin": {
+      "name": "Gegengift",
+      "description": "<p>Gegengift</p>"
+    },
+    "Bandages": {
+      "name": "Bandagen",
+      "description": "<p>Bandagen (3 Anwendungen)</p>"
+    },
+    "Bathing Goods": {
+      "name": "Badebedarf",
+      "description": "<p>Badebedarf (Seife, Parfüm usw.)</p>"
+    },
+    "Book": {
+      "name": "Buch",
+      "description": "<p>Buch</p>"
+    },
+    "Caltrops": {
+      "name": "Krähenfüße",
+      "description": "<p>Krähenfüße</p>"
+    },
+    "Card Deck": {
+      "name": "Kartendeck",
+      "description": "<p>Kartendeck</p>"
+    },
+    "Carriage Seat": {
+      "name": "Kutschensitz",
+      "description": "<p>Kutschensitz</p>"
+    },
+    "Cart": {
+      "name": "Karren",
+      "description": "<p>Karren (+4 Plätze, <em>sperrig</em>). Muss mit beiden Händen gezogen werden.</p>"
+    },
+    "Chain": {
+      "name": "Kette",
+      "description": "<p>Kette (3 m / 10 ft)</p>"
+    },
+    "Chalk": {
+      "name": "Kreide",
+      "description": "<p>Kreide (<em>Kleinzeug</em>)</p>"
+    },
+    "Chest": {
+      "name": "Truhe",
+      "description": "<p>Truhe</p>"
+    },
+    "Chisel": {
+      "name": "Meißel",
+      "description": "<p>Meißel</p>"
+    },
+    "Common Agents": {
+      "name": "Chemikalien",
+      "description": "<p>Allgemeine Chemikalien (Leim, Fett usw.)</p>"
+    },
+    "Common Tools": {
+      "name": "Werkzeug",
+      "description": "<p>Werkzeug (Hammer, Schaufel usw.)</p>"
+    },
+    "Compass": {
+      "name": "Kompass",
+      "description": "<p>Kompass</p>"
+    },
+    "Complex Instruments": {
+      "name": "Instrumente",
+      "description": "<p>Anspruchsvolle Instrumente (Dudelsack, Geige usw.)</p>"
+    },
+    "Containers": {
+      "name": "Behälter",
+      "description": "<p>Behälter (Sack, Feldflasche usw.)</p>"
+    },
+    "Cooking Gear": {
+      "name": "Kochgeschirr",
+      "description": "<p>Kochgeschirr (Töpfe, Utensilien usw.)</p>"
+    },
+    "Costume Gear": {
+      "name": "Verkleidung",
+      "description": "<p>Verkleidung (Gesichtsfarbe, Tarnung)</p>"
+    },
+    "Dowsing Rod": {
+      "name": "Wünschelrute",
+      "description": "<p>Wünschelrute</p>"
+    },
+    "Expeditionary Gear": {
+      "name": "Expedition Ausrüstung",
+      "description": "<p>Expedition Ausrüstung (Kletterspitzen, Flaschenzug usw.)</p>"
+    },
+    "Fire Oil": {
+      "name": "Feueröl",
+      "description": "<p>Feueröl</p>"
+    },
+    "Fishing Rod": {
+      "name": "Angelrute",
+      "description": "<p>Angelrute</p>"
+    },
+    "Games": {
+      "name": "Spiele",
+      "description": "<p>Spiele (Karten, Würfel usw.)</p>"
+    },
+    "Gloves": {
+      "name": "Handschuhe",
+      "description": "<p>Handschuhe (<em>Kleinzeug</em>)</p>"
+    },
+    "Grappling Hook": {
+      "name": "Wurfhaken",
+      "description": "<p>Wurfhaken</p>"
+    },
+    "Horse": {
+      "name": "Pferd",
+      "description": "<p>Pferd (+4 Plätze)</p>"
+    },
+    "Lantern": {
+      "name": "Laterne",
+      "description": "<p>Laterne (fasst 6 Anwendungen Öl, aus einem Ölkanne gefüllt)</p>"
+    },
+    "Mirror": {
+      "name": "Spiegel",
+      "description": "<p>Spiegel</p>"
+    },
+    "Mule": {
+      "name": "Maultier",
+      "description": "<p>Maultier (+6 Plätze, langsam)</p>"
+    },
+    "Net": {
+      "name": "Netz",
+      "description": "<p>Netz</p>"
+    },
+    "Oil Can": {
+      "name": "Ölkanne",
+      "description": "<p>Ölkanne (6 Anwendungen)</p>"
+    },
+    "Outdoor Comfort": {
+      "name": "Outdoor-Komfort",
+      "description": "<p>Outdoor-Komfort (Decke, Hängematte usw.)</p>"
+    },
+    "Parchment": {
+      "name": "Pergament",
+      "description": "<p>Pergament (3 Anwendungen)</p>"
+    },
+    "Pole": {
+      "name": "Stange",
+      "description": "<p>Stange (3 m / 10 ft)</p>"
+    },
+    "Rations": {
+      "name": "Rationen",
+      "description": "<p>Rationen (3 Anwendungen)</p>"
+    },
+    "Repellent": {
+      "name": "Abschreckung",
+      "description": "<p>Abschreckung (Eisenhut, Beifuß usw.)</p>"
+    },
+    "Rope": {
+      "name": "Seil",
+      "description": "<p>Seil (7,5 m / 25 ft)</p>"
+    },
+    "Sedative": {
+      "name": "Beruhigungsmittel",
+      "description": "<p>Beruhigungsmittel</p>"
+    },
+    "Sewing Kit": {
+      "name": "Nähzeug",
+      "description": "<p>Nähzeug</p>"
+    },
+    "Ship's Passage": {
+      "name": "Schiffspassage",
+      "description": "<p>Schiffspassage</p>"
+    },
+    "Simple Instruments": {
+      "name": "Einfache Instrumente",
+      "description": "<p>Einfache Instrumente (Flöte, Laute usw.)</p>"
+    },
+    "Smoking Pipe": {
+      "name": "Pfeife",
+      "description": "<p>Pfeife (<em>Kleinzeug</em>)</p>"
+    },
+    "Specialized Tools": {
+      "name": "Spezialwerkzeug",
+      "description": "<p>Spezialwerkzeug (Tinte usw.)</p>"
+    },
+    "Spiked Boots": {
+      "name": "Stachelstiefel",
+      "description": "<p>Stiefel mit Stacheln</p>"
+    },
+    "Spyglass": {
+      "name": "Fernrohr",
+      "description": "<p>Fernrohr</p>"
+    },
+    "Tent": {
+      "name": "Zelt",
+      "description": "<p>Zelt (fasst 2, <em>sperrig</em>)</p>"
+    },
+    "Thieving Tools": {
+      "name": "Diebeswerkzeug",
+      "description": "<p>Diebeswerkzeug (Dietrich, Feile usw.)</p>"
+    },
+    "Torch": {
+      "name": "Fackel",
+      "description": "<p>Fackel (3 Anwendungen)</p>"
+    },
+    "Trap": {
+      "name": "Falle",
+      "description": "<p>Falle (W6 STR-Schaden)</p>"
+    },
+    "Wagon": {
+      "name": "Wagen",
+      "description": "<p>Wagen (+8 Plätze, langsam)</p>"
+    },
+    "Whistle": {
+      "name": "Trillerpfeife",
+      "description": "<p>Trillerpfeife (<em>Kleinzeug</em>)</p>"
+    },
+    "Wilderness Clothes": {
+      "name": "Wildniskleidung",
+      "description": "<p>Wildniskleidung (Poncho, Umhang usw.) (<em>Kleinzeug</em>)</p>"
+    }
   },
-  "Animal Feed": {
-   "name": "Tierfutter",
-   "description": "<p>Tierfutter (3 Anwendungen, sperrig)</p>"
-  },
-  "Antitoxin": {
-   "name": "Gegengift",
-   "description": "<p>Gegengift</p>"
-  },
-  "Bandages": {
-   "name": "Bandagen",
-   "description": "<p>Bandagen (3 Anwendungen)</p>"
-  },
-  "Bathing Goods": {
-   "name": "Badebedarf",
-   "description": "<p>Badebedarf (Seife, Parfüm usw.)</p>"
-  },
-  "Book": {
-   "name": "Buch",
-   "description": "<p>Buch</p>"
-  },
-  "Caltrops": {
-   "name": "Krähenfüße",
-   "description": "<p>Krähenfüße</p>"
-  },
-  "Card Deck": {
-   "name": "Kartendeck",
-   "description": "<p>Kartendeck</p>"
-  },
-  "Carriage Seat": {
-   "name": "Kutschensitz",
-   "description": "<p>Kutschensitz</p>"
-  },
-  "Cart": {
-   "name": "Karren",
-   "description": "<p>Karren (+4 Plätze, <em>sperrig</em>). Muss mit beiden Händen gezogen werden.</p>"
-  },
-  "Chain": {
-   "name": "Kette",
-   "description": "<p>Kette (3 m / 10 ft)</p>"
-  },
-  "Chalk": {
-   "name": "Kreide",
-   "description": "<p>Kreide (<em>Kleinzeug</em>)</p>"
-  },
-  "Chest": {
-   "name": "Truhe",
-   "description": "<p>Truhe</p>"
-  },
-  "Chisel": {
-   "name": "Meißel",
-   "description": "<p>Meißel</p>"
-  },
-  "Common Agents": {
-   "name": "Chemikalien",
-   "description": "<p>Allgemeine Chemikalien (Leim, Fett usw.)</p>"
-  },
-  "Common Tools": {
-   "name": "Werkzeug",
-   "description": "<p>Werkzeug (Hammer, Schaufel usw.)</p>"
-  },
-  "Compass": {
-   "name": "Kompass",
-   "description": "<p>Kompass</p>"
-  },
-  "Complex Instruments": {
-   "name": "Instrumente",
-   "description": "<p>Anspruchsvolle Instrumente (Dudelsack, Geige usw.)</p>"
-  },
-  "Containers": {
-   "name": "Behälter",
-   "description": "<p>Behälter (Sack, Feldflasche usw.)</p>"
-  },
-  "Cooking Gear": {
-   "name": "Kochgeschirr",
-   "description": "<p>Kochgeschirr (Töpfe, Utensilien usw.)</p>"
-  },
-  "Costume Gear": {
-   "name": "Verkleidung",
-   "description": "<p>Verkleidung (Gesichtsfarbe, Tarnung)</p>"
-  },
-  "Dowsing Rod": {
-   "name": "Wünschelrute",
-   "description": "<p>Wünschelrute</p>"
-  },
-  "Expeditionary Gear": {
-   "name": "Expedition Ausrüstung",
-   "description": "<p>Expedition Ausrüstung (Kletterspitzen, Flaschenzug usw.)</p>"
-  },
-  "Fire Oil": {
-   "name": "Feueröl",
-   "description": "<p>Feueröl</p>"
-  },
-  "Fishing Rod": {
-   "name": "Angelrute",
-   "description": "<p>Angelrute</p>"
-  },
-  "Games": {
-   "name": "Spiele",
-   "description": "<p>Spiele (Karten, Würfel usw.)</p>"
-  },
-  "Gloves": {
-   "name": "Handschuhe",
-   "description": "<p>Handschuhe (<em>Kleinzeug</em>)</p>"
-  },
-  "Grappling Hook": {
-   "name": "Wurfhaken",
-   "description": "<p>Wurfhaken</p>"
-  },
-  "Horse": {
-   "name": "Pferd",
-   "description": "<p>Pferd (+4 Plätze)</p>"
-  },
-  "Lantern": {
-   "name": "Laterne",
-   "description": "<p>Laterne (fasst 6 Anwendungen Öl, aus einem Ölkanne gefüllt)</p>"
-  },
-  "Mirror": {
-   "name": "Spiegel",
-   "description": "<p>Spiegel</p>"
-  },
-  "Mule": {
-   "name": "Maultier",
-   "description": "<p>Maultier (+6 Plätze, langsam)</p>"
-  },
-  "Net": {
-   "name": "Netz",
-   "description": "<p>Netz</p>"
-  },
-  "Oil Can": {
-   "name": "Ölkanne",
-   "description": "<p>Ölkanne (6 Anwendungen)</p>"
-  },
-  "Outdoor Comfort": {
-   "name": "Outdoor-Komfort",
-   "description": "<p>Outdoor-Komfort (Decke, Hängematte usw.)</p>"
-  },
-  "Parchment": {
-   "name": "Pergament",
-   "description": "<p>Pergament (3 Anwendungen)</p>"
-  },
-  "Pole": {
-   "name": "Stange",
-   "description": "<p>Stange (3 m / 10 ft)</p>"
-  },
-  "Rations": {
-   "name": "Rationen",
-   "description": "<p>Rationen (3 Anwendungen)</p>"
-  },
-  "Repellent": {
-   "name": "Abschreckung",
-   "description": "<p>Abschreckung (Eisenhut, Beifuß usw.)</p>"
-  },
-  "Rope": {
-   "name": "Seil",
-   "description": "<p>Seil (7,5 m / 25 ft)</p>"
-  },
-  "Sedative": {
-   "name": "Beruhigungsmittel",
-   "description": "<p>Beruhigungsmittel</p>"
-  },
-  "Sewing Kit": {
-   "name": "Nähzeug",
-   "description": "<p>Nähzeug</p>"
-  },
-  "Ship's Passage": {
-   "name": "Schiffspassage",
-   "description": "<p>Schiffspassage</p>"
-  },
-  "Simple Instruments": {
-   "name": "Einfache Instrumente",
-   "description": "<p>Einfache Instrumente (Flöte, Laute usw.)</p>"
-  },
-  "Smoking Pipe": {
-   "name": "Pfeife",
-   "description": "<p>Pfeife (<em>Kleinzeug</em>)</p>"
-  },
-  "Specialized Tools": {
-   "name": "Spezialwerkzeug",
-   "description": "<p>Spezialwerkzeug (Tinte usw.)</p>"
-  },
-  "Spiked Boots": {
-   "name": "Stachelstiefel",
-   "description": "<p>Stiefel mit Stacheln</p>"
-  },
-  "Spyglass": {
-   "name": "Fernrohr",
-   "description": "<p>Fernrohr</p>"
-  },
-  "Tent": {
-   "name": "Zelt",
-   "description": "<p>Zelt (fasst 2, <em>sperrig</em>)</p>"
-  },
-  "Thieving Tools": {
-   "name": "Diebeswerkzeug",
-   "description": "<p>Diebeswerkzeug (Dietrich, Feile usw.)</p>"
-  },
-  "Torch": {
-   "name": "Fackel",
-   "description": "<p>Fackel (3 Anwendungen)</p>"
-  },
-  "Trap": {
-   "name": "Falle",
-   "description": "<p>Falle (W6 STR-Schaden)</p>"
-  },
-  "Wagon": {
-   "name": "Wagen",
-   "description": "<p>Wagen (+8 Plätze, langsam)</p>"
-  },
-  "Whistle": {
-   "name": "Trillerpfeife",
-   "description": "<p>Trillerpfeife (<em>Kleinzeug</em>)</p>"
-  },
-  "Wilderness Clothes": {
-   "name": "Wildniskleidung",
-   "description": "<p>Wildniskleidung (Poncho, Umhang usw.) (<em>Kleinzeug</em>)</p>"
+  "folders": {
+    "Transport": "Transport"
   }
- },
- "folders": {
-  "Transport": "Transport"
- }
 }

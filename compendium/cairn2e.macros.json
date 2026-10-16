@@ -1,41 +1,41 @@
 {
- "label": "Makros",
- "entries": {
-  "Calendar": {
-   "name": "Kalender"
-  },
-  "Die Of Fate": {
-   "name": "Schicksalswürfel"
-  },
-  "Reset Player Hotbars": {
-   "name": "Hotbars zurücksetzen"
-  },
-  "Rest": {
-   "name": "Rast"
-  },
-  "Restore Abilities": {
-   "name": "Attribute heilen"
-  },
-  "Restore Default Stores": {
-   "name": "Standardläden wiederherst."
-  },
-  "Roll Morale": {
-   "name": "Moral würfeln"
-  },
-  "Roll Reaction": {
-   "name": "Reaktion würfeln"
-  },
-  "Rules Summary": {
-   "name": "Regelübersicht"
-  },
-  "DEX": {
-   "name": "GES"
-  },
-  "STR": {
-   "name": "STK"
-  },
-  "WIL": {
-   "name": "WIL"
+  "label": "Makros",
+  "entries": {
+    "Calendar": {
+      "name": "Kalender"
+    },
+    "Die Of Fate": {
+      "name": "Schicksalswürfel"
+    },
+    "Reset Player Hotbars": {
+      "name": "Hotbars zurücksetzen"
+    },
+    "Rest": {
+      "name": "Rast"
+    },
+    "Restore Abilities": {
+      "name": "Attribute heilen"
+    },
+    "Restore Default Stores": {
+      "name": "Standardläden wiederherst."
+    },
+    "Roll Morale": {
+      "name": "Moral würfeln"
+    },
+    "Roll Reaction": {
+      "name": "Reaktion würfeln"
+    },
+    "Rules Summary": {
+      "name": "Regelübersicht"
+    },
+    "DEX": {
+      "name": "GES"
+    },
+    "STR": {
+      "name": "STK"
+    },
+    "WIL": {
+      "name": "WIL"
+    }
   }
- }
 }

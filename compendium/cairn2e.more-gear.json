@@ -1,0 +1,744 @@
+{
+  "label": "more-gear",
+  "entries": {
+    "Apron, cloth": {
+      "name": "Schürze, Stoff",
+      "description": "<p>Schürze, Stoff (<em>Kleinzeug</em>)</p>"
+    },
+    "Apron, leather": {
+      "name": "Schürze, Leder",
+      "description": "<p>Schürze, Leder (<em>Kleinzeug</em>)</p>"
+    },
+    "Ballgown, extravagant": {
+      "name": "Ballkleid, opulent",
+      "description": "<p>Ballkleid, opulent (<em>Kleinzeug</em>)</p>"
+    },
+    "Ballgown, simple": {
+      "name": "Ballkleid, schlicht",
+      "description": "<p>Ballkleid, schlicht (<em>Kleinzeug</em>)</p>"
+    },
+    "Belt, leather": {
+      "name": "Gürtel, Leder",
+      "description": "<p>Gürtel, Leder (<em>Kleinzeug</em>)</p>"
+    },
+    "Bodice": {
+      "name": "Mieder",
+      "description": "<p>Mieder (<em>Kleinzeug</em>)</p>"
+    },
+    "Boots, cloth": {
+      "name": "Stiefel, Stoff",
+      "description": "<p>Stiefel, Stoff (<em>Kleinzeug</em>)</p>"
+    },
+    "Boots, hard leather": {
+      "name": "Stiefel, hartes Leder",
+      "description": "<p>Stiefel, hartes Leder (<em>Kleinzeug</em>)</p>"
+    },
+    "Boots, reinforced": {
+      "name": "Stiefel, verstärkt",
+      "description": "<p>Stiefel, verstärkt (<em>Kleinzeug</em>)</p>"
+    },
+    "Boots, soft leather": {
+      "name": "Stiefel, weiches Leder",
+      "description": "<p>Stiefel, weiches Leder (<em>Kleinzeug</em>)</p>"
+    },
+    "Cap": {
+      "name": "Kappe",
+      "description": "<p>Kappe (<em>Kleinzeug</em>)</p>"
+    },
+    "Cape, long": {
+      "name": "Umhang, lang",
+      "description": "<p>Umhang, lang (<em>Kleinzeug</em>)</p>"
+    },
+    "Cape, short": {
+      "name": "Umhang, kurz",
+      "description": "<p>Umhang, kurz (<em>Kleinzeug</em>)</p>"
+    },
+    "Coat, fur": {
+      "name": "Mantel, Pelz",
+      "description": "<p>Mantel, Pelz (<em>Kleinzeug</em>)</p>"
+    },
+    "Coat": {
+      "name": "Mantel",
+      "description": "<p>Mantel (<em>Kleinzeug</em>)</p>"
+    },
+    "Doublet": {
+      "name": "Wams",
+      "description": "<p>Wams (<em>Kleinzeug</em>)</p>"
+    },
+    "Dress, silk": {
+      "name": "Kleid, Seide",
+      "description": "<p>Kleid, Seide (<em>Kleinzeug</em>)</p>"
+    },
+    "Dress": {
+      "name": "Kleid",
+      "description": "<p>Kleid (<em>Kleinzeug</em>)</p>"
+    },
+    "Eye Patch": {
+      "name": "Augenklappe",
+      "description": "<p>Augenklappe (<em>Kleinzeug</em>)</p>"
+    },
+    "Habit": {
+      "name": "Kutte",
+      "description": "<p>Kutte (<em>Kleinzeug</em>)</p>"
+    },
+    "Hat, elegant": {
+      "name": "Hut, elegant",
+      "description": "<p>Hut, elegant (<em>Kleinzeug</em>)</p>"
+    },
+    "Hat, simple": {
+      "name": "Hut, schlicht",
+      "description": "<p>Hut, schlicht (<em>Kleinzeug</em>)</p>"
+    },
+    "Hat, straw": {
+      "name": "Hut, Stroh",
+      "description": "<p>Hut, Stroh (<em>Kleinzeug</em>)</p>"
+    },
+    "Kilt": {
+      "name": "Kilt",
+      "description": "<p>Kilt (<em>Kleinzeug</em>)</p>"
+    },
+    "Robe": {
+      "name": "Robe",
+      "description": "<p>Robe (<em>Kleinzeug</em>)</p>"
+    },
+    "Sandals": {
+      "name": "Sandalen",
+      "description": "<p>Sandalen (<em>Kleinzeug</em>)</p>"
+    },
+    "Shirt, cloth": {
+      "name": "Hemd, Stoff",
+      "description": "<p>Hemd, Stoff (<em>Kleinzeug</em>)</p>"
+    },
+    "Shirt, silk": {
+      "name": "Hemd, Seide",
+      "description": "<p>Hemd, Seide (<em>Kleinzeug</em>)</p>"
+    },
+    "Skirt, cloth": {
+      "name": "Rock, Stoff",
+      "description": "<p>Rock, Stoff (<em>Kleinzeug</em>)</p>"
+    },
+    "Skirt, silk": {
+      "name": "Rock, Seide",
+      "description": "<p>Rock, Seide (<em>Kleinzeug</em>)</p>"
+    },
+    "Trousers": {
+      "name": "Hose",
+      "description": "<p>Hose (<em>Kleinzeug</em>)</p>"
+    },
+    "Tunic, silk": {
+      "name": "Tunika, Seide",
+      "description": "<p>Tunika, Seide (<em>Kleinzeug</em>)</p>"
+    },
+    "Tunic": {
+      "name": "Tunika",
+      "description": "<p>Tunika (<em>Kleinzeug</em>)</p>"
+    },
+    "Beer": {
+      "name": "Bier",
+      "description": "<p>Bier (Krug)</p>"
+    },
+    "Berry Tart": {
+      "name": "Bezertorte",
+      "description": "<p>Bezertorte (zwei Mahlzeiten)</p>"
+    },
+    "Brandy": {
+      "name": "Brandwein",
+      "description": "<p>Brandwein (Flasche)</p>"
+    },
+    "Bread": {
+      "name": "Brot",
+      "description": "<p>Brot (vier Laibe)</p>"
+    },
+    "Cheese, imported": {
+      "name": "Käse, importiert",
+      "description": "<p>Käse, importiert (Pfund)</p>"
+    },
+    "Cheese, local": {
+      "name": "Käse, einheimisch",
+      "description": "<p>Käse, einheimisch (Pfund)</p>"
+    },
+    "Dried Fruit": {
+      "name": "Trockenobst",
+      "description": "<p>Trockenobst (Pfund)</p>"
+    },
+    "Fish Pie": {
+      "name": "Fischpastete",
+      "description": "<p>Fischpastete (drei Mahlzeiten)</p>"
+    },
+    "Fish Stew": {
+      "name": "Fischtopf",
+      "description": "<p>Fischtopf (vier Mahlzeiten)</p>"
+    },
+    "Fowl Soup": {
+      "name": "Geflügelsuppe",
+      "description": "<p>Geflügelsuppe (vier Mahlzeiten)</p>"
+    },
+    "Honey Cakes": {
+      "name": "Honigkuchen",
+      "description": "<p>Honigkuchen (drei Mahlzeiten)</p>"
+    },
+    "Honey": {
+      "name": "Honig",
+      "description": "<p>Honig (Pint)</p>"
+    },
+    "Hunter's Stew": {
+      "name": "Jägertopf",
+      "description": "<p>Jägertopf (vier Mahlzeiten)</p>"
+    },
+    "Inn Meal, good": {
+      "name": "Gastmahl, gut",
+      "description": "<p>Gastmahl, gut (<em>Kleinzeug</em>)</p>"
+    },
+    "Inn Meal, poor": {
+      "name": "Gastmahl, schlecht",
+      "description": "<p>Gastmahl, schlecht (<em>Kleinzeug</em>)</p>"
+    },
+    "Inn Meal, superb": {
+      "name": "Gastmahl, super",
+      "description": "<p>Gastmahl, vortrefflich (<em>Kleinzeug</em>)</p>"
+    },
+    "Jam": {
+      "name": "Marmelade",
+      "description": "<p>Marmelade (Pint)</p>"
+    },
+    "Jerked Beef": {
+      "name": "Dörrfleisch",
+      "description": "<p>Dörrfleisch (Pfund)</p>"
+    },
+    "Mead": {
+      "name": "Met",
+      "description": "<p>Met (halbgalloner Krug)</p>"
+    },
+    "Meat Pie": {
+      "name": "Fleischpastete",
+      "description": "<p>Fleischpastete (drei Mahlzeiten)</p>"
+    },
+    "Moonshine": {
+      "name": "Kornbrand",
+      "description": "<p>Kornbrand (Henkelmann)</p>"
+    },
+    "Mushroom Omelette": {
+      "name": "Pilzomelett",
+      "description": "<p>Pilzomelett (zwei Mahlzeiten)</p>"
+    },
+    "Mushroom Soup": {
+      "name": "Pilzsuppe",
+      "description": "<p>Pilzsuppe (drei Mahlzeiten)</p>"
+    },
+    "Nuts": {
+      "name": "Nüsse",
+      "description": "<p>Nüsse (Pfund)</p>"
+    },
+    "Pemmican": {
+      "name": "Pemmican",
+      "description": "<p>Pemmican (vier Mahlzeiten)</p>"
+    },
+    "Porridge": {
+      "name": "Brei",
+      "description": "<p>Brei (zwei Mahlzeiten)</p>"
+    },
+    "Roast Chicken": {
+      "name": "Brathähnchen",
+      "description": "<p>Brathähnchen (ganz)</p>"
+    },
+    "Roast Goose": {
+      "name": "Bratgans",
+      "description": "<p>Bratgans (ganz)</p>"
+    },
+    "Rum": {
+      "name": "Rum",
+      "description": "<p>Rum (Flasche)</p>"
+    },
+    "Salted Fish": {
+      "name": "Salzfisch",
+      "description": "<p>Salzfisch (Pfund)</p>"
+    },
+    "Smoked Meat": {
+      "name": "Räuchfleisch",
+      "description": "<p>Räuchfleisch (Pfund)</p>"
+    },
+    "Trail Mix": {
+      "name": "Studentenfutter",
+      "description": "<p>Studentenfutter (vier Mahlzeiten)</p>"
+    },
+    "Vegetable Pottage": {
+      "name": "Gemüsebrei",
+      "description": "<p>Gemüsebrei (drei Mahlzeiten)</p>"
+    },
+    "Wine, good": {
+      "name": "Wein, gut",
+      "description": "<p>Wein, gut (Flasche)</p>"
+    },
+    "Wine, poor": {
+      "name": "Wein, schlecht",
+      "description": "<p>Wein, schlecht (Flasche)</p>"
+    },
+    "Alchemy Kit": {
+      "name": "Alchemie-Set",
+      "description": "<p>Alchemie-Set (Destillierblase, Mörser, Phioden usw.)</p>"
+    },
+    "Bellows": {
+      "name": "Blasebalg",
+      "description": "<p>Blasebalg</p>"
+    },
+    "Bucket": {
+      "name": "Eimer",
+      "description": "<p>Eimer</p>"
+    },
+    "Crowbar": {
+      "name": "Brecheisen",
+      "description": "<p>Brecheisen</p>"
+    },
+    "Drill": {
+      "name": "Bohrer",
+      "description": "<p>Bohrer (handbetrieben)</p>"
+    },
+    "Glass Marbles": {
+      "name": "Glasmurmel",
+      "description": "<p>Glasmurmel</p>"
+    },
+    "Horn": {
+      "name": "Horn",
+      "description": "<p>Horn</p>"
+    },
+    "Hourglass": {
+      "name": "Sanduhr",
+      "description": "<p>Sanduhr</p>"
+    },
+    "Incense": {
+      "name": "Weihrauch",
+      "description": "<p>Weihrauch</p>"
+    },
+    "Ladder": {
+      "name": "Leiter",
+      "description": "<p>Leiter (3 m / 10 ft, <em>sperrig</em>)</p>"
+    },
+    "Large Sponge": {
+      "name": "Großer Schwamm",
+      "description": "<p>Großer Schwamm</p>"
+    },
+    "Large Trap": {
+      "name": "Große Falle",
+      "description": "<p>Große Falle (W6 STR-Schaden)</p>"
+    },
+    "Lens": {
+      "name": "Linse",
+      "description": "<p>Linse</p>"
+    },
+    "Lock": {
+      "name": "Schloss",
+      "description": "<p>Schloss (Schlüssel inklusive)</p>"
+    },
+    "Manacles": {
+      "name": "Handschellen",
+      "description": "<p>Handschellen</p>"
+    },
+    "Oilskin Bag": {
+      "name": "Ölhaut-Beutel",
+      "description": "<p>Ölhaut-Beutel</p>"
+    },
+    "Pick": {
+      "name": "Spitzhacke",
+      "description": "<p>Spitzhacke</p>"
+    },
+    "Rope Ladder": {
+      "name": "Strickleiter",
+      "description": "<p>Strickleiter (7,5 m / 25 ft)</p>"
+    },
+    "Saddle & Bridle": {
+      "name": "Sattel & Zaumzeug",
+      "description": "<p>Sattel & Zaumzeug</p>"
+    },
+    "Smithing Tools": {
+      "name": "Schmiedewerkzeug",
+      "description": "<p>Schmiedewerkzeug (Hammer, Zange, Amboss, <em>sperrig</em>)</p>"
+    },
+    "Spike": {
+      "name": "Kletterspitze",
+      "description": "<p>Kletterspitze (<em>Kleinzeug</em>)</p>"
+    },
+    "Stakes & Mallet": {
+      "name": "Pflöcke & Schlegel",
+      "description": "<p>Pflöcke & Schlegel (3 Pflöcke)</p>"
+    },
+    "Tar": {
+      "name": "Teer",
+      "description": "<p>Teer</p>"
+    },
+    "Tinder Box": {
+      "name": "Zündkästchen",
+      "description": "<p>Zündkästchen (Feuerstein & Stahl, <em>Kleinzeug</em>)</p>"
+    },
+    "Camel": {
+      "name": "Kamel",
+      "description": "<p>Kamel (+3 Plätze, schnell)</p>"
+    },
+    "Cart, big": {
+      "name": "Karren, groß",
+      "description": "<p>Karren, groß (+6 Plätze)</p>"
+    },
+    "Donkey": {
+      "name": "Esel",
+      "description": "<p>Esel (+4 Plätze, langsam)</p>"
+    },
+    "Horse, draft": {
+      "name": "Zugpferd",
+      "description": "<p>Zugpferd (+3 Plätze)</p>"
+    },
+    "Oxen": {
+      "name": "Ochsen",
+      "description": "<p>Ochsen (+6 Plätze, langsam)</p>"
+    },
+    "Barding": {
+      "name": "Pferderüstung",
+      "description": "<p>Pferderüstung (<em>sperrig</em>)</p>"
+    },
+    "Agate": {
+      "name": "Achat",
+      "description": "<p>Braun-cremegebändert, aus einer Geode geschnitten und glatt poliert.</p>"
+    },
+    "Alabaster": {
+      "name": "Alabaster",
+      "description": "<p>Weicher weißer Stein, an den Kanten durchscheinend. Bildhauer schätzen ihn höher als Juweliere.</p>"
+    },
+    "Amethyst": {
+      "name": "Amethyst",
+      "description": "<p>Violett, facettiert, zur Spitze hin dunkler werdend.</p>"
+    },
+    "Aquamarine": {
+      "name": "Aquamarin",
+      "description": "<p>Blasses Meerblau, makellos klar.</p>"
+    },
+    "Azurite": {
+      "name": "Azurit",
+      "description": "<p>Tiefblau und bröckelnd; häufig zu Pigment gemahlen statt getragen.</p>"
+    },
+    "Bloodstone": {
+      "name": "Blutstein",
+      "description": "<p>Dunkelgrün, mit Rot gesprenkelt, das Abergäubische für altes Blut halten.</p>"
+    },
+    "Carnelian": {
+      "name": "Karneol",
+      "description": "<p>Warmes Orange-Rot, im Gegenlicht glühend.</p>"
+    },
+    "Chrysoberyl": {
+      "name": "Chrysoberyll",
+      "description": "<p>Gelbgrün und hart genug, fast alles zu ritzen, woran er gefasst ist.</p>"
+    },
+    "Chrysoprase": {
+      "name": "Chrysopras",
+      "description": "<p>Apfelgrün und wachsig, der hellste der Chalzedone.</p>"
+    },
+    "Citrine": {
+      "name": "Zitrin",
+      "description": "<p>Honiggelb, in acht Seiten geschliffen.</p>"
+    },
+    "Diamond": {
+      "name": "Diamant",
+      "description": "<p>Klein, farblos, und im Kerzenlicht wirft er weißes Feuer.</p>"
+    },
+    "Emerald": {
+      "name": "Smaragd",
+      "description": "<p>Tiefgrün, mit den feinen inneren Fehlern, ohne die kein Smaragd auskommt.</p>"
+    },
+    "Garnet": {
+      "name": "Granat",
+      "description": "<p>Weindunkles Rot, an beiden Enden zu einer langen Spitze geschliffen.</p>"
+    },
+    "Gold Nugget": {
+      "name": "Goldnugget",
+      "description": "<p>Rohes Gold von Daumengröße, aus dem Fels herausgepickt.</p>"
+    },
+    "Hematite": {
+      "name": "Hämatit",
+      "description": "<p>Eisengrau und spiegelhell, schwer für seine Größe. Hinterlässt beim Anritzen einen roten Strich.</p>"
+    },
+    "Jasper": {
+      "name": "Jaspis",
+      "description": "<p>Opak und ziegelrot, von dunkleren Adern durchzogen.</p>"
+    },
+    "Lapis Lazuli": {
+      "name": "Lapislazuli",
+      "description": "<p>Nachtblau, mit goldenen Pyritsprenkeln überstäubt.</p>"
+    },
+    "Malachite": {
+      "name": "Malachit",
+      "description": "<p>Grün in konzentrischen Bändern, wie Ringe aus einem Baum geschnitten.</p>"
+    },
+    "Moonstone": {
+      "name": "Mondstein",
+      "description": "<p>Milchweiß, und ein blaues Licht wandert unter der Oberfläche.</p>"
+    },
+    "Obsidian": {
+      "name": "Obsidian",
+      "description": "<p>Schwarzes Vulkanglas, überall scharf, wo es gebrochen ist.</p>"
+    },
+    "Onyx": {
+      "name": "Onyx",
+      "description": "<p>Schwarz, weiß gebändert, für einen Siegelring flach gesägt.</p>"
+    },
+    "Opal": {
+      "name": "Opal",
+      "description": "<p>Feuer bewegt sich darin – grün, orange, rot – und nichts davon steht still.</p>"
+    },
+    "Pyrite": {
+      "name": "Pyrit",
+      "description": "<p>Messingfarbene Würfel, schon mehr als einmal als Gold verkauft.</p>"
+    },
+    "Quartz": {
+      "name": "Quarz",
+      "description": "<p>Ein klarer sechsseitiger Kristall, kalt in der Hand.</p>"
+    },
+    "Rhodochrosite": {
+      "name": "Rhodochrosit",
+      "description": "<p>Rosarot in Bändern aus blasserer Rose.</p>"
+    },
+    "Rose Quartz": {
+      "name": "Rosenquarz",
+      "description": "<p>Bewölktes Rosa, ungeschliffen, eine ganze Faust voll.</p>"
+    },
+    "Ruby": {
+      "name": "Rubin",
+      "description": "<p>Blutrot und oval geschliffen, die Farbe durchgehend bis zum Grund.</p>"
+    },
+    "Sapphire": {
+      "name": "Saphir",
+      "description": "<p>Kornblumenblau, oval geschliffen, makellos.</p>"
+    },
+    "Sard": {
+      "name": "Sard",
+      "description": "<p>Braunrot und ebenmäßig gefärbt, ein Stein der Bildschnitzer.</p>"
+    },
+    "Sardonyx": {
+      "name": "Sardonyx",
+      "description": "<p>Rot und weiß in flachen Bändern, dafür bestimmt, Schicht für Schicht zu durchbrechen.</p>"
+    },
+    "Spinel": {
+      "name": "Spinell",
+      "description": "<p>Leuchtend rot und facettiert, das jeder für einen Rubin hält – außer ein Juwelendiek.</p>"
+    },
+    "Star Sapphire": {
+      "name": "Sternsaphir",
+      "description": "<p>Blau, und ein sechsstrahliger Stern wandert über die Wölbung, wenn sich der Stein dreht.</p>"
+    },
+    "Tiger Eye": {
+      "name": "Tigerauge",
+      "description": "<p>Goldbraun, und der Glanz darüber wandert, wenn sich der Stein bewegt.</p>"
+    },
+    "Topaz": {
+      "name": "Topas",
+      "description": "<p>Golden, in drei Seiten geschliffen.</p>"
+    },
+    "Tourmaline": {
+      "name": "Turmalin",
+      "description": "<p>Eine Träne, an einem Ende rosa, am anderen grün.</p>"
+    },
+    "Turquoise": {
+      "name": "Türkis",
+      "description": "<p>Himmelblau, schwarz geädert, opak und leicht porös.</p>"
+    },
+    "Zircon": {
+      "name": "Zirkon",
+      "description": "<p>Farblos und von greller Helligkeit, rund geschliffen.</p>"
+    },
+    "Ashen Hourglass": {
+      "name": "Aschige Sanduhr",
+      "description": "<p>Die Asche fließt aufwärts statt nach unten. Wenn sie oben ankommt, findet sich in der Nähe oft etwas Kleines, lange Vergessenes.</p>"
+    },
+    "Book of Shy Pages": {
+      "name": "Scheues Buch",
+      "description": "<p>Seine Worte verschwinden, wenn sie laut gelesen werden. Lässt man es allein, erscheinen neue Notizen an den Rändern.</p>"
+    },
+    "Bottle of Ancient Rain": {
+      "name": "Flasche uralten Regens",
+      "description": "<p>Ein winziger, stiller Sturm wirbelt im Glas. Berührt man den Korken, füllt sich die Luft mit dem Geruch von Regen auf Erde an einem fernen Ort.</p>"
+    },
+    "Box of Last Losses": {
+      "name": "Kästchen der Verluste",
+      "description": "<p>Ein Kästchen in Schuhkartongröße. Öffnet man es, enthält es den letzten Kleinzeug-Gegenstand, den sein Besitzer verloren hat. Jedes Mal, wenn etwas zurückkommt, verschwindet etwas anderes von ihm.</p>"
+    },
+    "Buckle of the Broken Promise": {
+      "name": "Schnalle des Treuebruchs",
+      "description": "<p>Ihr Metall wird matt in der Nähe von Menschen, die einander gut kannten. Auf der Rückseite ist ein Satz eingraviert, doch sein letztes Wort fehlt.</p>"
+    },
+    "Button from the Green Coat": {
+      "name": "Knopf vom grünen Mantel",
+      "description": "<p>Ein schlichter Holzkopf, der in der Tasche eines jeden wieder auftaucht, der ihn wegwirft. Bei Kälte scheint er an einem Stück unsichtbaren Stoffs zu hängen.</p>"
+    },
+    "Clear-Sky Umbrella": {
+      "name": "Klarsky-Schirm",
+      "description": "<p>Er öffnet sich nur, wenn kein Wolkenschatten darüberzieht. Unter ihm hört man Regentropfen und gedämpfte Gespräche, wie von einem durchnässten Straßenpflaster.</p>"
+    },
+    "Clock of the Motionless Hour": {
+      "name": "Uhr der reglosen Stunde",
+      "description": "<p>Ihre Zeiger rücken nie vor, doch ihr Ticken beschleunigt sich in bestimmten Korridoren. Die angezeigte Zeit ändert sich, wann immer man die Uhr jemand anderem gibt.</p>"
+    },
+    "Coin of the Erased King": {
+      "name": "Münze des getilgten Königs",
+      "description": "<p>Die eine Seite trägt eine Krone, die andere ein absichtlich abgeschabtes Gesicht. Manchmal landet sie auf der Kante und bleibt weit länger stehen, als sie sollte.</p>"
+    },
+    "Cold Ivory Comb": {
+      "name": "Elfenbeinkamm",
+      "description": "<p>Seine Zähne verfangen sich nie im Haar. Nach seiner Benutzung hängt eine vertraute Melodie in der Luft, doch niemand erinnert sich an ihre Worte.</p>"
+    },
+    "Compass of the Broken Circle": {
+      "name": "Kompass des zerbrochenen Kreises",
+      "description": "<p>Er zeichnet perfekte Bögen, vollendet aber nie einen Kreis. Die schmale Lücke weist stets auf denselben Punkt am Horizont.</p>"
+    },
+    "Crown of Dry Branches": {
+      "name": "Krone aus dürren Zweigen",
+      "description": "<p>In Streitfragen sprießen winzige Knospen an ihr und verwelken nach einer Entschuldigung. Niemand erkennt den Baum, von dem ihre Zweige stammen.</p>"
+    },
+    "Curtain from the Closed Window": {
+      "name": "Vorhang vom geschlossenen Fenster",
+      "description": "<p>Ein durchscheinender Rest Stoff, der sich auch ohne Wind regt. An eine Wand gehalten, zeigt er eine Landschaft, die nicht wirklich dort ist.</p>"
+    },
+    "Dragon Tooth Far Too Small": {
+      "name": "Weit zu kleiner Drachenzahn",
+      "description": "<p>Weiß, gebogen und nicht größer als ein Fingernagel. Er überzieht sich mit Ruß, wann immer jemand verborgenen Schatz erwähnt.</p>"
+    },
+    "Drowned Music Box": {
+      "name": "Ertrunkene Spieluhr",
+      "description": "<p>Sie gibt beim Öffnen keinen Laut von sich, doch Wassertropfen sickern aus dem Holz. Fische in der Nähe folgen einer Melodie, die niemand sonst hören kann.</p>"
+    },
+    "Feather from a Bird Without a Sky": {
+      "name": "Feder von einem Vogel ohne Himmel",
+      "description": "<p>Auf der einen Seite blau, auf der anderen schwarz. Nahe einer Flamme schlägt ihr Schatten mit den Flügeln, während die Feder stillhält.</p>"
+    },
+    "Frosted-Glass Hammer": {
+      "name": "Hammer aus Milchglas",
+      "description": "<p>Er wirkt zerbrechlich, trägt aber keine Risse oder Splitter. Auf Stein geschlagen, klingt er wie ein Klopfen von der anderen Seite einer Tür. Im Kampf ist er eine W4-Waffe: Nach jedem Angriff damit würfle den Schicksalswürfel; bei 1–3 zerspringt er. Auf Stein schlagen bringt ihn nie zum Zerbrechen.</p>"
+    },
+    "Goblet of the Forgotten Toast": {
+      "name": "Kelch des Trinkspruchs",
+      "description": "<p>Jede hineingeschenkte Flüssigkeit nimmt den Duft eines Getränks aus der Kindheit des Trinkenden an. Nach dem ersten Schluck hebt irgendwo in der Ferne jemand anscheinend einen passenden Becher.</p>"
+    },
+    "Golden Nail": {
+      "name": "Goldener Nagel",
+      "description": "<p>Er hat keine Spitze und lässt sich nicht verbiegen. Nahe altem Bauholz gibt er den Geruch eines frisch erbauten Hauses frei.</p>"
+    },
+    "Helm of the Delayed Echo": {
+      "name": "Helm des verzögerten Echos",
+      "description": "<p>Was seine Trägerin auch sagt, es erklingt Minuten später Wort für Wort erneut, von der Stelle aus, wo es gesagt wurde. Manche der wiederholten Sätze wurden nie gesprochen.</p>"
+    },
+    "Hungry Silver Spoon": {
+      "name": "Hungriglöffel",
+      "description": "<p>Speisen, mit ihm gekostet, verlieren ihren Duft. Auf seinem Laffen prangt das Wappen einer Familie, die beteuert, so ein Ding nie besessen zu haben.</p>"
+    },
+    "Key to the Room That Isn’t There": {
+      "name": "Schlüssel zum Zimmer, das es nicht gibt",
+      "description": "<p>Ein langer Schlüssel aus schwarzem Eisen, stets warm in der Hand. Sein Knauf trägt eine seltsame Zahl – oder vielleicht ein Symbol –, das niemand deuten kann.</p>"
+    },
+    "Killer Bee Honey": {
+      "name": "Killerbienhonig",
+      "description": "<p>Dunkler Honig aus dem Stock einer Killerbiene. Jede Anwendung heilt 1W6 STR.</p>"
+    },
+    "Letter Addressed to No One": {
+      "name": "Brief an Niemand",
+      "description": "<p>Sein Siegel ist unversehrt, der Name des Empfängers leer. Dennoch erkennt jede Person die Handschrift als die eines anderen Menschen.</p>"
+    },
+    "Locket of Two Mornings": {
+      "name": "Medaillon der zwei Morgen",
+      "description": "<p>Es enthält zwei winzige Bilder desselben Feldes: eins im Sonnenaufgang, eins unter dichtem Nebel. Mitunter wandert die Sonne von einem Bild ins andere.</p>"
+    },
+    "Map of Lost Streets": {
+      "name": "Karte der Irrstraßen",
+      "description": "<p>Die Gassen darauf verschieben sich leicht, wann immer das Pergament gefaltet wird. Kein Stadtname steht irgendwo auf der Karte.</p>"
+    },
+    "Mirror of the Third Figure": {
+      "name": "Spiegel der dritten Gestalt",
+      "description": "<p>Die Spiegelung zeigt alle in der Nähe – außer der Person, die ihn hält. In bestimmten Nächten erscheint im Hintergrund eine zusätzliche Gestalt.</p>"
+    },
+    "Needle That Points Home": {
+      "name": "Nadel, die nach Hause weist",
+      "description": "<p>Auf einer flachen Oberfläche legt sie sich langsam auf eine bestimmte Richtung. Verschiedene Menschen behaupten, sie zeige auf verschiedene Orte.</p>"
+    },
+    "New-Moon Salt": {
+      "name": "Neumondsalz",
+      "description": "<p>Schwarze Kristalle in einem kleinen Behälter aus Bein. Unter Sternenlicht ordnen sich einige Körner zu unbekannten Sternbildern.</p>"
+    },
+    "Night Gardener’s Gloves": {
+      "name": "Nachtgärtnerhandschuhe",
+      "description": "<p>Sie sind mit Erde bedeckt, die sich nicht abbürsten lässt. Samen, die in ihnen gehalten werden, zittern leicht, als würden sie träumen.</p>"
+    },
+    "Notebook of Crossed-Out Names": {
+      "name": "Notizbuch durchgestrichener Namen",
+      "description": "<p>Jede Seite enthält Namenslisten, unter schwerer Tinte verborgen. Ganz unten auf der letzten Seite bleibt eine einzige leere Zeile.</p>"
+    },
+    "Pale-Skinned Drum": {
+      "name": "Bleiche Trommel",
+      "description": "<p>Sie bebt, ohne einen Laut zu geben, wann immer Pferde sich nähern. Nach Regen erscheint auf ihrer Haut ein handabdruck von der Größe eines Kindes.</p>"
+    },
+    "Portrait of the Unknown Relative": {
+      "name": "Porträt des unbekannten Verwandten",
+      "description": "<p>Es zeigt jemanden, dessen Züge vertraut erscheinen. Das gemalte Gesicht altert mit jedem Vollmond, während der Rest des Porträts unverändert bleibt.</p>"
+    },
+    "Ring for the Missing Finger": {
+      "name": "Ring für den fehlenden Finger",
+      "description": "<p>Zu groß für jeden Finger, zu klein für ein Handgelenk. Die Innenseite ist mit Strichen versehen, die Kratzern von Fingernägeln gleichen.</p>"
+    },
+    "Rope of Eleven Knots": {
+      "name": "Seil der elf Knoten",
+      "description": "<p>Jeder Knoten hat eine andere Beschaffenheit. Ein Knoten löst sich stets, wenn man zählt, doch die Summe bleibt elf.</p>"
+    },
+    "Single Velvet Shoe": {
+      "name": "Einzelner Samtschuh",
+      "description": "<p>Er passt auf keinen Fuß richtig. Über Nacht auf dem Boden gelegen, findet man ihn im Morgengrauen mit frischem Schlamm bedeckt.</p>"
+    },
+    "Spinning Top That Wakes for Sleepers": {
+      "name": "Kreisel, der für Schlafende erwacht",
+      "description": "<p>Er beginnt sich zu drehen, sobald jemand in der Nähe einschläft. Kurz vor dem Erwachen hält er an und fällt in Richtung der Person.</p>"
+    },
+    "Stone with a Pulse": {
+      "name": "Stein mit Puls",
+      "description": "<p>Glatt, schwer und leicht warm. An die Brust gedrückt, scheint sein Rhythmus einem Herzen zu folgen, das nicht das der Trägerin ist.</p>"
+    },
+    "Tear-Embroidered Handkerchief": {
+      "name": "Mit Tränen besticktes Taschentuch",
+      "description": "<p>Der Stoff ist stets feucht und riecht schwach nach Lavendel. Je nachdem, wer es hält, erscheinen in einer Ecke andere Initialen.</p>"
+    },
+    "The Blind Seamstress’s Scissors": {
+      "name": "Schere der blinden Schneiderin",
+      "description": "<p>Sie schneiden Stoff, ohne Reste zu hinterlassen. Abgeschnittene Fäden erscheinen später woanders wieder zusammengebunden.</p>"
+    },
+    "The Pilgrim’s Folding Chair": {
+      "name": "Klappstuhl des Pilgers",
+      "description": "<p>Viel zu leicht für seinen dicken Holzrahmen. Wer darin sitzt, erinnert sich flüchtig an eine Reise, die er vielleicht nie unternommen hat.</p>"
+    },
+    "Three-Holed Flute": {
+      "name": "Dreilochflöte",
+      "description": "<p>Sie bringt vier Töne hervor. Den vierten hört man nicht wirklich, doch kleine Tiere unterbrechen alles, wenn er gespielt wird.</p>"
+    },
+    "Uneven Bone Die": {
+      "name": "Beinwürfel",
+      "description": "<p>Er hat sieben Flächen, aber nur sechs Zahlen. Die unbezeichnete Fläche scheint stets nach oben zu zeigen, wenn niemand hinsieht.</p>"
+    },
+    "Vial of Liquid Shadow": {
+      "name": "Schattenphiole",
+      "description": "<p>Die dunkle Substanz darin bewegt sich gegen die Neigung des Glases. Am Mittag erscheint die Phiole fast leer.</p>"
+    },
+    "Warm-Bottomed Pouch": {
+      "name": "Beutel mit warmem Boden",
+      "description": "<p>Er fühlt sich leer an, doch etwas Kleines regt sich darin, sobald er geschlossen wird. Öffnet man ihn plötzlich, enthält er nichts als eine graue Feder.</p>"
+    },
+    "Whispering Violet Orb": {
+      "name": "Flüsternder violetter Orb",
+      "description": "<p>Violette Lichter driften unter seiner Oberfläche wie Kreaturen unter Wasser. Wer zu lange hinsieht, spürt, dass die Flüsterstimmen knapp davor sind, den eigenen Namen zu formen.</p>"
+    }
+  },
+  "folders": {
+    "Clothing": "Kleidung",
+    "Drink": "Getränke",
+    "Food": "Essen",
+    "100gp": "100 GM",
+    "25gp": "25 GM",
+    "Strange Items": "Seltsame Gegenstände",
+    "Tools & Gear": "Werkzeug & Ausrüstung",
+    "Transport": "Transport",
+    "Common (10gp)": "Gewöhnlich (10 GM)",
+    "Ornamental (25gp)": "Zierstein (25 GM)",
+    "Precious (500gp)": "Edelstein (500 GM)",
+    "Semiprecious (100gp)": "Halbedelstein (100 GM)",
+    "Valuables": "Wertgegenstände"
+  }
+}

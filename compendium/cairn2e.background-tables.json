@@ -1,0 +1,1005 @@
+{
+  "label": "background-tables",
+  "entries": {
+    "Aurifex: What alchemical marvel is the product of your latest ingenuity?": {
+      "name": "Welches alchemistische Wunderwerk ist das Produkt deines jüngsten Einfallsreichtums?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Aurifex</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Pyrophores Gel</strong> Eine zähe grüne Flüssigkeit, die bei Luftkontakt Feuer fängt und danach 8 Stunden brennt. Kann nicht gelöscht werden (1 Anwendung).</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Knallkugel</strong> Ein kopfgroßer Eisenball, gefüllt mit Sprengpulver, der beim Aufprall detoniert (W12, <em>Flächenschaden</em>, <em>sperrig</em>, 1 Anwendung).</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Aqua Vita</strong> Reinigt jede Flüssigkeit und verwandelt sie in reines Wasser. Getrunken heilt sie 1W6 STR (1 Anwendung).</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Mimikstein</strong> Zeichnet eine kurze Phrase auf, die später wiedergegeben werden kann.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Funkenstaub</strong> Entzündet sich leicht und schnell. Nützlich zum Feuermachen oder als Brandsatz (3 Anwendungen).</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Homunculus</strong> Eine tongrößige Nachbildung deiner selbst, die deinem jeden Befehl folgt. Sie hasst es, dir untertan zu sein, und beschwert sich bei jeder Gelegenheit. Jeglicher Schaden am Homunculus trifft auch dich. 3 HP, 4 STR, 13 DEX, 5 WIL</p>"
+        }
+      }
+    },
+    "Aurifex: What went horribly wrong?": {
+      "name": "Was ist furchtbar schiefgegangen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Aurifex</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Es gab eine Explosion, und du hast deinen Geruchssinn verloren. Nun, fast: Du kannst Gold aufspüren wie ein Schwein Trüffeln. Nimm eine <strong>Schnupftabak-Dose</strong> (6 Anwendungen), um die Wirkung zu dämpfen. Benutze sie täglich oder werde <em>erschöpft</em>.</p>"
+        },
+        "2-2": {
+          "description": "<p>Du hast ein geliebtes Haustzer demateralisiert. Nun folgt es dir, unsichtbar, doch allgegenwärtig. Es kann die physische Welt zwar nicht berühren, aber du kannst seine Sinne teilen. (Nimm jedes Mal eine <strong>Erschöpfung</strong>.) Es befolgt einfache Befehle.</p>"
+        },
+        "3-3": {
+          "description": "<p>Du wurdest einem langwirkenden Wahrheitsserum ausgesetzt, dessen Wirkung nie ganz verebbt. Die Störung hat ihre Vorteile: Du kannst Lügen, die du gehört hast, auch nicht wiederholen.</p>"
+        },
+        "4-4": {
+          "description": "<p>Du warst geschickt darin, <em>falsches</em> Gold zu erschaffen, das fast so gut ist. Irgendwann flog dein Betrug auf, und du musstest fluchtartig verschwinden. Nimm einen schweren <strong>Metallbarren</strong> und <strong>Goldpulver</strong> (3 Anwendungen).</p>"
+        },
+        "5-5": {
+          "description": "<p>Dein alchemistisches Rezept funktionierte, doch eine Rivalin stahl den Bauplan, bevor deine Ansprüche belegt werden konnten. Nimm einen Prototyp einer <strong>Flinte</strong> (W12, <em>Flächenschaden</em>, <em>sperrig</em>), die eine Runde zum Nachladen braucht – und eine Vorliebe für Rache.</p>"
+        },
+        "6-6": {
+          "description": "<p>Weil du herausfandst, wie man Gold in <em>Blei</em> verwandelt, wurdest du verlacht. Nimm eine Flasche <strong>Universal-Lösungsmittel</strong> (2 Anwendungen), die alles, was sie berührt, in seine Bestandteile auflöst.</p>"
+        }
+      }
+    },
+    "Backgrounds": {
+      "name": "Hintergründe",
+      "description": "<p>Würfle oder wähle bei der Charaktererschaffung einen Hintergrund und folge für die nächsten Schritte diesem Hintergrund.</p>"
+    },
+    "Barber-Surgeon: How have you \"improved\" yourself?": {
+      "name": "Wie hast du dich „verbessert\"?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Bader-Chirurg</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Du hast ein Ersatz-<strong>Auge</strong>, das Objekte vergrößern, als Fernrohr dienen und minimale Nachtsicht bieten kann. Du kannst nichts Metallisches am Kopf tragen, und starke Magnete machen dich <em>erschöpft</em>.</p>"
+        },
+        "2-2": {
+          "description": "<p>Ein <strong>Fuß</strong> besteht großteils aus Metall (Tritt, W6), und manches Schwierige Gelände gilt für dich als <strong>Einfach</strong>. Trage eine <strong>Ölkanne</strong> (6 Anwendungen). Ohne tägliche Ölung bist du <em>erschöpft</em> und laut.</p>"
+        },
+        "3-3": {
+          "description": "<p>Einer deiner Finger wurde ersetzt, der Knochen durch Gold und Eisen. Nimm einen <strong>Haken</strong> und einen <strong>Schraubendreher</strong>, die an der Fingerspitze befestigt werden können.</p>"
+        },
+        "4-4": {
+          "description": "<p>Beide <strong>Ohren</strong> wurden chirurgisch verbessert und verdreifachen dein Gehör. Du kannst dich auf ein bestimmtes Geräusch – etwa ein Gespräch – in großer Entfernung konzentrieren. Du trägst eine Ohrklappe gegen plötzliche laute Geräusche (WIL-Rettungswurf, um vorübergehende Lähmung zu vermeiden).</p>"
+        },
+        "5-5": {
+          "description": "<p>Deine <strong>Brust</strong> ist mit alchemistischen Sigillen übersät, die die <em>Haut härten</em> (1 Rüstung). Das Tragen anderer Metallrüstung hebt die Wirkung auf.</p>"
+        },
+        "6-6": {
+          "description": "<p>Ein <strong>Arm</strong> ist komplett aus Metall und wird an der Schulter abgenommen. Er lässt sich als Waffe nutzen (W8, <em>sperrig</em>, wenn nicht angebracht) und kann sich selbstständig bewegen, solange du ihn siehst.</p>"
+        }
+      }
+    },
+    "Barber-Surgeon: What rare tool is essential to your work?": {
+      "name": "Welches seltene Werkzeug ist für deine Arbeit unverzichtbar?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Bader-Chirurg</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Regenerationssalbe</strong> Lässt ein Körperteil im Lauf eines Tages nachwachsen. 1 Anwendung.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Pfropfwurm</strong> Ein kleiner Wurm, der leblose Objekte mit Körperteilen verschmelzen kann. 1 Anwendung.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Wundwachs</strong> Heilt Wunden durch Feuer oder Chemikalien (stellt volles STR wieder her), sonst nichts. 2 Anwendungen.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Quecksilber</strong> Ein Stimulans. Handle im Kampf zuerst und bestehe eine Stunde lang automatisch alle WIL-Rettungswürfe. <em>Macht abhängig</em>: STR-Rettungswurf oder werde nach 24 Stunden ohne es <em>erschöpft</em>. 4 Anwendungen.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Pneuma-Pumpe</strong> Eine transportable Eisenlunge (<em>sperrig</em>). Ermöglicht lebensrettende Operationen oder das Atmen unter Wasser.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Magnetstein</strong> Zieht gefährliche Stoffe aus dem Körper und wirkt als gewaltige magnetische Kraft.</p>"
+        }
+      }
+    },
+    "Beast Handler: What creature is your specialty?": {
+      "name": "Welche Kreatur ist deine Spezialität?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Bestienbändiger</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Spinnentiere</strong> Nimm eine <strong>Schnellflammen-Rute</strong> und eine <strong>Ölkanne</strong> (6 Anwendungen). Sie vernichtet ein großes Spinnennest in Sekunden.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Katzen</strong> Nimm einen Sack <strong>Tastenbart</strong>. Sein Geruch kann selbst die größten Katzen beruhigen und lenken.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Hunde</strong> Nimm einen Kranz <strong>Eisenhut</strong> und ein <strong>Großes Netz</strong>. Wirkt auch gegen Werwölfe.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Vögel</strong> Nimm eine <strong>Trillerpfeife</strong> (3 Ladungen). Sie kann jeden Vogelruf imitieren und sogar einfache Botschaften übermitteln. <strong>Wiederaufladung</strong>: Füttere einen Jungvogel, wie es die Mutter täte, und blase dann.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Nagetiere</strong> Nimm eine <strong>Panflöte</strong>, die einen hoheingestellten Ton erzeugt, den nur Nagetiere hören. Solange du spielst, folgen sie dir – in den Tod.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Schlangen</strong> Nimm einen <strong>Wärmestein</strong>, der unwiderstehliche Hitze erzeugt, und eine Phiole <strong>Gegengift</strong> (2 Anwendungen).</p>"
+        }
+      }
+    },
+    "Beast Handler: What have you learned from the creatures of the wild?": {
+      "name": "Was hast du von den Kreaturen der Wildnis gelernt?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Bestienbändiger</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Dass die Welt weit mehr ist, als das Auge sieht. In stiller Konzentration kannst du die Sinne einer nahegelegenen Kreatur deiner <strong>Spezialität</strong> borgen.</p>"
+        },
+        "2-2": {
+          "description": "<p>Dass das Verhalten von Bestien selbst eine Sprache ist. Wenn du Bestien deiner <strong>Spezialität</strong> beobachtest, gewinnst du Einblick in Wetterlagen und bevorstehende Katastrophen.</p>"
+        },
+        "3-3": {
+          "description": "<p>Dass der Puls der Jagd ein mächtiger Impuls ist. Du spürst, wenn Räuber in der Nähe sind – auch solche <strong>außerhalb deiner Spezialität</strong>.</p>"
+        },
+        "4-4": {
+          "description": "<p>Dass das Land selbst eine Sprache ist. Deine Chance, dich in Gelände zu verirren, das von Bestien deiner <strong>Spezialität</strong> beherrscht wird, sinkt um eine Stufe (z. B. 4-in-6 wird zu 3-in-6).</p>"
+        },
+        "5-5": {
+          "description": "<p>Dass die Sinfonie der Natur zu hören ist, wenn du dich auf ihren Rhythmus einstimmst. Von Kreaturen deiner <strong>Spezialität</strong> umgeben, warnen sie dich, bevor Gefahr naht.</p>"
+        },
+        "6-6": {
+          "description": "<p>Dass Überleben Anpassung ist. Einmal täglich kannst du eine einfache Eigenschaft einer Kreatur deiner <strong>Spezialität</strong> annehmen (Schwimmhäute, Nachtsicht usw.). Nimm jedes Mal eine <strong>Erschöpfung</strong>.</p>"
+        }
+      }
+    },
+    "Bonekeeper: What did you take from the dead?": {
+      "name": "Was hast du den Toten abgenommen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Knochenhüter</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Ein <strong>krabenförmiger Amulett</strong>. Du kannst den Toten eine Frage stellen, musst aber jedes Mal eine <strong>Erschöpfung</strong> nehmen. Sie sprechen nicht immer die Wahrheit.</p>"
+        },
+        "2-2": {
+          "description": "<p>Eine <strong>tödliche Wunde</strong> von einem befreiten <em>Wiedergänger</em>. Du wurdest geheilt, doch die Entstellung hat dich zum Ausgestoßenen gemacht. Du brauchst weder Luft noch Nahrung, bist aber weiter Schmerz und Tod unterworfen. Zwischen den Welten gefangen, sehen dich die Toten als einen ihrer Art.</p>"
+        },
+        "3-3": {
+          "description": "<p>Ein <strong>Bluteimer</strong> (<em>sperrig</em>) von einem örtlichen Totenkult. Leere ihn, um einen Diener zu erwecken, gebaut aus allem darunter Beerdigten, mit 6 HP, 1 Rüstung, 13 STR, 11 DEX, 4 WIL und Scherenschlag (W8+W8). Nur ein Diener kann gleichzeitig erweckt sein. Wird er zerstört, verlierst du dauerhaft 1W4 STR. <strong>Wiederaufladung</strong>: Fülle ihn mit dem Blut eines sterbenden Kriegers.</p>"
+        },
+        "4-4": {
+          "description": "<p>Ein <strong>Bestattungswagen</strong> (+6 Plätze, <em>langsam</em>) von deinem letzten Auftrag. Er kam mit einem störrischen alten <strong>Esel</strong> (+4 Plätze, nur +2 Plätze, wenn er den Wagen zieht).</p>"
+        },
+        "5-5": {
+          "description": "<p>Das Zauberbuch <strong>Magie entdecken</strong>, gestohlen aus einer antiken Bibliothek. Deine Familie diente einer obskuren Unterwelt-Gottheit, doch du hast deinen Glauben verloren. Obwohl verbannt, dienst du weiter – als Apostatin. Magie entdecken: Du kannst nahegelegene magische Auren sehen oder hören. <em>Wird warm, wenn in der Nähe Magie gewirkt wird.</em></p>"
+        },
+        "6-6": {
+          "description": "<p>Eine <strong>Pestmaske</strong>, nachdem ihre Trägerin der Seuche erlag, die alle auslöschte, die du einst kanntest. Sie hätten sie aufbehalten sollen.</p>"
+        }
+      }
+    },
+    "Bonekeeper: What tool was invaluable in your work?": {
+      "name": "Welches Werkzeug war in deiner Arbeit unschätzbar?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Knochenhüter</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Handschellen</strong> Alt, doch selbst gegen sehr Starke wirksam. Den Schlüssel hast du nicht.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Schwamm</strong> Angeblich aus den Überresten einer seltenen Meereskreatur. Er scheint nie auszutrocknen.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Flaschenzug</strong> Ideal, um Grabsteine, Felsen oder gar Leichen zu bewegen.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Weihrauch</strong> Perfekt für Rituale oder um Fliegen fernzuhalten. Kühlt das Blut.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Brecheisen</strong> W6 Schaden. Manchmal muss das verdammte Ding einfach auf!</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Abschreckung</strong> Zeug mit Kraft. Das verblasste Etikett lässt unklar, was genau es eigentlich <em>vertreiben</em> soll. Vielleicht alles. 3 Anwendungen.</p>"
+        }
+      }
+    },
+    "Cutpurse: What helps you steal?": {
+      "name": "Was hilft dir beim Stehlen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Beutelschneider</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Katzring</strong> 2 Ladungen. An Wänden hochklettern und sicher fallen. <strong>Wiederaufladung</strong>: Stecke den Ring an den Schwanz einer Streunerin.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Goldsammlfinger</strong> 1 Ladung. Ein Fingerling, der jeden gewöhnlichen Schlüssel nachahmt. <strong>Wiederaufladung</strong>: Bünde ihn eine Nacht mit mindestens 100 GM zusammen.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Späherglas</strong> 3 Anwendungen. Ein Monokel, das durch Wände oder andere Hindernisse sehen lässt. Es zerspringt nach der letzten Anwendung.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Süßpfeife</strong> 1 Ladung. Zuhörer hören eine sanfte, vertraute Stimme in der Ferne, der sie unweigerlich folgen. <strong>Wiederaufladung</strong>: Verliere eine liebe Erinnerung. (Beschreibe sie.)</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Schleier des Vagabunden</strong> 1 Ladung. Trage ihn, um nahtlos in Menschenmengen unterzutauchen, als simple Bettlerin. <strong>Wiederaufladung</strong>: Spende das Tagesergebnis den Armen. <em>Kleinzeug</em></p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Umgekehrter Drehwürfel</strong> 1 Anwendung. Gedreht, springt die Zeit 30 Sekunden zurück. Alle erinnern sich, was geschah.</p>"
+        }
+      }
+    },
+    "Cutpurse: What was your last big job?": {
+      "name": "Was war dein letzter großer Coup?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Beutelschneider</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Ein Adelssitz. Voll edlen Weins (+20 GM), aber sonst nicht viel. Nimm <strong>Zaunschneider</strong>.</p>"
+        },
+        "ADji6nYTyFyvAkv2": {
+          "name": "Gold"
+        },
+        "2-2": {
+          "description": "<p>Eine Bank. (Du wurdest erwischt.) Du trägst ein Mal, das nur im Feuerschein sichtbar ist, und wer es sieht, darf dich auf ein Bier einladen. Nimm <strong>Einziehbare Drähte</strong>.</p>"
+        },
+        "3-3": {
+          "description": "<p>Eine Gildenlagerhalle. Nimm eine <strong>Leiter</strong> (<em>sperrig</em>, 3 m / 10 ft) und <strong>Blendpulver</strong> (1 Anwendung).</p>"
+        },
+        "4-4": {
+          "description": "<p>Ein Geldverleiher. Jemand war vor dir da, ließ aber eine <strong>Schriftrolle</strong> des <em>Arkanauges</em> (<em>Kleinzeug</em>) zurück. <em>Arkanauges</em>: Du kannst durch ein schwebendes magisches Auge sehen, das auf dein Geheiß umherfliegt.</p>"
+        },
+        "5-5": {
+          "description": "<p>Die Wohnung eines Polizeihauptmanns. Du entkamst, liebst aber Freunde zurück. Nimm <strong>Starkes Seidenseil</strong> (9 m / 30 ft) und ein flaues Gefühl.</p>"
+        },
+        "6-6": {
+          "description": "<p>Eine Universität. Man sah dich, verfolgte dich aber nicht. Du weißt bis heute nicht, warum. Nimm <strong>Rauchpastillen</strong> (3 Anwendungen).</p>"
+        }
+      }
+    },
+    "Fieldwarden: What got the better of you?": {
+      "name": "Was hat dich überwältigt?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Feldwart</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Ein gieriger Schwarm von Schädlingen, der Feldfrüchte und Tiere gleichermaßen verschlang. Mit nichts zu verteidigen, zog du fort. Nimm <strong>Sturmsamen-Extrakt</strong> (3 Anwendungen). Eingenommen sprintest du mit vierfacher Geschwindigkeit. Danach nimmst du zwei <strong>Erschöpfungen</strong>.</p>"
+        },
+        "2-2": {
+          "description": "<p>Ein Feldgeist, erzürnt über eine schlechte Zehntabgabe. Die Flammen fraßen fast alles, und danach konntest du einen Beutel <strong>Feuersamen</strong> (W8, <em>Flächenschaden</em>, 4 Anwendungen) sammeln.</p>"
+        },
+        "3-3": {
+          "description": "<p>Ein gehörnter, zahnbewehrter Dämon, der dich fast umbrachte. Nimm ein blutgetränktes <strong>Knochenmesser</strong> (W6). Bei <strong>Kritischem Schaden</strong> ist sein nächster Angriff durch Blutkontakt <em>verstärkt</em>.</p>"
+        },
+        "4-4": {
+          "description": "<p><em>Das Verwelken</em>, eine Stängelfäule aus den <strong>Wurzeln</strong>. Nimm eine <strong>verseuchte Feldfrucht</strong> (6 Anwendungen), die jede Pflanze, die sie berührt, rasch verfaulen lässt.</p>"
+        },
+        "5-5": {
+          "description": "<p>Wölfe – oder so dachtest du. Du bist nun ein <strong>Werwolf</strong> [8 HP, 15 STR, 14 DEX, Krallen (W6+W6), Biss (W8)]. Dein WIL bleibt unverändert. Du kannst nach Belieben <em>die Gestalt wandeln</em> (einmal täglich), brauchst aber einen WIL-Rettungswurf, um zurückzuwechseln. Jeder, der deine Angriffe überlebt, muss einen WIL-Rettungswurf bestehen, um der Infektion zu entgehen.</p>"
+        },
+        "6-6": {
+          "description": "<p>Felddiebe. Nicht alle überlebten, doch du warst in der Unterzahl. Beginne mit +W4 HP und einem <strong>gekrümmten\tFalchion</strong> (W8).</p>"
+        }
+      }
+    },
+    "Fieldwarden: What tool saved your life?": {
+      "name": "Welches Werkzeug hat dein Leben gerettet?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Feldwart</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Blutranken-Peitsche</strong> W8 Schaden. Bei <strong>Kritischem Schaden</strong> saugt sie dem Ziel Blut ab; der nächste Angriff der Waffe erhält die Eigenschaft <em>Flächenschaden</em>.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Klapperwächter</strong> Eine Handkurbel-Maschine, die einen lauten Lärm erzeugt und die meisten Kreaturen verscheucht.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Sonnenstab</strong> Liefert bis zu eine Stunde reichlich Wärme und Licht. <strong>Wiederaufladung</strong>: Einen ganzen Tag in starke Sonne legen. 1 Anwendung.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Wurzelstrick</strong> Geworfen, bindet er eine Kreatur bis Wolfsgröße für kurze Zeit an den Boden.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Grünpfeife</strong> Eine kleine Flöte, die Pflanzen beruhigt und das Durchqueren dicht bewachsenen Gelände etwas erleichtert.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Immerblüh-Band</strong> Ein Stirnreif, geschmückt mit Blumen, die nie verwelken. Bei <strong>Kritischem Schaden</strong> zerfallen die Blüten zu Staub, aber du handelst, als hätte dein Rettungswurf Erfolg gehabt (STR-Verlust bleibt).</p>"
+        }
+      }
+    },
+    "Fletchwind: How did you earn your bow?": {
+      "name": "Wie hast du deinen Bogen verdient?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Fletchwind</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Krieg</strong>. Greifst du zuerst an, erhält dein Bogen für die erste Runde die Eigenschaft <em>Flächenschaden</em>.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Beizjagd</strong>. Du hältst einen Falken [3 HP, 5 STR, 16 DEX, 4 WIL, Krallen (W6+W6), Biss (W8)]. Er frisst nur lebende Beute.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Jagd</strong>. Bei der Aktion Vorräte sammeln steigt dein <strong>Rationen</strong>-Ertrag um <strong>eine Stufe</strong> (z. B. 1W4 wird zu 1W6).</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Turniere</strong>. Angriffe mit deinem Bogen sind <em>verstärkt</em>, wenn das Ziel reglos ist.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Training</strong>. Greifst du zuerst an, sind Nahkampfangriffe gegen dich <em>beeinträchtigt</em>, bis du STR-Schaden nimmst.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Kundschaften</strong>. Bei der Aktion Reisen senkt deine Anwesenheit die Verirrungs-Chance um eine Stufe (z. B. 4-in-6 wird zu 3-in-6).</p>"
+        }
+      }
+    },
+    "Fletchwind: What kind of wood is your bow made from?": {
+      "name": "Aus welchem Holz ist dein Bogen gefertigt?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Fletchwind</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Westliche Eibe</strong> (W6, <em>sperrig</em>). Lässt sich als Wuchtwaffe führen (W6). Laut.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Straubeneiche</strong> (W8, <em>sperrig</em>). Knallt auf Ziele. Bei <strong>Kritischem Schaden</strong> wird etwas abgerissen.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Schirmkiefer</strong> (W6, <em>sperrig</em>). Erzeugt täglich eine Anwendung <strong>zähen Harzes</strong>. Das Harz ist hochexplosiv.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Weißesche</strong> (W6, <em>sperrig</em>). Kann im Nahkampf einen Schild ersetzen (+1 Rüstung).</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Gestreifter Bambus</strong> (W6). Zusammenschiebbar; braucht nur einen Platz (aber beide Hände).</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Flatterulme</strong> (W6, <em>sperrig</em>). Schützt die Trägerin vor Giften, solange sie ihn hält.</p>"
+        }
+      }
+    },
+    "Foundling: What keeps bad tidings at bay?": {
+      "name": "Was hält böse Vorboten fern?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Findelkind</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Pfeifenkraut</strong> Dein Glückstalisman. Nach einem Zug fließen Gespräche leichter. 6 Anwendungen.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Stinktopf</strong> Zerspringt der Topf, wird ein so übler Geruch freigesetzt, dass alle in der Nähe einen STR-Rettungswurf bestehen oder sofort erbrechen müssen. 1 Anwendung.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Efeuwurm</strong> Ein grüner Wurm, oft für Unkraut gehalten. Ganz verschluckt, saugt er Gifte und Fäulnis aus dem Körper, bevor er auf dem üblichen Weg wieder hinauswill.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Traumstein</strong> Ein glatter blauer Stein, der Träume klarer zurückruft. Übermaß kann Traum-Sucht verursachen.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Ertrinkens-Rute</strong> Ein fingergroßer Holzstab, der sich bei jedem vollständigen Eintauchen in Wasser verdoppelt. Er schrumpft nicht wieder.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Hasenfuß</strong> Du trugst ihn, als man dich fand. Man sagt, es sei der Fuß der Frau, die dich zurückließ, und dass er dich vor Hexenmagie schützt. <em>Kleinzeug</em>.</p>"
+        }
+      }
+    },
+    "Foundling: Who took you in?": {
+      "name": "Wer hat dich aufgenommen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Findelkind</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Ein alter Jäger. Ihr wart beide glücklich, bis alles endete. Nimm einen <strong>verwitterten Langbogen</strong> (W8, <em>sperrig</em>) und einen <strong>Lederwams</strong> (1 Rüstung).</p>"
+        },
+        "hQc5nODhFzhzknIo": {
+          "name": "Lederwams"
+        },
+        "2-2": {
+          "description": "<p>Eine verschrumpelte Apothekerin, die dir die Heilkunst lehrte, doch klinisch-distanziert blieb. Nimm ein <strong>Heilsalbe</strong> (stellt W4 STR wieder her, 1 Anwendung).</p>"
+        },
+        "3-3": {
+          "description": "<p>Ein Druide, der dir die Sprache der Bäume lehrte. Als es Zeit war zu gehen, nahmst du nur einen <strong>knorrigen Stab</strong> (W8) mit und ließest das Versprechen zurück, eines Tages wiederzukehren.</p>"
+        },
+        "4-4": {
+          "description": "<p>Ein schroffer Schmied aus einem verschlafenen Flussstädtchen. Man hielt dich stets auf Abstand. Nun ist die Esse kalt, und du bist weitergezogen. Nimm einen <strong>Schmiedeschurz</strong> (<em>Kleinzeug</em>) und eine <strong>oft-flickierte Kettenrüstung</strong> (2 Rüstung, <em>sperrig</em>).</p>"
+        },
+        "5-5": {
+          "description": "<p>Eine Truppe fahrender Gaukler. Eine Weile waren sie wie Familie. Eines Morgens waren sie fort, ohne Erklärung. Nimm ein <strong>Geschichtenbuch</strong>, einen <strong>Dolch</strong> (W6) und einige brennende Fragen.</p>"
+        },
+        "6-6": {
+          "description": "<p>Die Nonnen eines abgeschiedenen Waldklosters. Als ihre Regeln zu streng wurden, hastest du davon. Nimm eine <strong>Klostergewandung</strong> (warm, <em>Kleinzeug</em>) und ein <strong>Zauberbuch</strong> der <em>Pflanzen bannen</em>. Pflanzen bannen: Nahegelegene Pflanzen und Bäume gehorchen dir und können sich langsam bewegen. <em>Blätter wachsen entlang des Buchrückens; es riecht schwach nach Verfall.</em></p>"
+        }
+      }
+    },
+    "Fungal Forager: What keeps you sane, even in utter darkness?": {
+      "name": "Was hält dich bei Verstand, selbst in völliger Dunkelheit?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Pilzsucher</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Leuchtschnecke</strong> Strahlt ein weiches biolumineszentes Licht. Frisst alle zwei Tage eine Ration.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Seidenschal</strong> Eine wetterfeste Decke, die auch ein Feuer löschen kann, ohne Schaden zu nehmen.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Milchblume</strong> Ein sanftes Stimulans. Gekaut, bist du für die nächste Stunde immun gegen <em>Panik</em>. 3 Anwendungen.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Lichtkompass</strong> Summt leise, je näher er der Sonne kommt. Irgendwann wird der Lärm unerträglich laut.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Trampeltier-Plane</strong> Ein zäher, wetterfester Stoff, gut zum Aufhängen in Bäumen. Darinnen hast du +1 Rüstung.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Mineralfett</strong> Hilft, einen Edelstein, ein Werkzeug oder ein Glied aus einem engen Spalt zu lösen. Hochexplosiv. 3 Anwendungen.</p>"
+        }
+      }
+    },
+    "Fungal Forager: What strange fungus did you discover?": {
+      "name": "Welchen seltsamen Pilz hast du entdeckt?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Pilzsucher</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Schreiende Trompete</strong>. Bei Licht schreit sie so laut, dass alle Angriffe in der Nähe (auch deine eigenen) <em>beeinträchtigt</em> sind. 2 Anwendungen.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Fackelpilz</strong>. Zerrieben, erzeugt er eine Weile kaltes blaues Licht. 2 Anwendungen.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Mörder-Trüffel</strong>. Durchdringend, hochgiftig und sehr selten (Attentätern 50 GM wert). Praktisch überall verboten. 1 Anwendung.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Höllenhut</strong>. Sein Aroma verursacht heftige Übelkeit und Erbrechen. So oder so räumt er den Raum. Abgefüllt (1 Anwendung).</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Sprossenbecher</strong>. Eingenommen, schrumpfst du auf Mausgröße. (Dein Gepäck bleibt.) Innerhalb einer Stunde kehrst du in normaler Größe zurück – oft ruckweise. 1 Anwendung.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Wurzelblume</strong>. Ein weißer Pilz, der nur auf Leichen tief unter der Erde wächst. Eingenommen, stellt er W6 WIL wieder her. Du wirst von den Toten und ihren Geschichten träumen. 1 Anwendung.</p>"
+        }
+      }
+    },
+    "Greenwise: How has the Wood failed you ?": {
+      "name": "Wie hat dich der Wald im Stich gelassen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Waldkundiger</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Ein reizbarer Waldgeist verfluchte dich für einen Diebstahl und stempelte dich zur Feindin ihrer Art. Nimm einen <strong>Bezoar-Stein</strong>. Eingenommen, heilt er jedes Gift (1 Anwendung, außer wieder ausgegraben).</p>"
+        },
+        "2-2": {
+          "description": "<p>Eine enge Freundin verschwand im Wald. Nun siehst du ihr Gesicht in jedem Gebräu. Nimm ein <strong>Schlaftrunk-Konkoktion</strong> (3 Anwendungen).</p>"
+        },
+        "3-3": {
+          "description": "<p>Du wurdest vergiftet und verlorst Geschmacks- und Geruchssinn. Du erträgst jetzt üble Dämpfe und trägst stets <strong>Gegengift</strong> (2 Anwendungen) bei dir.</p>"
+        },
+        "4-4": {
+          "description": "<p>Deine radikalen Experimente färbten deine Haut grün; du nährst dich nun wie eine Pflanze. Du brauchst keine <strong>Rationen</strong>, doch ein Tag ohne genug Sonnenlicht und Wasser lässt dich <em>erschöpft</em> werden.</p>"
+        },
+        "5-5": {
+          "description": "<p>Deine preisgekrönte Leichenblume gewann einen örtlichen Wettstreit und tötete sogleich eine Jurorin. Du flohest – nicht ohne das <strong>Preisgeld (100 GM)</strong> und einen Haftbefehl.</p>"
+        },
+        "NafIwkWXnt5vkZ4D": {
+          "name": "Gold"
+        },
+        "6-6": {
+          "description": "<p>Du erschufst einen Kräftigungstrunk, der auch versehentliche Unfruchtbarkeit verursacht. Nimm einen <strong>Heiltrank</strong>, der STR vollständig wiederherstellt. Nur du kennst seine ungewollten Nebenwirkungen.</p>"
+        }
+      }
+    },
+    "Greenwise: What keeps you safe while in the Wood?": {
+      "name": "Was hält dich im Wald sicher?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Waldkundiger</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Zunderschwamm</strong> Ein zinnoberroter Pilz, der leicht Feuer fängt. 3 Anwendungen.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Rittersporn</strong> Bis zu eine Stunde unter Wasser atmen. 1 Anwendung, in Teildosen teilbar.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Klebriger Stängel</strong> Ein holziges Rohr, das beim Kauen zu einem dauerhaften Klebstoff härtet. 2 Anwendungen.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Irrlicht-Laterne</strong> In Schmiedeeisen gefangen; gibt schwaches Licht, solange das Irrlicht sich von nahem Schmerz und Angst nähren kann.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Samenbombe</strong> Ein Sack voll Samen, die beim Aufprall explodieren. W6 Schaden (<em>Flächenschaden</em>, 3 Anwendungen).</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Dornenrebe</strong> Verstrickt jede Kreatur bis Pferdegröße (STR zum Freireißen). Wiederverwendbar.</p>"
+        }
+      }
+    },
+    "Half Witch: What concoction do you carry, and what rare ingredients did you gather to make it?": {
+      "name": "Welchen Trank trägst du bei dir, und welche seltenen Zutaten hast du dafür gesammelt?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Halbhexe</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Wiedergeburtsasche</strong> Reste eines Rindengeists. Gestreut, entfacht sie ein erloschenes Feuer neu oder erweckt eine Kreatur, die erst Augenblicke zuvor starb. 3 Anwendungen.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Glanz-Feder</strong> Eine Feder eines Feuer-Vogels. Lässt jede Kreatur überzeugend als jemand (oder etwas) anderes erscheinen. 1 Anwendung.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Weißdorn-Samen</strong> Eine Eichel von der anderen Seite, zur Frühjahrstaggleichnacht gesammelt. Gepflanzt, treibt sie eine üppige Behausung, die am nächsten Monduntergang zusammentstürzt. 1 Anwendung.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Steinbaum-Harz</strong> Für Blut erhandeltes Harz. Auf jede Oberfläche gerieben, härtet es (+1 Rüstung). 3 Anwendungen.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Nachtstaub</strong> Aus dem rituellen Verbrennen von sechs Eulen gewonnen. In die Luft geworfen, wird der Tag eine Weile lang zur Nacht. 2 Anwendungen.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Hexenstein</strong> Aus einem Fluss geborgen, der von der <em>anderen Seite</em> herabfließt. Aus seiner Eisenbüchse genommen, kann er die Wirkung eines aktiven magischen Effekts einsaugen. Wird er zerstört, wird die Magie frei. 1 Anwendung.</p>"
+        }
+      }
+    },
+    "Half Witch: What did you bring back from the Unseelie Court?": {
+      "name": "Was hast du vom Unseelie-Hof mitgebracht?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Halbhexe</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Eine <strong>Schwarzrosen-Fiedel</strong> (<em>sperrig</em>). Ihre Musik ruft bei nahegelegenen Sterblichen tiefe Trauer und Bewegungslosigkeit hervor. (Andere sind nur fasziniert.) Du kannst nicht spielen.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Papierbeine</strong>. Du bist extrem leicht und kannst einige Stockwerke fallen, ohne dir zu schaden. Nur einreißen oder nass werden solltest du sie nicht lassen.</p>"
+        },
+        "3-3": {
+          "description": "<p>Ein <strong>Lebendiger Nachtmahr</strong>, der in dir wohnt, doch wann immer du in Gefahr bist, erscheint er. Er hat deine <strong>Attribute</strong> und <strong>HP</strong> und greift mit Krallen an (W8+W8). Bei <strong>Kritischem Schaden</strong> verschwindet er (nimm 1W4 WIL-Schaden) und erscheint beim nächsten Vollmond wieder.</p>"
+        },
+        "4-4": {
+          "description": "<p>Ein <strong>Rabe als Vertrauter</strong> [8 HP, 3 STR, 11 DEX, 13 WIL, Schnabel (W6)]. Er spricht wie ein intelligentes Wesen und ist dir bedingungslos ergeben.</p>"
+        },
+        "5-5": {
+          "description": "<p>Ein <strong>Dorn aus dem Gestrüpp</strong>. Er durchbohrt jedes organische Material (ziemlich schmerzhaft), hinterlässt beim Herausziehen aber keine Spur des Eindringens.</p>"
+        },
+        "6-6": {
+          "description": "<p>Der <strong>Wahre Name</strong> eines Feenwesens. Nutze ihn, um ihre Besitzerin für einen großen Dienst zu rufen – nur einmal. Beim richtigen Käufer könnte er auch einen hohen Preis erzielen.</p>"
+        }
+      }
+    },
+    "Hexenbane: To which order do you belong?": {
+      "name": "Welchem Orden gehörst du an?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Hexenbann</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Orden des Kreuzwegs</strong>. Nimm einen <strong>Taschen-Leysucher</strong>. Er weist auf nahe Leylinien und andere Quellen arkaner Macht. Verlierst du ihn, ist die Strafe der Tod.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Orden des Blutenden Sterns</strong>. Nimm einen <strong>Sterneneisen-Streitkolben</strong> (W8). Er schimmert schwach im Dunkeln und wird in der Gegenwart von Hexerei sehr heiß.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Orden des Glas-Sigills</strong>. Nimm ein Kurzschwert (W8) und ein Kettenhemd (2 Rüstung, <em>sperrig</em>). Du hast in den meisten Städten Kontakte (je ländlicher, desto besser), die Beistand, Essen oder gar Waffen geben.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Orden des Blinden Auges</strong>. Nimm eine <strong>Leerglasscherbe</strong>. Sieh durch sie, um unsichtbare Zeichen, Kreaturen und andere magische Effekte zu sehen. Danach verlierst du für eine Stunde die Nutzung deines Auges (du bist <em>erschöpft</em>).</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Orden von Canaas</strong>. Einmal täglich kannst du dich in einen Wolf verwandeln. Nimm eine <strong>Quecksilber-Kette</strong>. Ohne sie kannst du nicht zurückwechseln.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Orden des Stillen Schleiers</strong>. Nimm einen <strong>Löschstein</strong> (2 Anwendungen), in Jute gewickelt. Löscht jede nahegelegene Flamme, sobald er Luft ausgesetzt wird.</p>"
+        }
+      }
+    },
+    "Hexenbane: What was your vow?": {
+      "name": "Welches Gelübde hast du abgelegt?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Hexenbann</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Ehrlichkeit</strong>. Wähle einen <strong>Waffentyp</strong> (wuchtig, Klinge usw.). Angriffe dieses Typs gegen dich sind <em>beeinträchtigt</em>. Brichst du das Gelübde, verlierst du W4 WIL.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Armut</strong>. Du trägst das <em>Zerlegen</em>-<strong>Zauberbuch</strong>. Nur du kannst es verwenden. Brichst du das Gelübde, explodiert es (W12 STR-Schaden). Zerlegen: Jedes deiner Körperteile lässt sich ohne Schmerz ab- und wieder annehmen. Du behältst die Kontrolle. <em>Regeneriert zerrissene oder beschädigte Seiten.</em></p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Selbstlosigkeit</strong>. Du bist immun gegen <strong>geist-verändernde Magie</strong> wie <em>Bezaubern</em>, <em>Hass</em>, <em>Raserei</em> und so weiter. Brichst du das Gelübde, verlierst du W6 WIL.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Gnade</strong>. Wähle einen <strong>Waffentyp</strong> (wuchtig, Klinge usw.). Angriffe mit dieser Waffe sind <em>verstärkt</em>. Brichst du das Gelübde, kannst du diesen Waffentyp nie wieder verwenden.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Barmherzigkeit</strong>. Einmal täglich kannst du eine <strong>Erschöpfung</strong> abschütteln. Brichst du das Gelübde, verlierst du dauerhaft einen Inventarplatz.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Tapferkeit</strong>. Verursachst du zum ersten Mal <strong>Kritischen Schaden</strong>, erhältst du +W4 HP, bis zum Kampfende; danach fällt die Grenze auf den alten Wert. Brichst du das Gelübde, stirbst du.</p>"
+        }
+      }
+    },
+    "Jongleur: What happened at your final performance?": {
+      "name": "Was geschah bei deiner letzten Vorstellung?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Gaukler</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Trotz deiner Ausbildung in den tödlichen Künsten starb ein Schauspieler, und man beschuldigte dich. Nimm einen leichten <strong>Degen</strong> (W6) und eine falsche Identität.</p>"
+        },
+        "InhUfkEr5cwJUK5X": {
+          "name": "Degen"
+        },
+        "2-2": {
+          "description": "<p>Das Publikum liebte dein Ohrwurmlied über einen Adeligen und seine romantischen Fehltritte. Der Adelige selbst weniger. Nimm das <em>Gedanken lesen</em>-<strong>Zauberbuch</strong> und einen Haftbefehl. Gedanken lesen: Du kannst die Oberflächengedanken nahegelegener Kreaturen hören. <em>Langfristiges Besitzen kann die Lesende die Gedanken anderer für ihre eigenen halten.</em></p>"
+        },
+        "3-3": {
+          "description": "<p>Deine Debüt-Komposition reduzierte das Publikum zu stammelndem Wirrwarr, das von hellen Kreaturen murmelte, die vom Nachthimmel herabstiegen. Später fiel dir auf, dass die Noten Sternbildern glichen. Nimm ein <strong>Buch über Astronomie</strong> – und viele Fragen.</p>"
+        },
+        "4-4": {
+          "description": "<p>Du verhöhntest einen vergessenen Trickgott und wurdest dafür verflucht. Du sprichst nur noch in perfekten Reimen. Ironischerweise hat das deine Popularität bei deinesgleichen nur gesteigert. Nimm ein <strong>Synonymwörterbuch</strong> (20 GM). Ohne es bist du <em>erschöpft</em>.</p>"
+        },
+        "5-5": {
+          "description": "<p>Du wurdest bei einem Unfall auf der Bühne vernarbt. Das Publikum jubelte, es hielt es für Teil der Show. Nimm abgenutzte <strong>Bühnenrüstung</strong> (1 Rüstung), eine unvergessliche Narbe und eine Angst vor Applaus.</p>"
+        },
+        "6-6": {
+          "description": "<p>Deine respektablen Puppenspielkünste wurden nur von deiner Nachahmungsgabe übertroffen. Du warst so gut, dass man dich buchstäblich als Hexe brandmarkte und verbannte. Nimm eine <strong>unheimliche Handpuppe</strong> und einen <strong>Hasenschädel</strong> (<em>Kleinzeug</em>), der vor Bezauberung schützt.</p>"
+        }
+      }
+    },
+    "Jongleur: What trinket were you unable to leave behind?": {
+      "name": "Welchen Tand konntest du nicht zurücklassen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Gaukler</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Falsche Fesseln</strong> Bequeme, echt aussehende Fesseln. Nur du kennst den Trick, um ihnen zu entkommen.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Taschentheater</strong> Ein Satz kleiner Puppen und eine Klapübühne. Gut für schnelle Ablenkungsmanöver.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Geister-Violine</strong> Eine dunkelgraue Violine, die eine geisterhafte Weise spielt, gespiegelt von einem unsichtbaren, fernen Zwillingsinstrument.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Tragische Erzählungen</strong> In gutem Hause verboten; dieses Buch wird zum Ende hin immer derber und gruseliger. <strong>100 GM</strong> wert.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Mythos-Maske</strong> Eine Gipsmaske, die einem das Antlitz eines Ungeheuers verleiht. Einmal abgenommen, nimm eine <strong>Erschöpfung</strong>.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Wiederbrech-Glas</strong> Ein Weinglas, das mehrfach zerbrochen werden kann und sich nach 24 Stunden neu formt. Macht ein wirklich lautes Geräusch.</p>"
+        }
+      }
+    },
+    "Kettlewright: What is your trade?": {
+      "name": "Was ist dein Gewerbe?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Kesselschmied</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Du baust kleine Apparaturen für örtliche Gilden (und fragst nicht zu viel). Beginne mit 40 GM extra und einem Steckbrief mit deinem Gesicht. Mit Zeit und Material öffnest du fast jede Tür oder jedes Gewölbe.</p>"
+        },
+        "OWZvxSwC7D8qCe32": {
+          "name": "Gold"
+        },
+        "2-2": {
+          "description": "<p>Du handelst mit Haushaltswaren und Werkzeug und feilst deine Waren Städtern im ganzen Land an. Nimm Waren im Wert von 20 GM aus der Ausrüstungs-Tabelle. Du sprichst fließend die <em>Reisendensprache</em>.</p>"
+        },
+        "88bvIeq00E05GvCA": {
+          "name": "Gold"
+        },
+        "3-3": {
+          "description": "<p>Du warst Militär-Schmelzer, bis der Frieden dein Auskommen zerstörte. Nimm einen <strong>Schmelzhammer</strong> (W10, <em>sperrig</em>) und einen <strong>Zinnhelm</strong> (+1 Rüstung). Mit Zeit und Material kannst du Rüstung reparieren.</p>"
+        },
+        "4-4": {
+          "description": "<p>Du verkaufst seltene und hochwertige Waren an Klöster wie Adel. Nimm ein <strong>Fernrohr</strong>, eine <strong>Halskette</strong> (<em>Kleinzeug</em>) im Wert von 20 GM und eine <strong>Schriftrolle</strong> der Spiegelwand (<em>Kleinzeug</em>).</p>"
+        },
+        "5-5": {
+          "description": "<p>Du bietest Schutz als Dienstleistung und achtest still auf Bedrohungen, während Geld die Hand wechselt. Beginne mit <strong>+W4 HP</strong> und trage ein <strong>Langschwert</strong> (W10, <em>sperrig</em>) und ein <strong>Gambeson</strong> (+1 Rüstung).</p>"
+        },
+        "6-6": {
+          "description": "<p>Du plünderst Rohzinn und -eisen von Schlachtfeldern und ziehst noch zuckenden Leichen die Zähne. Beginne mit einem jungen <strong>Esel</strong> (+4 Plätze, langsam), einer <strong>Armbrust</strong> (W8 Schaden, <em>sperrig</em>) und einer <strong>Säge</strong> (W6).</p>"
+        }
+      }
+    },
+    "Kettlewright: What never fails to get you out of trouble?": {
+      "name": "Was hilft dir nie aus der Patsche? — Was versagt nie, dich aus Schwierigkeiten zu ziehen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Kesselschmied</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Feuereier</strong> Sechs kleine Pellets aus Meersalz, Holz und Tonschutt. Sie explodieren bei geringer Hitze (W8, <em>Flächenschaden</em>), doch die Flammen verlöschen schnell.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Schwarzer Teer</strong> Vielseitig: klebrig und hochentzündlich. 3 Anwendungen.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Stachelstiefel</strong> Knackt Schädel (W8) so leicht wie Eis und Matsch. Reisen geht etwas langsamer, dafür leichter.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Klempnerpaste</strong> Verschließt jede faustgroße Öffnung. 3 Anwendungen.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Feuerwerk</strong> Ein blendendes, wenn auch gefährliches Schauspiel. genug Sprengstoff, um einen Finger oder drei zu verlieren. 2 Anwendungen übrig.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Aaskatze</strong> Ein geschicktes Tier, klein genug für deinen Rucksack (<em>sperrig</em>), doch stark genug, kleinere Räuber zu verscheuchen. Braucht täglich eine <strong>Ration</strong> – und die muss Fleisch sein.</p>"
+        }
+      }
+    },
+    "Marchguard: What do you carry as proof of your Oath?": {
+      "name": "Was trägst du als Beweis deines Eides bei dir?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Marktwache</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Prunk-Nadel</strong> Eine metallene Ehrennadel der Wache. Sie öffnet Türen, hinterlässt aber eine Spur. <em>Kleinzeug</em>.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Eid-Kompass</strong> Weist nicht nach Norden, sondern zum nächsten Mitglied der Wache. Er verrät dir auch, wenn eines naht.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Ziehsteine</strong> Zwei pechschwarze Steine. Getrennt, rollen sie stets aufeinander zu.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Feuerflasche</strong> Hochprozentig, doch seltsam köstlich. Geworfen, erzeugt sie eine 3 m (10 ft) hohe Flammenwand, die nach wenigen Minuten erlischt. 1 Anwendung.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Schmerzband</strong> Berühre eine verletzte Kreatur, um ihre Wunden auf dich zu übertragen. (Tausche ihren verlorenen STR gegen deinen eigenen.) <strong>Wiederaufladung</strong>: Trage den Ring bei vollkommener Gesundheit. Du verlierst dauerhaft 1 STR. <em>Kleinzeug</em>.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Wildschützen-Weh</strong> Stark riechende Pfeile (3 Anwendungen). Der Geruch ist kräftig genug, um mühelos damit zu verfolgen.</p>"
+        }
+      }
+    },
+    "Marchguard: Why did you take the Oath?": {
+      "name": "Warum hast du den Eid geschworen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Marktwache</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Deine Familie hat eine lange Diensttradition, und du wurdest früh darin geschult, in der Wildnis zu überleben. Bei der Aktion Vorräte sammeln steigt dein Ertrag um eine Stufe (z. B. 1W4 > 1W6).</p>"
+        },
+        "2-2": {
+          "description": "<p>Als Sträflingin war der Eid ein schlichtes Mittel, der Strafe zu entgehen. Nimm ein Set <strong>Dietriche</strong> und den <strong>Schlüssel</strong> (<em>Kleinzeug</em>) zu einem Versteck.</p>"
+        },
+        "zkHdPGuJ0zBSvHly": {
+          "name": "Dietriche"
+        },
+        "3-3": {
+          "description": "<p>Adelig geboren, tratest du bei, um Familienproblemen zu entfliehen. Nimm eine <strong>Gänzfell-Plane</strong> (fasst zwei), die du vor dem Aufbruch stahlst.</p>"
+        },
+        "4-4": {
+          "description": "<p>Als deine Familie alles verlor, schwörst du den Eid, um nicht zur Last zu fallen. Nimm zusätzliche <strong>Rationen</strong> (3 Anwendungen) und einen Satz <strong>Wurfmesser</strong> (W6).</p>"
+        },
+        "5-5": {
+          "description": "<p>Eine <strong>Marktwache</strong> rettete dein Leben, und du ließest dich inspirieren, ihrer Ränge beizutreten. Nimm eine <strong>Schlingenfalle</strong> und ein <strong>Skizzenbuch</strong> voll detaillierter Zeichnungen.</p>"
+        },
+        "6-6": {
+          "description": "<p>Du warst an einem dunklen Ort und beschlossestr, dass dein Leben etwas Richtung brauchte. Ob es die richtige Wahl war, weißt du bis heute nicht so recht. Nimm einen <strong>Ölhaut-Mantel</strong> und <strong>Kartenpapier</strong>.</p>"
+        }
+      }
+    },
+    "Mountebank: How was your fraud exposed?": {
+      "name": "Wie kam dein Betrug ans Licht?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Marktschreier</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Deine „Patienten“ berichteten trotz fehlender Ausbildung fortlaufend von wundersamen Genesungen. Beginne mit <strong>Bandagen</strong> (3 Anwendungen) und einem Talent zum Heilen.</p>"
+        },
+        "2-2": {
+          "description": "<p>Nach der Verführung eines wohlhabenden Gönners engagierte dessen Familie eine Verbrecherbande, um dich zu holen. Du entkamst und musst dich versteckt halten. Beginne mit <strong>Schönheitscreme</strong>, 2 Anwendungen. Aufgetragen, wirkst du für die nächsten 12 Stunden unwiderstehlich schön.</p>"
+        },
+        "3-3": {
+          "description": "<p>Du warst Händlerin falscher Prophezeiungen, doch als eine eintraf, zog sie unerwünschte Aufmerksamkeit auf sich. Würfle auf der Tabelle <strong>Omen</strong> und behalte das Ergebnis für dich. Beginne mit einem versteckbaren <strong>Messer</strong> (W6, <em>Kleinzeug</em>).</p>"
+        },
+        "4-4": {
+          "description": "<p>Dein letzter Stunt zerstörte ein unbezahlbares Artefakt und verletzte ein Dutzend Schaulustige. Beginne mit einer <strong>Hauptmanns-Uniform</strong> (<em>Kleinzeug</em>), einem <strong>Zeremonienschwert</strong> (harmlos, 60 GM) und einem <strong>Blumenstrauß</strong>.</p>"
+        },
+        "5-5": {
+          "description": "<p>Eine Feldhexe verfluchte dich, weil du unschuldige Dorfleute hereinlegtest. Magie wirkt in deinen Hunden unvorhersehbar (<em>WIL-Rettungswurf, um ein Desaster zu vermeiden</em>). Bist du Ziel eines Zaubers, gilt dasselbe für seine Anwenderin.</p>"
+        },
+        "6-6": {
+          "description": "<p>Deine „Séancen“ mit den Toten waren in Wahrheit ein Betrug mit einem geschickt versteckten Zauberbuch der Klangillusion. Unweigerlich fand ein Gönner dein Geheimnis. Beginne mit dem <strong>Zauberbuch</strong> und einem Bündel Tücher. Klangillusion: Du erschaffst trügerische Klänge, die aus einer Richtung deiner Wahl zu kommen scheinen. <em>Erzeugt den Tag über zufällige, gelegentlich ungelegene Geräusche.</em></p>"
+        }
+      }
+    },
+    "Mountebank: What keepsake could always identify you?": {
+      "name": "Welches Andenken könnte dich immer identifizieren?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Marktschreier</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Königswappen</strong> In den Adel geboren, wähltest du ein anderes Leben. Das Wappen gewährt Zugang – und meldet deiner Familie stets deinen Aufenthaltsort. <em>Kleinzeug</em>.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Wunderöl</strong> Ein stinkendes, rutschiges Gebräu. 2 Anwendungen.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Chirurgen-Seife</strong> Ein Block aus Lauge und Asche, der die Haut kurzzeitig transparent macht und die Anatomie darunter enthüllt. 4 Anwendungen.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Ziegenpulver</strong> Aus der Plazenta eines Zickleins gewonnen. Heilt vorübergehend jedes Leiden, doch die Symptome kehren innerhalb weniger Stunden zurück.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Verfluchter Saphir</strong> <strong>200 GM</strong> wert; kehrt kurz nachdem du ihn ausgibst auffällig in deine Tasche zurück. Du scheinst ihn nicht loszuwerden.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Alchemistische Tätowierung</strong> Ein Hund, eine Katze oder ein Vogel, der deinen Körper auf Zuruf verlassen kann. Er folgt deinen Befehlen, so gut er kann, und kann seine Verletzungen (<em>als STR-Verlust</em>) auf dich zurückübertragen. <em>Kleinzeug</em>.</p>"
+        }
+      }
+    },
+    "Outrider: What breed is your horse?": {
+      "name": "Welche Rasse ist dein Pferd?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Vorreiter</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Schwerer Destrier</strong> Ein Tier für den Krieg, eine einschüchternde Kreatur. 8 HP, 1 Rüstung, Huftritte (W10+W10), +2 Plätze.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Schwarzbeiniger Dandy</strong> Robust und anpassungsfähig. <strong>Schwieriges</strong> oder <strong>Perilöses</strong> Gelände ist eine Stufe leichter. 6 HP. +4 Plätze.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Flusszahn</strong> Beeindruckend stark, trägt er schwere Lasten. 4 HP. +6 Plätze (nur +2 Plätze, wenn zwei Personen reiten).</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Scheckiger Cob</strong> Intelligent; versteht einfache Befehle und hat sogar Gespür für Gefahr. 6 HP. +4 Plätze.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Linden-Schimmel</strong> Hochtrainiert und wendig; in der Not vollführt er kunstvolle Manöver (kein GES-Rettungswurf zum Fliehen). 4 HP. +3 Plätze.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Streunender Nebelhengst</strong> Wild, doch sehr schnell (auch in <strong>Schwierigem</strong> Gelände). Reitet leicht. 4 HP. +2 Plätze.</p>"
+        }
+      }
+    },
+    "Outrider: What personal code or principle do you uphold?": {
+      "name": "Welchen persönlichen Kodex oder Grundsatz folgst du?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Vorreiter</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Kein unschuldiges Blut</strong>: In deiner Obhut kommt kein Unbeteiligter zu Schaden. Nimm einen <strong>Standhaften Buckler</strong> (+1 Rüstung). Solange du diesen Schild hältst und mit beiden Füßen auf festem Grund stehst, kannst du nicht fortbewegt werden.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Ehre den Werkzeugen des Todes</strong>: Waffen sind zu respektieren und zu pflegen. Nimm einen <strong>Wurmknochen-Wetzstein</strong>. Nach einer halben Stunde rituellen Schärfens sind Angriffe mit der Waffe <em>verstärkt</em>, bis STR-Schaden verursacht wird.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Bis in den Tod, immer</strong>: Du weichst keinem Kampf, egal die Chancen. Nimm eine <strong>Todespfeife</strong>, 1 Ladung. Ihr Schrei verscheucht alle, die sie hören (WIL-Rettungswurf oder Flucht). <strong>Wiederaufladung</strong>: Fange den letzten Atem eines sterbenden Kriegers.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Ehre den Toten</strong>: Der Tod ist eine Reise, die wir alle antreten; er verdient Respekt. Nimm zusätzlich <strong>30 GM</strong>. Du legst besiegten Feinden stets zwei Goldmünzen auf die Augenlider. Irgendwie fehlt dir die Münze nie.</p>"
+        },
+        "QC7LgS0zghe5DmIg": {
+          "name": "Gold"
+        },
+        "5-5": {
+          "description": "<p><strong>Treue zum Auftrag</strong>: Dein Wort ist dein Bund. Hast du einen Auftrag angenommen, führst du ihn zu Ende. Nimm eine verwitterte <strong>Kerbholf</strong>. Wird ein Gelübde in ihr eingekerbt, härte sie (W8), bis es erfüllt ist. Das Holz zerbricht, wenn das Gelübde je gebrochen wird.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Schulde immer bezahlen</strong>: Du begleichst jede Schuld – in Münze oder in Natur. Von allen anderen erwartest du nichts weniger. Nimm ein <strong>geschwärztes Kontobuch</strong> und würfle ein zweites Mal auf der Tabelle <strong>Bänder</strong>.</p>"
+        }
+      }
+    },
+    "Prowler: What did you last hunt?": {
+      "name": "Was hast du zuletzt gejagt?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Pirscher</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>Eine <em>After-Glühwürmchen</em>, die Wasserträgerinnen mit leuchtender Locke köderte. Nimm eine <strong>alchemistische Extremität</strong> (W8, <em>Kleinzeug</em> getragen) als Ersatz für die, die sie abriss, und eine <strong>Ölkanne</strong> (6 Anwendungen). Die Gliedmaße ist immun gegen Hitze und Gift. Muss täglich geölt werden.</p>"
+        },
+        "2-2": {
+          "description": "<p>Eine <em>Eisnessel</em>, die Schafe fing und aussaugte. Deinen Auftrag verlorst du, als der Pilz, den du einführtest, die halbe Herde tötete. Nimm einen <strong>Raussamen</strong> (1 Anwendung). Er friert jedes Gewässer ein, egal die Größe. Nicht essen.</p>"
+        },
+        "3-3": {
+          "description": "<p>Einen <em>silbernen Moorkriecher</em>, der jemanden tötete, der dir nahestand. Du trägst seinen <strong>Zahn</strong> (<em>Kleinzeug</em>) an einer Kette um den Hals – Warnung an seiner Art. <em>Der Zahn summt leise, wenn dich etwas anpirscht.</em></p>"
+        },
+        "4-4": {
+          "description": "<p>Einen bösartigen <em>Waldgeist</em>, der einen Hof vergiftete. Du rettetest einen <strong>Herzsamen</strong> aus den Wurzeln eines sterbenden Baums. (Pflanzt ihn, um einen neuen Wald zu erschaffen.) Nimm zudem <strong>Eisenarmschienen</strong> (+1 Rüstung, <em>sperrig</em>).</p>"
+        },
+        "5-5": {
+          "description": "<p>Einen <em>hohlen Wolf</em>, der Reisende schreckte. Du erbarmtest dich des halb verhungerten Tieres und pflegtest ihn gesund. Nun ist er dir bis in den Tod treu. Er gräbt auch hervorragend. 5 HP, 11 STR, 13 DEX, 8 WIL, Zähne (W6).</p>"
+        },
+        "6-6": {
+          "description": "<p>Eine <em>azurische Grasmücke</em>. Ihre Keimzellen erzielen ordentlichen Gewinn, richtig extrahiert. Dir gelang es – doch ihren Nest ließest du den Wölfen. Nimm ein <strong>Schälmesser</strong> (W6), <strong>20 GM extra</strong> und einen Stich des Bedauerns.</p>"
+        },
+        "GWqMZftnf7HHcdSm": {
+          "name": "Gold"
+        }
+      }
+    },
+    "Prowler: What tool is always in your pack?": {
+      "name": "Welches Werkzeug steckt immer in deinem Pack?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Pirscher</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Vergorener Schnaps</strong> Hält dich in guten Zeiten warm, in schlechten dient er als Sprengstoff. 3 Anwendungen.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Spurenrassel</strong> Ein lärmendes Werkzeug, das nahe Fährten aufdeckt, auch tief versteckte.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Schlafbalsam</strong> Ein Wachsstück. In Wasser gekocht, wirkt der Dampf als Betäubungsmittel.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Spike und Schnur</strong> Zum Überqueren schwierigen Gelände oder für behelfsmäßige Fallen und Konstruktionen.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Eisenklapper</strong> Ein Ratsche zum Ablenken oder Verscheuchen der Beute. Klingt überzeugend wie eine Schlange.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Härtungsleim</strong> Macht jedes flache Material (Stoff, Leder, Sand) steinhart. Teuer (20 GM die Flasche, 3 Anwendungen).</p>"
+        }
+      }
+    },
+    "Rill Runner: What pays your way across the land?": {
+      "name": "Was bezahlt deinen Weg durchs Land?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Bachläufer</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Auftritte</strong> In Taverne einzuspielen bringt stets Quartier und Kost. Manchmal gibt es sogar Trinkgeld! Beginne mit <strong>10 GM extra</strong>.</p>"
+        },
+        "wFkLvHaTna8Uf2hA": {
+          "name": "Gold"
+        },
+        "2-2": {
+          "description": "<p><strong>Leibwache</strong> Du bist Beschützerin für jene, die nicht allein reisen wollen. Beginne mit einem <strong>Degen</strong> (W8).</p>"
+        },
+        "IDQxSw3o193bt29I": {
+          "name": "Degen"
+        },
+        "3-3": {
+          "description": "<p><strong>Waren</strong> Du kaufst billig und verkaufst hoch und kommst immer gerade so über die Runden. Nimm einen <strong>einzelnen Gegenstand</strong> im Wert von <strong>20 GM</strong> (oder weniger) aus der Ausrüstungs-Tabelle.</p>"
+        },
+        "EnUfY8zkAFccQd3S": {
+          "name": "Gold"
+        },
+        "4-4": {
+          "description": "<p><strong>Transport</strong> Du lieferst „heikle“ Pakete durchs Land. Du hast in jeder größeren Stadt mindestens einen Kontakt.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Freund der Seeleute</strong> Über unruhige Gewässer und gefährliche Winde bringst du jedes Schiff sicher an sein Ziel. Für dich ist die Passage immer frei.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Wegführerin</strong> Du geleitest Karawanen und Reisende durch wasserdurchsetztes Land. Beginne mit einer <strong>Karte</strong> (<em>Kleinzeug</em>) zu deiner nächsten Reise.</p>"
+        }
+      }
+    },
+    "Rill Runner: What songs are you best known for?": {
+      "name": "Mit welchen Liedern bist du am bekanntesten?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Bachläufer</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><em>Des Kesselflickers Zwei-Schritt</em>. Ein humorvolles Märchen über einen schenkenden Reisenden. Beginne mit einer <strong>Schilf-Pfeife</strong>. Alle in Hörweite müssen einen WIL-Rettungswurf bestehen, um eine Gewalttat zu begehen.</p>"
+        },
+        "2-2": {
+          "description": "<p><em>Die Sylphe und ihre Liebe</em>. Ein derb-frivoles Lied über verlorene Liebe. Beginne mit einem <strong>Wind-Knoten</strong> (3 Ladungen). Erzeugt eine starke Brise. <strong>Wiederaufladung</strong>: Binde ihn im Sturm an einen Mast.</p>"
+        },
+        "3-3": {
+          "description": "<p><em>Des Harfers Hingabe</em>. Eine traurige, kurze Erzählung über einen Musiker, der sich in einen Stern verliebt. Beginne mit einer <strong>Himmelslaute</strong>. Sie zeigt die Sternbilder, egal das Wetter.</p>"
+        },
+        "4-4": {
+          "description": "<p><em>Der Reidfischer</em>. Ein gefeiertes Lied über einen gewaltigen Karpfen, der stets zu entkommen scheint. Beginne mit einer Spule <strong>Flussgarn</strong> (5 Anwendungen). Jeder Senkens garantiert einen Fang – der nicht angenehm sein muss.</p>"
+        },
+        "5-5": {
+          "description": "<p><em>Lied des Silbernen Stroms</em>. Eine Wortlose Wiegenweise, die fließendes Wasser nachahmt. Nimm eine <strong>Steinflöte</strong>, die fast jeden Fluss beschwichtigt.</p>"
+        },
+        "6-6": {
+          "description": "<p><em>Die Drossel und die Wiese</em>. Eine düstere Erzählung im Wechselchor. Beginne mit einer <strong>Federfeder</strong> (1 Anwendung, <em>Kleinzeug</em>). Eine mit dieser Feder gezeichnete Karte zeigt den schnellsten Weg zwischen zwei Punkten.</p>"
+        }
+      }
+    },
+    "Scrivener: How do you transcribe sensitive information?": {
+      "name": "Wie überträgst du heikle Informationen?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Schreiber</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Wahrheitstinte</strong> Glüht, wenn man Wahres schreibt, verblasst bei Falschem.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Chiffrensteine</strong> Ein Paar spitzer schwarzer Steine. Jeder entschlüsselt jede Botschaft, die der andere geschrieben hat.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Immerfeder</strong> Eine Feder, die auf jeder Oberfläche schreibt. Tinte brauchst du weiterhin. <em>Kleinzeug</em>.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Flüster-Phiole</strong> Flüstere eine Nachricht hinein, und sie gibt sie wieder, wer sie als Nächstes öffnet.</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Blutrote Linse</strong> Entzieht einem Ziel unbemerkt Blut. Ein gestohlener Tropfen aufs Auge gelegt, zeigt Erinnerungen des vergangenen Tages.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Echo-Blatt</strong> Ein leeres Pergament. Wer es entrollt, sieht die eigenen Taten des Tages in enger Kritzelei enthüllt. <em>Kleinzeug</em>.</p>"
+        }
+      }
+    },
+    "Scrivener: What work did you keep for yourself?": {
+      "name": "Welches Werk hast du für dich behalten?",
+      "description": "<p>Würfle bei der Charaktererschaffung auf dieser Tabelle für den Hintergrund <strong>Schreiber</strong>.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p><strong>Die wilde Zunge</strong>. Ein Bündel ledergebundener Schriftrollen. Ein wegweisendes Werk, das die verborgenen Sprachen der Bestien katalogisiert und wie man sie versteht.</p>"
+        },
+        "2-2": {
+          "description": "<p><strong>Die stille Sinfonie</strong>. In fluoreszierendem Umschlag gebunden. Sehr selten; sie hält die subtilen Zeichen fest, die Anwender unsichtbarer Magie nutzen.</p>"
+        },
+        "3-3": {
+          "description": "<p><strong>Eine Abhandlung über den Abgrund</strong>. Ein unscheinbares schwarzes Buch. Ein tiefgehender, weitgehend theoretischer Text über die <strong>Wurzeln</strong> samt Angaben zum Ort eines nahegelegenen <strong>Tors</strong>.</p>"
+        },
+        "4-4": {
+          "description": "<p><strong>Der Sternenwalzer</strong>. Ein kometenförmiger Verschluss in feinem Ledereinband. Detaillierte astronomische Karten, Himmelsbewegungen und Sternenfeste. Reisenden nützlich und hoch geschätzt (100 GM).</p>"
+        },
+        "5-5": {
+          "description": "<p><strong>Die Kathedrale und das Blätterdach</strong>. Großblättriger Einband über Pergament. Nominell ein Kinderbuch; die Ränder verzeichnen Wissenswertes über Reisen, Essen und Schlafen in den Wolkenwäldern.</p>"
+        },
+        "6-6": {
+          "description": "<p><strong>Garten aus Glas</strong>. Gebunden im Einband eines anderen Buches. Ein ketzerisches Werk; es beschreibt Materialien, Verfahren und optimale Orte, um ein <strong>Tor</strong> zu öffnen.</p>"
+        }
+      }
+    }
+  }
+}

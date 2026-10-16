@@ -1,0 +1,221 @@
+{
+  "label": "vald-calendar",
+  "entries": {
+    "Bartermoot": {
+      "name": "Tauschthing",
+      "pages": {
+        "Bartermoot": {
+          "name": "Tauschthing",
+          "text": "<p>Morgen des 14. (Gartentag). Abgesandte der kleineren Städte und Dörfer tauschen in ritueller Ordnung Stahl gegen Holz mit den Bewohnern des Waldes.</p>"
+        }
+      }
+    },
+    "Boughmeal": {
+      "name": "Zweigmahl",
+      "pages": {
+        "Boughmeal": {
+          "name": "Zweigmahl",
+          "text": "<p>Von der Dämmerung bis zum Nachmittag des 16. (Zehnttag). Ein Markttag, der ausschließlich im Wald abgehalten wird, wo Handwerker und Händler aus dem ganzen Reich ihre Waren tauschen.</p>"
+        }
+      }
+    },
+    "Dead Solstice": {
+      "name": "Toten-Sonnenwende",
+      "pages": {
+        "Dead Solstice": {
+          "name": "Toten-Sonnenwende",
+          "text": "<p>Mitternacht des 10. (Zehnttag). Markiert den kürzesten Tag des Jahres und die Mitte der Jahreszeit der Toten.</p>"
+        }
+      }
+    },
+    "Dry Equinox": {
+      "name": "Trockengleiche",
+      "pages": {
+        "Dry Equinox": {
+          "name": "Trockengleiche",
+          "text": "<p>Mitternacht des 10. (Zehnttag). Markiert die Mitte der Trockenzeit.</p>"
+        }
+      }
+    },
+    "Dustset": {
+      "name": "Staubuntergang",
+      "pages": {
+        "Dustset": {
+          "name": "Staubuntergang",
+          "text": "<p>Nachmittag bis Mitternacht des 9. (Sangtag). Ein Karneval mit Umzügen und Maskeraden; die Teilnehmenden tragen Masken gegen Staub und Wind.</p>"
+        }
+      }
+    },
+    "Ember": {
+      "name": "Glut",
+      "pages": {
+        "Ember": {
+          "name": "Glut",
+          "text": "<p>Abend des 11. (Badetag). Huldigung der untergehenden Sonne und der mühevollen Vorbereitung auf die Zeit der Toten. Laternen-Auflassungszeremonien sind üblich.</p>"
+        }
+      }
+    },
+    "Firelight": {
+      "name": "Feuerschein",
+      "pages": {
+        "Firelight": {
+          "name": "Feuerschein",
+          "text": "<p>Ganztägig am 18. (Ruhetag). Ein Tag mit Drachensteigen, Windspielen und Rasseln. Nachts werden gewaltige Freudenfeuer entzündet, während Tänzer beeindruckende Feuertänze aufführen.</p>"
+        }
+      }
+    },
+    "First Light": {
+      "name": "Erstes Licht",
+      "pages": {
+        "First Light": {
+          "name": "Erstes Licht",
+          "text": "<p>Dämmerung des 24. (Ruhetag). Gedenkt dem Ende des ersten Monats des neuen Jahres. Fackeln und Feuer brennen die ganze Nacht und verwandeln die Nacht in Tag.</p>"
+        }
+      }
+    },
+    "First Plant": {
+      "name": "Erste Pflanzung",
+      "pages": {
+        "First Plant": {
+          "name": "Erste Pflanzung",
+          "text": "<p>Nachmittag des 18. (Ruhetag). Ein Fest zum Beginn der Pflanzzeit. Die Gemeinschaften versammeln sich, um gemeinsam die ersten Samen des Jahres zu setzen.</p>"
+        }
+      }
+    },
+    "Float": {
+      "name": "Floßfahrt",
+      "pages": {
+        "Float": {
+          "name": "Floßfahrt",
+          "text": "<p>Ganztägig am 14. (Gartentag). Die Gemeinschaften bauen und schmücken riesige Boote oder Flöße, um sie die Flüsse hinabtreiben zu lassen.</p>"
+        }
+      }
+    },
+    "Gathering Night": {
+      "name": "Sammelnacht",
+      "pages": {
+        "Gathering Night": {
+          "name": "Sammelnacht",
+          "text": "<p>Dämmerung des 24. (Ruhetag). Die Gemeinschaften kommen zusammen, um die geernteten Feldfrüchte einzubringen und zu lagern, gefolgt von einer Nacht voller Geschichten und Musik.</p>"
+        }
+      }
+    },
+    "Gloam": {
+      "name": "Zwielicht",
+      "pages": {
+        "Gloam": {
+          "name": "Zwielicht",
+          "text": "<p>Abend des 24. (Ruhetag). Das letzte große Festmahl des Jahres, in Dankbarkeit für die Ernte, mit der Sonne als Mittelpunkt. Schwangerschaften sind keine Seltenheit.</p>"
+        }
+      }
+    },
+    "Harvest Equinox": {
+      "name": "Ernte-Taggleichheit",
+      "pages": {
+        "Harvest Equinox": {
+          "name": "Ernte-Taggleichheit",
+          "text": "<p>Mitternacht des 10. (Zehnttag). Markiert die Mitte der Erntezeit.</p>"
+        }
+      }
+    },
+    "Harvest Festival": {
+      "name": "Erntefest",
+      "pages": {
+        "Harvest Festival": {
+          "name": "Erntefest",
+          "text": "<p>Nachmittag des 4. (Zehnttag). Feiert den Beginn der Ernte mit Festmählern und gemeinsamen Zusammenkünften zum Abernten der Feldfrüchte.</p>"
+        }
+      }
+    },
+    "Highwater Fair": {
+      "name": "Hochwasser-Messe",
+      "pages": {
+        "Highwater Fair": {
+          "name": "Hochwasser-Messe",
+          "text": "<p>Von der Dämmerung bis Mitternacht am 1. (Markttag). Ein bedeutendes Handelsereignis zur Zeit des höchsten Wasserstands. Jede größere Stadt feiert mit Messen und Märkten.</p>"
+        }
+      }
+    },
+    "Lift the Veil": {
+      "name": "Schleierhebung",
+      "pages": {
+        "Lift the Veil": {
+          "name": "Schleierhebung",
+          "text": "<p>Mitternacht des 9. (Sangtag). Das Ende der Zeit der Toten wird mit feierlichen Gelübden und bescheidenen Gesten begangen.</p>"
+        }
+      }
+    },
+    "Parade of Ash": {
+      "name": "Aschenumzug",
+      "pages": {
+        "Parade of Ash": {
+          "name": "Aschenumzug",
+          "text": "<p>Nachmittag des 24. (Ruhetag). Zum Feier des letzten Tages der Trockenzeit bemalen die Teilnehmenden ihr Gesicht mit Asche und musizieren. Die meisten Arten von Arbeit sind verpönt.</p>"
+        }
+      }
+    },
+    "Splash Festival": {
+      "name": "Spritzenfest",
+      "pages": {
+        "Splash Festival": {
+          "name": "Spritzenfest",
+          "text": "<p>3 Tage ab dem 5. (Badetag bis Markttag). Feiert die Fülle des Wassers mit Bootswettrennen, Wettkämpfen, Geschenken und Wassersegnungen.</p>"
+        }
+      }
+    },
+    "Storm Dance": {
+      "name": "Sturmtanz",
+      "pages": {
+        "Storm Dance": {
+          "name": "Sturmtanz",
+          "text": "<p>Fünf Tage ab dem 19. (Markttag bis Badetag). Tänze und Verlobungen, um die Herren von Sturm und Regen für eine ergiebige Erntezeit zu stimmen.</p>"
+        }
+      }
+    },
+    "The Golden Hind": {
+      "name": "Die Goldene Hinde",
+      "pages": {
+        "The Golden Hind": {
+          "name": "Die Goldene Hinde",
+          "text": "<p>Die Tagesstunden des 12. (Ruhetag). Jäger aus Nah und Fern nehmen bei großem Festbetrieb an einer gewaltigen Jagd auf einen mythischen Hirsch teil.</p>"
+        }
+      }
+    },
+    "Veil’s Edge": {
+      "name": "Schleiers Saum",
+      "pages": {
+        "Veil’s Edge": {
+          "name": "Schleiers Saum",
+          "text": "<p>Nachmittag bis zur Dämmerung des 17. (Badetag). Ein Tag zu Ehren der Ahnen mit Opfergaben und Gebeten an den Familienaltären.</p>"
+        }
+      }
+    },
+    "Waterwish": {
+      "name": "Wasserwunsch",
+      "pages": {
+        "Waterwish": {
+          "name": "Wasserwunsch",
+          "text": "<p>Mittags des 14. (Gartentag). Die Teilnehmenden schreiben Wünsche auf Schriftrollen, legen sie in Löcher eines Findlings und rollen ihn den Hang hinab. Hält er an, gelten alle verbliebenen Wünsche als in Erfüllung gegangen.</p>"
+        }
+      }
+    },
+    "Wet Solstice": {
+      "name": "Nassen-Sonnenwende",
+      "pages": {
+        "Wet Solstice": {
+          "name": "Nassen-Sonnenwende",
+          "text": "<p>Mitternacht des 10. (Zehnttag). Markiert den längsten Tag des Jahres und die Mitte der Nasszeit.</p>"
+        }
+      }
+    },
+    "Whisper": {
+      "name": "Geflüster",
+      "pages": {
+        "Whisper": {
+          "name": "Geflüster",
+          "text": "<p>Von der Dämmerung bis zum Abend des 11. (Badetag). Lauter als Flüstern zu sprechen ist Tabu. Stille Auktionen sind üblich.</p>"
+        }
+      }
+    }
+  }
+}

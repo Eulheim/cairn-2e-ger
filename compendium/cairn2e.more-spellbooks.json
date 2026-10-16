@@ -1,0 +1,645 @@
+{
+  "label": "more-spellbooks",
+  "entries": {
+    "Adaptive Skin": {
+      "name": "Anpassungshaut",
+      "description": "<p>Das Ziel kann sich in heißen oder kalten Umgebungen wohlbehalten aufhalten.</p>"
+    },
+    "Animal Call": {
+      "name": "Ruf der Tiere",
+      "description": "<p>Beschwört eine gewöhnliche Bestie. Sie ist weder dir noch deinen Verbündeten treu.</p>"
+    },
+    "Anti-Magic Globe": {
+      "name": "Antimagie-Kugel",
+      "description": "<p>Eine dünne Schale magischen Schutzes umgibt einen kleinen Bereich um die Zaubernde. Für jede zusätzliche Minute, die die Kugel aktiv ist, nimmt sie eine zusätzliche Erschöpfung.</p>"
+    },
+    "Arachnid's Finesse": {
+      "name": "Feingefühl der Spinne",
+      "description": "<p>Das Ziel kann an Wänden und Decken laufen.</p>"
+    },
+    "Arcane Arrow": {
+      "name": "Arkaner Pfeil",
+      "description": "<p>Grüne Energie bricht aus deinen Fingern, verursacht 1W6 Schaden und ignoriert gewöhnliche Rüstung.</p>"
+    },
+    "Arcane Confinement": {
+      "name": "Arkane Fesselung",
+      "description": "<p>Das Ziel wird von magischem Seil gebunden und kann nur noch sprechen, sonst nichts.</p>"
+    },
+    "Arcane Epistle": {
+      "name": "Arkaner Brief",
+      "description": "<p>Du schreibst einen Brief, den nur die vorgesehene Lesende versteht.</p>"
+    },
+    "Arcane Fireworks": {
+      "name": "Arkane Feuerwerke",
+      "description": "<p>Ziel-Flammen werden zu einem gewaltigen Feuerwerk aus Hitze, Licht und Klang.</p>"
+    },
+    "Arcane Stain": {
+      "name": "Arkanes Mal",
+      "description": "<p>Trägt eine unsichtbare Rune ein, die du ertasten kannst. Beim Entfernen erleidest du 1W4 WIL-Verlust.</p>"
+    },
+    "Architect's Eye": {
+      "name": "Baumeisterauge",
+      "description": "<p>Alle verborgenen Türen im Umkreis von 18 m (60 ft) leuchten auf, als stünden sie in Flammen.</p>"
+    },
+    "Architect's Perfection": {
+      "name": "Baumeisterwerk",
+      "description": "<p>Erschafft eine holografische Wand, einen Boden oder eine Decke, die vollkommen echt wirkt.</p>"
+    },
+    "Astral Step": {
+      "name": "Astralschritt",
+      "description": "<p>Du und alle, die dich berühren, werdet augenblicklich an einen bekannten Ort versetzt, an dem du schon gewesen bist.</p>"
+    },
+    "Banishment": {
+      "name": "Verbannung",
+      "description": "<p>WIL-Rettungswurf, sonst kehrt die Kreatur auf ihre Heimatebene zurück.</p>"
+    },
+    "Become Unseen": {
+      "name": "Unsichtbar werden",
+      "description": "<p>Das Ziel wird eine Stunde lang unsichtbar und kann dabei Fähigkeiten einsetzen und angreifen, ohne entdeckt zu werden. Danach ist es handlungsunfähig (erschöpft).</p>"
+    },
+    "Beguilement": {
+      "name": "Umgarntes",
+      "description": "<p>Ein humanoides Ziel muss einen WIL-Rettungswurf bestehen oder wird telepathisch gesteuert.</p>"
+    },
+    "Bewildering Fog": {
+      "name": "Verwirrnebel",
+      "description": "<p>Ein trüber Nebel umgibt dich in einem Radius von 6 m (20 ft). Angriffe im Dunst sind beeinträchtigt.</p>"
+    },
+    "Blazing Defense": {
+      "name": "Flammenschild",
+      "description": "<p>Du manifestierst einen Schild aus Flamme (+1 Rüstung, 1W6 Schaden). Feuer kann dir nichts anhaben.</p>"
+    },
+    "Blessing": {
+      "name": "Segen",
+      "description": "<p>Die Angriffe des Ziels sind verstärkt, und Nicht-Flächenangriffe gegen es sind beeinträchtigt, bis es das nächste Mal Schaden nimmt.</p>"
+    },
+    "Bolster": {
+      "name": "Aufrichten",
+      "description": "<p>Eine Person, die du siehst, wird für einige Minuten durch deine Worte gestärkt: Ihre Angriffe sind verstärkt, und sie kann nicht erschöpft werden.</p>"
+    },
+    "Bound": {
+      "name": "Gebundener",
+      "description": "<p>Das Ziel kann einen einzigen Sprung an einen beliebigen Ort tun, den es sehen kann.</p>"
+    },
+    "Boundless Message": {
+      "name": "Grenzenlose Botschaft",
+      "description": "<p>Übermittelt augenblicklich einen einzelnen Satz an eine beliebige Kreatur, egal die Entfernung.</p>"
+    },
+    "Breath Soup": {
+      "name": "Atemsuppe",
+      "description": "<p>Blockiert Sicht und verlangsamt Bewegung.</p>"
+    },
+    "Burning Missile": {
+      "name": "Brennendes Geschoss",
+      "description": "<p>Du feuerst ein Säuregeschoss, das einem Ziel pro Runde, in der es nicht abgewaschen wird, 1W6 Schaden zufügt.</p>"
+    },
+    "Burnishing Bubble": {
+      "name": "Polierblase",
+      "description": "<p>Das Ziel wird von einer undurchdringlichen Kugel umschlossen, die über den Boden rollt, außer es besteht einen GES-Rettungswurf.</p>"
+    },
+    "Calcify": {
+      "name": "Verkalken",
+      "description": "<p>Zielgegenstand wird bei der Berührung der Zaubernden zu Stein. Lebende Ziele machen einen STR-Rettungswurf.</p>"
+    },
+    "Catsense": {
+      "name": "Katzensinn",
+      "description": "<p>Das Ziel hat für die nächste Stunde geschärfte Sinne, insbesondere nachts.</p>"
+    },
+    "Chilling Graze": {
+      "name": "Kühler Griffs",
+      "description": "<p>Das Ziel verliert 1W4+1 STR und wird erschöpft.</p>"
+    },
+    "Cinder Flesh": {
+      "name": "Aschenfleisch",
+      "description": "<p>Energiestrahlen verbrennen Feinde (1W10 Flächenschaden) in einer geraden Linie.</p>"
+    },
+    "Circle of Arcane Protection": {
+      "name": "Kreis des arkanen Schutzes",
+      "description": "<p>Magische oder göttliche Wesen können einen 3-m-Kreis (10 ft) nicht betreten.</p>"
+    },
+    "Cleanse": {
+      "name": "Läuterung",
+      "description": "<p>Verfaulte oder vergiftete Speisen werden essbar.</p>"
+    },
+    "Cold Spray": {
+      "name": "Kalter Sprühregen",
+      "description": "<p>Ein Sprühen kalter Luft verursacht W6 Schaden, 6 m (20 ft) weit, in eine Richtung.</p>"
+    },
+    "Conceal Object": {
+      "name": "Tarnung",
+      "description": "<p>Verhüllt einen Gegenstand vor Weissagung oder Spähen.</p>"
+    },
+    "Conquer Gravity": {
+      "name": "Gravitation",
+      "description": "<p>Das Ziel bewegt sich deinem Willen gemäß aufwärts oder abwärts.</p>"
+    },
+    "Cosmic Fingertips": {
+      "name": "Welthände",
+      "description": "<p>Deine Hände formen Stein, Fels oder Mineralien nach deinem Belieben.</p>"
+    },
+    "Coup de Grâce": {
+      "name": "Gnadentod",
+      "description": "<p>Der nächste Angriff einer Verbündeten ignoriert Rüstung und zieht den Schaden direkt vom STR des Ziels ab.</p>"
+    },
+    "Craft from Clay": {
+      "name": "Aus Ton geschaffen",
+      "description": "<p>Jedes natürliche, erdige Ziel wird verwandelt (Fels zu Matsch, Lava zu Stein usw.).</p>"
+    },
+    "Create Unlife": {
+      "name": "Untod erschaffen",
+      "description": "<p>Erschafft 1W4 untote Skelette und Zombies aus Leichen. Stündlich ein WIL-Rettungswurf, um sie zu kontrollieren.</p>"
+    },
+    "Cure-All": {
+      "name": "Heil-Alles",
+      "description": "<p>Eine einzelne Krankheit oder Gebrechen vergeht bei deiner Berührung.</p>"
+    },
+    "Curse of the Sightless": {
+      "name": "Fluch der Blinden",
+      "description": "<p>Alle in Sichtweite müssen einen WIL-Rettungswurf bestehen oder werden geblendet.</p>"
+    },
+    "Curse Unlife": {
+      "name": "Untod verfluchen",
+      "description": "<p>Verursacht einem Untoten 1W4+2 STR-Verlust, Rüstung und Resistenzen ignorierend.</p>"
+    },
+    "Cute Ink": {
+      "name": "Listige Tinte",
+      "description": "<p>Eine einzelne Buchseite kann verändert werden, um ihren wahren Inhalt zu verbergen.</p>"
+    },
+    "Darksight": {
+      "name": "Dunkelsicht",
+      "description": "<p>Das Ziel sieht 18 m (60 ft) weit in völliger Dunkelheit.</p>"
+    },
+    "Death's Breath": {
+      "name": "Atem des Todes",
+      "description": "<p>Du beschwörst eine Giftwolke (W6 STR-Verlust), die du steuern kannst.</p>"
+    },
+    "Devil's Comedian": {
+      "name": "Komiker des Teufels",
+      "description": "<p>WIL-Rettungswurf, sonst lacht das Ziel unkontrollierbar und kann nicht handeln.</p>"
+    },
+    "Disaster Fluid": {
+      "name": "Desaster-Öl",
+      "description": "<p>Alles in einem 3-m-Quadrat (10 ft) wird rutschig; GES-Rettungswurf, um das Ausrutschen zu vermeiden.</p>"
+    },
+    "Doppelganger": {
+      "name": "Doppelgängerin",
+      "description": "<p>Du erzeugst 1W6 Lockvögel-Duplikate einer Person, die du berührst. Die Duplikate vergehen bei einer Berührung.</p>"
+    },
+    "Doubleskin": {
+      "name": "Doppelhaut",
+      "description": "<p>Ein humanoides Ziel verdoppelt seine Größe.</p>"
+    },
+    "Dreampoison": {
+      "name": "Traumgift",
+      "description": "<p>Das Ziel ist erschöpft, nachdem es eine Nacht voller Albträume erlitt.</p>"
+    },
+    "Dreamtalker": {
+      "name": "Traumsprecherin",
+      "description": "<p>Sendet eine Botschaft an alle, die gerade schlafen.</p>"
+    },
+    "Earsplit": {
+      "name": "Ohrenspalter",
+      "description": "<p>Alle in Hörweite werden taub.</p>"
+    },
+    "Easy Descent": {
+      "name": "Sanfter Abstieg",
+      "description": "<p>Objekte oder Kreaturen in der Nähe fallen sehr langsam.</p>"
+    },
+    "Edifice": {
+      "name": "Bauwerk",
+      "description": "<p>Du beschwörst eine Steinmauer von bis zu 6 m (20 ft) Breite, die du steuern kannst.</p>"
+    },
+    "Ensorcelled": {
+      "name": "Verzaubert",
+      "description": "<p>Kreaturen sind für einige Minuten verzaubert, außer sie bestehen einen WIL-Rettungswurf.</p>"
+    },
+    "Envision": {
+      "name": "Erschauen",
+      "description": "<p>Späht ein Ziel aus, das du getroffen hast – selbst über gewaltige Entfernungen. Bei einem bestandenen WIL-Rettungswurf spürt es deine Gegenwart.</p>"
+    },
+    "Epidemic": {
+      "name": "Seuche",
+      "description": "<p>Infiziert das Ziel mit einer Krankheit, die sich ausbreitet, bis die Quelle der Magie zerstört ist.</p>"
+    },
+    "Extraplanar Convocation": {
+      "name": "Extraplanare Zusammenkunft",
+      "description": "<p>Beschwört ein beliebiges extraplanes Wesen auf deine Ebene. Es ist weder dir noch deinen Verbündeten treu.</p>"
+    },
+    "Extraplanar Request": {
+      "name": "Extraplanare Bitte",
+      "description": "<p>Stelle eine einzelne Frage an eine zufällige extraplane Entität.</p>"
+    },
+    "Fiery Missile": {
+      "name": "Feuriges Geschoss",
+      "description": "<p>Ein Bogen, den du berührst, kann eine Minute lang brennende Pfeile (1W10 Schaden) feuern.</p>"
+    },
+    "Find Virulence": {
+      "name": "Gift spüren",
+      "description": "<p>Spürt Gift in jeder Kreatur oder jedem Objekt im Umkreis von 9 m (30 ft) auf.</p>"
+    },
+    "Flicker": {
+      "name": "Flackern",
+      "description": "<p>Das Ziel verschwindet zufällig und erscheint einmal nach Belieben wieder.</p>"
+    },
+    "Fog of Nausea": {
+      "name": "Übelkeitsnebel",
+      "description": "<p>Eine Wolke übler Dämpfe ergießt sich aus den Seiten des Zauberbuchs. Alle in der Nähe machen einen STR-Rettungswurf oder erbrechen unkontrollierbar.</p>"
+    },
+    "Foolishness": {
+      "name": "Torheit",
+      "description": "<p>Ein Ziel, das du berührst, wird anfällig für Launen, voreilige Schlüsse und albernes Betragen. Zudem verliert es für 24 Stunden 1W6 WIL (bis mindestens 1).</p>"
+    },
+    "Fortify": {
+      "name": "Befestigen",
+      "description": "<p>Schaden durch Hitze, Eis, Säure oder Elektrizität ist gegen das Ziel für die nächste Stunde beeinträchtigt.</p>"
+    },
+    "Frozen Corpse": {
+      "name": "Gefrorene Leiche",
+      "description": "<p>Eine Leiche, die du berührst, wird konserviert.</p>"
+    },
+    "Gift of Flight": {
+      "name": "Geschenk des Flugs",
+      "description": "<p>Das Ziel kann für eine Weile fliegen.</p>"
+    },
+    "Gorgon's Gaze": {
+      "name": "Blick der Gorgone",
+      "description": "<p>Das Ziel wird bei verfehltem WIL-Rettungswurf zur Statue. Ein Erfolg kehrt den Zauber um; die Trägerin muss einen WIL-Rettungswurf bestehen, sonst wird das Buch zerstört.</p>"
+    },
+    "Great Ball of Fire": {
+      "name": "Großer Feuerball",
+      "description": "<p>Du feuerst einen Feuerball (1W10 Schaden) bis zu 6 m (20 ft) weit.</p>"
+    },
+    "Hand of the Protector": {
+      "name": "Hand der Beschützerin",
+      "description": "<p>Eine riesige, schwebende Hand blockt jeglichen Schaden eines einzelnen Gegners, bis du außer Gefahr bist.</p>"
+    },
+    "Healing Grace": {
+      "name": "Heilende Gnade",
+      "description": "<p>Ein Ziel heilt 1W6 STR, und du wirst erschöpft, bis du dir Zeit zum Meditieren, Beten oder Schlafen nimmst.</p>"
+    },
+    "Heatless Torch": {
+      "name": "Hitzlose Fackel",
+      "description": "<p>Verwandelt jedes Objekt in eine dauerhafte, hitzlose Fackel.</p>"
+    },
+    "Hedgemagick": {
+      "name": "Heckenmagie",
+      "description": "<p>Du vollführst einen kleinen magischen Trick (erschaffe Flamme, Wind, Licht oder Klang).</p>"
+    },
+    "Hovering Protection": {
+      "name": "Schwebender Schutz",
+      "description": "<p>Eine schwebende, transparente Scheibe materialisiert sich um eine Verbündete und gewährt 1 Rüstung.</p>"
+    },
+    "Ice Ray": {
+      "name": "Eisstrahl",
+      "description": "<p>Eis und Schnee strömen aus deinen Fingerspitzen, verursachen 1W8 Schaden (Flächenschaden) in einer geraden Linie.</p>"
+    },
+    "Icy Tempest": {
+      "name": "Eisiger Sturm",
+      "description": "<p>Hagel verursacht 1W10 Schaden in einem Radius von 6 m (20 ft).</p>"
+    },
+    "Ill Fate": {
+      "name": "Ungeschick",
+      "description": "<p>Das Ziel verfehlt automatisch seinen nächsten Rettungswurf.</p>"
+    },
+    "Illusory Landscape": {
+      "name": "Trügerische Landschaft",
+      "description": "<p>Du kannst ein Gelände als ein anderes erscheinen lassen.</p>"
+    },
+    "Incorporeal Shrug": {
+      "name": "Geistesweiche",
+      "description": "<p>Ignoriere einen einzelnen Angriff.</p>"
+    },
+    "Induce Despair": {
+      "name": "Verzweiflung säen",
+      "description": "<p>Das Ziel muss einen WIL-Rettungswurf bestehen, sonst sind seine Angriffe beeinträchtigt.</p>"
+    },
+    "Insubstantiate": {
+      "name": "Entstofflichen",
+      "description": "<p>Das Ziel wird unstofflich und kann schweben.</p>"
+    },
+    "Kraken's Curse": {
+      "name": "Fluch des Kraken",
+      "description": "<p>Tentakel packen alles im Umkreis von 6 m (20 ft); STR-Rettungswurf zum Freireißen.</p>"
+    },
+    "Latch": {
+      "name": "Riegel",
+      "description": "<p>Ein unverschlossener Kasten, Schrank oder Tür öffnet und schließt auf dein Geheiß.</p>"
+    },
+    "Lichsense": {
+      "name": "Leichnamsinn",
+      "description": "<p>Du spürst Untote im Umkreis von 18 m (60 ft). WIL-Rettungswurf, um von intelligenten Untoten nicht entdeckt zu werden.</p>"
+    },
+    "Light Show": {
+      "name": "Lichterspiel",
+      "description": "<p>Du steuerst ein blendendes Schauspiel aus Licht und Farbe.</p>"
+    },
+    "Lightning Strike": {
+      "name": "Blitzschlag",
+      "description": "<p>Elektrizität schießt aus deinen Fingerspitzen, verursacht 1W10 Schaden (Flächenschaden) in einer Linie.</p>"
+    },
+    "Magic Seal": {
+      "name": "Magisches Siegel",
+      "description": "<p>Versiegelt magisch eine Tür, ein Portal oder eine Truhe.</p>"
+    },
+    "Major Genesis": {
+      "name": "Große Schöpfung",
+      "description": "<p>Erschafft ein Objekt aus leblosem Stein oder Metall, nicht größer als 0,14 m³.</p>"
+    },
+    "Maker": {
+      "name": "Macherin",
+      "description": "<p>Verwandelt Rohmaterial in fertige Gegenstände.</p>"
+    },
+    "Manic Fury": {
+      "name": "Manische Wut",
+      "description": "<p>Die Angriffe eines Ziels sind verstärkt. Nach einem erfolgreichen Tötungsschlag muss es einen WIL-Rettungswurf bestehen oder gerät außer Kontrolle und greift alles Sichtbare an.</p>"
+    },
+    "Master Undead": {
+      "name": "Untote befehligen",
+      "description": "<p>Untote Kreaturen gehorchen deinem Befehl. Intelligente Untote machen einen WIL-Rettungswurf.</p>"
+    },
+    "Mental Tripwire": {
+      "name": "Gedankenfalle",
+      "description": "<p>Eindringlinge lösen einen Alarm aus, den nur du hörst.</p>"
+    },
+    "Minor Genesis": {
+      "name": "Kleine Schöpfung",
+      "description": "<p>Erschafft ein Objekt aus leblosem Material, nicht größer als 0,03 m³.</p>"
+    },
+    "Molasses Veins": {
+      "name": "Meladern",
+      "description": "<p>Ein einzelnes Ziel bewegt sich mit halber Geschwindigkeit.</p>"
+    },
+    "Murky Bubble": {
+      "name": "Trübe Blase",
+      "description": "<p>Du erschaffst eine Blase übernatürlichen Schattens in einem Radius von 6 m (20 ft).</p>"
+    },
+    "Obfuscate": {
+      "name": "Verdunkeln",
+      "description": "<p>Das Ziel kann weder durch Weissagung noch durch Spähen beobachtet werden.</p>"
+    },
+    "Opaque Cover": {
+      "name": "Deckmantel",
+      "description": "<p>Details über deine Person werden verschleiert und leicht vergessen.</p>"
+    },
+    "Orb of Ignus": {
+      "name": "Orb des Ignus",
+      "description": "<p>Du steuerst eine Weile lang eine schwebende Feuerkugel (1W8 Schaden).</p>"
+    },
+    "Orb of Immortality": {
+      "name": "Unsterblichkeitsorb",
+      "description": "<p>Gewöhnliche Angriffe können niemanden in einem Radius von 3 m (10 ft) schädigen – und umgekehrt.</p>"
+    },
+    "Otherworldly Pet": {
+      "name": "Weltfremdes Tier",
+      "description": "<p>Beschwört eine unintelligente extraplane Kreatur bis zur Größe eines kleinen Hundes. Sie ist weder dir noch deinen Verbündeten treu.</p>"
+    },
+    "Paincurrent": {
+      "name": "Schmerzstrom",
+      "description": "<p>Ein Stromschlag geht von deinen Fingerspitzen auf ein Ziel über, das du berührst. Es erleidet 1W8 Schaden (1W10 in Metallrüstung).</p>"
+    },
+    "Perfect Illusion": {
+      "name": "Perfekte Illusion",
+      "description": "<p>Erschafft ein Bild mit Klang, Geruch und Wärmeeffekten, ausgelöst durch einen Auslöser deiner Wahl. Berührung oder ein bestandener WIL-Rettungswurf entlarvt die Illusion.</p>"
+    },
+    "Perfect Preservation": {
+      "name": "Perfekte Konservierung",
+      "description": "<p>Eine Waffe, die du berührst, wird immun gegen Abnutzung, gewöhnlichen Schaden und Elementareffekte. Der Zauber verblasst nach einem Tag.</p>"
+    },
+    "Phantom Hound": {
+      "name": "Phantommünde",
+      "description": "<p>Eine geisterhafte Dogge (4 HP, Biss (1W4)) gehorcht bis zu eine Stunde lang deinen Befehlen.</p>"
+    },
+    "Phase Anchor": {
+      "name": "Phasenanker",
+      "description": "<p>Bindet ein extraplanes Wesen an deinen Willen, bis es eine bestimmte Aufgabe erfüllt hat; danach braucht es einen WIL-Rettungswurf, um zu entkommen (viel Glück).</p>"
+    },
+    "Phase Sneak": {
+      "name": "Phasen-Pirscher",
+      "description": "<p>Alle in einem Radius von 3 m (10 ft) werden unsichtbar.</p>"
+    },
+    "Phase Touch": {
+      "name": "Phasenberührung",
+      "description": "<p>Eine abgetrennte, schwebende Hand gehorcht deinem Willen, ist aber körperlos. Das nächste zauberbuch-, fähigkeits- oder gegenstandsgestützte Berührungsereignis wirkt nun auf Distanz.</p>"
+    },
+    "Philosopher's Mind": {
+      "name": "Geist der Philosophin",
+      "description": "<p>Das Ziel ist immun gegen geistige oder psychische Angriffe sowie gegen jeden Versuch mentaler oder spiritueller Manipulation oder Überredung.</p>"
+    },
+    "Planar Anchor": {
+      "name": "Planarer Anker",
+      "description": "<p>Verwehrt extradimensionale Bewegung.</p>"
+    },
+    "Plant Scourge": {
+      "name": "Pflanzenplage",
+      "description": "<p>Pflanzen in Sichtweite verwelken und sterben.</p>"
+    },
+    "Pocket Sun": {
+      "name": "Taschensonne",
+      "description": "<p>Du erschaffst einen Hof aus hellem Licht in einem Radius von 18 m (60 ft).</p>"
+    },
+    "Prisma Shard": {
+      "name": "Prismascherbe",
+      "description": "<p>Ein Spiel hypnotischer Lichter fasziniert nahegelegene Kreaturen, außer sie bestehen einen WIL-Rettungswurf.</p>"
+    },
+    "Profane Reveal": {
+      "name": "Enthüllung",
+      "description": "<p>Ziele auf einen leeren Raum, um unsichtbare Objekte oder Kreaturen zu enthüllen.</p>"
+    },
+    "Purge Text": {
+      "name": "Text tilgen",
+      "description": "<p>Gewöhnliche oder magische Schrift vergeht bei deiner Berührung.</p>"
+    },
+    "Ravenless Message": {
+      "name": "Rabenlose Botschaft",
+      "description": "<p>Du sendest eine kurze Botschaft 1,6 km weit, die jeder auf ihrem Weg hören kann.</p>"
+    },
+    "Reject Unlife": {
+      "name": "Untod zurückweisen",
+      "description": "<p>Nahegelegene Untote sind für 30 Sekunden gelähmt oder bis du eine andere Handlung vornimmst.</p>"
+    },
+    "Remembered Voice": {
+      "name": "Erinnerte Stimme",
+      "description": "<p>Eine von dir markierte Stelle wird zum Auslöser einer übernatürlichen Aufnahme deiner Stimme, die eine kurze Botschaft deiner Wahl übermittelt.</p>"
+    },
+    "Reverie": {
+      "name": "Verträumung",
+      "description": "<p>Ziele werden für einen Moment benommen, als wären sie in Träumerei verloren.</p>"
+    },
+    "Rigor Touch": {
+      "name": "Starrgriff",
+      "description": "<p>Das Ziel muss einen GES-Rettungswurf bestehen oder ist gelähmt.</p>"
+    },
+    "Runic Harm": {
+      "name": "Runenschaden",
+      "description": "<p>Eine von dir gezeichnete Rune verursacht der Leserin große Schmerzen; sie muss einen WIL-Rettungswurf bestehen oder schreit, bis sie in Ohnmacht fällt (1W4 WIL-Verlust). Ein Erfolg zerstört die Rune.</p>"
+    },
+    "Runic Slumber": {
+      "name": "Runenschlaf",
+      "description": "<p>Eine von dir gezeichnete Rune versetzt die Leserin in einen magischen Schlaf, der 1W6 Stunden anhält.</p>"
+    },
+    "Safe Haven": {
+      "name": "Sicherer Hafen",
+      "description": "<p>Du beschwörst für 8 Stunden eine schwebende, unsichtbare Zuflucht. Sie bietet bequem bis zu 8 Personen Platz.</p>"
+    },
+    "Scry Creature": {
+      "name": "Kreatur erspähen",
+      "description": "<p>Zeigt den genauen Ort einer dir vertrauten Kreatur an.</p>"
+    },
+    "Scrying Ward": {
+      "name": "Späh-Bann",
+      "description": "<p>Für 24 Stunden nimmst du jedes magische Lauschen wahr.</p>"
+    },
+    "Sculpt Water": {
+      "name": "Wasser formen",
+      "description": "<p>Nahegelegenes Wasser heben, senken oder teilen.</p>"
+    },
+    "Secret Attaché": {
+      "name": "Heimliche Attachée",
+      "description": "<p>Du beschwörst eine unsichtbare Kreatur großer Macht, die deinem jeden Befehl gehorcht. Das Lesen anderer Zauberbücher vertreibt die Kreatur.</p>"
+    },
+    "Signal": {
+      "name": "Signal",
+      "description": "<p>Entsendet eine Leuchtkugel, die einige Entfernung weit sichtbar ist.</p>"
+    },
+    "Sinister Polymorph": {
+      "name": "Unheilige Verwandlung",
+      "description": "<p>WIL-Rettungswurf, sonst wird das Ziel in ein harmloses Tier verwandelt.</p>"
+    },
+    "Sky Raft": {
+      "name": "Himmelsfloß",
+      "description": "<p>Du beschwörst eine 0,9 m (3 ft) breite schwebende Scheibe, die bis zu 50 kg trägt.</p>"
+    },
+    "Sonic Shattering": {
+      "name": "Schallzersetzung",
+      "description": "<p>Eine Schallwelle verursacht anfälligen Objekten oder kristallinen Kreaturen 1W6 STR-Verlust, Rüstung ignorierend.</p>"
+    },
+    "Soul Annex": {
+      "name": "Seelenannektion",
+      "description": "<p>Der Geist des Ziels wird im eigenen Körper eingesperrt und durch den der Zaubernden ersetzt. Wird der Körper getötet, scheidet die ursprüngliche Seele aus, doch die Zaubernde braucht einen WIL-Rettungswurf, um in ihren Körper zurückzukehren.</p>"
+    },
+    "Steer's Strength": {
+      "name": "Stärke des Ochsen",
+      "description": "<p>Die Stärke des Ziels verdreifacht sich; waffenlose Angriffe sind verstärkt.</p>"
+    },
+    "Stone Hide": {
+      "name": "Steinhaut",
+      "description": "<p>Das Ziel erhält Rüstung 3, kann aber weder rennen noch schwimmen.</p>"
+    },
+    "Strength Tap": {
+      "name": "Kraftabzapfen",
+      "description": "<p>Ein Ziel, das du berührst, verliert 1W6 STR, das auf dich übertragen wird (bis zu deinem max. STR).</p>"
+    },
+    "Stumbling Steps": {
+      "name": "Stolperschritte",
+      "description": "<p>Ein Ziel, das du berührst, wird erschöpft und verliert 1 STR.</p>"
+    },
+    "Stupefaction": {
+      "name": "Betäubung",
+      "description": "<p>Das Ziel verliert vorübergehend Sinn für Ort und Zeit. WIL-Rettungswurf, um sich zu befreien.</p>"
+    },
+    "Summon Elemental": {
+      "name": "Elementar beschwören",
+      "description": "<p>Ein Wesen aus Feuer, Wasser, Erde oder Wind manifestiert sich aus vorhandenem Material, um der Zaubernden eine einzige Aufgabe zu erfüllen. Es folgt diesem Befehl gegen seinen Willen.</p>"
+    },
+    "Sway Will": {
+      "name": "Willen beugen",
+      "description": "<p>Ein Ziel wird gezwungen, einem genannten Handlungsverlauf zu folgen – ohne zu verstehen, warum.</p>"
+    },
+    "Temporary Reprieve": {
+      "name": "Linderung",
+      "description": "<p>Das Ziel gewinnt verlorenes STR zurück, verliert es aber nach wenigen Minuten wieder.</p>"
+    },
+    "Terrify": {
+      "name": "Verängstigen",
+      "description": "<p>Ziele in Sichtweite müssen einen WIL-Rettungswurf bestehen oder fliehen.</p>"
+    },
+    "Terrifying Illusion": {
+      "name": "Schaurige Illusion",
+      "description": "<p>Ein Ziel wird von einer schrecklichen Kreatur gejagt, die nur es sehen kann. Ihre Angriffe verursachen 1W10 Schaden; bei Kritischem Schaden muss es einen WIL-Rettungswurf bestehen oder wird kataton.</p>"
+    },
+    "Thief's Bane": {
+      "name": "Diebesplage",
+      "description": "<p>Ein Objekt wirkt verschlossen – selbst für eine erfahrene Diebin.</p>"
+    },
+    "Tongue of the Blue Serpent": {
+      "name": "Zunge der blauen Schlange",
+      "description": "<p>Rostfarbene, schlangenartige Buchstaben materialisieren sich auf einer Oberfläche deiner Wahl. Wer diese Worte liest, wird gelähmt, außer er besteht einen WIL-Rettungswurf.</p>"
+    },
+    "Torrential Moat": {
+      "name": "Sturmgraben",
+      "description": "<p>Du beschwörst einen gewaltigen Wind, der Pfeile, kleinere Kreaturen und üble Gase ablenkt.</p>"
+    },
+    "Toxic Blast": {
+      "name": "Giftstoß",
+      "description": "<p>Eine kleine Säurekugel verursacht einem Ziel 1W6 Flächenschaden.</p>"
+    },
+    "Transform Aura": {
+      "name": "Aurawandlung",
+      "description": "<p>Die Aura des Ziels wird unmagisch – oder umgekehrt.</p>"
+    },
+    "True Name": {
+      "name": "Wahrer Name",
+      "description": "<p>Bestimmt die Eigenschaften eines magischen Gegenstands, den du berührst.</p>"
+    },
+    "Trueshift": {
+      "name": "Wahre Verwandlung",
+      "description": "<p>Ein williges Ziel nimmt eine neue Gestalt an (und behält nur sein WIL), braucht aber einen WIL-Rettungswurf, um sich zurückzuverwandeln.</p>"
+    },
+    "Twilight Steed": {
+      "name": "Zwielichtross",
+      "description": "<p>Beschwört ein ark Ross, das nie ermüdet, aber im Tageslicht vergeht.</p>"
+    },
+    "Ultimate Sacrifice": {
+      "name": "Letztes Opfer",
+      "description": "<p>Die Trägerin des Buchs überträgt ihre Lebenskraft in eine Leiche und belebt Körper und Seele wieder.</p>"
+    },
+    "Uncurse": {
+      "name": "Entfluchen",
+      "description": "<p>Eine Person oder ein Objekt, das du berührst, wird von einem Fluch oder üblen Zauber befreit.</p>"
+    },
+    "Undefinable Target": {
+      "name": "Unbestimmbares Ziel",
+      "description": "<p>Eine Verbündete wird für eine Runde immun gegen gewöhnliche Fernkampfangriffe.</p>"
+    },
+    "Undeniable Courage": {
+      "name": "Unerschütterlicher Mut",
+      "description": "<p>Das Ziel besteht den nächsten WIL-Rettungswurf, und seine Angriffe sind verstärkt.</p>"
+    },
+    "Unflappable Endurance": {
+      "name": "Unbeirrte Ausdauer",
+      "description": "<p>Das Ziel erleidet bis zur nächsten Ruhe keine Erschöpfung durch nichtmagische Tätigkeiten und wird nicht erschöpft.</p>"
+    },
+    "Vermin Plague": {
+      "name": "Ungezieferplage",
+      "description": "<p>Beschwört einen Schwarm aus Fledermäusen, Ratten, Spinnen oder ähnlichen Kreaturen deiner Wahl. Sie sind harmlos, doch ablenkend, und weder dir noch deinen Verbündeten treu.</p>"
+    },
+    "Warrior's Edge": {
+      "name": "Kriegerkante",
+      "description": "<p>Die Zielwaffe ist verstärkt, und das Opfer verfehlt automatisch seinen Rettungswurf gegen Kritischen Schaden.</p>"
+    },
+    "Windborn": {
+      "name": "Windgeboren",
+      "description": "<p>Du lenkst einen gewaltigen Wind in gerader Linie, stark genug, kleine Felsen umzuwehen.</p>"
+    },
+    "Winter's Woe": {
+      "name": "Winterweh",
+      "description": "<p>Ein eisiger Sturm überfällt mehrere Ziele, trübt die Sicht und macht den Boden glatt und tückisch.</p>"
+    },
+    "Wizard's Grasp": {
+      "name": "Griff der Magierin",
+      "description": "<p>Du steuerst eine phantasmale Hand, die bis zu 2,5 kg heben kann.</p>"
+    },
+    "Wizard's Haven": {
+      "name": "Hafen der Magierin",
+      "description": "<p>Ein kleiner, umwallter Bereich kann nicht erspäht werden.</p>"
+    },
+    "Word of Pain": {
+      "name": "Wort des Schmerzes",
+      "description": "<p>Ein einzelnes Wort von deinen Lippen verursacht 1W10 Flächenschaden. Betroffene Ziele werden zudem taub.</p>"
+    }
+  },
+  "folders": {
+    "Common (300gp)": "Gewöhnlich (300 GM)",
+    "Greater (600gp)": "Höhere (600 GM)"
+  }
+}
