@@ -2,7 +2,7 @@
   "id": "cairn2e-de",
   "title": "Cairn 2e - Deutsche Übersetzung",
   "description": "<p>Fügt dem System Cairn 2e die Sprache Deutsch hinzu: Oberfläche und Kompendien (über Babele).</p><p>Übersetzt nur das System Cairn 2e, nicht die Foundry-VTT-Oberfläche selbst.</p>",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14.368"
