@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0
+
+- Weitere Kompendien übersetzt: Bestiarium, Hintergründe, Relikte, weitere Ausrüstung und Zauberbücher, Gefolge, Vald-Kalender.
+- Spieler-Handbuch und Wächter-Kompendium übersetzt; neue UI-Schlüssel.
+- Hintergrund-Namen an die offizielle deutsche Ausgabe angeglichen.
+- Download-Link auf GitHub-Release-Assets umgestellt.
+
 ## 0.1.0
 
 - Erste Version: komplette deutsche Oberfläche (1354 Schlüssel).

@@ -52,6 +52,6 @@
   },
   "url": "https://github.com/Eulheim/cairn-2e-ger",
   "manifest": "https://raw.githubusercontent.com/Eulheim/cairn-2e-ger/main/module.json",
-  "download": "https://raw.githubusercontent.com/Eulheim/cairn-2e-ger/main/releases/cairn2e-de-0.1.0.zip",
+  "download": "https://github.com/Eulheim/cairn-2e-ger/releases/download/v0.2.0/cairn2e-de-0.2.0.zip",
   "bugs": "https://github.com/Eulheim/cairn-2e-ger/issues"
 }
