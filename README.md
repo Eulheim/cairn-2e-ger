@@ -13,6 +13,38 @@ Es übersetzt nur das System Cairn 2e, nicht die Foundry-VTT-Oberfläche selbst.
    `https://github.com/Eulheim/cairn-2e-ger/releases/latest/download/module.json`
 4. Stelle in Foundry die Sprache auf **Deutsch** (das Modul bietet den Wechsel beim Start an).
 
+## Release veröffentlichen
+
+Die Release-URLs in `module.json` sind fix und zeigen auf
+`releases/latest/download/...` (Muster A). Der GitHub-Workflow
+(`.github/workflows/release.yml`) baut bei jedem `v*`-Tag automatisch das
+Modul-ZIP und lädt es mit dem Manifest unter immer gleichen Asset-Namen
+(`cairn2e-de.zip`, `module.json`) als GitHub-Release hoch.
+
+Checkliste für einen Release:
+
+1. `"version"` in `module.json` erhöhen (z. B. `"0.2.0"` → `"0.2.1"`).
+   URLs und Asset-Namen nicht ändern.
+2. Commit und Push auf `main`:
+   `git commit -am "Release v0.2.1" && git push origin main`
+3. Tag setzen und pushen (löst den Workflow aus):
+   `git tag v0.2.1 && git push origin v0.2.1`
+4. Prüfen, ob der Workflow erfolgreich lief und das Release beide Assets
+   enthält (Actions-Tab bzw. Releaseseite).
+5. Testen: In Foundry das Modul aktualisieren bzw. einmalig über die
+   Manifest-URL installieren:
+   `https://github.com/Eulheim/cairn-2e-ger/releases/latest/download/module.json`
+
+Regeln, die das System stabil halten:
+
+- Tag und `"version"` müssen übereinstimmen (`v0.2.1` ↔ `"0.2.1"`),
+  sonst bietet Foundry kein Update an.
+- Keine Pre-Releases für normale Versionen — `releases/latest` ignoriert
+  Pre-Releases, Nutzer erhielten das Update sonst nicht.
+- Asset-Namen nie manuell ändern; der Workflow setzt sie automatisch.
+- Das ZIP kann lokal vorgeprüft werden:
+  `python3 tools/build_zip.py /tmp/cairn2e-de.zip`
+
 ## Übersetzungsstand
 
 Vollständig übersetzt:
